@@ -1,0 +1,114 @@
+# Repository
+repo_name: gl-inet/docs3.x
+repo_url: https://github.com/gl-inet/docs3.x
+edit_uri: ""
+
+site_name: GL.iNet Docs
+site_description: Documentation for GL.iNet Productions
+site_author: Shan
+site_url: https://docs.gl-inet.com/
+
+site_dir: '../site/3.x/'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 GL Technologies & Microuter Technologies'
+
+theme: 
+  name: 'material'
+  feature:
+    tabs: true
+  custom_dir: 'mkdocs-material-sourcecode/material'
+
+# Customization
+extra:
+  social:
+    - type: globe
+      link: https://www.gl-inet.com
+    - type: github-alt
+      link: https://github.com/gl-inet/
+    - type: facebook
+      link: https://www.facebook.com/gl.inet.wifi/
+    - type: twitter
+      link: https://twitter.com/GLiNetWiFi
+    - type: linkedin
+      link: https://www.linkedin.com/company/gl-inet.com/
+    - type: youtube
+      link: https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber
+    - type: pinterest
+      link: https://www.pinterest.com/glinetWiFi/
+
+pages:
+- Home:
+    - Home: 'index.md'
+    - Services: 'service.md'
+- Hardware:
+    - GL-AR150 Series: 'hardware/ar150/index.md'
+    - GL-AR300M Series: 'hardware/ar300m/index.md'
+    - GL-MT300A: 'hardware/mt300a/index.md'
+    - GL-MT300N: 'hardware/mt300n/index.md'
+    - GL-MT300N-V2: 'hardware/mt300n-v2/index.md'
+    - GL-AR750 Series: 'hardware/ar750/index.md'
+    - GL-MiFi Series: 'hardware/mifi/index.md'
+    - GL-USB150 (Microuter): 'hardware/usb150/index.md'
+    - GL-B1300: 'hardware/b1300/index.md'
+    - GL.iNet6416: 'hardware/6416/index.md'
+    - GL-AR300: 'hardware/ar300/index.md'
+- Setup:
+    - First-time Setup: 'setup/first-time_setup.md'
+    - Internet Settings: 'setup/internet_setting.md'
+    - MAC Clone: 'setup/mac_clone.md'
+    - DNS Setting: 'setup/dns.md'
+    - Repeater Manager: 'setup/repeater_manager.md'
+    - LAN IP: 'setup/lan_ip.md'
+    - Wi-Fi Settings (AP): 'setup/wifi_setting.md'
+    - Firmware Upgrading: 'setup/firmware.md'
+    - Momdem Manager: 'setup/modem_manager.md'
+    - RTC Setting: 'setup/rtc_setting.md'
+- Development:
+    - UART Serial: 'dev/serial.md'
+    - Advanced Uboot: 'dev/uboot.md'   
+    - Domino Kit: 'domino/index.md'  
+- Application:
+    - SSH to the router: 'app/ssh.md'
+    - OpenVPN Client: 'app/openvpn.md'
+    - Tor: 'app/tor.md'
+    - EasyTether: 'app/tether.md'
+    - Shadowsocks: 'app/ss.md'
+    - WireGuard: 'app/wireguard.md'
+- Video:
+    - Product Intro: 'video/product_intro.md'
+    - Tutorial: 'video/tutor.md'  
+    - Customer Review: 'video/review.md'
+- Troubleshooting:
+    - LED Indicator: 'troubleshooting/led.md'
+    - Repair or Reset: 'troubleshooting/reset.md'
+    - Debrick via Uboot: 'troubleshooting/debrick.md'
+- Domino Kit:
+    - Getting Started: 'domino/index.md'
+    - Domore Core: 'domino/hardware/core.md'
+    - Domino Pi: 'domino/pi/index.md'
+    - Domino Pi Baseboard: 'domino/pi/pi.md'
+    - Domino Pi - Single Eth board: 'domino/pi/single_eth.md'
+    - Domino Pi - Due Eth board: 'domino/pi/dual_eth.md'
+    - Domino Pi - Signle USB board: 'domino/pi/single_usb.md'
+    - Domino Pi - 3xUSB+MicroSD combo: 'domino/pi/usb_combo.md'
+    - Domino Pi - I2S board: 'domino/pi/i2s.md'
+    - Domino Pi - SPI/JTAG: 'domino/pi/spi_jtag.md'
+    - Domino Pi - LED: 'domino/pi/led.md'
+    - Domino Qi Mini : 'domino/qi/mini.md'
+    - Domino Qi baseboard: 'domino/qi/base.md'
+    - Pi - Using the firmware: 'domino/pi/using.md'
+    - Pi - Compile firmware: 'domino/pi/compile.md'
+    - Pi - Flashing and debricking: 'domino/pi/flashing.md'
+    - Pi - Playing Music: 'domino/pi/audio.md'
+    - Pi - Working with Serial: 'domino/pi/serial.md'
+    - Pi - Debricking using SPI/JTAG board: 'domino/pi/spi.md'
+    - Qi - Getting Started: 'domino/qi/index.md'
+    - Qi - Using Arduino or Linino Firmware: 'domino/qi/arduino-yun.md'
+    - Qi - Using NodeJS and LininoIO: 'domino/qi/nodejs.md'
+    - Qi - Using Serial: 'domino/qi/serial.md'
+# Extension theme
+extra_css:
+  - 'stylesheets/extra.css'
+extra_javascript:
+  - 'javascripts/extra.js'

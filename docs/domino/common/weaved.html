@@ -1,0 +1,138 @@
+<!doctype html>
+<!--
+
+  Instructions:
+
+  - Save this file.
+  - Replace "USER" with your GitHub username.
+  - Replace "REPO" with your GitHub repo name.
+  - Replace "Your Project" with your project name.
+  - Upload this file (or commit to GitHub Pages).
+
+  Customize as you see fit!
+
+-->
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+
+  <title>Domino Docs</title>
+
+  <!-- Flatdoc -->
+  <script src="/docs/src/jquery.min.js"></script>
+  <script src='/docs/src/legacy.js'></script>
+  <script src='/docs/src/flatdoc.js'></script>
+  <script src="//use.edgefonts.net/abel;advent-pro;adamina;rosario.js"></script> 
+  <!-- Flatdoc theme -->
+  <link  href='/docs/src/style.css' rel='stylesheet'>
+  <script src="/docs/src/modernizr.js"></script>
+
+  <script src='/docs/src/script.js'></script>
+
+  <!-- Meta -->
+  <meta content="Domino" property="og:title">
+  <meta content="Domino Documentation." name="description">
+
+  <!-- Initializer -->
+  <script>
+    Flatdoc.run({
+      fetcher: Flatdoc.file('weaved.md')
+    });
+  </script>
+</head>
+<body role='flatdoc'>
+	<nav style="height: 890px;" class="navigation">
+	  <div class="nav-list-wrapper" id="nav-menu">
+		
+	  </div>
+	</nav>
+  <div id="header" class='header'>
+	  <div id="hamburger-icon" class="toggle-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    <div class='left'>
+      <img src="/docs/src/logo-doc.png">
+      <ul>
+        
+      </ul>
+    </div>
+    <div class='right'>
+      <ul>
+        <li><a href='https://github.com/domino-team/docs'>View on GitHub</a></li>
+        <li><a href='https://github.com/domino-team/docs/issues'>Issues</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="content-root" class='content-root'>
+    <div class='menubar'>
+	  <div class='menu section' role='main-menu'> 
+		
+	  </div>
+      <div class='menu section' role='flatdoc-menu'></div>
+    </div>
+    <div class='content'>
+		<div role='flatdoc-content' class='content'></div>
+		<div class="code-samples">
+        </div>
+    </div>
+  </div>
+	<script>
+	$(window).resize(function() {
+		if (Modernizr.mq('(min-width: 1180px)')) {
+			 $("p:has(img)").css({"float":"right","padding-left":"20px","padding-right":"20px","clear":"right","width":"55%","z-index":1});
+			 $("p img").css({"max-width":"500px"});
+		}else{
+			$("p:has(img)").removeAttr('style');
+			$("p img").css({"max-width":"500px"});
+		}
+	});
+	$("#hamburger-icon").click(function(event){
+		event.stopPropagation();
+		$("nav.navigation").addClass("is-open");
+		//$("#header").addClass("pushed-right");
+		//$("#content-root").addClass("pushed-right");
+	});
+	$("html").click(function(){
+		$("nav.navigation").removeClass("is-open");
+		//$("#header").removeClass("pushed-right");
+		//$("#content-root").removeClass("pushed-right");
+	});
+	$("nav").click(function(event){
+		event.stopPropagation();
+	});
+	$(document).ready(function(){
+		$.getJSON("/docs/mdfiles.json",function(data){
+			$.each( data, function( key, val ) {
+				//root
+				var fullname=key;
+				if(key ==="pi") fullname="Domino Pi";
+				if(key ==="qi") fullname="Domino Qi";
+				if(key==="."){
+					for(var i=0;i<val.length;i++){
+						var obj=val[i];
+						$("#nav-menu").append("<ul class='navigation-list no-children'><h5 class='nav-list-header'><a href='/docs"+obj.link+"'>"+obj.name+"</a></h5></ul>");
+					}
+				}else{
+					var html="<ul class='navigation-list'><h5 class='nav-list-header'><a href='/docs/"+key+"/'>"+fullname+"</a></h5>";
+					for(var i=0;i<val.length;i++){
+						var obj=val[i];
+						html=html+"<li><a href='/docs"+obj.link+"'>"+obj.name+"</a></li>";
+					}
+					html=html+"</ul>";
+					$("#nav-menu").append(html);
+				}
+				
+				
+			});
+		});
+	});
+	</script>
+
+</body>
+</html>
