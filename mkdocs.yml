@@ -8,7 +8,7 @@ site_description: Documentation for GL.iNet Productions
 site_author: Shan
 site_url: https://docs.gl-inet.com/
 
-site_dir: '../site/3.x/'
+site_dir: '/home/ubuntu/docs-build/en/3/'
 
 # Copyright
 copyright: 'Copyright &copy; 2018 GL Technologies & Microuter Technologies'
