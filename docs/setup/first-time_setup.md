@@ -4,7 +4,7 @@
 
 For Mini Router series (MT300N, MT300A, AR150, AR300M), you need to use a standard USB 5V/1A power adapter..
 
-For GL-MiFi, GL-AR750, B1300, you have to use a standard 5V/2A power adapter in order to ensure a sufficient power supply.
+For GL-MiFi, GL-AR750, B1300, you have to use a standard 5V/2A power adapter to ensure a sufficient power supply.
 
 
 
@@ -16,7 +16,7 @@ You can connect your device to the router via Ethernet cable or Wi-Fi,
 Connect your device to the LAN port of the router via Ethernet cable.
 
 ### Wireless connection: 
-Search for the SSID of the router in your device and input the default password: ***goodlife*** in order to connect.
+Search for the SSID of the router in your device and input the default password: ***goodlife*** so as to connect.
 
   *note: The SSID should be printed on the bottom label of the router with the following format:*
 
@@ -35,37 +35,32 @@ Search for the SSID of the router in your device and input the default password:
 
 
 
-## 3. Access the Web Admin Page
+## 3. Access the Web Admin Panel
 
-Open a browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1) You will see the welcome page. 
+Open a browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will see the welcome page. 
 
 ### 1) Language Setting
-You need to select your language. Currently, the web admin page of all our routers only provide **Chinese** and **English**.![Welcome](https://static.gl-inet.com/docs/en/2.x/setup/src/first-time_setup/welcome.jpg)
+You need to choose a language for the Admin Panel. Currently, our routers only provide **Chinese** and **English**.
 
-  *Note: If your browser always redirect to Luci (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
+![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/welcome.jpg)
 
-
-
-### 2) Timezone Setting
-You need to select your region. You can click on the map or select from the drop-down menu.
-
-![Welcome](https://static.gl-inet.com/docs/en/2.x/setup/src/first-time_setup/region.jpg)
+  *Note: If your browser always redirect to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
 
   
 
-### 3) Admin Password Setting
-You have to set your own password for this web admin page and click `Finish`. There is no default password. The password should not less than 8 characters.
+### 2) Admin Password Setting
+You have to set your own password for this Admin Panel and click `Submit`. There is no default password. It must be at least 5 characters long.
 
-![Welcome](https://static.gl-inet.com/docs/en/2.x/setup/src/first-time_setup/password.jpg)
+![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/password.jpg)
 
 *Note: This password is for this web admin page and the embedded Linux system. It doesn't change your Wi-Fi password.*
 
 
 
 ### 3) Access Admin Page
-You will be directed to the index of the web admin page.
+After setting up the password, you will be directed to the index of the Admin Panel.
 
-![Welcome](https://static.gl-inet.com/docs/en/2.x/setup/src/first-time_setup/main_ui.jpg)
+![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/main_ui.jpg)
 
 
 

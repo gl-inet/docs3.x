@@ -1,23 +1,21 @@
 # Repeater Manager
 
-All GL.iNet routers are equipped with repeater manager. When you use GL.iNet router as a repeater, repeater manager can enable the following features:
+All GL.iNet routers are equipped with repeater manager. All wireless networks that you connected before will be saved in Known Networks.
+
+![Repeater Manager](https://static.gl-inet.com/docs/en/3/setup/repeater_manager/repeater_manager.jpg)
 
 
 
-## Manage Saved Stations
+Please click `Known Network` to check the list of saved wireless network. The router will search among all saved stations and try to connect to a valid station. If none of them can be connected, the router will disable sta mode to ensure your AP is ON
 
-All repeater stations (WISP/WDS) you connected to will be saved in the router. You can choose if they will be auto connected to or not.
-
-![Repeater Manager](https://static.gl-inet.com/docs/en/2.x/setup/src/repeater_manager/repeater_manager.jpg)
+![Repeater Manager](https://static.gl-inet.com/docs/en/3/setup/repeater_manager/repeater_manager1.jpg)
 
 
 
-## Auto Search for Available Saved Stations
+Each networks can be configured easily. You can switch to another wireless network, edit their password or even forget a saved network.
 
-The router will search among all saved stations and try to connect a valid station. If none of the saved stations can be connected, the router will disable sta mode to ensure your AP is ON
-
-![Repeater Manager](https://static.gl-inet.com/docs/en/2.x/setup/src/repeater_manager/repeater_manager1.jpg)
+![Repeater Manager](https://static.gl-inet.com/docs/en/3/setup/repeater_manager/repeater_manager2.jpg)
 
 
 
-#Discussions
+# Discussions

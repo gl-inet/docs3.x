@@ -1,43 +1,33 @@
 # Wireless Settings
 
-## Turn On or Off the Radio
+You can check the status and configure the wireless network created by your router.
 
-You can turn on or off the radio from the wen admin page by the switch beside the wireless icon.
+Go to `WIRELESS` to find the wireless settings.
 
-![wifi switch](https://static.gl-inet.com/docs/en/2.x/setup/src/wifi/wifi_switch.jpg)
+A router may have one or more radio and one device can have multiple Virtual interfaces.
 
+In this example, the channel of the wireless network is **36** and tx power is **20**. We have two AP interfaces with SSID **GL-AR750-746-5G** and **GL-AR750-746**. You can turn on of off the wireless signal by clicking the the On/Off button.
 
-
-## Wireless Status
-
-You can click the `wireless icon` to check the wireless status.
-
-There are two parts in the wireless status. The first part is **Radio information**. The second part is **Interface (Virtual AP) information**.
-
-A single router may have one or more radio and one device can have multiple Virtual interfaces.
-
-In this example, the channel is **6** and tx power is **20**. We have one AP interface with SSID **GL-MT300M-164**.
-
-![wifi switch](https://static.gl-inet.com/docs/en/2.x/setup/src/wifi/status.jpg)
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/wifi/status.jpg)
 
 
 
 ## Wireless Settings
 
-Click the `Setting` button, you can change the wireless settings:
+Click the `Modify` to change the settings of the wireless network:
 
-**Mode**: Change from 802.11 b/g/n, etc.
+**Wi-Fi Name (SSID)**: Change the name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
 
-**Channel**: The router will not choose the best channel itself. You need to choose one channel manually. You will have different choices based on the region you selected. In US, you can choose from 1 to 11. In China and EU, you can choose from 1 to 13. If you are using repeater, the channel will be fixed according to the main router.
+**Wi-Fi Key**: It must be at least 8 characters. We suggest you to change the Wi-Fi password when you get the router.
 
-**SSID**: Change the name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
+**Channel**: The router will not choose the best channel itself. You need to choose a channel manually. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected network.
 
-**Encryption**: You can only choose from WPA, WPA2 or WPA-Mixed. You cannot choose WEP or open because it is insecure. If you want to use WEP or you don't need a password, you can configure in Advanced settings (Luci).
+**Mode**: For 5GHz wireless network, the speed is fixed to 433Mbps. For 2.4GHz wireless network, there are 11Mbps, 54Mbps, 150Mbps or even 300Mbps.
 
-**Password**: If you keep the password value empty, it will use the old password. It must be at least 8 characters. We suggest you to change the Wi-Fi password when you get the router.
+**TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 
-![wifi switch](https://static.gl-inet.com/docs/en/2.x/setup/src/wifi/setting.jpg)
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/wifi/setting.jpg)
 
 
 
-#Discussions
+# Discussions
