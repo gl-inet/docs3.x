@@ -20,7 +20,7 @@ Kernel modules  --->  Other modules  --->  kmod-rtc-sd2068
 
 ## Pinout  
 
-![](src\rtc_1200x1200.jpg)  
+![RTC on GL-AR150 Pinout](https://static.gl-inet.com/docs/en/3/setup/rtc_setting/rtc_1200x1200.jpg)  
 
 
 ## Usage  
@@ -59,7 +59,7 @@ hwclock -w
 
 ## RTC Pinout  
 
-![](src\rtc_1200x1200.jpg)   
+![RTC on GL-MIFI Pinout](src\rtc_1200x1200.jpg)   
 
 ## Usage  
 
