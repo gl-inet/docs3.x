@@ -65,8 +65,7 @@ pages:
     - RTC Setting: 'setup/rtc_setting.md'
 - Development:
     - UART Serial: 'dev/serial.md'
-    - Advanced Uboot: 'dev/uboot.md'   
-    - Domino Kit: 'domino/index.md'  
+    - Advanced Uboot: 'dev/uboot.md'
 - Application:
     - SSH to the router: 'app/ssh.md'
     - OpenVPN Client: 'app/openvpn.md'
