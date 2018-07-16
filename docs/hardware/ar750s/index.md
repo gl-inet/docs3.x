@@ -1,4 +1,4 @@
-#  GL-AR750s Gigabit AC Travel Router
+#  GL-AR750S Gigabit AC Travel Router
 
 
 
