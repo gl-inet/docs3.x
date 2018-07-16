@@ -30,4 +30,3 @@ Click the `Modify` to change the settings of the wireless network:
 
 
 
-# Discussions

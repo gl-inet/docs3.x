@@ -38,7 +38,3 @@ You can download the firmware file from our [website](http://download.gl-inet.co
 You can enable auto upgrade. The router will search for available firmware file and upgrade automatically according to the time that you set.
 
 ![firmware](https://static.gl-inet.com/docs/en/3/setup/firmware/firmware3.jpg)
-
-
-
-# Discussions

@@ -169,4 +169,3 @@ Some carriers prohibit the sharing of the data and you may not able to use tethe
 
 
 
-#Discussions

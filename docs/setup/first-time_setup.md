@@ -63,5 +63,3 @@ After setting up the password, you will be directed to the index of the Admin Pa
 ![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/main_ui.jpg)
 
 
-
-# Discussions

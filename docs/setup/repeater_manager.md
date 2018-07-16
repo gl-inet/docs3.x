@@ -18,4 +18,3 @@ Each networks can be configured easily. You can switch to another wireless netwo
 
 
 
-# Discussions

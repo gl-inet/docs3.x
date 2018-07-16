@@ -70,4 +70,4 @@ Dual Serial connection on Domino Pi
 -------------------------------
 Domino Pi has dual serial connection, please refer to <a href='http://domino.io/#!domino/pi/serial.md'>Domino Pi Serial</a> for details.
 
-## Discussions
+

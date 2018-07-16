@@ -16,4 +16,3 @@ Click the `LAN IP` under the drop down mene of `MORE SETTINGS`. Then change the 
 
 
 
-#Discussions

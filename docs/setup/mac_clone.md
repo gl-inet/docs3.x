@@ -8,4 +8,4 @@ Go to `MORE SETTINGS` > `MAC Clone`, choose the MAC address of your current clie
 
 
 
-# Discussions
+

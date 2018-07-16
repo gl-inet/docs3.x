@@ -11,7 +11,3 @@ You can also check `DNS over TLS from cloudfare` so as to adopt the public DNS s
 *Note: You may need to reconnect the network in order to activate your DNS settings.*
 
 ![LAN IP](https://static.gl-inet.com/docs/en/3/setup/dns/dns.jpg)
-
-
-
-#Discussions

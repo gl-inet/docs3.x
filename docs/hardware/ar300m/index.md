@@ -184,4 +184,4 @@ Then you need to set up a tftp server.
 
 in uboot console, the command to flash nor flash is `run lf` to flash nand firmware is `run nlf`
 
-# Discussions
+

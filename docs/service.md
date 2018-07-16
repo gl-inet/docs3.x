@@ -22,4 +22,4 @@ If you want to make hardware based on our products, here is what we suggested:
 * Know your detailed requirements, e.g. size of your product, interfaces. Not just an idea.
 * Prepare for some money to invest.
 
-## Discussions
+
