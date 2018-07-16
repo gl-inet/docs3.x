@@ -13,8 +13,8 @@ It is mainly used to replace the wifi card of your PC or work as repeater. It is
 |             Model | GL-USB150               |
 | ----------------: | :---------------------- |
 |               CPU | QCA 9331, 400MHz        |
-|            Memory | DDRII 64Mb              |
-|           Storage | 16Mb Nor Flash          |
+|            Memory | DDRII 64MB              |
+|           Storage | 16MB Nor Flash          |
 |         Frequency | 2.4GHz                  |
 | Transmission Rate | 150Mbps                 |
 |     Max. Tx Power | 20dBm                   |

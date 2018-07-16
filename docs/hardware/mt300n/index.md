@@ -13,8 +13,8 @@ This model didn't has a external antenna version.
 |                         Model | GL-MT300N                                |
 | ----------------------------: | :--------------------------------------- |
 |                           CPU | MTK 7620NN 580MHz                        |
-|                        Memory | DDRI 64Mb                                |
-|                       Storage | 16Mb Nor Flash                           |
+|                        Memory | DDRI 64MB                                |
+|                       Storage | 16MB Nor Flash                           |
 |                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button |
 |                     Frequency | 2.4GHz                                   |
 |             Transmission Rate | 300Mbps                                  |

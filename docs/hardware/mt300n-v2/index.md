@@ -18,8 +18,8 @@ MT300N-V2 is an upgraded version of MT300N. The differences include:
 |                         Model | GL-MT300N-V2                             |
 | ----------------------------: | :--------------------------------------- |
 |                           CPU | MTK 7628NN 580MHz                        |
-|                        Memory | DDRII 128Mb                              |
-|                       Storage | 16Mb Nor Flash                           |
+|                        Memory | DDRII 128MB                              |
+|                       Storage | 16MB Nor Flash                           |
 |                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button |
 |                     Frequency | 2.4GHz                                   |
 |             Transmission Rate | 300Mbps                                  |
