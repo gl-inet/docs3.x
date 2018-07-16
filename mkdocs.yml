@@ -51,8 +51,6 @@ pages:
     - GL-MiFi Series: 'hardware/mifi/index.md'
     - GL-USB150 (Microuter): 'hardware/usb150/index.md'
     - GL-B1300: 'hardware/b1300/index.md'
-    - GL.iNet6416: 'hardware/6416/index.md'
-    - GL-AR300: 'hardware/ar300/index.md'
 - Setup:
     - First-time Setup: 'setup/first-time_setup.md'
     - Internet Settings: 'setup/internet_setting.md'
