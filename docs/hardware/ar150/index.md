@@ -10,8 +10,8 @@ AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 |                         Model | GL-AR150                                 |
 | ----------------------------: | :--------------------------------------- |
 |                           CPU | Atheros 9331 400MHz                      |
-|                        Memory | DDRII 64Mb                               |
-|                       Storage | 16Mb flash                               |
+|                        Memory | DDRII 64MB                               |
+|                       Storage | 16MB flash                               |
 |                    Interfaces | 1 WAN, 1 LAN, 1 USB2.0, 1 Micro USB (power), 1 Reset Button, UART |
 |                     Frequency | 2.4GHz                                   |
 |             Transmission Rate | 150Mbps                                  |
