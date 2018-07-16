@@ -2,7 +2,7 @@
 
 
 
-The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally 3) to Gigabit ports so that it get faster speed in your travel. We also added 128Mb Nand Flash to provide dual flash for more storage and faster operation speed. It has a MicroSD (TF) slot which increase your storage space up to 128GB. 
+The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally 3) to Gigabit ports so that it get faster speed in your travel. We also added 128MB Nand Flash to provide dual flash for more storage and faster operation speed. It has a MicroSD (TF) slot which increase your storage space up to 128GB. 
 
 
 
