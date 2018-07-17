@@ -42,7 +42,7 @@ GL-MT300N-V2 Mini Smart Router: TBA
 
 GL-MT300N Mini Smart Router: TBA
 
-GL.iNet 4616 Mini Smart Router: TBA
+GL.iNet 6416 Mini Smart Router: TBA
 
 
 
