@@ -6,7 +6,7 @@ Please go to `MORE SETTINGS` > `Custom DNS Server`, enable `Manual DNS Server Se
 
 Check `Override DNS Settings for All clients` will capture the DNS request from all connected clients. For example Google Chrome cast. This option does not need to be used with custom DNS server.
 
-You can also check `DNS over TLS from cloudfare` so as to adopt the public DNS service from Cloudflare directly.
+You can also check `DNS over TLS from cloudflare` so as to adopt the public DNS service from Cloudflare directly.
 
 *Note: You may need to reconnect the network in order to activate your DNS settings.*
 
