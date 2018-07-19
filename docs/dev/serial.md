@@ -68,6 +68,6 @@ You will be displayed a black window. If you turn on your device now, you will s
 
 Dual Serial connection on Domino Pi
 -------------------------------
-Domino Pi has dual serial connection, please refer to <a href='http://domino.io/#!domino/pi/serial.md'>Domino Pi Serial</a> for details.
+Domino Pi has dual serial connection, please refer to <a href='https://docs.gl-inet.com/en/2/domino/pi/serial/'>Domino Pi Serial</a> for details.
 
 
