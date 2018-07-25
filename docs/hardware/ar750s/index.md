@@ -24,7 +24,7 @@ The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally
 |                    PoE Module | No                                                           |
 |                   Power Input | 5V/2A                                                        |
 |             Power Consumption | <6W                                                          |
-|             Dimension, Weight | 88mmX68mmX24mm, 66g                                          |
+|             Dimension, Weight | 100mmX68mmX24mm, 86g                                          |
 
 
 
