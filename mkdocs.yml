@@ -74,6 +74,7 @@ pages:
     - EasyTether: 'app/tether.md'
     - Shadowsocks: 'app/ss.md'
     - WireGuard: 'app/wireguard.md'
+    - qDslrDashboard: 'app/qdslrdashboard.md'
 - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
