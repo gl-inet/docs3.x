@@ -15,19 +15,19 @@ You will learn how to set up shadowsocks server and client in UI 3.0 on our mini
 
 1.4. Install the following packages in the Plut-ins:
 
-​	a. gl-ss
+	(1). gl-ss
 
-​	b. gl-ss-server
+	(2). gl-ss-server
 
 ![1531132234092](https://static.gl-inet.com/docs/en/3/app/ss/ssapp1.png)
 
-​	c. shadowsocks-libev-server
+	(3). shadowsocks-libev-server
 
-​	d. shadowsocks-libev
+	(4). shadowsocks-libev
 
 ![1531132281302](https://static.gl-inet.com/docs/en/3/app/ss/ssapp2.png)
 
-​	e. luci-app-shawdowsocks
+	(5). luci-app-shawdowsocks
 
 ![1531132348012](https://static.gl-inet.com/docs/en/3/app/ss/app3.png)
 
