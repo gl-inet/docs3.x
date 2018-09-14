@@ -11,7 +11,7 @@ Free Tor firmware for all
 To use the Tor firmware:
 
 1. Download the correct firmware for your router.
-2. Flash it to the router according to [this guide](/setup/firmware.md), DO NOT reserve settings.
+2. Flash it to the router, DO NOT reserve settings.
 
 If you brick your router after flashing the wrong firmware or wrong way, please use uboot failsafe to debrick the router. 
 

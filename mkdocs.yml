@@ -54,16 +54,47 @@ pages:
     - GL-B1300: 'hardware/b1300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
-    - First-time Setup: 'setup/first-time_setup.md'
-    - Internet Settings: 'setup/internet_settings.md'
-    - MAC Clone: 'setup/mac_clone.md'
-    - DNS Settings: 'setup/dns.md'
-    - Repeater Manager: 'setup/repeater_manager.md'
-    - LAN IP: 'setup/lan_ip.md'
-    - Wi-Fi Settings (AP): 'setup/wifi_settings.md'
-    - Upgrade Firmware: 'setup/firmware.md'
-    - Modem Manager: 'setup/modem_manager.md'
-    - RTC Setting: 'setup/rtc_setting.md'
+    - Mini Router:
+        - First-time Setup: 'setup/mini_router/first-time_setup.md'
+        - Admin Panel:
+            - Internet: 'setup/mini_router/internet.md'
+            - Wireless: 'setup/mini_router/wireless.md'
+            - Clients: 'setup/mini_router/clients.md'
+            - Upgrade: 'setup/mini_router/upgrade.md'
+            - VPN: 'setup/mini_router/vpn.md'
+            - Applications: 'setup/mini_router/applications.md'
+            - More Settings: 'setup/mini_router/more_settings.md'
+    - Travel AC Router:
+        - First-time Setup: 'setup/travel_ac_router/first-time_setup.md'
+        - Admin Panel:
+            - Internet: 'setup/travel_ac_router/internet.md'
+            - Wireless: 'setup/travel_ac_router/wireless.md'
+            - Clients: 'setup/travel_ac_router/clients.md'
+            - Upgrade: 'setup/travel_ac_router/upgrade.md'
+            - VPN: 'setup/travel_ac_router/vpn.md'
+            - Applications: 'setup/travel_ac_router/applications.md'
+            - More Settings: 'setup/travel_ac_router/more_settings.md'
+    - 4G Smart Router:
+        - First-time Setup: 'setup/4g_smart_router/first-time_setup.md'
+        - Admin Panel:
+            - Internet: 'setup/4g_smart_router/internet.md'
+            - Wireless: 'setup/4g_smart_router/wireless.md'
+            - Clients: 'setup/4g_smart_router/clients.md'
+            - Upgrade: 'setup/4g_smart_router/upgrade.md'
+            - VPN: 'setup/4g_smart_router/vpn.md'
+            - Applications: 'setup/4g_smart_router/applications.md'
+            - More Settings: 'setup/4g_smart_router/more_settings.md'
+    - Microuter:
+        - First-time Setup: 'setup/microuter/first-time_setup.md'
+        - Admin Panel:
+            - Internet: 'setup/microuter/internet.md'
+            - Wireless: 'setup/microuter/wireless.md'
+            - Clients: 'setup/microuter/clients.md'
+            - Upgrade: 'setup/microuter/upgrade.md'
+            - VPN: 'setup/microuter/vpn.md'
+            - Applications: 'setup/microuter/applications.md'
+            - More Settings: 'setup/microuter/more_settings.md'
+        
 - Development:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'

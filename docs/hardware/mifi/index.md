@@ -45,17 +45,6 @@ Please choose the correct 4G module for your region.
 
 ![gl-mifi PCIe Modem Module list](https://static.gl-inet.com/docs/en/2.x/hardware/mifi/src/MiFi-PCIeModem_info.jpg)
 
-##  Modem Manager
-
-From firmware v2.27, GL-MiFi has a modem manager in its UI. The functions include:
-
-* Detect carrier and configure modem automatically
-* Display signal strength
-* Read and Send SMS
-* Issue AT command and get the result
-
-Please refer to [modem manager page](/setup/modem_manager.md) 
-
 
 
 
