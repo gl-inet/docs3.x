@@ -15,7 +15,7 @@ To use the Tor firmware:
 
 If you brick your router after flashing the wrong firmware or wrong way, please use uboot failsafe to debrick the router. 
 
-##Versions and supported devices
+## Versions and supported devices
 
 We have several version of Tor firmware and here is the summary. 
 
@@ -36,27 +36,30 @@ To modify and compile the Tor firmware by yourself, please refer to the followin
 
 
 
-###Version 1.4:
+### Version 1.4:
+
 Only support `GL-AR150`, `GL-AR300M`, `GL-MT300N`, `GL-MT300A`, which has a `switch button` controlling whether you traffice should go through Tor or not.
 
 **Most of these instructions are for version 1.4.**
 
-###Version 1.3: 
+### Version 1.3: 
+
 Support `GL-AR150`,`GL.iNet6416`, `GL-AR300`. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. This firmware has a built-in UI based on Domino Pi which you can manage two SSIDs.
 
-###Version 1.0 with Luci:
+### Version 1.0 with Luci:
+
 Support `GL-MT300A` and `GL-MT300N`. This is the firmware created for MT300A and MT300N with Luci. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. Connection from LAN port will always have Tor. Luci is installed but there is no Domino Pi UI.
 
 !!! Note
 
 If you have questions about versions, please ask here or in the forum.
 
-##Download and Flashing the firmware to the device
+## Download and Flashing the firmware to the device
 
 All the firmwares is available at [http://download.gl-inet.com/firmware/](http://download.gl-inet.com/firmware/)
 Find your device name and then "tor" folder. Download the newest firmware.
 
-You need to refer to [this guide](/setup/firmware.md) for instructions to flash the firmware to the router. 
+You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/) for instructions to flash the firmware to the router. 
 
 | Model       | Tor firmware path                        | Newest Version | Note                                     |
 | ----------- | ---------------------------------------- | -------------- | ---------------------------------------- |
