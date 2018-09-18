@@ -12,6 +12,8 @@ Click `INTERNET` to create an Internet connection.
 
   
 
+---
+
 ## 1) Cable
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
@@ -56,6 +58,8 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 
 
+---
+
 ## 2) Repeater
 
 Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
@@ -75,6 +79,8 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 
 
+
+---
 
 ## 3) USB 3G/4G Modem
 
@@ -136,6 +142,8 @@ Here is a list of supported modems that we had tested before.
 You can also refer to [http://ofmodemsandmen.com/supported.html](http://ofmodemsandmen.com/supported.html) for a well supported modem list.
 
 
+
+---
 
 ## 4) Tethering
 

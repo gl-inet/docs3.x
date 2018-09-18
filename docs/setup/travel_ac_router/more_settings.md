@@ -6,33 +6,41 @@
 
 Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/admin_password.jpg)
+![admin password](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/admin_password.jpg)
 
 
+
+---
 
 ## LAN IP
 
 LAN IP is the IP address you will use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/lan_ip.jpg)
+![lan ip](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/lan_ip.jpg)
 
 
+
+---
 
 ## Time Zone
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/time_zone.jpg)
+![time zone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/time_zone.jpg)
 
 
+
+---
 
 ## MAC Clone
 
 Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
 
-![mac clone](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/mac_clone.jpg)
+![mac clone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/mac_clone.jpg)
 
 
+
+---
 
 ## Custom DNS Server
 
@@ -46,17 +54,21 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/custom_dns_server.jpg)
+![custom dns server](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/custom_dns_server.jpg)
 
 
+
+---
 
 ## Button Settings
 
 Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client.
 
-![button settings](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/button_settings.jpg)
+![button settings](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/button_settings.jpg)
 
 
+
+---
 
 ## Network Mode
 
@@ -76,6 +88,8 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 
 
+---
+
 ## Revert Firmware
 
 Revert the router to factory default settings. All your settings, applications and data will be erased.
@@ -84,10 +98,12 @@ Revert the router to factory default settings. All your settings, applications a
 
 
 
+---
+
 ## Advanced
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/advanced.jpg)
+![advanced](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/advanced.jpg)
 
 *Note: The username is **root**. The password is same as the one that you used to access the web Admin Panel.*

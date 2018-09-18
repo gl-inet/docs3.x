@@ -4,11 +4,11 @@ Models:
 
 GL-AR750, GL-AR750-PoE
 
-GL-AR750S-Ext (Slate)
-
-![router](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/router.jpg)
+![router](src/first-time_setup/router.jpg)
 
 
+
+---
 
 ##1. Power on 
 
@@ -44,8 +44,6 @@ Search for the SSID of the router in your device and input the default password:
 
 - **GL-AR750-XXX**
 - **GL-AR750-XXX-5G**
-- **GL-AR750S-XXX**
-- **GL-AR750S-XXX-5G**
 
 
 

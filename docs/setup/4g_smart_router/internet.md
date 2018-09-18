@@ -8,7 +8,9 @@ Click `INTERNET` to create an Internet connection.
 
 ![internet](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/internet/internet.jpg)
 
-  
+
+
+---
 
 ##1) Cable
 
@@ -54,6 +56,8 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 
 
+---
+
 ##2) Repeater
 
 Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
@@ -72,7 +76,7 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 
 
-
+---
 
 ##3) 3G/4G Modem
 
@@ -152,6 +156,8 @@ The built-in modem supports AT command for the management and configuration of t
 ![AT command](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/internet/at_command.jpg)
 
 
+
+---
 
 ##4) Tethering
 

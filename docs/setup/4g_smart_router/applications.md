@@ -14,6 +14,10 @@ The built-in modem supports AT command for the management and configuration of t
 
 
 
+---
+
+
+
 ## Plug-ins
 
 **Plug-ins** allows you to manage the OpenWrt packages. You can install or remove any package. 
@@ -23,6 +27,8 @@ Remember to click `Update` whenever you access this packages repository.
 ![Plug ins](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/applications/plug-ins.jpg)
 
 
+
+---
 
 ## Send Message
 
@@ -37,6 +43,8 @@ Click `New Message` to send message.
 ![send message](src/applications/send_message.jpg)
 
 
+
+---
 
 ## File Sharing
 

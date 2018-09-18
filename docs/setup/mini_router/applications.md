@@ -12,6 +12,8 @@ Remember to click `Update` whenever you access this packages repository.
 
 
 
+---
+
 ## File Sharing
 
 You can use an external USB storage with GL.iNet router by plugging it into the USB port of the router. The file sharing features of the USB stick can be configured in **File Sharing**.

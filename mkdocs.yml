@@ -54,7 +54,7 @@ pages:
     - GL-B1300: 'hardware/b1300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
-    - Mini Router:
+    - Mini Router Series:
         - First-time Setup: 'setup/mini_router/first-time_setup.md'
         - Admin Panel:
             - Internet: 'setup/mini_router/internet.md'
@@ -64,7 +64,7 @@ pages:
             - VPN: 'setup/mini_router/vpn.md'
             - Applications: 'setup/mini_router/applications.md'
             - More Settings: 'setup/mini_router/more_settings.md'
-    - Travel AC Router:
+    - Travel AC Router (GL-AR750):
         - First-time Setup: 'setup/travel_ac_router/first-time_setup.md'
         - Admin Panel:
             - Internet: 'setup/travel_ac_router/internet.md'
@@ -74,7 +74,17 @@ pages:
             - VPN: 'setup/travel_ac_router/vpn.md'
             - Applications: 'setup/travel_ac_router/applications.md'
             - More Settings: 'setup/travel_ac_router/more_settings.md'
-    - 4G Smart Router:
+    - Slate (GL-AR750S-Ext):
+        - First-time Setup: 'setup/slate/first-time_setup.md'
+        - Admin Panel:
+            - Internet: 'setup/slate/internet.md'
+            - Wireless: 'setup/slate/wireless.md'
+            - Clients: 'setup/slate/clients.md'
+            - Upgrade: 'setup/slate/upgrade.md'
+            - VPN: 'setup/slate/vpn.md'
+            - Applications: 'setup/slate/applications.md'
+            - More Settings: 'setup/slate/more_settings.md'
+    - 4G Smart Router (GL-MiFi):
         - First-time Setup: 'setup/4g_smart_router/first-time_setup.md'
         - Admin Panel:
             - Internet: 'setup/4g_smart_router/internet.md'
@@ -84,7 +94,7 @@ pages:
             - VPN: 'setup/4g_smart_router/vpn.md'
             - Applications: 'setup/4g_smart_router/applications.md'
             - More Settings: 'setup/4g_smart_router/more_settings.md'
-    - Microuter:
+    - Microuter (GL-USB150):
         - First-time Setup: 'setup/microuter/first-time_setup.md'
         - Admin Panel:
             - Internet: 'setup/microuter/internet.md'

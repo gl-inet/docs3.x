@@ -14,7 +14,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/mini_router/wireless/status.jpg)
+![wireless](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/wireless/status.jpg)
 
 
 

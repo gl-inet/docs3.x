@@ -6,6 +6,8 @@ GL-MiFi-A, GL-MiFi-V, GL-MiFi-AU, GL-MiFi-CE
 
 ![router](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/router.jpg)
 
+---
+
 
 
 ##1. Power on 

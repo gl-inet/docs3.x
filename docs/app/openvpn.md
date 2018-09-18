@@ -4,6 +4,8 @@ GL.iNet routers have pre-installed OpenVPN server and client.
 
 
 
+---
+
 ## OpenVPN Server
 
 You can set up an OpenVPN server on GL.iNet router. Click `+ Generate a configuration file`.
@@ -37,6 +39,8 @@ Click `Start` to start your OpenVPN server. Otherwise, you will not be able to c
 ![started](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_connected.jpg)
 
 
+
+---
 
 ## OpenVPN Client
 

@@ -12,6 +12,8 @@ Remember to click `Update` whenever you access this packages repository.
 
 
 
+---
+
 ## File Sharing
 
 You can use an external USB storage or a MicroSD card with GL.iNet router. The file sharing features of the external storage device can be configured in **File Sharing**.

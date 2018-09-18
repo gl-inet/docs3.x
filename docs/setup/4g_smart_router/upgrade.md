@@ -6,6 +6,8 @@ Click `UPGRADE` to check any available update and upgrade the firmware.
 
 
 
+---
+
 ## Online Upgrade
 
 You can find the current firmware version here. If your router is connected to the Internet, it will check for the newer firmware version available for download.
@@ -17,6 +19,8 @@ You can find the current firmware version here. If your router is connected to t
 *Note: It is suggested to uncheck **Keep setting**. If you keep the settings and encounter problems after the upgrade, please reset the router.*
 
 
+
+---
 
 
 ## Upload Firmware
@@ -58,6 +62,8 @@ You may also try other firmwares such as DDWRT.
 *Note: If you uploaded an incompatible firmware thus bricked the router, please use Uboot to re-install the correct firmware.*
 
 
+
+---
 
 ## Auto Upgrade
 

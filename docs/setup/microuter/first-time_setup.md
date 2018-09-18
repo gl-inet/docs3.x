@@ -1,6 +1,6 @@
 # Getting Start with GL.iNet Microuter
 
-Models:
+Model:
 
 GL-USB150
 
@@ -8,24 +8,26 @@ GL-USB150
 
 
 
+---
+
 ##1. Power on 
 
-Microuter can be powered up with a computer, power bank, or any power adapter with USB port. Simply plug it into the USB port of your device or adapter.
+Microuter can be powered up with a computer, power bank, or any power adapter with USB port. Simply plug it into the USB port of your device or adapter. However, please disable the internal Wi-Fi if you are using laptop.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/microuter/first-time_setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/microuter/first-time_setup/power2.jpg)
 
 
 
 ## 2. Connect 
 
-You can connect to the router via USB or Wi-Fi.
+You can connect to the router via USB Ethernet or Wi-Fi.
 
 *Note: This step only connect your devices to the local are network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 
 
-### Connect via USB 
-This only works on computer with USB port. Plug in Microuter and then your computer will install the driver automatically. Lastly, it will create a wired network.
+### Connect via USB Ethernet
+This only works on computer with USB port. Plug in Microuter and then your computer will install the driver automatically. Lastly, it will create a **USB to Ethernet** network.
 
 ![connect via USB](https://static.gl-inet.com/docs/en/3/setup/microuter/first-time_setup/connect.jpg)
 

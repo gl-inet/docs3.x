@@ -6,13 +6,21 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-o
 
 You can setup and use Wireguard easily in firmware 3.0, wiregurad server and clients are pre-installed in firmware 3.0. 
 
+
+
+---
+
 ## 1. Wiregurad Server Setup
 
 1.1 Finish first-time setup and login the router, then make sure the internet connection. 
 
+
+
 1.2 After internet connection, select **VPN -> Wireguard Server** at left slide menu. 
 
 ![1531199972139](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS1.png)
+
+
 
 1.3 Select "**Create a New User**" in the **Wireguard Server** Management Page
 
@@ -20,9 +28,11 @@ You can setup and use Wireguard easily in firmware 3.0, wiregurad server and cli
 
 Keep default parameter of Local IP and Local Port in the right table, or you can customize them. 
 
-1.3 Then click green "**Start**", the dot before Wireguard Server will turn to green. 
+1.4 Then click green "**Start**", the dot before Wireguard Server will turn to green. 
 
 Now the Wireguard Server is start. 
+
+
 
 ##2. Create and Copy Configuration Files for Clients 
 
@@ -32,13 +42,15 @@ To use Wireguard VPN services, it's necessary to copy and transfer configure fil
 
 ![1531200402570](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS3.png)
 
+
+
 The following pop-up window will display, fill in the name of the wireguard clients in right table and click "**Add**".
 
 ![1531200816379](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS4.png)
 
 You can add as many clients as you need, each client (peer) has its own configuration file. also you can delete any config file you don't need any more by click the "**Delete**" icon.
 
-![1531201040561](C:\Users\simon\AppData\Local\Temp\1531201040561.png) 
+
 
 2.2 After created all config file, just click "**Copy Config**" Icon, the config information will pop-up. 
 
@@ -46,15 +58,21 @@ You can add as many clients as you need, each client (peer) has its own configur
 
 Copy the whole configuration information to a text file and save it. 
 
+
+
 ## 3. Wireguard Client Setup 
 
 3.1 If you are also using our AR750S as a client, follow the step, 1.1 and 1.2. Just select Wireguard Client in the VPN option.
 
 ![1531201993045](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC1.png)
 
+
+
 3.2 Click "**Add a new profile**" in Wireguard Client web management page, the following window will pop-up
 
 ![1531202195068](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC2.png)
+
+
 
 3.3 Input your "**Wireguard Server Name**", then click "**Next**".  
 
@@ -68,6 +86,8 @@ Or you can select "**Manual**" Input tab, and input Wireguard Client setup param
 
 Click "**Add**" to finish the Wireguard Client configuration. 
 
+
+
 3.4 The Wireguard web management page will auto display and "**Success!**" will show on the top. 
 
 ![1531206410246](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC5.png)
@@ -77,6 +97,8 @@ Select the server name in drop-down list and click "**Connect**".
 ![1531206860821](https://static.gl-inet.com/docs/en/3/app/wireguard/WG6.png)
 
 If the connect success established, the dot before **Wireguard Client** will turn to green and Green “**Connect**” change to Red “**Disconnect**” ， Upload/Download date meter displayed on the bottom. 
+
+
 
 ## 4. Wireguard Client on mobile devices 
 

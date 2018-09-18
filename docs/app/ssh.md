@@ -1,6 +1,5 @@
+#Using SSH and WinSCP
 
-Using SSH and WinSCP
-===
 
 SSH and WinSCP are basic tools if you want to play more with the mini router.
 
@@ -10,15 +9,17 @@ WinSCP is the windows tool which runs on top of SSH to connect and edit files on
 
 
 
-# SSH to the Router for Windows Users
+---
 
-## 1. Download and install a PuTTY
+## SSH to the Router for Windows Users
+
+### 1. Download and install a PuTTY
 
 Go to the following webpage to download the latest PuTTY version：  
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-## 2. Install PuTTY
+### 2. Install PuTTY
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-1.png) 
 
@@ -34,7 +35,9 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-4.png) 
 
-## 3. Launch PuTTY 
+
+
+### 3. Launch PuTTY 
 
 Click **PuTTY** in Start Menu 
 
@@ -70,15 +73,21 @@ When you see above picture, that means you are now ssh login the router successf
 
 
 
-# WinSCP
+---
+
+## WinSCP
 
 WinSCP is a much easier tool to edit files on the router if you are using Windows.
 
-## 1. Download WinSCP
+
+
+### 1. Download WinSCP
 
 Download WinSCP from here: https://winscp.net/eng/download.php and install in your Windows.
 
-## 2. Connect to the router
+
+
+### 2. Connect to the router
 
 Run WinSCP, choose `SCP` as the protocol. If you didn't change the IP of the router it should be `192.168.8.1`. Please use your real IP of the router. Port number should be `22`. Please `root` as the username and input your real password. Then click `Login` button.
 
@@ -100,13 +109,19 @@ Now you can edit the file content freely. Be careful not to mess up the settings
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp4.jpg)
 
-# SSH to the router for Linux/Mac User
+
+
+---
+
+## SSH to the router for Linux/Mac User
 
 The process on Linux and Mac OS are generally the same. Below we use Ubuntu as as example.
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-Login.png) 
+![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-Login.png)
 
-## 1. Launch Terminal
+ 
+
+### 1. Launch Terminal
 
 Click the `Terminal` icon to launch Terminal. Then, input the following command: 
 
@@ -124,7 +139,7 @@ If this happens, run the command in the red box. Please copy the exact command w
 
 
 
-## 2. Log In Router
+### 2. Log In Router
 
 retry the ssh login command: 
 
