@@ -100,7 +100,7 @@ pages:
     - Advanced Uboot: 'dev/uboot.md'
 - Application:
     - SSH to the router: 'app/ssh.md'
-    - OpenVPN Client: 'app/openvpn.md'
+    - OpenVPN: 'app/openvpn.md'
     - Tor: 'app/tor.md'
     - EasyTether: 'app/tether.md'
     - Shadowsocks: 'app/ss.md'

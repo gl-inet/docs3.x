@@ -1,82 +1,96 @@
-# OpenVPN Client Setting
-This docs is only related to OpenVPN client.
+# OpenVPN
 
-OpenVPN client is pre-installed in GL.iNet routers GL-AR150, GL-AR300M, GL-MT300N, GL-MT300A, GL-USB150, GL-AR750, GL-B1300 from firmware v2.19.
-
-Download the latest firmware for each devices: http://downlaod.gl-inet.com/firmware/
-
-The newest firmware maybe put in testing folder: http://download.gl-inet.com/firmware/testing/
-
-
-*Note: You need to subscribe your own VPN service and get an OpenVPN configuration file (.ovpn) from your service provider. If you have subscribed but don't know how to download the configuration file, please read the section "How to get the configuration file".*
-
-This guide assumes that you have set up the router properly.
+GL.iNet routers have pre-installed OpenVPN server and client. 
 
 
 
-## 1. Create an OpenVPN connection
+## OpenVPN Server
+
+You can set up an OpenVPN server on GL.iNet router. Click `+ Generate a configuration file`.
+
+![server](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server.jpg)
+
+
+
+### 1) Server configuration
+
+There are preset OpenVPN server configurations. You can also click `Modify` to change them manually. Click `Apply` when you finish.
+
+![ server configuration](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_settings.jpg)
+
+
+
+### 2) Export OpenVPN configuration file
+
+Click `Export Config` to download the OpenVPN configuration file which you need to upload when you are configuring your OpenVPN client.
+
+![server export](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_export.jpg)
+
+
+
+### 3) Start the OpenVPN server
+
+Click `Start` to start your OpenVPN server. Otherwise, you will not be able to connect to the OpenVPN server by using its configuration file.
+
+![start server](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_settings.jpg)
+
+![started](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_connected.jpg)
+
+
+
+## OpenVPN Client
+
+OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](openvpn.md#get-your-configuration-file).
+
+Click `+ Add a New VPN Configuration` to upload the configuration file.
+
+![client](https://static.gl-inet.com/docs/en/3/app/openvpn/src/client.jpg)
+
+
 
 ### 1) Upload your OpenVPN configuration file
 
-Go to `VPN` > `OpenVPN Client`, It will ask you to upload a configuration file. This file can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
+Simply drap and drop your file to the pop up windows. It can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
 
 Be careful that some .ovpn files use separated ca, cert, crl files. These files must be zipped together with the .ovpn file before upload.
 
-![Basic UI](https://static.gl-inet.com/docs/en/3/app/openvpn/11.jpg)
+![Upload](https://static.gl-inet.com/docs/en/3/app/openvpn/src/upload.jpg)
 
 
 
-You can upload your configuration file by clicking `Add a New VPN Configuration`.
+### 2) Enter Description, Username and Password
 
+Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter your username and password.
 
-
-### 2) Upload your configuration file
-
-To upload your configuration file, just simply drap and drop your file to the pop up windows.
-
-![Basic UI](https://static.gl-inet.com/docs/en/3/app/openvpn/12.jpg)
-
-
-
-Enter a description for your OpenVPN configuration file and click `Submit` to finished the upload process. In some cases, it will ask you to enter your username and password.
-
-![Basic UI](https://static.gl-inet.com/docs/en/3/app/openvpn/13.jpg)
-
-
-
-![Basic UI](https://static.gl-inet.com/docs/en/3/app/openvpn/14.jpg)
+![add](https://static.gl-inet.com/docs/en/3/app/openvpn/src/add.jpg)
 
 
 
 ### 3) Connect to the OpenVPN server
 
-You can start to create an OpenVPN connection.
+You can now click `Connect` to start the OpenVPN connection.
 
-![Basic UI](https://static.gl-inet.com/docs/en/3/app/openvpn/15.jpg)
-
-
-
-Check `VPN Connection Only` if you want to force all Internet traffic to go through VPN. However, you will lose Internet access if the VPN is disconnected.
-
-Click `Connect` to create the connection and the router will show the connection progress. Once connected, you will be able to see data sent and received.
-
-![Basic UI](https://static.gl-inet.com/docs/en/3/app/openvpn/16.jpg)
+![connect](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connect.jpg)
 
 
 
-## 2. Manage ovpn files
+Once connected, you should find your IP address, data received/sent.
 
-Go to `Management` to check the list of configuration files. You can modify the description, username or password for each configuration file.
-
-If your configuration file is a zip/tar.gz file which included multiple ovpn files, you can choose an individual ovpn file that you would like to connect in `Server`.
-
-Moreover, you can upload a new configuration file by clicking `Add a New VPN Configuration`.
-
-![ovpn manager](https://static.gl-inet.com/docs/en/3/app/openvpn/17.jpg)
+![connected](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connected.jpg)
 
 
 
-## 3. Get your Configuration File
+### 4) Manage configuration files
+
+Click `Management` to check the list of configuration files. You can modify the **Description**, **User name** or **Password** of each configuration file. You can also add, delete a configuration file or even purge all your uploaded configuration files.
+
+If your configuration file is a zip/tar.gz file which includes multiple ovpn files, you can choose an individual .ovpn file that you would like to connect in **Server**.
+
+![management](https://static.gl-inet.com/docs/en/3/app/openvpn/src/management.jpg)
+
+
+
+###Get your configuration file
 
 We have tested different VPN service providers. Therefore, if you don't know how to get the configuration file, you can follow the instruction below. However, you have to contact your service provider for the configuration file if they are not listed below. 
 
@@ -464,40 +478,5 @@ according to the server location.</p>
 </ol>
 
 </details>
-
-
-
-## OpenVPN Compatibilities
-
-We have checked a number of public vpn service providers and tested the compatibilities. What you need to do is purchase a subscription from them and download the ovpn files.
-
-Here is a list of compatible services (v2.20).
-
-__Note: For service issues, please contact the service provider directly.__
-
-1. TorGuard,[https://torguard.net/](https://torguard.net/aff.php?aff=3040)
-2. Astrill, https://www.astrill.com
-3. FinchVPN, https://www.finchvpn.com/
-4. Free Vpn Software, http://freevpnsoftware.net/
-5. VPNBook, http://www.vpnbook.com/
-6. VPNGate, http://www.vpngate.net/
-7. VPN Area, https://vpnarea.com
-8. NordVPN, [https://go.nordvpn.net](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=12016&url_id=902)
-9. PIA, [https://www.privateinternetaccess.com](https://www.privateinternetaccess.com/pages/buy-vpn/glinet)
-10. PureVPN, https://www.purevpn.com/
-11. TotalVPN, https://www.totalvpn.com
-12. Strong VPN, http://strongvpn.com/
-13. HideMyAss, https://www.hidemyass.com
-14. Proxy.sh, [https://proxy.sh](https://proxy.sh/panel/aff.php?aff=1458)
-15. TCPVPN, https://www.tcpvpn.com
-16. Vpn.AC, [https://vpn.ac](https://vpn.ac/aff.php?aff=1424)
-17. Proxpn, [https://secure.proxpn.com](https://secure.proxpn.com/?a_aid=5ac450e27df6f)
-18. ExpressVPN, https://www.expressvpn.com/
-19. Airvpn, [https://airvpn.org](https://airvpn.org/?referred_by=402389)
-20. CactusVpn, https://www.cactusvpn.com/
-21. SaferVPN, [https://safervpn.com](https://safervpn.com/?a_aid=563)
-22. Ivacy, [https://billing.ivacy.com](https://billing.ivacy.com/page/22852)
-
-
 
 
