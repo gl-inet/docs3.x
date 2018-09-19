@@ -4,7 +4,7 @@ Model:
 
 GL-AR750S-Ext
 
-![router](http://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/router.jpg)
 
 
 
@@ -14,7 +14,7 @@ GL-AR750S-Ext
 
 Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause a malfunction.
 
-![Power on](http://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
 
 
 
@@ -33,7 +33,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](http://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/connect.jpg)
 
 
 
@@ -57,7 +57,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français** and **Español**.
 
-![initial setup](http://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/welcome.jpg)
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/welcome.jpg)
 
 *Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index.html](http://192.168.8.1/index.html) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -66,7 +66,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 ### 2) Admin Password Setting
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
 
-![Welcome](http://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/password.jpg)
+![Welcome](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/password.jpg)
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
@@ -75,4 +75,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After language and password setting, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router. Please refer to [Admin Panel](internet.md) for the detailed instructions.
 
-![admin panel](http://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/main_ui.jpg)
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/main_ui.jpg)
