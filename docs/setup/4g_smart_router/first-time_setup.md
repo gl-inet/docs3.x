@@ -30,7 +30,7 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
-*Note: This step only connect your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
+*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 
 

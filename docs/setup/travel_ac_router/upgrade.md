@@ -43,8 +43,6 @@ Find the available firmwares from the folder according to your device model, and
 
 **testing**: Beta version of GL.iNet OpenWrt/LEDE firmware.
 
-*Note: For GL-AR750S (Slate), you have to upload the .tar file.  The .img file can only be flashed to the router by Uboot.*
-
 
 
 ### Compile your own firmware
