@@ -16,7 +16,7 @@ For GL-MiFi with built-in battery, press the power button to turn on the device.
 
 You can also plug the Micro USB power cable into the power port of the router to power on the device. That will also charge the built-in battery.
 
-Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause a malfunction.
+Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/power1.jpg)
 

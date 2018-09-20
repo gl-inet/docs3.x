@@ -2,7 +2,7 @@
 
 Models:
 
-GL-MT300N, GL-MT300N-V2 (Firmware 3.0 not yet released)
+GL-MT300N, GL-MT300N-V2 (Firmware 3.0 has not released yet)
 
 GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
@@ -18,7 +18,7 @@ GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
 ##1. Power on 
 
-Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard 5V/1A power adapter. Otherwise it may cause a malfunction.
+Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard 5V/1A power adapter. Otherwise it may cause malfunction.
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/power.jpg)
 

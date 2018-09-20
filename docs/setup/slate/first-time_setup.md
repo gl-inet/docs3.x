@@ -12,7 +12,7 @@ GL-AR750S-Ext
 
 ##1. Power on 
 
-Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause a malfunction.
+Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
 

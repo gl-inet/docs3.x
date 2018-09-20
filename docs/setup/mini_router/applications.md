@@ -22,14 +22,10 @@ You can use an external USB storage with GL.iNet router by plugging it into the 
 
 **Share via WAN**: The contents of the external storage device can be access from the WAN.
 
-**Writable**: Other network computers and devices can edit the contents of the external storage device if they are allowed to access.
+**Writable**: The contents of the external storage device can be edited.
 
 ![File sharing](https://static.gl-inet.com/docs/en/3/setup/mini_router/applications/file_sharing.jpg)
 
 
 
-The contents of the USB stick will be shared among all connected clients. However, please make sure the network of your computer is private. Otherwise, you may not be able to access the router in **Network**.
-
-For WIN10, you have to enable SMB1 in order to access the external storage device. Go to Control Panel -> Programs and Features -> Turn Windows features on or off -> Find SMB 1.0/CIFS file sharing support, check all SMB1 related items, click apply and restart your computer.
-
-![netowrk](https://static.gl-inet.com/docs/en/3/setup/mini_router/applications/network.jpg)
+For the guidance on how to access the contents of the external storage device form your computer or smart phone, please refer to [this page](https://docs.gl-inet.com/en/3/app/file_sharing/).
