@@ -35,7 +35,7 @@ Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/connect.jpg)
 
-*Note: GL-AR300M-Lite can only be connected via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](Internet#1.-cable.md) so that you can connect to it via LAN.*
+*Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](Internet#1-cable) so that you can connect to it via LAN.*
 
 
 

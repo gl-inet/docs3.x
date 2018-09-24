@@ -125,6 +125,7 @@ pages:
     - LED Indicators: 'troubleshooting/led.md'
     - Repair or Reset: 'troubleshooting/reset.md'
     - Debrick via Uboot: 'troubleshooting/debrick.md'
+    - Change WAN to LAN: 'troubleshooting/chang_wan_to_lan.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'
