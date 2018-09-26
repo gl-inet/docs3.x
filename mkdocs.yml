@@ -126,6 +126,7 @@ pages:
     - Repair or Reset: 'troubleshooting/reset.md'
     - Debrick via Uboot: 'troubleshooting/debrick.md'
     - Change WAN to LAN: 'troubleshooting/chang_wan_to_lan.md'
+    - Captive Portal: 'troubleshooting/captive_portal.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'
