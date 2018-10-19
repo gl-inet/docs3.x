@@ -28,8 +28,13 @@
 </details>
 
 <details>
+<<<<<<< HEAD
 <summary>Can I set up the router as a bridge so that it just like I am connecting to my main router directly?</summary>
 <p>Yes, GL.iNet routers work in router mode by default, which will create a separated subnet for you. However, you can change its network mode so that it can bahave like an extender without DHCP.</p>
+=======
+<summary>Can I set up the router as a bridge so that it works like I am connecting to my main router directly?</summary>
+<p>Yes, GL.iNet routers work in router mode by default, which will create a separated subnet for you. However, you can change its network mode so that it can behave like an extender without DHCP.</p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 <ol type="1">
 <li>Access the admin panel via 192.168.8.1</li>
 <li>Go to <b>MORE SETTINGS</b> -> <b>Network mode</b>.</li>
@@ -64,7 +69,11 @@
 
 <details>
 <summary>What is the range of the Wi-Fi coverage?</summary>
+<<<<<<< HEAD
 <p>Based on our test, our routers can cover around 80 to 100 meters in open area, 20 to 30 meters in indoor area.</p>
+=======
+<p>Based on our test, our routers can cover around 80 to 100 meters in open area.</p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
@@ -84,7 +93,11 @@
 <details>
 <summary>Can I hide the SSID of the router?</summary>
 <ol type="1">
+<<<<<<< HEAD
 <li>Log into Advanced Settings (Luci) http://192.168.8.1/cgi-bin/luci.</li>
+=======
+<li>Log in to Advanced Settings (Luci) http://192.168.8.1/cgi-bin/luci.</li>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 <li>Go to <b>Network</b> -> <b>Wireless</b> and then edit the SSID that you want to hide.</li>
 <li>Check <b>Hide ESSID</b> under <b>Interface Configuration</b>.
 </details>
@@ -92,24 +105,40 @@
 <details>
 <summary>Can I set up multiple SSIDs on the router?</summary>
 <ol type="1">
+<<<<<<< HEAD
 <li>Go to Luci (http://192.168.8.1/cgi-bin/luci) -> Network -> Wireless.</li>
+=======
+<li>Go to <b>Luci</b> (http://192.168.8.1/cgi-bin/luci) -> <b>Network</b> -> <b>Wireless</b>.</li>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 <li>Click <b>Add</b> to create a new wireless interface.</li>
 <li>In <b>Interface Configuration</b>, you can input your own SSID. Please choose <i>Access Point (WDS)</i> <b>Mode</b> and tick <i>lan</i> for the <b>Network</b>.</li>
 <li>Move to <b>Wireless Security</b> to configure the Encryption.</li>
 <li>Click <b>Save & Apply</b> and then reboot your router.</li>
+<<<<<<< HEAD
 <p><i>Note: In the Advanced Settings of Interface Configuration, you can leave it blank. If you want to give it a name such as wlan0, please use different names for different wireless interfaces.</i></p>
+=======
+<p><i>Note: The name of the interface can be changed in the Advanced Settings of Interface Configuration, you can leave it blank. If you want to give it a name such as wlan0, please use different names for different wireless interfaces.</i></p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </ol>
 </details>
 
 <details>
 <summary>My device can only be connected through Ethernet cable.  Can I use this router to connect my device to a wireless network?</summary>
 <p>Yes, please connect your device to the LAN port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#2-repeater">repeater</a>.</p>
+<<<<<<< HEAD
 <p><i>Note:<li>For Microuter, please plug it into the Ethernet port of your device and then set up repeater.</li><li>For GL-AR300M-Lite, since it has only one WAN port, you can only do that after you have connected to it wirelessly and change its WAN port to LAN port.</li></i></p>
+=======
+<p><i>Note:<li>For Microuter, please plug it into the Ethernet port of your device and then set up repeater.</li><li>For GL-AR300M-Lite, since it has only one WAN port, you can only do that after you have connected to it wirelessly and changed its WAN port to LAN port.</li></i></p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
 <summary>Can I connect to an existing Wi-Fi network (i.e. public Wi-Fi or hotel Wi-Fi) and then create my own Wi-Fi network? </summary>
+<<<<<<< HEAD
 <p>Yes, our routers will boardcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
+=======
+<p>Yes, our routers will broadcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
@@ -150,7 +179,11 @@
 
 <details>
 <summary>Can I power on the router using the USB port of my computer or power bank?</summary>
+<<<<<<< HEAD
 <p>USB port of a computer or a GOOD power bank should be able to provide enough power for the router.</p><p>However, it may cause malfunction if the power input is unstable or insufficient.</p>
+=======
+<p>USB port of the computer or a GOOD power bank should be able to provide enough power for the router.</p><p>However, it may cause malfunction if the power input is unstable or insufficient.</p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
@@ -172,12 +205,20 @@
 
 <details>
 <summary>Can I share the network data from my phone to the router?</summary>
+<<<<<<< HEAD
 <p>Yes, you can connect your smartphone to the USB port of the router then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
+=======
+<p>Yes, you can connect your smartphone to the USB port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
 <summary>Does it charge my phone's battery during Tethering?</summary>
+<<<<<<< HEAD
 <p>Yes,when you connect your phone to the USB port of the router, the router will charge your phone. However, the charging rate may be slower than the power consumption rate of your phone.</p>
+=======
+<p>Yes, when you connect your phone to the USB port of the router, the router will charge your phone. However, the charging rate may be slower than the power consumption rate of your phone.</p>
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
@@ -188,7 +229,11 @@
 <details>
 <summary>Can I use this router with USB storage device (e.g. USB stick, USB hard drive)?</summary>
 <p>Yes, please make sure your storage device is formatted in FAT32, NTFS, Ext3, Ext4. exFAT is not supported.</p>
+<<<<<<< HEAD
 <p>We have tested 64GB USB stick and 1TB USB hard drive but no storage device with higher storage capacity has been test so far.
+=======
+<p>We have tested 64GB USB stick and 1TB USB hard drive but we haven't tested for storage device with higher storage capacity so far.
+>>>>>>> 9b2b0e6cd89b6d4dc62b2f980194282a2bd3e2d3
 </details>
 
 <details>
