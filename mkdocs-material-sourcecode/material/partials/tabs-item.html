@@ -1,31 +1,74 @@
-{% if nav_item.is_homepage %}
-  <li class="md-tabs__item">
-    {% if not page.ancestors | length and nav | selectattr("url", page.url) %}
-      <a href="{{ nav_item.url }}" title="{{ nav_item.title }}" class="md-tabs__link md-tabs__link--active">
-        {{ nav_item.title }}
-      </a>
-    {% else %}
-      <a href="{{ nav_item.url }}" title="{{ nav_item.title }}" class="md-tabs__link">
-        {{ nav_item.title }}
-      </a>
-    {% endif %}
-  </li>
-{% elif nav_item.children and nav_item.children | length > 0 %}
-  {% set title = title | default(nav_item.title) %}
-  {% if (nav_item.children | first).children | length > 0 %}
-    {% set nav_item = nav_item.children | first %}
-    {% include "partials/tabs-item.html" %}
-  {% else %}
-    <li class="md-tabs__item">
-      {% if nav_item.active %}
-        <a href="{{ (nav_item.children | first).url }}" title="{{ title }}" class="md-tabs__link md-tabs__link--active">
-          {{ title }}
-        </a>
+	{% if nav_item.is_homepage %}
+	  <li class="md-tabs__item">
+		{% if not page.ancestors | length and nav | selectattr("url", page.url) %}
+		  <a href="{{ nav_item.url }}" title="{{ nav_item.title }}" class="md-tabs__link md-tabs__link--active">
+			{{ nav_item.title }}
+		  </a>
+		{% else %}
+		  <a href="{{ nav_item.url }}" title="{{ nav_item.title }}" class="md-tabs__link">
+			{{ nav_item.title }}
+		  </a>
+		{% endif %}
+	  </li>
+	{% elif nav_item.children and nav_item.children | length > 0 %}
+	  {% set title = title | default(nav_item.title) %}
+	  {% if (nav_item.children | first).children | length > 0 %}
+		{% set nav_item = nav_item.children | first %}
+		{% include "partials/tabs-item.html" %}
+	  {% else %}
+	  <!-- Setup Tab -->
+		<li class="md-tabs__item">
+		  {% if title == "Setup" %}
+		    <div class="dropdown">
+			    <button onclick="myFunction()" class="dropbtn">
+				  {{ title }}<b class="caret"></b>
+					</button>
+				  <div id="myDropdown" class="dropdown-content">
+							<ul class="md-nav__list" data-md-scrollfix>
+									{% for nav_item in nav %}
+										{% if nav_item.title == "Setup" %}
+											{% for nav_item in nav_item.children %}
+									    	<a href="{{ (nav_item.children | first).url }}" title="{{ nav_item.title }}" class="md-nav__link md-nav__link--active">
+											  	{{ nav_item.title }}
+												</a>
+											{% endfor %}
+										{% endif %}
+									{% endfor %}
+							</ul>
+				  </div>
+				</div>
+				
+				<script>
+				function myFunction() {
+					document.getElementById("myDropdown").classList.toggle("show");
+			  }
+				window.onclick = function(event) {
+					if (!event.target.matches('.dropbtn')) {
+			
+						var dropdowns = document.getElementsByClassName("dropdown-content");
+						var i;
+						for (i = 0; i < dropdowns.length; i++) {
+							var openDropdown = dropdowns[i];
+							if (openDropdown.classList.contains('show')) {
+								openDropdown.classList.remove('show');
+							}
+						}
+					}
+				}
+				</script>
+
       {% else %}
-        <a href="{{ (nav_item.children | first).url }}" title="{{ title }}" class="md-tabs__link">
-          {{ title }}
-        </a>
-      {% endif %}
-    </li>
-  {% endif %}
-{% endif %}
+		    {% if nav_item.active %}
+		      <a href="{{ (nav_item.children | first).url }}" title="{{ title }}" class="md-tabs__link md-tabs__link--active">
+			    {{ title }}
+			  </a>
+			
+		    {% else %}
+			  <a href="{{ (nav_item.children | first).url }}" title="{{ title }}" class="md-tabs__link">
+			    {{ title }}
+			  </a>
+		    {% endif %}
+		  {% endif %}
+		</li>
+	  {% endif %}
+	{% endif %}

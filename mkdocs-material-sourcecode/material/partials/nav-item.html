@@ -2,7 +2,203 @@
 {% if nav_item.active %}
   {% set class = "md-nav__item md-nav__item--active" %}
 {% endif %}
-{% if nav_item.children %}
+{% if nav_item.title == "Setup" %}
+  <li class="{{ class }} md-nav__item--nested">
+  {% if nav_item.active %}
+    <input class="md-toggle md-nav__toggle" data-md-toggle="{{ path }}" type="checkbox" id="{{ path }}" checked>
+  {% else %}
+    <input class="md-toggle md-nav__toggle" data-md-toggle="{{ path }}" type="checkbox" id="{{ path }}">
+  {% endif %}
+    <label class="md-nav__link" for="{{ path }}">
+      {{ nav_item.title }}
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="{{ level }}" >
+      <label id="setup" class="md-nav__title" for="{{ path }}" style="display: none;">Setup</label>
+      <label id="mini_router_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+      <label id="travel_ac_router_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+      <label id="slate_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+      <label id="fourg_smart_router_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+      <label id="microuter_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+
+      <script>
+          if (window.location.href.indexOf("mini_router") != -1) {
+            document.getElementById("mini_router_label").innerHTML = ("Mini Router");
+            document.getElementById("mini_router_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("travel_ac_router") != -1) {
+            document.getElementById("travel_ac_router_label").innerHTML = ("Travel AC Router");
+            document.getElementById("travel_ac_router_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("slate") != -1) {
+            document.getElementById("slate_label").innerHTML = ("Slate");
+            document.getElementById("slate_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("4g_smart_router") != -1) {
+            document.getElementById("fourg_smart_router_label").innerHTML = ("4G Smart Router");
+            document.getElementById("fourg_smart_router_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("microuter") != -1) {
+            document.getElementById("microuter_label").innerHTML = ("Microuter");
+            document.getElementById("microuter_label").style.display = "block";
+          }
+      </script>
+
+      <ul id="setup-fullscreen" class="md-nav__list" data-md-scrollfix>
+        <a id="mini_router_first-time_setup" href="../../mini_router/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_internet" href="../../mini_router/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_wireless" href="../../mini_router/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_clients" href="../../mini_router/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_upgrade" href="../../mini_router/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_vpn" href="../../mini_router/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_applications" href="../../mini_router/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="mini_router_more_settings" href="../../mini_router/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="travel_ac_router_first-time_setup" href="../../travel_ac_router/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_internet" href="../../travel_ac_router/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_wireless" href="../../travel_ac_router/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_clients" href="../../travel_ac_router/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_upgrade" href="../../travel_ac_router/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_vpn" href="../../travel_ac_router/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_applications" href="../../travel_ac_router/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="travel_ac_router_more_settings" href="../../travel_ac_router/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="slate_first-time_setup" href="../../slate/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="slate_internet" href="../../slate/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="slate_wireless" href="../../slate/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="slate_clients" href="../../slate/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="slate_upgrade" href="../../slate/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="slate_vpn" href="../../slate/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="slate_applications" href="../../slate/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="slate_more_settings" href="../../slate/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="4g_smart_router_first-time_setup" href="../../4g_smart_router/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_internet" href="../../4g_smart_router/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_wireless" href="../../4g_smart_router/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_clients" href="../../4g_smart_router/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_upgrade" href="../../4g_smart_router/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_vpn" href="../../4g_smart_router/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_applications" href="../../4g_smart_router/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="4g_smart_router_more_settings" href="../../4g_smart_router/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="microuter_first-time_setup" href="../../microuter/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_internet" href="../../microuter/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_wireless" href="../../microuter/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_clients" href="../../microuter/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_upgrade" href="../../microuter/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_vpn" href="../../microuter/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_applications" href="../../microuter/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter_more_settings" href="../../microuter/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <script>
+          if (window.location.href.indexOf("mini_router") != -1) {
+            document.getElementById("mini_router_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("mini_router_first-time_setup").style.display = "block";
+            document.getElementById("mini_router_internet").innerHTML = ("Internet");
+            document.getElementById("mini_router_internet").style.display = "block";
+            document.getElementById("mini_router_wireless").innerHTML = ("Wireless");
+            document.getElementById("mini_router_wireless").style.display = "block";
+            document.getElementById("mini_router_clients").innerHTML = ("Clients");
+            document.getElementById("mini_router_clients").style.display = "block";
+            document.getElementById("mini_router_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("mini_router_upgrade").style.display = "block";
+            document.getElementById("mini_router_vpn").innerHTML = ("VPN");
+            document.getElementById("mini_router_vpn").style.display = "block";
+            document.getElementById("mini_router_applications").innerHTML = ("Applications");
+            document.getElementById("mini_router_applications").style.display = "block";
+            document.getElementById("mini_router_more_settings").innerHTML = ("More Settings");
+            document.getElementById("mini_router_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("travel_ac_router") != -1) {
+            document.getElementById("travel_ac_router_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("travel_ac_router_first-time_setup").style.display = "block";
+            document.getElementById("travel_ac_router_internet").innerHTML = ("Internet");
+            document.getElementById("travel_ac_router_internet").style.display = "block";
+            document.getElementById("travel_ac_router_wireless").innerHTML = ("Wireless");
+            document.getElementById("travel_ac_router_wireless").style.display = "block";
+            document.getElementById("travel_ac_router_clients").innerHTML = ("Clients");
+            document.getElementById("travel_ac_router_clients").style.display = "block";
+            document.getElementById("travel_ac_router_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("travel_ac_router_upgrade").style.display = "block";
+            document.getElementById("travel_ac_router_vpn").innerHTML = ("VPN");
+            document.getElementById("travel_ac_router_vpn").style.display = "block";
+            document.getElementById("travel_ac_router_applications").innerHTML = ("Applications");
+            document.getElementById("travel_ac_router_applications").style.display = "block";
+            document.getElementById("travel_ac_router_more_settings").innerHTML = ("More Settings");
+            document.getElementById("travel_ac_router_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("slate") != -1) {
+            document.getElementById("slate_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("slate_first-time_setup").style.display = "block";
+            document.getElementById("slate_internet").innerHTML = ("Internet");
+            document.getElementById("slate_internet").style.display = "block";
+            document.getElementById("slate_wireless").innerHTML = ("Wireless");
+            document.getElementById("slate_wireless").style.display = "block";
+            document.getElementById("slate_clients").innerHTML = ("Clients");
+            document.getElementById("slate_clients").style.display = "block";
+            document.getElementById("slate_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("slate_upgrade").style.display = "block";
+            document.getElementById("slate_vpn").innerHTML = ("VPN");
+            document.getElementById("slate_vpn").style.display = "block";
+            document.getElementById("slate_applications").innerHTML = ("Applications");
+            document.getElementById("slate_applications").style.display = "block";
+            document.getElementById("slate_more_settings").innerHTML = ("More Settings");
+            document.getElementById("slate_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("4g_smart_router") != -1) {
+            document.getElementById("4g_smart_router_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("4g_smart_router_first-time_setup").style.display = "block";
+            document.getElementById("4g_smart_router_internet").innerHTML = ("Internet");
+            document.getElementById("4g_smart_router_internet").style.display = "block";
+            document.getElementById("4g_smart_router_wireless").innerHTML = ("Wireless");
+            document.getElementById("4g_smart_router_wireless").style.display = "block";
+            document.getElementById("4g_smart_router_clients").innerHTML = ("Clients");
+            document.getElementById("4g_smart_router_clients").style.display = "block";
+            document.getElementById("4g_smart_router_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("4g_smart_router_upgrade").style.display = "block";
+            document.getElementById("4g_smart_router_vpn").innerHTML = ("VPN");
+            document.getElementById("4g_smart_router_vpn").style.display = "block";
+            document.getElementById("4g_smart_router_applications").innerHTML = ("Applications");
+            document.getElementById("4g_smart_router_applications").style.display = "block";
+            document.getElementById("4g_smart_router_more_settings").innerHTML = ("More Settings");
+            document.getElementById("4g_smart_router_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("microuter") != -1) {
+            document.getElementById("microuter_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("microuter_first-time_setup").style.display = "block";
+            document.getElementById("microuter_internet").innerHTML = ("Internet");
+            document.getElementById("microuter_internet").style.display = "block";
+            document.getElementById("microuter_wireless").innerHTML = ("Wireless");
+            document.getElementById("microuter_wireless").style.display = "block";
+            document.getElementById("microuter_clients").innerHTML = ("Clients");
+            document.getElementById("microuter_clients").style.display = "block";
+            document.getElementById("microuter_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("microuter_upgrade").style.display = "block";
+            document.getElementById("microuter_vpn").innerHTML = ("VPN");
+            document.getElementById("microuter_vpn").style.display = "block";
+            document.getElementById("microuter_applications").innerHTML = ("Applications");
+            document.getElementById("microuter_applications").style.display = "block";
+            document.getElementById("microuter_more_settings").innerHTML = ("More Settings");
+            document.getElementById("microuter_more_settings").style.display = "block";
+          }
+        </script> 
+      </ul>
+
+      <ul id="setup-mobile" style="display: none;" class="md-nav__list" data-md-scrollfix>
+          {% set base = path %}
+          {% for nav_item in nav_item.children %}
+            {% set path = base + "-" + loop.index | string %}
+            {% set level = level + 1 %}
+            {% include "partials/nav-item.html"  %}
+          {% endfor %}
+      </ul>
+    </nav>
+  </li>
+
+{% elif nav_item.children %}
   <li class="{{ class }} md-nav__item--nested">
     {% if nav_item.active %}
       <input class="md-toggle md-nav__toggle" data-md-toggle="{{ path }}" type="checkbox" id="{{ path }}" checked>
@@ -26,6 +222,7 @@
       </ul>
     </nav>
   </li>
+
 {% elif nav_item == page %}
   <li class="{{ class }}">
     {% set toc_ = page.toc %}
