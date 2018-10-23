@@ -89,15 +89,15 @@ Be aware that some USB modems work in host-less mode, which have to be configure
 In General, you can set up your 3G/4G modem by the three basic parameters below. Click `Apply` to connect.
 
 - **Device**: For built-in modem, please choose **/dev/cdc-wdm0 (qmi)** or **/dev/ttyUSB3**. For USB modem, please try the additional options one by one.
-- **Service Type**: This is needed for 3G connection only. For 4G connection, this setting is not necessary.
+- **Service Type**: indicate the service of your SIM card.
 - **APN**: Confirm with your SIM card carrier.
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/internet/modem1.jpg)
 
 Advanced Settings:
 
-- **Dial Number**: Generally, it is a default value and you don't need to set it by yourself. However, if you have this info, please input it.
-- **Pincode, Username and Password:** Generally, these informations are not necessary for a unlocked SIM card. However, if you have a locked SIM card, please find these informations from your carrier.
+- **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it.
+- **Pincode, Username and Password:** Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/internet/modem4.jpg)
 

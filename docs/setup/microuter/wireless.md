@@ -10,7 +10,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **Channel**: The router will not choose the best channel itself. You need to choose a channel manually. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
 
-**Speed**: The wireless speed of the router. there are 11Mbps, 54Mbps, 150Mbps or even 300Mbps based on the model of your mini router.
+**Speed**: The wireless speed of the router.
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 

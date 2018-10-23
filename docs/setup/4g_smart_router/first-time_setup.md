@@ -1,4 +1,4 @@
-# Getting Start with GL.iNet 4G Smart Router
+# Getting Started with GL.iNet 4G Smart Router
 
 Models:
 
@@ -76,6 +76,6 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 
 ### 3) Admin Panel
-After language and password setting, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router. Please refer to [Admin Panel](internet.md) for the detailed instructions.
+After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router. Please refer to [Admin Panel](internet.md) for the detailed instructions.
 
 ![admin panel](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/main_ui.jpg)
