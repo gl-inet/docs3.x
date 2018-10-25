@@ -1,4 +1,4 @@
-html {
+﻿html {
     box-sizing: border-box
 }
 
@@ -22,7 +22,7 @@ hr {
     box-sizing: content-box
 }
 
-a {
+a, button {
     -webkit-text-decoration-skip: objects
 }
 
@@ -90,8 +90,6 @@ input {
     transition: opacity .25s, -webkit-transform .4s cubic-bezier(.1, .7, .1, 1);
     transition: transform .4s cubic-bezier(.1, .7, .1, 1), opacity .25s;
     transition: transform .4s cubic-bezier(.1, .7, .1, 1), opacity .25s, -webkit-transform .4s cubic-bezier(.1, .7, .1, 1);
-    font-size: 1.4rem;
-    opacity: .7
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -115,6 +113,7 @@ button {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 20;
     font-size: 1.2rem;
+    opacity: 1 !important;
     
 }
 
@@ -586,7 +585,6 @@ hr {
 
 .md-main__inner {
     height: 100%;
-    padding-top: 6rem;
     padding-bottom: .1rem
 }
 
@@ -1333,6 +1331,7 @@ html .md-nav__link[for=toc], html .md-nav__link[for=toc]+.md-nav__link:after, ht
     position: fixed;
     width: 24.2rem;
     padding: 2.4rem 0;
+    padding-top: 3rem;
     overflow: hidden;
 
 }
@@ -1561,12 +1560,11 @@ html body .md-typeset .md-source-file {
 }
 
 .md-tabs {
-    position: fixed;
     width: 100%;
     transition: background .25s;
     background-color: #3f51b5;
     color: #fff;
-    z-index: 10;
+    z-index: 5
 
 }
 

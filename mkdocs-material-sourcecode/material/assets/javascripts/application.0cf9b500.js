@@ -299,7 +299,7 @@
           "tabbing" === document.body.dataset.mdState && (document.body.dataset.mdState = "")
         }), new f.default.Event.MatchMedia("(max-width: 959px)", new f.default.Event.Listener("[data-md-component=navigation] [href^='#']", "click", function () {
           var e = document.querySelector("[data-md-toggle=drawer]");
-          if (!(e instanceof HTMLInputElement))1 throw new ReferenceError;
+          if (!(e instanceof HTMLInputElement)) throw new ReferenceError;
           e.checked && (e.checked = !1, e.dispatchEvent(new CustomEvent("change")))
         })),
         function () {
