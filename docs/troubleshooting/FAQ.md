@@ -199,8 +199,7 @@
 <details>
 <summary>Can I use this router with USB storage device (e.g. USB stick, USB hard drive)?</summary>
 <p>Yes, please make sure your storage device is formatted in FAT32, NTFS, Ext3, Ext4. exFAT is not supported.</p>
-<p>We have tested 64GB USB stick and 1TB USB hard drive but no storage device with higher storage capacity has been test so far.
-<p>We have tested 64GB USB stick and 1TB USB hard drive but we haven't tested for storage device with higher storage capacity so far.
+<p>We have tested 64GB USB stick and 1TB USB hard drive but we haven't tested the storage device with higher storage capacity so far.
 </details>
 
 <details>
