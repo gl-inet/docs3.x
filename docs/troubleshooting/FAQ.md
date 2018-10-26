@@ -66,8 +66,7 @@
 
 <details>
 <summary>What is the range of the Wi-Fi coverage?</summary>
-<p>Based on our test, our routers can cover around 80 to 100 meters in open area, 20 to 30 meters in indoor area.</p>
-<p>Based on our test, our routers can cover around 80 to 100 meters in open area.</p>
+<p>Based on our test, our routers can cover around 80-100 meters in open area. Generally, the Wi-Fi coverage in a house should be around 20-30 meters</p>
 </details>
 
 <details>
