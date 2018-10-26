@@ -5,13 +5,14 @@
 <details>
 <summary>Why can't I access the router through 192.168.8.1?</summary>
 <p>Please check <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">setup</a> to make sure you have connected to the router properly. Then, use <b>Chrome</b> or <b>Firefox</b> to visit 192.168.8.1. Don't use Internet Explorer.</p>
-<p> If the problem still exists, <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot</a></p>
+<p> If the problem still exists, <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a></p>
 </details>
 
 <details>
 <summary>What should I do if my router is bricked?</summary>
-<p>Please re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot</a></p>
+<p>Please re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a></p>
 </details>
+
 
 <details>
 <summary>How to check the firmware version of the router?</summary>
@@ -66,7 +67,7 @@
 
 <details>
 <summary>What is the range of the Wi-Fi coverage?</summary>
-<p>Based on our test, our routers can cover around 80-100 meters in open area. Generally, the Wi-Fi coverage in a house should be around 20-30 meters</p>
+<p>Based on our test, our routers can cover around 80-100 meters in open area. Generally, the Wi-Fi coverage in a house should be around 20-30 meters.</p>
 </details>
 
 <details>
