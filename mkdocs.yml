@@ -104,6 +104,15 @@ pages:
             - VPN: 'setup/microuter/vpn.md'
             - Applications: 'setup/microuter/applications.md'
             - More Settings: 'setup/microuter/more_settings.md'
+    - VIXMINI:
+        - First-time Setup: 'setup/vixmini/first-time_setup.md'
+        - Admin Panel:
+            - Internet: 'setup/vixmini/internet.md'
+            - Wireless: 'setup/vixmini/wireless.md'
+            - Clients: 'setup/vixmini/clients.md'
+            - Upgrade: 'setup/vixmini/upgrade.md'
+            - Applications: 'setup/vixmini/applications.md'
+            - More Settings: 'setup/vixmini/more_settings.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'

@@ -19,6 +19,7 @@
       <label id="slate_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="fourg_smart_router_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="microuter_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+      <label id="vixmini_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -40,6 +41,10 @@
           if (window.location.href.indexOf("microuter") != -1) {
             document.getElementById("microuter_label").innerHTML = ("Microuter");
             document.getElementById("microuter_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("vixmini") != -1) {
+            document.getElementById("vixmini_label").innerHTML = ("VIXMINI");
+            document.getElementById("vixmini_label").style.display = "block";
           }
       </script>
 
@@ -88,6 +93,15 @@
         <a id="microuter_vpn" href="../../microuter/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="microuter_applications" href="../../microuter/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="microuter_more_settings" href="../../microuter/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="vixmini_first-time_setup" href="../../vixmini/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="vixmini_internet" href="../../vixmini/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="vixmini_wireless" href="../../vixmini/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="vixmini_clients" href="../../vixmini/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="vixmini_upgrade" href="../../vixmini/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="vixmini_applications" href="../../vixmini/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="vixmini_more_settings" href="../../vixmini/more_settings/" style="display: none;" class="md-nav__link"></a>
+
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -183,6 +197,23 @@
             document.getElementById("microuter_applications").style.display = "block";
             document.getElementById("microuter_more_settings").innerHTML = ("More Settings");
             document.getElementById("microuter_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("vixmini") != -1) {
+            document.getElementById("vixmini_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("vixmini_first-time_setup").style.display = "block";
+            document.getElementById("vixmini_internet").innerHTML = ("Internet");
+            document.getElementById("vixmini_internet").style.display = "block";
+            document.getElementById("vixmini_wireless").innerHTML = ("Wireless");
+            document.getElementById("vixmini_wireless").style.display = "block";
+            document.getElementById("vixmini_clients").innerHTML = ("Clients");
+            document.getElementById("vixmini_clients").style.display = "block";
+            document.getElementById("vixmini_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("vixmini_upgrade").style.display = "block";
+            document.getElementById("vixmini_applications").innerHTML = ("Applications");
+            document.getElementById("vixmini_applications").style.display = "block";
+            document.getElementById("vixmini_more_settings").innerHTML = ("More Settings");
+            document.getElementById("vixmini_more_settings").style.display = "block";
           }
         </script> 
       </ul>
