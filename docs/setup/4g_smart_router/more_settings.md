@@ -96,4 +96,4 @@ Click `Advanced` to direct to Luci which is the default web interface of OpenWrt
 
 ![advanced](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/more_settings/advanced.jpg)
 
-*Note: The username is **root**. The password is same as the one that you used to access the web Admin Panel.*
+*Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

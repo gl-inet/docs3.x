@@ -17,7 +17,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	grid-template-columns: 33% 33% 33%;
 	grid-template-rows: 50% 50%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
     float: left;
     width: 95%;
     margin-right: 2%;
@@ -28,7 +28,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     border-style: solid;
     border-color: #ffffff
 }
-	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover {
+	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover {
     border-color: #b6bde3 !important;
 }
 	@media only screen and (max-width: 30em) {
@@ -59,6 +59,11 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         <div class="box-3">
         	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
             	<img src="docs_icon_mifi.png" width=100%>
+            </a>
+        </div>
+        <div class="box-6">
+        	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
+            	<img src="docs_icon_spitz.png" width=100%>
             </a>
         </div>
     	<div class="box-4">

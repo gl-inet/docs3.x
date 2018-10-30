@@ -18,6 +18,7 @@
       <label id="travel_ac_router_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="slate_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="fourg_smart_router_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
+      <label id="spitz_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="microuter_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="vixmini_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
@@ -37,6 +38,10 @@
           if (window.location.href.indexOf("4g_smart_router") != -1) {
             document.getElementById("fourg_smart_router_label").innerHTML = ("4G Smart Router");
             document.getElementById("fourg_smart_router_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("spitz") != -1) {
+            document.getElementById("spitz_label").innerHTML = ("Spitz");
+            document.getElementById("spitz_label").style.display = "block";
           }
           if (window.location.href.indexOf("microuter") != -1) {
             document.getElementById("microuter_label").innerHTML = ("Microuter");
@@ -84,6 +89,15 @@
         <a id="4g_smart_router_vpn" href="../../4g_smart_router/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="4g_smart_router_applications" href="../../4g_smart_router/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="4g_smart_router_more_settings" href="../../4g_smart_router/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="spitz_first-time_setup" href="../../spitz/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_internet" href="../../spitz/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_wireless" href="../../spitz/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_clients" href="../../spitz/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_upgrade" href="../../spitz/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_vpn" href="../../spitz/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_applications" href="../../spitz/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="spitz_more_settings" href="../../spitz/more_settings/" style="display: none;" class="md-nav__link"></a>
 
         <a id="microuter_first-time_setup" href="../../microuter/first-time_setup/" style="display: none;" class="md-nav__link"></a>
         <a id="microuter_internet" href="../../microuter/internet/" style="display: none;" class="md-nav__link"></a>
@@ -178,6 +192,25 @@
             document.getElementById("4g_smart_router_applications").style.display = "block";
             document.getElementById("4g_smart_router_more_settings").innerHTML = ("More Settings");
             document.getElementById("4g_smart_router_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("spitz") != -1) {
+            document.getElementById("spitz_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("spitz_first-time_setup").style.display = "block";
+            document.getElementById("spitz_internet").innerHTML = ("Internet");
+            document.getElementById("spitz_internet").style.display = "block";
+            document.getElementById("spitz_wireless").innerHTML = ("Wireless");
+            document.getElementById("spitz_wireless").style.display = "block";
+            document.getElementById("spitz_clients").innerHTML = ("Clients");
+            document.getElementById("spitz_clients").style.display = "block";
+            document.getElementById("spitz_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("spitz_upgrade").style.display = "block";
+            document.getElementById("spitz_vpn").innerHTML = ("VPN");
+            document.getElementById("spitz_vpn").style.display = "block";
+            document.getElementById("spitz_applications").innerHTML = ("Applications");
+            document.getElementById("spitz_applications").style.display = "block";
+            document.getElementById("spitz_more_settings").innerHTML = ("More Settings");
+            document.getElementById("spitz_more_settings").style.display = "block";
           }
 
           if (window.location.href.indexOf("microuter") != -1) {

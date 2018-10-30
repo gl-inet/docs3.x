@@ -20,7 +20,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 **Share via LAN**: Share the contents of the external storage device with all connected clients.
 
-**Share via WAN**: The contents of the external storage device can be access from the WAN.
+**Share via WAN**: The contents of the external storage device can be accessed from the WAN.
 
 **Writable**: The contents of the external storage device can be edited.
 

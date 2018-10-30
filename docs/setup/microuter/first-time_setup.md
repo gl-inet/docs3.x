@@ -68,6 +68,6 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 
 ### 3) Admin Panel
-After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router. Please refer to [Admin Panel](internet.md) for the detailed instructions.
+After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
 ![admin panel](https://static.gl-inet.com/docs/en/3/setup/microuter/first-time_setup/main_ui.jpg)
