@@ -62,7 +62,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
             </a>
         </div>
         <div class="box-6">
-        	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
             	<img src="docs_icon_spitz.png" width=100%>
             </a>
         </div>
