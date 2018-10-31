@@ -70,7 +70,7 @@ In Repeater section, click `Scan` to search for the available wireless networks 
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/internet/wisp2.jpg)
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg)
 
 
 
