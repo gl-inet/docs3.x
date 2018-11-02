@@ -6,8 +6,8 @@
 
 Firmware file:
 
-- Update through Uboot: [gl-ar750s-3.003.img](http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/gl-ar750s-3.003.img)
-- Update through Admin Panel: [gl-ar750s-3.003.tar](http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/gl-ar750s-3.003.tar)
+- Update through Uboot: <a href="http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/gl-ar750s-3.003.img" target="_blank">gl-ar750s-3.003.img</a>
+- Update through Admin Panel: <a href="http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/gl-ar750s-3.003.tar" target="_blank">gl-ar750s-3.003.tar</a>
 
 **New Features:**
 
@@ -34,8 +34,8 @@ Firmware file:
 
 Firmware file:
 
-- Update through Uboot: [openwrt-ar750s-3.001.img](http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/openwrt-ar750s-3.001.img)
-- Update through Admin Panel: [openwrt-ar750s-3.001.tar](http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/openwrt-ar750s-3.001.tar)
+- Update through Uboot: <a href="http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/openwrt-ar750s-3.001.img" target="_blank">openwrt-ar750s-3.001.img</a>
+- Update through Admin Panel: <a href="http://download.gl-inet.com.s3.amazonaws.com/firmware/ar750s/release/openwrt-ar750s-3.001.tar" target="_blank">openwrt-ar750s-3.001.tar</a>
 
 
 

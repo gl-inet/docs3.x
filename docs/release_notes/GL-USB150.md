@@ -4,7 +4,7 @@
 
 ##v3.001 - SEP 12, 2018
 
-Firmware file: [gl-usb150-3.001.bin](http://download.gl-inet.com.s3.amazonaws.com/firmware/usb150/v1/gl-usb150-3.001.bin)
+Firmware file: <a href="http://download.gl-inet.com.s3.amazonaws.com/firmware/usb150/v1/gl-usb150-3.001.bin" target="_blank">gl-usb150-3.001.bin</a>
 
 **New Features:**
 
@@ -32,5 +32,5 @@ Firmware file: [gl-usb150-3.001.bin](http://download.gl-inet.com.s3.amazonaws.co
 
 ##v3.0 - JUN 22, 2018
 
-Firmware file: [openwrt-usb150-3.0.bin](http://download.gl-inet.com.s3.amazonaws.com/firmware/usb150/v1/openwrt-usb150-3.0.bin)
+Firmware file: <a href="http://download.gl-inet.com.s3.amazonaws.com/firmware/usb150/v1/openwrt-usb150-3.0.bin" target="_blank">openwrt-usb150-3.0.bin</a>
 

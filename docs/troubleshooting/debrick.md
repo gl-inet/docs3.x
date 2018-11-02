@@ -22,21 +22,39 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
         </p>
     </li>
     <li>
-    	<p>The LEDs will start blinking.
+    	<p>The Power LED will light up. Then, other LEDs will start flashing.
         </p>
     </li>
     <li>
     	<p>Release your finger when you see the LED has flashed:
         <ul>
-        	<li>5 times for GL-AR150, GL-AR300M, GL-MiFi, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate)</li>
-        	<li>3 times for GL-MT300N, GL-MT300A, and GL-B1300</li>
+        	<li><b>5 times</b> for GL-AR150, GL-AR300M, GL-MiFi, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz).</li>
+        	<li><b>3 times</b> for GL-MT300N, GL-MT300A, and GL-B1300.</li>
         </ul>
         </p>
     </li>
     <li>
-    	<p>Set your computer’s IP address to <b>192.168.1.2</b>.<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/debrick/set_ip.jpg">
-        </p>
-    </li>
+    	<p>Set your computer’s IP address to <b>192.168.1.2</b>. Please check the step-by-step guide for different operating systems below:</p>
+        <details>
+        <summary>Windows 7 / Windows 10</summary>
+        <ol type="1">
+        	<li>Go to Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings.</li>
+        	<li>Right click Local Area Connection -> Properties.</li>
+        	<li>Click Internet Protocol Version 4 (TCP/IPv4) -> Properties.</li>
+        	<li>Set the IP adress to 192.168.1.2 manually.</li>
+        	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/debrick/set_ip.jpg">
+        </ol>
+        </details>
+        <details>
+        <summary>Mac</summary>
+        <ol type="1">
+        	<li>Go to System Preferences -> Network.</li>
+        	<li>Chooose Ethernet -> Advanced -> TCP/IP.</li>
+        	<li>In Configure IPv4, choose Manually.</li>
+        	<li>Set the IPv4 Address to 192.168.1.2 manually.</li>
+        </ol>
+        </details>
+	</li>
     <li>
     	<p>Use Firefox or Chrome to visit <b>http://192.168.1.1</b>.<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/debrick/ui.jpg">
         </p>
@@ -44,9 +62,11 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
     <li>
     	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. You can download the firmware <a href="http://download.gl-inet.com/firmware">here</a>.
         </p>
+        <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file and upload to the Nand flash.
+        <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/uboot.jpg"><p>
     </li>
     <li>
-    	<p>Wait for around 3 minutes. Don’t power off your device when updating.
+    	<p>Wait for around 3 minutes. Don’t power off your device when updating. The router is ready when both power and  Wi-Fi LED are on or you can find its SSID on your device.
         </p>
     </li>
     <li>
