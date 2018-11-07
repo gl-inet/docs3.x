@@ -14,7 +14,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
 
 <ol type="1">
     <li>
-        <p> Connect your computer to the <b>LAN port</b> of the router, and leave the other port <b>unconnected</b>.
+        <p> Connect your computer to the <b>Ethernet port (either LAN or WAN)</b> of the router, and you <b>MUST</b> leave the other port <b>unconnected</b>.
         </p>
     </li>
     <li>
@@ -70,7 +70,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
         </p>
     </li>
     <li>
-    	<p>Revert the IP setting you did in step 5 and you will be able to access the router via 192.168.8.1 again.
+    	<p>Revert the IP setting you did in step 5 and connect your device to the LAN or Wi-Fi of the router. You will be able to access the router via 192.168.8.1 again.
         </p>
     </li>
 </ol>
