@@ -29,8 +29,6 @@
 </details>
 
 <details>
-<summary>Can I set up the router as a bridge so that it just like I am connecting to my main router directly?</summary>
-<p>Yes, GL.iNet routers work in router mode by default, which will create a separated subnet for you. However, you can change its network mode so that it can bahave like an extender without DHCP.</p>
 <summary>Can I set up the router as a bridge so that it works like I am connecting to my main router directly?</summary>
 <p>Yes, GL.iNet routers work in router mode by default, which will create a separated subnet for you. However, you can change its network mode so that it can behave like an extender without DHCP.</p>
 <ol type="1">

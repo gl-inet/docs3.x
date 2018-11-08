@@ -23,25 +23,25 @@ It has several sub-models:
 
 ##  Hardware Specification
 
-|                         Model | GL-AR300M Series                         |
-| ----------------------------: | :--------------------------------------- |
-|                           CPU | QCA9531 650MHz                           |
-|                        Memory | DDRII 128MB                              |
-|                       Storage | 16MB Nor, 128 MB Nand (Optional)         |
+|                         Model | GL-AR300M Series                                             |
+| ----------------------------: | :----------------------------------------------------------- |
+|                           CPU | QCA9531 650MHz                                               |
+|                        Memory | DDRII 128MB                                                  |
+|                       Storage | 16MB Nor, 128 MB Nand (Optional)                             |
 |                    Interfaces | 1 WAN, 1 LAN, 1 USB2.0, 1 Micro USB (power), 1 Reset Button, PCIe, UART |
-|                     Frequency | 2.4GHz                                   |
-|             Transmission Rate | 300Mbps                                  |
-|                 Max. Tx Power | 20dBm                                    |
-|                      Protocol | 802.11 b/g/n                             |
-| External Drive Format Support | FAT32/NTFS/exFAT/EXT4/EXT3/EXT2          |
-|                Webcam Support | MJPEG, YUV (not support from firmware v2.27) |
-|                  DIY Features | UART, GPIO, PCIe, 3.3V & 5V power port   |
-|      External Antenna Support | Yes (optional)                           |
-|            PoE Module Support | No                                       |
-|                   Power Input | 5V/1A                                    |
-|             Power Consumption | <2W                                      |
-|             Dimension, Weight | 58mmX58mmX25mm, 39g                      |
-|                  PCIe headers | Yes                                      |
+|                     Frequency | 2.4GHz                                                       |
+|             Transmission Rate | 300Mbps                                                      |
+|                 Max. Tx Power | 20dBm                                                        |
+|                      Protocol | 802.11 b/g/n                                                 |
+| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
+|                Webcam Support | MJPEG, YUV (not support from firmware v2.27)                 |
+|                  DIY Features | UART, GPIO, PCIe, 3.3V & 5V power port                       |
+|      External Antenna Support | Yes (optional)                                               |
+|            PoE Module Support | No                                                           |
+|                   Power Input | 5V/1A                                                        |
+|             Power Consumption | <2W                                                          |
+|             Dimension, Weight | 58mmX58mmX25mm, 39g                                          |
+|                  PCIe headers | Yes                                                          |
 
 
 

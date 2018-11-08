@@ -12,24 +12,24 @@ The 2.4G antenna is on the PCB and don't have a uFL connector. While the 5G ante
 
 ## Hardware Specification
 
-|                         Model | GL-AR750                                 |
-| ----------------------------: | :--------------------------------------- |
-|                           CPU | QCA9531 650MHz                           |
-|                        Memory | DDRII 128MB                              |
-|                       Storage | 16MB Nor Flash                           |
+|                         Model | GL-AR750                                                     |
+| ----------------------------: | :----------------------------------------------------------- |
+|                           CPU | QCA9531 650MHz                                               |
+|                        Memory | DDRII 128MB                                                  |
+|                       Storage | 16MB Nor Flash                                               |
 |                    Interfaces | 1 WAN (100Mbps), 2 LANs (100Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, UART, TF Card Slot (128GB Max.) |
-|                     Frequency | 2.4GHz, 5GHz                           |
-|             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)        |
-|                 Max. Tx Power | 20dBm (2.4GHz)/20dBm(5GHz)               |
-|                      Protocol | 802.11 b/g/n/ac                          |
-| External Drive Format Support | FAT32/NTFS/exFAT/EXT4/EXT3/EXT2          |
-|                Webcam Support | MJPEG, YUV (not support from firmware v2.27) |
-|                  DIY Features | UART, GPIO, 3.3V & 5V power port         |
-|      External Antenna Support | No                                       |
-|            PoE Module Support | Yes                                      |
-|                   Power Input | 5V/2A                                    |
-|             Power Consumption | <6W                                      |
-|             Dimension, Weight | 88mmX68mmX24mm, 66g                      |
+|                     Frequency | 2.4GHz, 5GHz                                                 |
+|             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
+|                 Max. Tx Power | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
+|                      Protocol | 802.11 b/g/n/ac                                              |
+| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
+|                Webcam Support | MJPEG, YUV (not support from firmware v2.27)                 |
+|                  DIY Features | UART, GPIO, 3.3V & 5V power port                             |
+|      External Antenna Support | No                                                           |
+|            PoE Module Support | Yes                                                          |
+|                   Power Input | 5V/2A                                                        |
+|             Power Consumption | <6W                                                          |
+|             Dimension, Weight | 88mmX68mmX24mm, 66g                                          |
 
 
 

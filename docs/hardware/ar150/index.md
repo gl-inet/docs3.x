@@ -7,24 +7,24 @@ AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 
 ## Hardware Specification
 
-|                         Model | GL-AR150                                 |
-| ----------------------------: | :--------------------------------------- |
-|                           CPU | Atheros 9331 400MHz                      |
-|                        Memory | DDRII 64MB                               |
-|                       Storage | 16MB flash                               |
+|                         Model | GL-AR150                                                     |
+| ----------------------------: | :----------------------------------------------------------- |
+|                           CPU | Atheros 9331 400MHz                                          |
+|                        Memory | DDRII 64MB                                                   |
+|                       Storage | 16MB flash                                                   |
 |                    Interfaces | 1 WAN, 1 LAN, 1 USB2.0, 1 Micro USB (power), 1 Reset Button, UART |
-|                     Frequency | 2.4GHz                                   |
-|             Transmission Rate | 150Mbps                                  |
-|                 Max. Tx Power | 18dBm                                    |
-|                      Protocol | 802.11 b/g/n                             |
-| External Drive Format Support | FAT32/NTFS/exFAT/EXT4/EXT3/EXT2          |
+|                     Frequency | 2.4GHz                                                       |
+|             Transmission Rate | 150Mbps                                                      |
+|                 Max. Tx Power | 18dBm                                                        |
+|                      Protocol | 802.11 b/g/n                                                 |
+| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
 |                Webcam Support | MJPEG, YUV (web cam not support any more from firmware v2.27) |
-|                  DIY Features | UART, GPIO,  3.3V & 5V power port        |
-|      External Antenna Support | Yes (optional)                           |
-|            PoE Module Support | Yes (optional)                           |
-|                   Power Input | 5V/1A                                    |
-|             Power Consumption | <1.5W                                    |
-|             Dimension, Weight | 58mmX58mmX25mm, 39g                      |
+|                  DIY Features | UART, GPIO,  3.3V & 5V power port                            |
+|      External Antenna Support | Yes (optional)                                               |
+|            PoE Module Support | Yes (optional)                                               |
+|                   Power Input | 5V/1A                                                        |
+|             Power Consumption | <1.5W                                                        |
+|             Dimension, Weight | 58mmX58mmX25mm, 39g                                          |
 
 
 
