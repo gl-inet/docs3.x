@@ -122,7 +122,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 
 <details>
 <summary>Astrill</summary>
-<p><a href="https://www.astrill.com/">Official Website</a></p>
+<p><a href="https://www.astrill.com/a/k84h2c1apba0">Official Website</a></p>
 
 <p>*Information quoted from <a href="https://wiki.astrill.com/Astrill_Setup_Manual:How_to_configure_OpenVPN_with_OpenVPN_application_on_Windows">Astrill official instruction</a></p></a>
 
