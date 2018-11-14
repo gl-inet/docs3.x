@@ -142,15 +142,19 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 </details>
 
 
-
 <details>
 <summary>CactusVPN</summary>
 <p><a href="https://www.cactusvpn.com/">Official Website</a></p>
-
 <p><a href="https://www.cactusvpn.com/downloads/">Download</a> directly.</p>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/CactusVPN1.jpg" /></p>
 </details>
 
+
+<details>
+<summary>Cryptostorm</summary>
+<p><a href="https://cryptostorm.is/">Official Website</a></p>
+<p><a href="https://cryptostorm.is/configs/ecc/">Download</a> directly.</p>
+</details>
 
 
 <details>
