@@ -354,6 +354,15 @@ miami.proxpn.com - Miami</p>
 </details>
 
 
+<details>
+<summary>Surfshark</summary>
+<p><a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400">Official Website</a></p>
+
+<p>Login and <a href="https://account.surfshark.com/setup/manual">Download</a> directly.</p>
+
+</details>
+
+
 
 
 
