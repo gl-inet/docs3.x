@@ -43,32 +43,32 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	<div class="row-box">
         <div class="box-0">
             <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">
-            	<img src="docs_icon_mini.png" class="image" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" class="image" width=100%>
             </a>
         </div>
     	<div class="box-1">
     		<a href="https://docs.gl-inet.com/en/3/setup/travel_ac_router/first-time_setup/">
-            	<img src="docs_icon_750.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">
     		<a href="https://docs.gl-inet.com/en/3/setup/slate/first-time_setup/">
-            	<img src="docs_icon_750s.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
         <div class="box-3">
         	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
-            	<img src="docs_icon_mifi.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
             </a>
         </div>
         <div class="box-6">
         	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
-            	<img src="docs_icon_spitz.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_spitz.png" width=100%>
             </a>
         </div>
     	<div class="box-4">
     		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
-            	<img src="docs_icon.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter.png" width=100%>
             </a>
 		</div>
     	<div class="box-5" style="display: none">
