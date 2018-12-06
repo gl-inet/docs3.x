@@ -38,6 +38,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     	}
 }
 </style>
+
 <h2>Getting Started</h2>
 <div class="row1">
 	<div class="row-box">

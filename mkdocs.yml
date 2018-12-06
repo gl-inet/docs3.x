@@ -129,6 +129,7 @@ pages:
     - WireGuard: 'app/wireguard.md'
     - qDslrDashboard: 'app/qdslrdashboard.md'
     - File Sharing: 'app/file_sharing.md'
+    - DDNS: 'app/ddns.md'
 - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
