@@ -4,7 +4,7 @@ Models:
 
 GL-AR750, GL-AR750-PoE
 
-![router](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setupsrc/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/router.jpg)
 
 
 
