@@ -2,7 +2,11 @@
 
 Dynamic Domain Name Service(DDNS) is a service used to map a domain name to the dynamic IP address of a network device.
 
-DDNS on v3.x firmware only support GL-AR750S(Slate) with testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/" target="_blank">v3.010</a> and above right now, other devices will coming soon.
+only support testing firmware v3.010 and above right now. 
+
+GL-AR750 testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">download</a>
+
+Other devices will coming soon.
 
 ## 1) Install gl-cloud-ui plug
 
