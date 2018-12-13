@@ -4,15 +4,27 @@ Dynamic Domain Name Service(DDNS) is a service used to map a domain name to the 
 
 only support testing firmware v3.010 and above right now. 
 
+## Setup
+
+GoodCloud only support testing firmware v3.010 and above right now. 
+
+### Donwload firmware file
+
 GL-AR750 testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">download</a>
 
 Other devices will coming soon.
+
+### Local upgrade
+
+Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+
+At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
 ## 1) Install gl-cloud-ui plug
 
 ![install-gl-cloud-ui](https://static.gl-inet.com/docs/en/3/app/ddns/install-gl-cloud-ui.png)
 
-Access to router Admin Panel (http://192.168.8.1), at the left sidebar, APPLICATIONS -> Plug-ins,
+Access to router Admin Panel (default is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>), at the left sidebar, APPLICATIONS -> Plug-ins,
 click "Update" button to updage Plug-ins, then input "gl-cloud-ui" and click "Install" button. After installation, press "F5" to refresh Admin Panel, a new item "Remote Access" will appear inside APPLICATIONS.
 
 ## 2) Enable DDNS 
@@ -53,3 +65,27 @@ After you enable HTTP Remote Access, you can access Admin Panel anywhere by your
 ![SSH-Remote-Access](https://static.gl-inet.com/docs/en/3/app/ddns/SSH-Remote-Access.png)
 
 Follow the steps above, to enable SSH Remote Access, then you can use Terminal toos to ssh anywhere. 
+
+## 6) Uninstall
+
+If you don't want DDNS, just disable it.
+
+![disable ddns](https://static.gl-inet.com/docs/en/3/app/ddns/disable-ddns.png)
+
+![after disable ddns](https://static.gl-inet.com/docs/en/3/app/ddns/after-disable-ddns.png)
+
+After disable DDNS, the interface is like above.
+
+If you want uninstall DDNS feature to save space, you need to uninstall `gl-cloud-ui`, `gl-ddns`, and `gl-mqtt` plug-ins.
+
+![uninstall gl-cloud-ui](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-cloud-ui.png)
+
+Follow the steps above, to uninstall `gl-cloud-ui` plug-in.
+
+![uninstall ddns](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-ddns.png)
+
+Follow the steps above, to uninstall `gl-ddns` plug-in.
+
+![uninstall mqtt](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-mqtt.png)
+
+Follow the steps above, to uninstall `gl-mqtt` plug-in.

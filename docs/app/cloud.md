@@ -103,3 +103,27 @@ After you seccessfully add router to GoodCloud, go back to router Web Admin Pane
 ![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png)
 
 If the binded GoodCloud username isn't yours, just send email to <a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a> for help.
+
+## Uninstall
+
+If you don't want Cloud, just disable it.
+
+![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png)
+
+![after disable cloud](https://static.gl-inet.com/goodcloud/docs/after-disable-cloud.png)
+
+After disable Cloud, the interface is like above.
+
+If you want uninstall Cloud feature to save space, you need to uninstall `gl-cloud-ui`, `gl-ddns`, and `gl-mqtt` plug-ins.
+
+![uninstall gl-cloud-ui](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-cloud-ui.png)
+
+Follow the steps above, to uninstall `gl-cloud-ui` plug-in.
+
+![uninstall ddns](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-ddns.png)
+
+Follow the steps above, to uninstall `gl-ddns` plug-in.
+
+![uninstall mqtt](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-mqtt.png)
+
+Follow the steps above, to uninstall `gl-mqtt` plug-in.
