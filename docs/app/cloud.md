@@ -106,7 +106,7 @@ If the binded GoodCloud username isn't yours, just send email to <a href="mailto
 
 ## Uninstall
 
-If you don't want Cloud, just disable it.
+If you don't want Cloud, just disable it folow the step below on router Web Admin Panel. It don't need to do anything on GoodCloud web site.
 
 ![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png)
 
