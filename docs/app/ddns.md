@@ -20,6 +20,8 @@ GL-AR150 testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing
 
 GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">download</a>
 
+GL-MT300N-V2(Mango) testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">download</a>
+
 Other devices will coming soon.
 
 ### Local upgrade
