@@ -72,7 +72,7 @@ After you enable HTTP Remote Access, you can access Admin Panel anywhere by your
 
 ![SSH-Remote-Access](https://static.gl-inet.com/docs/en/3/app/ddns/SSH-Remote-Access.png)
 
-Follow the steps above, to enable SSH Remote Access, then you can use Terminal toos to ssh anywhere. 
+Follow the steps above, to enable SSH Remote Access, then you can use Terminal tools to ssh anywhere. 
 
 ## 6) Uninstall
 
