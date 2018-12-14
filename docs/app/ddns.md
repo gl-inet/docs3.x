@@ -10,7 +10,15 @@ GoodCloud only support testing firmware v3.010 and above right now.
 
 ### Donwload firmware file
 
+GL-AR750S(Slate) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">download</a>
+
 GL-AR750 testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">download</a>
+
+GL-USB150(Microuter) testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">download</a>
+
+GL-AR150 testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank">download</a>
+
+GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">download</a>
 
 Other devices will coming soon.
 
