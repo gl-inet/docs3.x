@@ -104,6 +104,8 @@ Click "Refresh" to force auto discover devices again.
 
 If can't discover automatically, select "Manually add". All information can be found on the back of the router.
 
+PS: Input "MAC", "SN" and "DDNS" here just to verify that the router is really original/valid. DDNS feature and the Cloud feature are separate things.
+
 ![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device.png)
 
 "Bulk import" feature is for if you have many devices to add. 
