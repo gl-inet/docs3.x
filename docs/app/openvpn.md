@@ -124,7 +124,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 <summary>Astrill</summary>
 <p><a href="https://www.astrill.com/a/k84h2c1apba0">Official Website</a></p>
 
-<p>*Information quoted from <a href="https://wiki.astrill.com/Astrill_Setup_Manual:How_to_configure_OpenVPN_with_OpenVPN_application_on_Windows">Astrill official instruction</a></p></a>
+<p>*Information quoted from <a href="https://wiki.astrill.com/Astrill_Setup_Manual:How_to_configure_OpenVPN_with_OpenVPN_application_on_Windows">Astrill official instruction</a></p>
 
 <ol type="1">
 
@@ -154,6 +154,28 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 <summary>Cryptostorm</summary>
 <p><a href="https://cryptostorm.is/">Official Website</a></p>
 <p><a href="https://cryptostorm.is/configs/ecc/">Download</a> directly.</p>
+</details>
+
+
+<details>
+<summary>CyberGhost</summary>
+<p><a href="https://support.cyberghostvpn.com/hc/en-us">Official Website</a></p>
+<p>*Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0">CyberGhost official instruction</a></p>
+<ol type="1">
+
+<li>Login your CyberGhost VPN online account.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/001.png" /></p>
+<li>Click My Devices -> Add a new device.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/002.png" /></p>
+<li>Choose other and click Create new credentials.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/003.png" /></p>
+<li>Choose Router.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/004.png" /></p>
+<li>Input the name of the device and enable any feature that you need. Next, choose the Protocol, Country, Server group. You should also be able to find the Username and Password which you have to input when you are uploading the configuration file to the router. Finally, click Download Configuration.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/mydevices_052.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/mydevices_055.png" /></p>
+
+</ol>
 </details>
 
 
