@@ -18,7 +18,7 @@ Firmware file:
 - Improved Wi-Fi repeater reconnection issue.
 - Fixed OpenVPN data leakage.
 - Fixed OpenVPN configuration file upload failure caused by file name which includes `'`.
-- Supported PiVPN configuration file.
+- Support PiVPN configuration file.
 - Fixed  SSH login failure caused by admin password which includes quotation mark `'` and full stop `.`.
 - Fixed WireGuard data leakage.
 
