@@ -10,7 +10,7 @@ Firmware file: [gl-ar750-3.010.bin](https://dl.gl-inet.com/firmware/ar750/v1/gl-
 
 - OpenWrt Updated to version 18.06.
 - Adopted new user-interface.
-- WireGuard Server/Client pre-installed, supports Azirevpn and Mullvad service provider.
+- WireGuard Server/Client pre-installed, supports Azirevpn and Mullvad service providers.
 - Support DNS over TLS from Cloudflare.
 - Support various 5GHz Wi-Fi speed configurations.
 - Added [GL Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
