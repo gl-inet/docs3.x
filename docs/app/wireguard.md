@@ -1,111 +1,101 @@
-# WireGuard Setting for Firmware 3.0  
-
-The future of VPN technology
+# WireGuard Settings for Firmware 3.0  
 
 WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/), [simpler](https://www.wireguard.com/quickstart/), leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
 
-You can setup and use Wireguard easily in firmware 3.0, wiregurad server and clients are pre-installed in firmware 3.0. 
+You can setup and use WireGuard easily in firmware 3.0, wireGurad server and clients are pre-installed in firmware 3.0. 
 
 
 
 ---
 
-## 1. Wiregurad Server Setup
+## WireGurad Server
 
-1.1 Finish first-time setup and login the router, then make sure the internet connection. 
-
-
-
-1.2 After internet connection, select **VPN -> Wireguard Server** at left slide menu. 
+You can set up a WireGuard server on GL.iNet router with firmware 3.0. Click `+ Create a New User`.
 
 ![1531199972139](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS1.png)
 
 
 
-1.3 Select "**Create a New User**" in the **Wireguard Server** Management Page
+###1) Start a WireGuard server
 
-![1531200135703](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS2.png)
+You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
 
-Keep default parameter of Local IP and Local Port in the right table, or you can customize them. 
-
-1.4 Then click green "**Start**", the dot before Wireguard Server will turn to green. 
-
-Now the Wireguard Server is start. 
+![Sever Configuration](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS2.png)
 
 
 
-##2. Create and Copy Configuration Files for Clients 
+###2) Add a new client
 
-To use Wireguard VPN services, it's necessary to copy and transfer configure file. 
+You have to add a new user and apply the configurations when you are connecting to this WireGuard server.
 
-2.1 Click "**Management**" tab to generate configuration file for Wireguard-Client. 
+Click `Management` tab and then `Create a New User`. 
 
-![1531200402570](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS3.png)
-
-
-
-The following pop-up window will display, fill in the name of the wireguard clients in right table and click "**Add**".
-
-![1531200816379](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS4.png)
-
-You can add as many clients as you need, each client (peer) has its own configuration file. also you can delete any config file you don't need any more by click the "**Delete**" icon.
+![Add Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS3.png)
 
 
 
-2.2 After created all config file, just click "**Copy Config**" Icon, the config information will pop-up. 
+Specify the **Name** of the new client and then click `Add`.
 
-![1531201685316](https://static.gl-inet.com/docs/en/3/app/wireguard/WGConf1.png)
-
-Copy the whole configuration information to a text file and save it. 
+![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS4.png)
 
 
 
-## 3. Wireguard Client Setup 
+### 3) Get the configuration details for your client
 
-3.1 If you are also using our AR750S as a client, follow the step, 1.1 and 1.2. Just select Wireguard Client in the VPN option.
+You can now check the list of the clients you added. You can `Delete` any unwanted client. Please click `Configurations` to find the configuration details which you need to use when you are setting up WireGuard client. We provide QRcode, Plain Text and JSON configurations currently.
 
-![1531201993045](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC1.png)
-
-
-
-3.2 Click "**Add a new profile**" in Wireguard Client web management page, the following window will pop-up
-
-![1531202195068](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC2.png)
+![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations.jpg)
 
 
 
-3.3 Input your "**Wireguard Server Name**", then click "**Next**".  
+If you are using another GL.iNet router as a client, please copy the **JSON** configuration and paste it directly when you are setting up WireGuard client.
 
-![1531205464882](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC3.png)
-
-Paste all information copied from Step 2.2, then click "**Add**". 
-
-Or you can select "**Manual**" Input tab, and input Wireguard Client setup parameter manually. 
-
-![1531206197642](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC4.png)
-
-Click "**Add**" to finish the Wireguard Client configuration. 
+![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/json.jpg)
 
 
 
-3.4 The Wireguard web management page will auto display and "**Success!**" will show on the top. 
+
+
+## WireGuard Client 
+
+To set up a WireGuard client, please click `+ Add New Profiles`.
+
+![Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC1.png)
+
+
+
+###1) Specify the name of your server
+
+Specify the name and then click `Next`.
+
+![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/name.jpg)
+
+
+
+###2) Input the configurations
+
+You can copy the `JSON` configurations from your server to `Configuration` or input the settings manually.
+
+If you are using **Azirevpn** or **Mullvad**, you can click `Others` and use your **AzireVPN** or **Mullvad** account to set up WireGuard client directly.
+
+Click `Add` to finish the WireGuard Client setup.
+
+![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations1.jpg)
+
+
+
+###3) Connect to the WireGuard server
+
+Click `Connect`. You will see the upload and download traffic when it is connected successfully.
 
 ![1531206410246](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC5.png)
 
-Select the server name in drop-down list and click "**Connect**". 
-
-![1531206860821](https://static.gl-inet.com/docs/en/3/app/wireguard/WG6.png)
-
-If the connect success established, the dot before **Wireguard Client** will turn to green and Green “**Connect**” change to Red “**Disconnect**” ， Upload/Download date meter displayed on the bottom. 
 
 
+## Wireguard App on mobile devices 
 
-## 4. Wireguard Client on mobile devices 
+You can also use WireGuard App on your mobile phone.
 
-You can also use wireguard client on your mobile phone, only android support now. 
+- Android: https://play.google.com/apps/testing/com.wireguard.android
 
-IOS App is coming soon. 
-
-Please refer to the follow path of android apk download:
-
-https://play.google.com/apps/testing/com.wireguard.android
+- iOS: https://itunes.apple.com/us/app/wireguard/id1441195209?mt=8
