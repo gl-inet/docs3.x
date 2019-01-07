@@ -16,7 +16,7 @@ Firmware file: [gl-ar750-3.010.bin](https://dl.gl-inet.com/firmware/ar750/v1/gl-
 - Added [GL Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
 - Added new [DDNS](https://docs.gl-inet.com/en/3/app/ddns/) function.
 - Added client management feature which includes QoS, traffic statistics.
-- Added firewall settings page which includes port forward, open port and DMZ.
+- Added firewall settings page which includes port forwards, open port and DMZ.
 
 **Fixed:**
 
