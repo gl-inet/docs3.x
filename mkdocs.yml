@@ -11,7 +11,7 @@ google_analytics: ['UA-108265653-1', 'glinet.com']
 site_dir: '/home/ubuntu/docs-build/en/3/'
 
 # Copyright
-copyright: 'Copyright &copy; 2018 GL Technologies & Microuter Technologies'
+copyright: 'Copyright &copy; 2019 GL Technologies & Microuter Technologies'
 
 theme: 
   name: 'material'
