@@ -66,7 +66,7 @@ At the left sidebar, APPLICATIONS -> Plug-ins, click "Update" button to updage P
 
 ![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png)
 
-Fellow the steps above, to enable cloud management, select the Data Server which near your devices, if you can't find the area where you located, just select 'Global'.
+Follow the steps above, to enable cloud management, select the Data Server which near your devices, if you can't find the area where you located, just select 'Global'.
 
 ## 2. Add device on GoodCloud web site
 
@@ -86,7 +86,7 @@ On the top right corner, select the region where your device select on the Web A
 
 On the left side -> Groups List -> Add group.
 
-Fellow the steps below to add a new group.
+Follow the steps below to add a new group.
 
 ![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png)
 
@@ -94,7 +94,7 @@ Fellow the steps below to add a new group.
 
 On the left side -> Devices List -> Add Device. There are three method to bind device to GoodCloud, "Auto discover", "Manually add", "Bulk import".
 
-Fellow the steps below to add your device.
+Follow the steps below to add your device.
 
 ![add device](https://static.gl-inet.com/goodcloud/docs/add-device.png)
 
@@ -114,7 +114,7 @@ PS: Input "MAC", "SN" and "DDNS" here just to verify that the router is really o
 
 ### 5) Binded info on router Web Admin Panel
 
-After you seccessfully add router to GoodCloud, go back to router Web Admin Panel, APPLICATION -> Remote Access -> Cloud Management, press 'F5' to refresh this page, It will display the binded GoodCloud username, hover the username will show the GoodCloud account email.
+After you successfully add router to GoodCloud, go back to router Web Admin Panel, APPLICATION -> Remote Access -> Cloud Management, press 'F5' to refresh this page, It will display the binded GoodCloud username, hover the username will show the GoodCloud account email.
 
 ![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png)
 
