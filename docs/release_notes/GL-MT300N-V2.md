@@ -1,10 +1,18 @@
 #GL-MT300N-V2 - Release Notes
 
+## V3.012 - Jan 21, 2018
 
+Firmware file: [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
+
+**New Feature:**
+
+- Web admin panel display language supports Japanese.
+
+--------
 
 ## V3.011 - Jan 4, 2018
 
-Firmware file: [gl-mt300n-v2-3.011.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin')
+Firmware file: [gl-mt300n-v2-3.011.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
 
 **New Features:**
 
