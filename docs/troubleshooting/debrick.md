@@ -13,6 +13,10 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
 
 
 <ol type="1">
+    <li><p>
+        First you have to download <b>firmware</b> to your computer.You can download the firmware <a href="http://download.gl-inet.com/firmware" target="_blank">here</a>.For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext,please download the.img firmware file,others download the .bin firmware file.
+        </p> 
+    </li>
     <li>
         <p> Connect your computer to the <b>Ethernet port (either LAN or WAN)</b> of the router, and you <b>MUST</b> leave the other port <b>unconnected</b>.
         </p>
@@ -60,7 +64,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
         </p>
     </li>
     <li>
-    	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. You can download the firmware <a href="http://download.gl-inet.com/firmware">here</a>.
+    	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. 
         </p>
         <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file and upload to the Nand flash.
         <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/uboot.jpg"><p>
