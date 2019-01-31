@@ -8,7 +8,7 @@ You can setup and use WireGuard easily in firmware 3.0, wireGurad server and cli
 
 ---
 
-## WireGurad Server
+## WireGuard Server
 
 You can set up a WireGuard server on GL.iNet router with firmware 3.0. Click `+ Create a New User`.
 
