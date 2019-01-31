@@ -2,7 +2,7 @@
 
 WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/), [simpler](https://www.wireguard.com/quickstart/), leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
 
-You can setup and use WireGuard easily in firmware 3.0, wireGurad server and clients are pre-installed in firmware 3.0. 
+You can setup and use WireGuard easily in firmware 3.0, wireGuard server and clients are pre-installed in firmware 3.0. 
 
 
 
