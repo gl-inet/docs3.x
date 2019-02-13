@@ -74,7 +74,8 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
         </p>
     </li>
     <li>
-    	<p>Revert the IP setting you did in step 5 and connect your device to the LAN or Wi-Fi of the router. You will be able to access the router via 192.168.8.1 again.
+    	<p>Revert the IP setting you did in step 6 and connect your device to the LAN or Wi-Fi of the router. You will be able to access the router via 192.168.8.1 again.
         </p>
     </li>
 </ol>
+
