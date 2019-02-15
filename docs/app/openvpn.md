@@ -54,7 +54,7 @@ Click `+ Add a New VPN Configuration` to upload the configuration file.
 
 ### 1) Upload your OpenVPN configuration file
 
-Simply drap and drop your file to the pop up windows. It can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
+Simply drag and drop your file to the pop up windows. It can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
 
 Be careful that some .ovpn files use separated ca, cert, crl files. These files must be zipped together with the .ovpn file before upload.
 

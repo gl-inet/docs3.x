@@ -13,16 +13,16 @@ You will learn how to set up shadowsocks server and client in UI 3.0 on our mini
 
 ![1531131885168](https://static.gl-inet.com/docs/en/3/app/ss/updateapp2.png)
 
-1.4. Install the following packages in the Plut-ins:
+1.4. Install the following packages in the Plug-ins:
 
 	(1). gl-ss
-
+	
 	(2). gl-ss-server
 
 ![1531132234092](https://static.gl-inet.com/docs/en/3/app/ss/ssapp1.png)
 
 	(3). shadowsocks-libev-server
-
+	
 	(4). shadowsocks-libev
 
 ![1531132281302](https://static.gl-inet.com/docs/en/3/app/ss/ssapp2.png)
@@ -37,7 +37,7 @@ The following Success window will pop-up each time when installed a package.
 
 ![1531132507191](https://static.gl-inet.com/docs/en/3/app/ss/successinstall.png)
 
-1.5. And after all packages installed, you can find 2 more selections, "SS Serer" and "SS Client" are displayed at left side in VPN pull-down menu. 
+1.5. And after all packages installed, you can find 2 more selections, "SS Server" and "SS Client" are displayed at left side in VPN pull-down menu. 
 
 ![1531132665720](https://static.gl-inet.com/docs/en/3/app/ss/ss-ui.png)
 
