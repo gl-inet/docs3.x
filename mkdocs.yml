@@ -18,6 +18,7 @@ theme:
   feature:
     tabs: true
   custom_dir: 'mkdocs-material-sourcecode/material'
+  language: 'ja'
 
 # Customization
 extra:
