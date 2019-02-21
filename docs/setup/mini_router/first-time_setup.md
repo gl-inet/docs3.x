@@ -1,6 +1,6 @@
-# Getting Started with GL.iNet Mini Travel Router
+# GL.iNetトラベルルーターを使い始めます
 
-Models:
+モデム:
 
 GL-MT300N, GL-MT300N-V2 (Firmware 3.0 has not released yet)
 
@@ -8,41 +8,41 @@ GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
 GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
-![router](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/最初のセットアップ/構造.jpg)
 
-*Note: **GL-AR300M-Lite** has one Ethernet port only.*
+*注意：**GL-AR300M-Lite**が一つのイーサネットポートしかありません。*
 
 
 
 ---
 
-##1. Power on 
+## 1.電源を入れます
 
-Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard 5V/1A power adapter. Otherwise it may cause malfunction.
+マイクロUSB電源ケーブルを電源ポートに入れます。標準の5V / 1A電源アダプタを使用していることを確認してください。そではなければ、故障になるかもしれません。
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/power.jpg)
+![Power on](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/最初のセットアップ/power.jpg)
 
-## 2. Connect 
+## 2.接続 
 
-You can connect to the router via Ethernet cable or Wi-Fi.
+イーサネットケーブルまたはWiFiでルーターに接続できる。
 
-*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
+*注意：この手順では、デバイスをルーターのローカルエリアネットワーク（LAN）に接続します。あなたは現在インターネットにアクセスすることはできません。インターネットに接続するには、以下の設定手順を完了して、インターネットに従ってインターネット接続を設定してください。
 
 
 
-### Connect via LAN 
-Connect your device to the LAN port of the router via Ethernet cable.
+### LANで接続
+イーサネットケーブルであなたのデバイスを接続します。
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/connect.jpg)
 
-*Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](Internet#1-cable) so that you can connect to it via LAN.*
+*注意：**GL-AR300M-Lite**には、イーサネットポートが一つしかありません、そしてWANとして使います。最初にルーターを設定するたびに、WiFiだけで接続することができます。WiFiを接続する後、ネットワークでWANポートをLANポートに変化することができます、そしてLANでルーターを接続できるようになります。*
 
 
 
-### Connect via Wi-Fi 
-Search for the SSID of the router in your device and input the default password: ***goodlife***.
+### WiFiで接続
+ルーターのSSIDを探してパスワードを入力します：***goodlife***
 
-*Note: The SSID was printed on the bottom label of the router with the following formats:*
+*注意：以下のルーターのSSIDがルーターの底面で印刷されています：*
 
 - **GL-AR150-XXX**
 
@@ -53,31 +53,31 @@ Search for the SSID of the router in your device and input the default password:
 
 
 
-## 3. Access the Web Admin Panel
+## 3.Web管理パネルをアクセスします
 
-Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel. 
+webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1](http://192.168.8.1) をアクセスします。
 
 
 
-### 1) Language Setting
-You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français** and **Español**.
+### 1）言語設定
+管理パネルで言語をセットすることが必要です。現在、ルーターが**日本語**、**English**、**简体中文**、**繁體中文**、**Deutsch**、**Français**、**Español**をサポートします。
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/welcome.jpg)
+![initial setup](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/最初のセットアップ/言語設定.png)
 
-*Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index.html](http://192.168.8.1/index.html) instead of [http://192.168.8.1](http://192.168.8.1).*
+*Note: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
 
   
 
-### 2) Admin Password Setting
-There is no default password for this Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
+### 2）管理者パスワード設定
+ルーターはデフォルトパスワードがありません、パスワードをセットすることが必要です。パスワードは5文字以上でなければなりません。`続き`をクリックして確認します。
 
-![password](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/password.jpg)
+![password](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/最初のセットアップ/パスワード設定.png)
 
-*Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
+*注意：このパスワードは、管理者パネルまたはLinuxセステムで利用します、WiFiパスワードが変わりません。*
 
 
 
-### 3) Admin Panel
-After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
+### 3）管理パネル
+以上のセットが完了後、あなたがルーターの管理者パネルに入ります。状況を確認したり、ルーターの設定を変更することができます。
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/main_ui.jpg)
+![admin panel](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/最初のセットアップ/管理者パネル.png)
