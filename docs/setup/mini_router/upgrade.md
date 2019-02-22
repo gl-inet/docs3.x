@@ -1,78 +1,74 @@
-# UPGRADE
+# アップグレード
 
-Click `UPGRADE` to check any available update and upgrade the firmware.
+`アップグレード`をクリックして、利用可能なアップデートをチェックして、ファームウェアをアップグレードします。
 
-![upgrade](https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware.jpg)
-
-
-
----
-
-## Online Upgrade
-
-You can find the current firmware version here. If your router is connected to the Internet, it will check for the newer firmware version available for download.
-
-![online upgrade](https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware1.jpg)
-
-
-
-*Note: It is suggested to uncheck **Keep setting**. If you keep the settings and encounter problems after the upgrade, please reset the router.*
+![upgrade](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/アップグレード/アップグレード.png)
 
 
 
 ---
 
-## Upload Firmware
+## オンラインアップグレード
 
-Click `Local Upgrade` to upload a firmware file to the router. Simply drag and drop your firmware file to the area indicated.
+ここで現在のファームウェアバージョンが見つかれます。ルーターがインターネットに接続する時、一番新しいのファームウェアバージョンをチェックするようになります。
 
-![upload firmware](https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware2.jpg)
+![online upgrade](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/アップグレード/オンラインアップグレード.png)
 
 
 
-###Official OpenWrt/LEDE firmware
+---
 
-You can download the official firmware from our [website](http://download.gl-inet.com/firmware/). 
+## アップロードファームウェア
+
+`ローカルアップグレード`をクリックして、ファームウェアファイルをルーターにアップロードします。
+
+![upload firmware](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/アップグレード/ローカルアップグレード.png)
+
+
+
+###オフィシャルOpenWrt/LEDEファームウェア
+
+私たちの[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
 
 - GL-AR150 series: [http://download.gl-inet.com/firmware/ar150/](http://download.gl-inet.com/firmware/ar150/)
 - GL-AR300M series: [http://download.gl-inet.com/firmware/ar300m/](http://download.gl-inet.com/firmware/ar300m/)
 
-Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
+あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアは、以下のサブフォルダーでいます:
 
-**v1**: Official GL.iNet OpenWrt/LEDE firmware.
+**v1**: オフィシャルGL.iNet OpenWrt/LEDE ファームウエア。
 
-**vlean**: Clean versions of OpenWrt/LEDE firmware with Luci admin page only.
+**clean**: OpenWrt/LEDE クリーンファームウェアです、Luci管理者ページしかありません。
 
-**tor**: Tor firmware.
+**tor**: Tor ファームウエア。
 
-**testing**: Beta version of GL.iNet OpenWrt/LEDE firmware.
+**testing**: GL.iNet OpenWrt/LEDE ファームウエアのベータ版。
 
-**nand *(AR300M only)***: Firmware for the 128MB Nand flash of GL-AR300M and GL-AR300M-Ext.
+**nand *(AR300M only)***: 128MB Nand フラッシュが持っているGL-AR300MとGL-AR300M-Extのファームウェア。
 
-*Note: The firmware files inside the **Nand** folder are for **GL-AR300M** and **GL-AR300M-Ext** only since these two models have 128MB Nand flash. You have to upload by using the .tar file. The .img file can only be used in Uboot.* 
-
-
-
-### Compile your own firmware
-
-You can compile your own firmware and flash to the router. Please refer to [github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc).
+*注意：**Nand**フォルダ内のファームウェアファイルは**GL-AR300M**と**GL-AR300M-Ext**専用です。これら2つのモデルは128MBのNandフラッシュを持っているからです。 .tarファイルを使用してアップロードする必要があります。 .imgファイルはUbootでのみ使用できます。*
 
 
 
-### Third party firmware
+### あなた自分のファームウェアをコンパイルします
 
-You may also try other firmwares such as DDWRT.
+あなた自分のファームウェアをコンパイルして、ルーターにフラッシュすることができます。[github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc)を参考してください。
 
 
 
-*Note: If you uploaded an incompatible firmware thus bricked the router, please use Uboot to re-install the correct firmware.*
+### サードパーティのファームウェア
+
+DDWRTとかのほかのファームウェアを試すこともできます。
+
+
+
+*注意：このようにして互換性のないファームウェアをアップロードしてルーターが破損した場合は、Ubootを使用して正しいファームウェアを再インストールしてください。*
 
 
 
 ---
 
-## Auto Upgrade
+## 自動アップグレード
 
-You can enable auto upgrade. The router will search for available update and upgrade automatically according to the time that you set.
+自動アップグレードが有効にできます。ルーターは、設定の時間にっとて、アップデートを自動でサーチしてアップグレードします。
 
-![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware3.jpg)
+![auto upgrade](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/アップグレード/自動アップグレード.png)
