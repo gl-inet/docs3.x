@@ -85,15 +85,17 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <p>Thanks, GL.iNet Team</p>
 <h2 id="wikidevi">Wikidevi</h2>
 <p>GL-B1300 Gigabit AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-B1300">https://wikidevi.com/wiki/GL.iNet_GL-B1300</a></p>
+<p>GL-AR750S Travel AC Router:<a herf="https://wikidevi.com/wiki/GL.iNet_GL-AR750S">https://wikidevi.com/wiki/GL.iNet_GL-AR750S</a></p>
 <p>GL-AR750 Travel AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR750">https://wikidevi.com/wiki/GL.iNet_GL-AR750</a></p>
 <p>GL-USB150 Microuter: <a href="https://wikidevi.com/wiki/GL.iNet_GL-USB150">https://wikidevi.com/wiki/GL.iNet_GL-USB150</a></p>
 <p>GL-AR300M Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR300M">https://wikidevi.com/wiki/GL.iNet_GL-AR300M</a></p>
 <p>GL-AR150 Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR150">https://wikidevi.com/wiki/GL.iNet_GL-AR150</a></p>
 <p>GL-MiFi 4G Smart Router: TBA</p>
 <p>GL-MT300A Mini Smart Router: TBA</p>
-<p>GL-MT300N-V2 Mini Smart Router: TBA</p>
+<p>GL-MT300N-V2 Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-MT300N-V2">https://wikidevi.com/wiki/GL.iNet_GL-MT300N-V2</a></p>
 <p>GL-MT300N Mini Smart Router: TBA</p>
-<p>GL.iNet 6416 Mini Smart Router: TBA</p>
+<p>GL.iNet 6416 Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_6416A">https://wikidevi.com/wiki/GL.iNet_6416A</a></p>
+<p>GL-X750 4G LTE Router: <a herf="https://wikidevi.com/wiki/GL.iNet_GL-X750">https://wikidevi.com/wiki/GL.iNet_GL-X750</a></p>
 <h3 id="markdown">Markdown</h3>
 <p>Markdown Basics: <a href="https://help.github.com/articles/markdown-basics/">https://help.github.com/articles/markdown-basics/</a></p>
 <p>Markdown Syntax: <a href="http://daringfireball.net/projects/markdown/syntax">http://daringfireball.net/projects/markdown/syntax</a></p>
