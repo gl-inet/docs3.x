@@ -1,80 +1,80 @@
-# Using Uboot to Debrick Your Router
+# UBOOTでルーターを修復
 
-You may brick your router if you were doing some DIY projects or flashed a wrong firmware. You may not be able to access your router but you can re-install the firmware by using Uboot failsafe.
+あなたがDIYプロジェクトをしていたり、間違ったファームウェアをインストールしていたなら、あなたはあなたのルーターをレンガにするかもしれません。 ルーターにアクセスできない場合がありますが、Ubootフェイルセーフを使用してファームウェアを再インストールできます。
 
 
 
 ---
 
-Please follow the procedures below to access the Uboot Web UI and re-install the firmware.
+以下の手順に従ってUboot界面にアクセスし、ファームウェアを再インストールしてください。
 
-You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot FailSafe](https://docs.gl-inet.com/en/3/video/tutor/#how-to-recover-glinet-mini-router-by-u-boot-failsafe).
+このビデオも参考できます。[U-Bootを使ってGL.iNetルーターを修復する](https://docs.gl-inet.com/en/3/video/tutor/#how-to-recover-glinet-mini-router-by-u-boot-failsafe)。
 
 
 
 <ol type="1">
     <li><p>
-        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="http://download.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the.img firmware file, others download the .bin firmware file.
+        <b>ファームウェア</b>を事前にダウンロードすることが必要です。<a href="http://download.gl-inet.com/firmware" target="_blank">ここ</a>でファームウェアをダウンロードしてください。GL-AR300M、GL-AR300M-Ext、GL-AR750S-Extにとって、.imgファームウェアをダウンロードしてください、ほかの製品が.binファームウェアをダウンロードしてください。
         </p> 
     </li>
     <li>
-        <p> Connect your computer to the <b>Ethernet port (either LAN or WAN)</b> of the router, and you <b>MUST</b> leave the other port <b>unconnected</b>.
+        <p>イーサネットケーブルでコンピュータをルーターの<b>イーサネットポート（LANまたはWAN）</b>に接続します。ほかのポートを<b>接続しない</b>の必要があります。
         </p>
     </li>
     <li>
-    	<p>Press and hold the Reset button firmly first, and then power on your device. <b>You MUST obey the first and then procedure</b>.
+    	<p>まずリセットボタンを長押ししてから、そしてデバイスの電源を入れます。<b>順序で行くことが必要です</b>。
         </p>
     </li>
     <li>
-    	<p>The Power LED will light up. Then, other LEDs will start flashing.
+    	<p>電源LEDが灯ります、そしてほかのLEDが点滅します。
         </p>
     </li>
     <li>
-    	<p>Release your finger when you see the LED has flashed:
+    	<p>以下の場合は指を離します：
         <ul>
-        	<li><b>5 times</b> for GL-AR150, GL-AR300M, GL-MiFi, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz).</li>
-        	<li><b>3 times</b> for GL-MT300N, GL-MT300A, and GL-B1300.</li>
+        	<li>GL-AR150、GL-AR300M、GL-MiFi、GL-USB150、GL-AR750、GL-AR750S-Ext(Slate)、GL-X750-Ext(Spitz)にとって、LEDが<b>3回</b>点滅した。</li>
+        	<li>GL-MT300N、GL-MT300A、GL-B1300にとって、LEDが<b>5回</b>点滅した。</li>
         </ul>
         </p>
     </li>
     <li>
-    	<p>Set your computer’s IP address to <b>192.168.1.2</b>. Please check the step-by-step guide for different operating systems below:</p>
+    	<p>あなたのコンピューターのIPアドレスを<b>192.168.1.2</b>に変更します。システムによって作ったガイドを閲覧してください:</p>
         <details>
         <summary>Windows 7 / Windows 10</summary>
         <ol type="1">
-        	<li>Go to Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings.</li>
-        	<li>Right click Local Area Connection -> Properties.</li>
-        	<li>Click Internet Protocol Version 4 (TCP/IPv4) -> Properties.</li>
-        	<li>Set the IP adress to 192.168.1.2 manually.</li>
-        	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/debrick/set_ip.jpg">
+        	<li>コントロールパネルー＞ネットワークとインターネットー＞ネットワークと共有センター</li>
+        	<li>ローカル接続―＞プロパティ</li>
+        	<li>インターネットプロトコルバージョン4（TCP/IPv4）―＞プロパティ</li>
+        	<li>IPアドレスを192.168.1.2に変更します</li>
+        	<img src="https://static.gl-inet.com/docs/ja/3/問題解決/Ubootで修復/ubootip変更.png">
         </ol>
         </details>
         <details>
         <summary>Mac</summary>
         <ol type="1">
-        	<li>Go to System Preferences -> Network.</li>
-        	<li>Chooose Ethernet -> Advanced -> TCP/IP.</li>
-        	<li>In Configure IPv4, choose Manually.</li>
-        	<li>Set the IPv4 Address to 192.168.1.2 manually.</li>
+        	<li>セステム設定ー＞ネットワーク</li>
+        	<li>イーサネットー＞高級機能ー＞TCP/IP</li>
+        	<li>IPv4手動を選択します</li>
+        	<li>IPv4アドレスを192.168.1.2に設定します</li>
         </ol>
         </details>
 	</li>
     <li>
-    	<p>Use Firefox or Chrome to visit <b>http://192.168.1.1</b>.<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/debrick/ui.jpg">
+    	<p>Firefox/Chromeで<b>http://192.168.1.1</b>をアクセスします.<img src="https://static.gl-inet.com/docs/ja/3/問題解決/Ubootで修復/uboot.png">
         </p>
     </li>
     <li>
-    	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. 
+    	<p><b>ファイルを選択</b>をクリックして、ファームウエアファイルを見つかりて、そして<b>Update firmware</b>をクリックします。
         </p>
-        <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file and upload to the Nand flash.
-        <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/uboot.jpg"><p>
+        <p>GL-AR300M、 GL-AR300M-Ext,、GL-AR750S-Extにとって、.imgファームウェアをダウンロードして、Nand flashにアップロードしてください。
+        <img src="https://static.gl-inet.com/docs/ja/3/問題解決/Ubootで修復/Nand.png"><p>
     </li>
     <li>
-    	<p>Wait for around 3 minutes. Don’t power off your device when updating. The router is ready when both power and  Wi-Fi LED are on or you can find its SSID on your device.
+    	<p>約3分待ちます、更新するときにルーターの電源を切らないでください。電源LEDとWi-Fi LEDの両方が点灯している場合、またはデバイスでSSIDが見つかれる場合は、ルーターの準備が完了です。
         </p>
     </li>
     <li>
-    	<p>Revert the IP setting you did in step 6 and connect your device to the LAN or Wi-Fi of the router. You will be able to access the router via 192.168.8.1 again.
+    	<p>ステップ6で変わったIP設定を元に戻し、あなたのデバイスをルーターのLAN/WIFIを接続します。あなたは再び192.168.8.1経由でルーターをアクセスできるようになります。
         </p>
     </li>
 </ol>
