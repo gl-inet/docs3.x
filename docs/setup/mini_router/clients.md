@@ -1,9 +1,9 @@
-# CLIENTS
+# クライアント
 
-You can manage all connected clients in `CLIENTS`. 
+`クライア`ントですべての接続しているクライアントを管理できる。
 
-You can see their name, IP, MAC address and connection type.
+クライアントのネームやIPアドレスやMACアドレスや連接方法が見える。
 
-Click the button on the right to block any unwanted client.
+右のボタンをクリックして、クライアントをブロックできます。
 
-![clients](https://static.gl-inet.com/docs/en/3/setup/mini_router/clients/1.jpg)
+![clients](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/クライアント/クライアント.png)
