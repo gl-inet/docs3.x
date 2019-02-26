@@ -54,16 +54,16 @@ pages:
     - GL-USB150: 'hardware/usb150/index.md'
     - GL-B1300: 'hardware/b1300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
-- Setup:
-    - Mini Router Series:
-        - First-time Setup: 'setup/mini_router/first-time_setup.md'
-        - Internet: 'setup/mini_router/internet.md'
-        - Wireless: 'setup/mini_router/wireless.md'
-        - Clients: 'setup/mini_router/clients.md'
-        - Upgrade: 'setup/mini_router/upgrade.md'
+- セットアップ:
+    - ナノルーター:
+        - 基本設定: 'setup/mini_router/first-time_setup.md'
+        - ネットワーク: 'setup/mini_router/internet.md'
+        - 無線: 'setup/mini_router/wireless.md'
+        - クライアント: 'setup/mini_router/clients.md'
+        - アップグレード: 'setup/mini_router/upgrade.md'
         - VPN: 'setup/mini_router/vpn.md'
-        - Applications: 'setup/mini_router/applications.md'
-        - More Settings: 'setup/mini_router/more_settings.md'
+        - アプリケーション: 'setup/mini_router/applications.md'
+        - その他の設定: 'setup/mini_router/more_settings.md'
     - Travel AC Router (GL-AR750):
         - First-time Setup: 'setup/travel_ac_router/first-time_setup.md'
         - Internet: 'setup/travel_ac_router/internet.md'
@@ -138,10 +138,10 @@ pages:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
     - Customer Review: 'video/review.md'
-- Troubleshooting:
+- 問題解決:
     - LED Indicators: 'troubleshooting/led.md'
     - Repair or Reset: 'troubleshooting/reset.md'
-    - Debrick via Uboot: 'troubleshooting/debrick.md'
+    - Ubootハードウエア修復: 'troubleshooting/debrick.md'
     - Change WAN to LAN: 'troubleshooting/chang_wan_to_lan.md'
     - Captive Portal: 'troubleshooting/captive_portal.md'
     - FAQs: 'troubleshooting/FAQ.md'
