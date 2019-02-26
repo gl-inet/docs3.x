@@ -1,12 +1,12 @@
-# APPLICATIONS
+# アプリケーション
 
 
 
-## Plug-ins
+## ソフトバーグ
 
-**Plug-ins** allows you to manage the OpenWrt packages. You can install or remove any package. 
+**ソフトバーグ**を使用すると、OpenWrtパッケージを管理できます。 任意のパッケージをインストールまたは削除できます。
 
-Remember to click `Update` whenever you access this packages repository.
+このパッケージレポジトリにアクセスするときは、いつも`更新`をクリックするのを忘れないでください。
 
 ![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.jpg)
 
@@ -14,18 +14,18 @@ Remember to click `Update` whenever you access this packages repository.
 
 ---
 
-## File Sharing
+## ファイル共用
 
-You can use an external USB storage or a MicroSD card with GL.iNet router. The file sharing features of the external storage device can be configured in **File Sharing**.
+あなたはそれをルータのUSBポートに差し込むことによってGL.iNetルータで外付けのUSBストレージを使うことができます。USBメモリの**ファイル共有**機能はファイル共有で設定できます。.
 
-**Share via LAN**: Share the contents of the external storage device with all connected clients.
+**LANで共用します**: 接続されているすべてのクライアントと外部記憶装置の内容を共有します。
 
-**Share via WAN**: The contents of the external storage device can be accessed from the WAN.
+**WANで共用します**: 外部記憶装置の内容は、WANからアクセスできます。
 
-**Writable**: The contents of the external storage device can be edited.
+**書けます**: 外部記憶装置の内容を編集できます。
 
 ![File sharing](https://static.gl-inet.com/docs/en/3/setup/slate/applications/file_sharing.jpg)
 
 
 
-For the guidance on how to access the contents of the external storage device form your computer or smart phone, please refer to [this page](https://docs.gl-inet.com/en/3/app/file_sharing/).
+コンピュータやスマホから外部記憶装置の内容にアクセスする方法については、[このページ](https://docs.gl-inet.com/jp/3/app/file_sharing/)を参照してください。

@@ -1,23 +1,26 @@
-# WIRELESS
+# 無線
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button.
+`無線`をクリックして、現在の状態をチェックし、無線ネットワーク設定を変更することができます。ON/OFFボタンが無線ネットワークを開閉できる。
 
 
 
-**Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
 
-**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
+**無線ネットワーク名称(SSID)**: Wi-Fiの名称です。
 
-**Channel**: The router will not choose the best channel itself. You need to choose a channel manually. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
+**無線ネットワークセキュリティ**: 暗号化技術です。
 
-**Speed**: The wireless speed of the router.
+**無線ネットワークパスワード**: Wi-Fiのパスワードです、5文字以上でなければなりません。
 
-**TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
+**隠すSSID**: SSIDを隠します。
+
+**チャンネル**: ルーターは自分で最もよいチャンネルを選択できない、手動でチャンネルを選択することが必要です。中継としてルーターを使用する場合は、接続されているワイヤレスネットワークに応じてチャネルが固定されます。
+
+**レート**: ルーターの無線スビートです。
+
+**送信電力 (dBm)**: シグナル強度です、デフォルト強度は20dBmです。
 
 ![wireless](https://static.gl-inet.com/docs/en/3/setup/slate/wireless/status.jpg)
 
-
-
-Click `Modify` to change the settings of the wireless network.
+`修正`をクリックして、無線ネットワーク設定を変更します。
 
 ![wifi modify](https://static.gl-inet.com/docs/en/3/setup/slate/wireless/setting.jpg)

@@ -1,6 +1,6 @@
-# UPGRADE
+# アップグレード
 
-Click `UPGRADE` to check any available update and upgrade the firmware.
+`アップグレード`をクリックして、利用可能なアップデートをチェックして、ファームウェアをアップグレードします。
 
 ![upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware.jpg)
 
@@ -8,65 +8,63 @@ Click `UPGRADE` to check any available update and upgrade the firmware.
 
 ---
 
-## Online Upgrade
+## オンラインアップグレード
 
-You can find the current firmware version here. If your router is connected to the Internet, it will check for the newer firmware version available for download.
+ここで現在のファームウェアバージョンが見つかれます。ルーターがインターネットに接続する時、一番新しいのファームウェアバージョンをチェックするようになります。
 
 ![online upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware1.jpg)
 
 
 
-*Note: It is suggested to uncheck **Keep setting**. If you keep the settings and encounter problems after the upgrade, please reset the router.*
-
-
-
 ---
 
-## Upload Firmware
+## アップロードファームウェア
 
-Click `Local Upgrade` to upload a firmware file to the router. Simply drag and drop your firmware file to the area indicated.
+`ローカルアップグレード`をクリックして、ファームウェアファイルをルーターにアップロードします。
 
 ![upload firmware](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware2.jpg)
 
 
 
-###Official OpenWrt/LEDE firmware
+###オフィシャルOpenWrt/LEDEファームウェア
 
-You can download the official firmware from our [website](http://download.gl-inet.com/firmware/). 
+弊社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
 
 - GL-AR750: [http://download.gl-inet.com/firmware/ar750/](http://download.gl-inet.com/firmware/ar750/)
 - GL-AR750S (Slate): [http://download.gl-inet.com/firmware/ar750s/](http://download.gl-inet.com/firmware/ar750s/)
 
-Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
+あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアは、以下のサブフォルダーでいます:
 
-**V1/release**: Official GL.iNet OpenWrt/LEDE firmware.
+**V1/release**: オフィシャルGL.iNet OpenWrt/LEDE ファームウエア。
 
-**testing**: Beta version of GL.iNet OpenWrt/LEDE firmware.
+**testing**: GL.iNet OpenWrt/LEDE ファームウエアのベータ版。
 
-*Note:  You have to upload the .tar file.  The .img file can only be flashed to the router through Uboot.*
+**clean**: OpenWrt/LEDE クリーンファームウェアです、Luci管理者ページしかありません。
 
-
-
-### Compile your own firmware
-
-You can compile your own firmware and flash to the router. Please refer to [github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc).
+*注意：　.tar ファイルをアップロードしてください、.img ファイルがUbootに使用します。
 
 
 
-### Third party firmware
+### あなた自分のファームウェアをコンパイルします
 
-You may also try other firmwares such as DDWRT.
+あなた自分のファームウェアをコンパイルして、ルーターにフラッシュすることができます。[github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc)を参考してください。
 
 
 
-*Note: If you uploaded an incompatible firmware thus bricked the router, please use Uboot to re-install the correct firmware.*
+### サードパーティのファームウェア
+
+DDWRTとかのほかのファームウェアを試すこともできます。
+
+
+
+*注意：このようにして互換性のないファームウェアをアップロードしてルーターが破損した場合は、Ubootを使用して正しいファームウェアを再インストールしてください。*
 
 
 
 ---
 
-## Auto Upgrade
+## 自動アップグレード
 
-You can enable auto upgrade. The router will search for available update and upgrade automatically according to the time that you set.
+自動アップグレードが有効にできます。ルーターは、設定の時間にっとて、アップデートを自動でサーチしてアップグレードします。
 
 ![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware3.jpg)

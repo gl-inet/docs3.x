@@ -1,6 +1,6 @@
-# Getting Started with GL.iNet Slate
+# GL.iNet Slateギガビットルーターを使い始めよう
 
-Model:
+モデル:
 
 GL-AR750S-Ext
 
@@ -10,15 +10,15 @@ GL-AR750S-Ext
 
 ---
 
-##1. Power on 
+##1. 電源を入れます 
 
-Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
+マイクロUSBパワーケーブルをルーターのパワーポートに差し込みます。**5V/2A**のパワーアダプターを利用することを確認してください、なければ故障の原因になるかもしれません。
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
 
 
 
-*Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
+*注意: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
 
 
 

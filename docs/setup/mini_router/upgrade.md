@@ -28,10 +28,10 @@
 
 ###オフィシャルOpenWrt/LEDEファームウェア
 
-私たちの[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
+弊社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
 
-- GL-AR150 series: [http://download.gl-inet.com/firmware/ar150/](http://download.gl-inet.com/firmware/ar150/)
-- GL-AR300M series: [http://download.gl-inet.com/firmware/ar300m/](http://download.gl-inet.com/firmware/ar300m/)
+- GL-AR150 シリーズ: [http://download.gl-inet.com/firmware/ar150/](http://download.gl-inet.com/firmware/ar150/)
+- GL-AR300M シリーズ: [http://download.gl-inet.com/firmware/ar300m/](http://download.gl-inet.com/firmware/ar300m/)
 
 あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアは、以下のサブフォルダーでいます:
 
@@ -44,6 +44,8 @@
 **testing**: GL.iNet OpenWrt/LEDE ファームウエアのベータ版。
 
 **nand *(AR300M only)***: 128MB Nand フラッシュが持っているGL-AR300MとGL-AR300M-Extのファームウェア。
+
+*注意：.tar ファイルをアップロードしてください、.img ファイルがUbootに使用します。
 
 *注意：**Nand**フォルダ内のファームウェアファイルは**GL-AR300M**と**GL-AR300M-Ext**専用です。これら2つのモデルは128MBのNandフラッシュを持っているからです。 .tarファイルを使用してアップロードする必要があります。 .imgファイルはUbootでのみ使用できます。*
 
