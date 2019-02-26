@@ -8,7 +8,7 @@ site_description: Documentation for GL.iNet Productions
 site_author: Shan
 site_url: https://docs.gl-inet.com/
 google_analytics: ['UA-108265653-1', 'glinet.com']
-site_dir: '/home/ubuntu/docs-build/en/3/'
+site_dir: '/home/ubuntu/docs-build/jp/3/'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 GL Technologies & Microuter Technologies'
@@ -39,10 +39,10 @@ extra:
       link: https://www.pinterest.com/glinetWiFi/
 
 pages:
-- Home:
-    - Home: 'index.md'
-    - Services: 'service.md'
-- Hardware:
+- ホーム:
+    - ホーム: 'index.md'
+    - サービス: 'service.md'
+- ハードウエア:
     - GL-AR150: 'hardware/ar150/index.md'
     - GL-AR300M: 'hardware/ar300m/index.md'
     - GL-MT300A: 'hardware/mt300a/index.md'
@@ -120,10 +120,10 @@ pages:
         - Applications: 'setup/vixmini/applications.md'
         - More Settings: 'setup/vixmini/more_settings.md'
         
-- Development:
+- 開発:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'
-- Application:
+- アプリケーション:
     - SSH to the router: 'app/ssh.md'
     - OpenVPN: 'app/openvpn.md'
     - Tor: 'app/tor.md'
@@ -134,7 +134,7 @@ pages:
     - File Sharing: 'app/file_sharing.md'
     - DDNS: 'app/ddns.md'
     - Cloud: 'app/cloud.md'
-- Video:
+- ビデオ:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
     - Customer Review: 'video/review.md'
@@ -145,7 +145,7 @@ pages:
     - Change WAN to LAN: 'troubleshooting/chang_wan_to_lan.md'
     - Captive Portal: 'troubleshooting/captive_portal.md'
     - FAQs: 'troubleshooting/FAQ.md'
-- Release Notes:
+- リリースノート:
     - Firmware Releases: 'release_notes/index.md'
     - GL-AR150: 'release_notes/GL-AR150.md'
     - GL-AR300M: 'release_notes/GL-AR300M.md'
