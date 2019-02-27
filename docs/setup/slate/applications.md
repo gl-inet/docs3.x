@@ -8,7 +8,7 @@
 
 このパッケージレポジトリにアクセスするときは、いつも`更新`をクリックするのを忘れないでください。
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.jpg)
+![Plug ins](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/アプリケーション/ソフトバーグ.png)
 
 
 
@@ -24,7 +24,7 @@
 
 **書けます**: 外部記憶装置の内容を編集できます。
 
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/slate/applications/file_sharing.jpg)
+![File sharing](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/アプリケーション/ファイル共用.png)
 
 
 

@@ -4,7 +4,7 @@
 
 GL-AR750S-Ext
 
-![router](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/router.jpg)
 
 
 
@@ -57,7 +57,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 1) 言語設定
 管理パネルで言語をセットすることが必要です。現在、ルーターが**日本語**、**English**、**简体中文**、**繁體中文**、**Deutsch**、**Français**、**Español**をサポートします。
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/welcome.jpg)
+![initial setup](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/welcome.png)
 
 *注意: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
 
@@ -66,7 +66,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 2) 管理者パスワード設定
 ルーターはデフォルトパスワードがありません、パスワードをセットすることが必要です。パスワードは5文字以上でなければなりません。`続き`をクリックして確認します。
 
-![password](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/password.jpg)
+![password](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/password.png)
 
 *注意: このパスワードは、管理者パネルまたはLinuxセステムで利用します、WiFiパスワードが変わりません。*
 
@@ -75,4 +75,4 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 3) 管理パネル
 以上のセットが完了後、あなたがルーターの管理者パネルに入ります。状況を確認したり、ルーターの設定を変更することができます。
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/main_ui.jpg)
+![admin panel](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/main_ui.png)

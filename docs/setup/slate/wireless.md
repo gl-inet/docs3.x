@@ -19,8 +19,8 @@
 
 **送信電力 (dBm)**: シグナル強度です、デフォルト強度は20dBmです。
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/slate/wireless/status.jpg)
+![wireless](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/wireless/status.png)
 
 `修正`をクリックして、無線ネットワーク設定を変更します。
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/slate/wireless/setting.jpg)
+![wifi modify](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/wireless/setting.png)

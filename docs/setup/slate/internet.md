@@ -2,13 +2,13 @@
 
 四つのインターネットをアクセスするモードがあります：**有線接続**、**無線中継**、**3G/4Gモデル**、**テザリング**。
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/slate/internet/4ways.jpg)
+![connection method](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/method.jpg)
 
 
 
 `ネットワーク`をクリックして、ネットワーク接続を作ります。
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/slate/internet/internet.jpg)
+![internet](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/main_ui.png)
 
   
 
