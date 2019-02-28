@@ -1,55 +1,55 @@
-# FIREWALL
+# ファイアウォール
 
-In `FIREWALL`, you can set up firewall rules like **port forwarding**, **open port** and **DMZ**.
+`ファイアウォール`で、**ポート転送**や**ルーターポートを開きます**や**DMZ**そのようなファイアウォールルールを設定することができます。
 
-![Firewall](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/firewall.jpg)
-
-
-
-## Port Forwards
-
-Port Forwarding allows remote computers to connect to a specific computer or service behind the firewall in the local LAN (such as web servers, FTP servers, etc).
-
-To set up port forwarding, click `Port Forwards`and input the required parameters or click `Add a New One`.
-
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/port_forwards.jpg)
-
-**Name:** The name of the rule which can be specified by the user.
-
-**Internal IP:** The IP address assigned by the router to the device which needs to be accessed remotely.
-
-**External Ports:** The numbers of external ports. You can enter a specific port number or a range of service ports (E.g **100-300**).
-
-**Internal Ports:** The internal port number of the device. You can enter a specific port number. Leave it blank if it is same as the external port.
-
-**Protocol:** The protocol used, you can choose TCP, UDP, or both TCP and UDP.
-
-**Status:** Activate of Deactivate the rule.
+![Firewall](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/firewall/firewall.png)
 
 
 
-## Open Ports on Router
+## ポート転送
 
-The router's services, such as web, FTP and so on, require their respective ports to be opened on the router in order to be publicly reachable.
+ポート転送により、リモートコンピュータはローカルLANのファイアウォールの内側にある特定のコンピュータまたはサービス（Webサーバー、FTPサーバーなど）に接続できます。
 
-To open a port, click `Open Ports on Router` and input the required parameters or click `Add a New One`.
+ポート転送をクリックして、パラメーターを入力して、ポート転送を設定します。
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/open_port.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/firewall/port_forwards.png)
 
-**Name:** The name of the rule which can be specified by the user.
+**名称:** ルールの名称です、自分で設定することができます。
 
-**Port:** The port number that you want to open.
+**内部IP:** リモートでアクセスする必要があるデバイスにルータによって割り当てられたIPアドレス。
 
-**Protocol:** The protocol used, you can choose TCP, UDP, or both TCP and UDP.
+**外部ポート:** 外部ポート番号です、特定のポート番号またはポート範囲が入力できます。（例：**100-300**）
 
-**Status:** Activate of Deactivate the rule.
+**内部ポート:** デバイスの内部ポート番号です、特定のポート番号を入力してください。外部ポートと同じ場合は空白のままにします。
+
+**協議:** プロトコルです、TCPやUDPやTCPとUDP同時に使用が選択できます。
+
+**状態:** ルールの有効化/無効化。
+
+
+
+## ルーターポートを開きます
+
+The router's services, such as web, FTP and so on, require their respective ports to be opened on the router in order to be publicly reachable.ルーターのweb、FTPなどのサービスを使用する時、公共ネットワークから到達可能であるためには、それぞれのポートをルーター上で開く必要があります。
+
+ポートを開くことのために、`ルーターポートを開きます`をクリックして、必要なパラメーターを入力してください。
+
+![Port Forwards](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/firewall/open_port.png)
+
+**名称:** ルールの名称です、自分で設定することができます。
+
+**ポート:** ひらきたいのポート番号。
+
+**協議:** プロトコルです、TCPやUDPやTCPとUDP同時に使用が選択できます。
+
+**状態:** ルールの有効化/無効化。
 
 
 
 ## DMZ
 
-DMZ allows you to expose one computer to the Internet, so that all the inbounds packets will be redirected to the computer you set.
+DMZを使用すると、1台のコンピュータをインターネットに公開することができ、すべての受信パケットが設定したコンピュータにリダイレクトされます。
 
-Click `DMZ` and enable `Open DMZ`. Input the internal IP address (E.g. 192.168.8.100) of your device which is going to receive all the inbound packets.
+`DMZ`をクリックして` Open DMZ`を有効にしてください。 すべての受信パケットを受信しようとしているあなたのデバイスの内部IPアドレス（例：192.168.8.100）を入力してください。
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/DMZ.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/firewall/DMZ.png)
