@@ -1,42 +1,42 @@
-# LED Status Indication
+# LED状態指標
 
 
 
-## Mini Router
+## ナノルーター
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg)
 
-- **Power**: Solid green LED that indicates the router is powered up.
-- **Wireless**:  Solid Red LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
-- **Configurable**: Can be customized by the user.
+- **パワー**: ルーターの電源が入っていることを示すLEDです。
+- **無線**: ルーターがWi-Fiをブロードキャストしていることを示すLEDです。 無線データ転送があるときは点滅します。
+- **設定可能**: ユーザーがカスタマイズできます。
 
 
 
 
 
 
-## GL-USB150 Microuter
+## GL-USB150 
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/microuter.jpg)
 
-- **Power**: Solid green LED that indicates the router is powered up.
-- **Hotspot**:  Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
+- **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
+- **ホットスポット**:  ルーターがWi-Fiをブロードキャストしていることを示す緑色のLEDです。無線データ転送があるときは点滅します。
 
 
 
 
 
 
-## GL-MiFi 4G Smart Router
+## GL-MiFi 4Gスマートルーター
 
   ![mini LED](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mifi.jpg)
 
-- **Battery**: Indicate the battery, it will blink when the device is charging until fully charged.
-- **Power**: This router is powered on
-- **WAN**: This router is connected to the Internet via Ethernet port.  It will blink when the device has data transmission from Ethernet port
-- **LAN**: This router is connected to client through LAN cable
-- **WI-Fi**: Solid LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
-- **3G/4G**: This router is connected to the 3G/4G LTE network. It will blink when the device has data transmission from 3G/4G LTE network
+- **電池**: バッテリーを示し、それは完全に充電されるまでデバイスが充電されているときに点滅します。
+- **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
+- **WAN**: このルーターは、WANイーサネットホートでネットワークに接続しています。データ転送があるときは点滅します。
+- **LAN**: LANケーブルでクライアントに接続ができた。
+- **WI-Fi**: ルーターがWi-Fiをブロードキャストしていることを示す緑のLEDです。 無線データ転送があるときは点滅します。
+- **3G/4G**: このルーターは3G/4G LTEネットワークに接続しています。デバイスは3G/4G LTEネットワークからデータ転送があるときは点滅します。
 
 
 
@@ -47,10 +47,9 @@
 
   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/ar750.jpg)
 
-- **Power**: Solid white LED that indicates the router is powered up.
-- **2.4GHz Wi-Fi**: Solid white LED that indicates the router is broadcasting 2.4GHz Wi-Fi. It will flash when there is wireless data transfer
-- **5GHz Wi-Fi**: Solid white LED that indicates the router is broadcasting 5GHz Wi-Fi. It will flash when there is wireless data transfer
-
+- **パワー**: ルーターの電源が入っていることを示す白色のLEDです。
+- **2.4GHz Wi-Fi**:ルーターが2.4GWi-Fiをブロードキャストしていることを示す白色のLEDです。無線データ転送があるときは点滅します。
+- **5GHz Wi-Fi**: ルーターが5GWi-Fiをブロードキャストしていることを示す白色のLEDです。無線データ転送があるときは点滅します。
 
 
 
@@ -60,9 +59,9 @@
 
   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/b1300.jpg)
 
-- **Power**: Solid green LED that indicates the router is powered up.
-- **Mesh**: Flash green LED indicates that the router is pairing with another router. It will turn solid green when the Mesh network has been created.
-- **Wireless**: Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
+- **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
+- **Mesh**: 緑色のLEDが点滅している場合は、ルーターが別のルーターとペアリングしていることを示しています。Meshネットワークが作成されると緑色に点灯します。
+- **無線**: ルーターがWi-Fiをブロードキャストしていることを示す緑色のLEDです。 無線データ転送があるときは点滅します。
 
 
 
@@ -71,14 +70,14 @@
 
 
 
-##LED Customization
+##LED カスタマイズ
 
-To configure the LED of GL.iNet routers, please login to Luci by clicking **Advanced settings** at the top-right corner of the web admin page. 
+GL.iNetルーターのLEDを設定するには、Web管理ページにある**高級機能**をクリックしてLuciにログインしてください。
 
-![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/advanced_settings.jpg)
+![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/advanced_settings.png)
 
 
 
-Then please choose **System** > **LED Configuration**.
+**System** > **LED Configuration**を選択してください。
 
 

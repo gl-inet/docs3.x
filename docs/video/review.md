@@ -1,5 +1,5 @@
-#Customer Review
-This page is listing the videos related to customer review. We thanks for all the nice reviews from our users. We only select some of them to show here, because the limitation of space.  We will update contents to our official  [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel time to time.
+#カスタマーレビュー
+このページには、カスタマーレビューに関連するビデオがリストされています。私達は私達のユーザーからのすべての素晴らしいレビューに感謝します。スペースの制限から、ここで表示するのはそれらのいくつかを選択するだけです。私たちは公式[YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber)チャンネルに随時コンテンツを更新します。
 
 ##Hidden Router Review: The Best VPN Router?
 By Stefan Zanev | Product Mentioned:[GL-B1300](https://www.gl-inet.com/b1300/)

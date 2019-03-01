@@ -46,7 +46,7 @@
         	<li>ローカル接続―＞プロパティ</li>
         	<li>インターネットプロトコルバージョン4（TCP/IPv4）―＞プロパティ</li>
         	<li>IPアドレスを192.168.1.2に変更します</li>
-        	<img src="https://static.gl-inet.com/docs/ja/3/問題解決/Ubootで修復/ubootip変更.png">
+        	<img src="https://static.gl-inet.com/docs/ja/3/troubleshooting/uboot/ubootip変更.png">
         </ol>
         </details>
         <details>
@@ -60,14 +60,14 @@
         </details>
 	</li>
     <li>
-    	<p>Firefox/Chromeで<b>http://192.168.1.1</b>をアクセスします.<img src="https://static.gl-inet.com/docs/ja/3/問題解決/Ubootで修復/uboot.png">
+    	<p>Firefox/Chromeで<b>http://192.168.1.1</b>をアクセスします.<img src="https://static.gl-inet.com/docs/ja/3/troubleshooting/uboot/uboot.png">
         </p>
     </li>
     <li>
     	<p><b>ファイルを選択</b>をクリックして、ファームウエアファイルを見つかりて、そして<b>Update firmware</b>をクリックします。
         </p>
         <p>GL-AR300M、 GL-AR300M-Ext,、GL-AR750S-Extにとって、.imgファームウェアをダウンロードして、Nand flashにアップロードしてください。
-        <img src="https://static.gl-inet.com/docs/ja/3/問題解決/Ubootで修復/Nand.png"><p>
+        <img src="https://static.gl-inet.com/docs/ja/3/troubleshooting/uboot/Nand.png"><p>
     </li>
     <li>
     	<p>約3分待ちます、更新するときにルーターの電源を切らないでください。電源LEDとWi-Fi LEDの両方が点灯している場合、またはデバイスでSSIDが見つかれる場合は、ルーターの準備が完了です。

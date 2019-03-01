@@ -1,106 +1,105 @@
 # OpenVPN
 
-GL.iNet routers have pre-installed OpenVPN server and client. 
+GL.iNetルーターは、OpenVPNサーバーとクライアントがインストールされています。
+
+
+---
+
+## OpenVPN サーバー
+
+GL.iNetルーターで、OpenVPNサーバーをセットアップすることができます。`新しいOpenVPN設定を追加する`をクリックします。
+
+![server](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server.png)
+
+
+
+### 1) サーバーコンフィグレーション
+
+事前に設定されたOpenVPNサーバー設定があります。手動で変更するために `修正`をクリックすることもできます。終了したら`起動`をクリックします。
+
+![ server configuration](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
+
+
+
+### 2) エクスポート設定
+
+`エクスポート設定`をクリックして、OpenVPNクライアントをコンフィグ時にアップロード必要なOpenVPNコンフィグレーションファイルをダウンロードします。
+
+![server export](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
+
+
+
+### 3) OpenVPNサーバーを起動します
+
+起動をクリックして、OpenVPNサーバーを起動します。そうでなければ、そのコンフィグレーションファイルを使用して、OpenVPNサーバーに接続することができません。
+
+![start server](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
+
+![started](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_connected.png)
 
 
 
 ---
 
-## OpenVPN Server
-
-You can set up an OpenVPN server on GL.iNet router. Click `+ Generate a configuration file`.
-
-![server](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server.jpg)
+## OpenVPNクライアント
 
 
+OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコンフィグレーションファイル（.ovpn）が必要です。あなたは自分のVPNサービスプロバイダーがあれば、そしてコンフィグレーションをゲットする方法が知らない時、[あなたのコンフィグレーションファイルをゲットします](openvpn.md#あなたのコンフィグレーションファイルをゲットします)を参考してください。
 
-### 1) Server configuration
+`新しいOpenVPN設定を追加する`をクリックして、コンフィグレーションファイルをアップロードします。
 
-There are preset OpenVPN server configurations. You can also click `Modify` to change them manually. Click `Apply` when you finish.
-
-![ server configuration](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_settings.jpg)
+![client](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/client.png)
 
 
 
-### 2) Export OpenVPN configuration file
+### 1) あなたのOpenVPNコンフィグレーションをアップロードします
 
-Click `Export Config` to download the OpenVPN configuration file which you need to upload when you are configuring your OpenVPN client.
+ファイルを界面にドラッグします。単一の.ovpnファイル、または複数の.ovpnファイルを含むzip / tar.gzファイルが使えます。
 
-![server export](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_export.jpg)
+いくつかの.ovpnファイルが別々のca、cert、crlファイルを使用するように注意してください。これらのファイルはアップロードする前に.ovpnファイルと一緒に圧縮する必要があります。
 
-
-
-### 3) Start the OpenVPN server
-
-Click `Start` to start your OpenVPN server. Otherwise, you will not be able to connect to the OpenVPN server by using its configuration file.
-
-![start server](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_settings.jpg)
-
-![started](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_connected.jpg)
+![Upload](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/upload.png)
 
 
+### 2) プロフィール、ユーザーネーム、パスワードを入力します
 
----
+コンフィグレーションファイルのプロフィールを設定し、`提出する`をクリックしてアップロード処理を完了します。ユーザー名とパスワードを入力することが必要な場合があります。
 
-## OpenVPN Client
-
-OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](openvpn.md#get-your-configuration-file).
-
-Click `+ Add a New VPN Configuration` to upload the configuration file.
-
-![client](https://static.gl-inet.com/docs/en/3/app/openvpn/src/client.jpg)
+![add](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/add.png)
 
 
 
-### 1) Upload your OpenVPN configuration file
+### 3) OpenVPNサーバーに接続
 
-Simply drag and drop your file to the pop up windows. It can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
+`接続`をクリックしてOpenVPN連接を開始します。
 
-Be careful that some .ovpn files use separated ca, cert, crl files. These files must be zipped together with the .ovpn file before upload.
-
-![Upload](https://static.gl-inet.com/docs/en/3/app/openvpn/src/upload.jpg)
+![connect](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/connect.png)
 
 
 
-### 2) Enter Description, Username and Password
-
-Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter your username and password.
-
-![add](https://static.gl-inet.com/docs/en/3/app/openvpn/src/add.jpg)
-
-
-
-### 3) Connect to the OpenVPN server
-
-You can now click `Connect` to start the OpenVPN connection.
-
-![connect](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connect.jpg)
-
-
-
-Once connected, you should find your IP address, data received/sent.
+接続しているあと、IPアドレス、送信/受信したデータが見えます。
 
 ![connected](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connected.jpg)
 
 
 
-### 4) Manage configuration files
+### 4) コンフィグレーションファイル管理
 
-Click `Management` to check the list of configuration files. You can modify the **Description**, **User name** or **Password** of each configuration file. You can also add, delete a configuration file or even purge all your uploaded configuration files.
+`管理`をクリックしてコンフィグレーションファイルリストをチェックします。プロフィール、パスワードが変更できます、コンフィグレーションファイルを追加することもできます。そしてアップロードしたコンフィグレーションファイルをすべて削除できます。
 
-If your configuration file is a zip/tar.gz file which includes multiple ovpn files, you can choose an individual .ovpn file that you would like to connect in **Server**.
+設定ファイルが複数のovpnファイルを含むzip / tar.gzファイルの場合は、**サーバー**に接続したい個々の.ovpnファイルを選択できます。
 
-![management](https://static.gl-inet.com/docs/en/3/app/openvpn/src/management.jpg)
-
-
-
-###Get your configuration file
-
-We have tested different VPN service providers. Therefore, if you don't know how to get the configuration file, you can follow the instruction below. However, you have to contact your service provider for the configuration file if they are not listed below. 
-
-If you have any problem in the setup of OpenVPN, please contact [support@gl-inet.com](mailto:support@gl-inet.com)
+![management](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/management.png)
 
 
+
+###あなたのコンフィグレーションファイルをゲットします
+
+弊社はさまざまなVPNサービスプロバイダーをテストしました。したがって、設定ファイルの入手方法がわからない場合は、以下の手順に従ってください。 ただし、以下にリストされていない場合は、コンフィグレーションファイルについてサービス提供者に連絡する必要があります。
+
+OpenVPNセットアップについて質問があったら、[support@gl-inet.com](mailto:support@gl-inet.com)に連絡してください。
+
+今は英語だけです。
 
 <details>
 <summary>AirVPN</summary>

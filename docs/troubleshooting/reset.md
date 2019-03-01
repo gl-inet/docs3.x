@@ -1,40 +1,41 @@
 
-#How to Repair / Reset 
-All GL.iNet Routers have reset buttons, you can use them to repair your network or reset  your routers to factory defult. If you can neither access the web-based setup page nor the router, you can press the `reset` button:
+# 修復/リセット方法
+すべてのGL.iNetルーターはリセットボタンがあります、あなたがそれを使ってネットワークを修復したり、ルーターを工場出荷時の設定に戻ることができます。設定ページがアクセスできない、またはルーターに接続できない場合は、リセットボタンを押してください：
 
-## Repair
-Press and hold for **3 seconds** then release to repair your network.
-## Reset
-Press and hold for **10 seconds** then release to reset the router to factory settings. All user data will be cleared.
+## 修復
+**3秒間**押し続けます、そしてリリースしてネットワークを修復します。
 
-#Reset Button
+## リセット
+**10秒間**押し続けます、そしてリリースしてルーターをリセットします。ルーターが工場出荷時の設定に戻って、すべてのユーザーデータが消去されます。
 
-## Mini Routers
+# リセットボタン
+
+## ナノルーター
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mini_router.jpg)
 
 
 
-## GL-USB150 Microuter
+## GL-USB150
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/microuter.jpg)
 
 
 
-##GL-MiFi 4G Smart Router
+##GL-MiFi 4Gルーター
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mifi.jpg)
 
 
 
-## GL-AR750 Travel AC Router
+## GL-AR750 トラベルACルーター
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/ar750.jpg)
 
 
 
-## GL-B1300 Home AC Router
+## GL-B1300 ホームACルーター
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/b1300.jpg)
 
-*Note: If factory reset is not working. You might need to follow the [Uboot tutorial](debrick.md) to debrick your router.*
+*注意：リセットボタンが有効にならない場合は、[Uboot](debrick.md)を参考して、ルーターを修復してください。*
