@@ -81,19 +81,9 @@ pages:
     - 修復/リセット: 'troubleshooting/reset.md'
     - Ubootハードウエア修復: 'troubleshooting/debrick.md'
 - リリースノート:
-    - Firmware Releases: 'release_notes/index.md'
-    - GL-AR150: 'release_notes/GL-AR150.md'
-    - GL-AR300M: 'release_notes/GL-AR300M.md'
-    - GL-MT300A: 'release_notes/GL-MT300A.md'
-    - GL-MT300N: 'release_notes/GL-MT300N.md'
+    - ファームウェア リリース: 'release_notes/index.md'
     - GL-MT300N-V2: 'release_notes/GL-MT300N-V2.md'
-    - GL-AR750: 'release_notes/GL-AR750.md'
     - GL-AR750S-Ext: 'release_notes/GL-AR750S-Ext.md'
-    - GL-MiFi: 'release_notes/GL-MiFi.md'
-    - GL-X750: 'release_notes/GL-X750.md'
-    - GL-USB150: 'release_notes/GL-USB150.md'
-    - GL-B1300: 'release_notes/GL-B1300.md'
-    - VIXMINI: 'release_notes/VIXMINI.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'

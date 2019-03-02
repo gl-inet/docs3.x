@@ -1,25 +1,22 @@
-Services
+サービス
 =========
 
-
-We provide hardware services. The ideas is illustrated here:
-
+弊社はハードウェアサービスを提供します。アイデアはここに示されています：
 ![Service for Makers](https://static.gl-inet.com/docs/en/2.x/src/services_20180716.png)
 
-Due to limited resources, we now only provide such service based on Domino and Mini routers.
+限られたリソースの原因で、弊社は現在Dominoとナノルーターに基づくそのようなサービスを提供するだけです。
+多くの人々は値下げを要求します。詳細な要件がなければ正確な情報を提供することはできません。このようなプロジェクトには数千ドルから数万ドルの費用がかかりますが、詳細な要件によります。
 
-Many people ask for a price break down. We cannot give precise information without detailed requirement. Such project cost thousands of USD to tens of thousands, depends on detailed requirements.
+そのようなプロジェクトをいくつか作成しましたが、これは非常に難しいことがわかりました。その理由は次のとおり：
 
-We have made several such projects and found this is very difficult. The reasons include:
+1. 要求は詳細で明確ではありません。明確な要求がなければ、プロジェクトを開始することはできません。
+2. 要求を変更すること。これは製品開発では普通のことですが、クライアントは通常、*小さな*変更に対してより多くの支払いをしたくないが、そのような変更は非常にコストがかかる可能性があるため、ODMプロジェクトを簡単に中止します。
+3. 通信コストが高く、プロジェクトのスケジュールが何度も遅れます。
 
-1. Requirements is not detailed and clear. Without a clear requirments the project cannot be started.
-2. Changing requirement. This is normal for product development, but it kills a ODM project easily because clients generally don't want to pay more for *small* changes but such a change can be very costly.
-3. Communication cost is high and project schedule is delayed many times.
+あなたが弊社の製品に基づいてハードウェアを作りたいならば、ここに弊社が提案したいものがあります：
 
-If you want to make hardware based on our products, here is what we suggested:
-
-* Reuse existing hardware as possible as you can. Focus on software.
-* Know your detailed requirements, e.g. size of your product, interfaces. Not just an idea.
-* Prepare for some money to invest.
+* 利用できる既存のハードウェアを再利用してください。 ソフトウェアに焦点を当てる。
+* 詳細な要求を知っています、あなたの製品のサイズ、インターフェースなど。単なるアイデアではありません。
+* 投入するお金を準備してください。
 
 

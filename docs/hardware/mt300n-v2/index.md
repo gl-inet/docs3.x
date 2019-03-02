@@ -1,44 +1,42 @@
 # 	GL-MT300N-V2
 
-The best selling mini router.
+ベストセラーのナノルーター
+
+MT300N-V2はMT300Nのアップグレード版です。 違いは次のとおりです：
+
+* RAMは128MBに倍増
+* MTKドライバを使用して、WiFiのパフォーマンスが向上します。このドライバは監視モードをサポートしていません。しかし、それはあらゆる種類のAPのためのレイヤ2ブリッジングをサポートしています
+* オープンソースのwifiドライバも動作しますが、いくつかのバグがあり、カーネルパニックを引き起こします。 この問題はコミュニティによって解決されることはありませんでした
+* PoE モジュールがありません
 
 
 
-MT300N-V2 is an upgraded version of MT300N. The differences include:
+##  ハードウエアスペック
 
-* RAM is doubled to 128MB 
-* WiFi performance is improved using MTK proprietary driver. This driver doesn't support monitoring mode. But it support layer 2 bridging for all kinds of AP, which is not the case of opensource drivers.
-* Opensource wifi drivers also work but it has some bugs and cause kernel panic. This problem was never solved by the community.  
-* No PoE options.
-
-
-
-##  Hardware Specification
-
-|                         Model | GL-MT300N-V2                                              |
+|                         モデル | GL-MT300N-V2                                              |
 | ----------------------------: | :-------------------------------------------------------- |
 |                           CPU | MTK 7628NN 580MHz                                         |
-|                        Memory | DDRII 128MB                                               |
-|                       Storage | 16MB Nor Flash                                            |
-|                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button |
-|                     Frequency | 2.4GHz                                                    |
-|             Transmission Rate | 300Mbps                                                   |
-|                 Max. Tx Power | 20dBm                                                     |
-|                      Protocol | 802.11 b/g/n                                              |
-| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                 |
-|                Webcam Support | MJPEG, YUV (not supported from firmware v2.27)            |
-|                  DIY Features | UART, 4GPIOs, 3.3V & 5V power port                        |
-|      External Antenna Support | No                                                        |
-|            PoE Module Support | No                                                        |
-|                   Power Input | 5V/1A                                                     |
-|             Power Consumption | <2.75W                                                    |
-|             Dimension, Weight | 58mmX58mmX25mm, 39g                                       |
+|                        メモリ | DDRII 128MB                                                |
+|        　            ストレージ | 16MB Nor フラッシュ                                       |
+|               インターフェイス | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button  |
+|                     　周波数　 | 2.4GHz                                                    |
+|             　　　　　転送速度 | 300Mbps                                                    |
+|                　 最大送信電力 | 20dBm                                                      |
+|                      プロトコル | 802.11 b/g/n                                             |
+|　　　 外付けドライブフォーマット | FAT32/NTFS/EXT4/EXT3/EXT2                                 |
+|                　　ウェブカメラ | MJPEG, YUV (firmware v2.27からサポートしません)            |
+|                  　　　DIY機能 | UART、 4GPIOs、 3.3V & 5V power port                        |
+|      　　　　　　　外部アンテナ | サポートしません                                            |
+|            　　　PoE モジュール | サポートしません                                           |
+|                   　　　　電源 | 5V/1A                                                     |
+|             　　　　　消費電力 | <2.75W                                                     |
+|             　　　サイズ、重量 | 58mmX58mmX25mm 、39g                                       |
 
 
 
 ## PCB Pinout
 
-The pins on the left side can be actually used for Ethernet port or EMMC. They cannot be used as GPIO.
+左側のピンは、実際にはイーサネットポートまたはEMMCに使用できます。 GPIOとして使用することはできません。
 
 ![gl-mt300n-v2 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg)
 

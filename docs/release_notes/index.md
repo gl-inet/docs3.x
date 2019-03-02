@@ -1,8 +1,8 @@
-#Firmware Releases
+#ファームウェアリリース
 
 
 
-| Router Model<br>(Click to check the<br>Release Notes) | Default Release[1] | Pre-release[2] | OpenWrt Only[3] | Tor[4] | DD-WRT |
+| ルーターモデル<br>(クリックしてリリース<br>ノットをチェックする) | [1]<br>デフォルトリリース | [2]<br>プレリリース | [3]<br>OpenWrtだけ | [4]<br>Tor | DD-WRT |
 | :----------------------------------------------------------- | :-------: | :------------: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [GL-AR150<br>GL-AR150-PoE<br>GL-AR150-Ext-2<br>GL-AR150-Ext-PoE-2](GL-AR150.md) |     <a href="https://dl.gl-inet.com/firmware/ar150/v1/" target="_blank">2.27</a>     | <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank">3.013</a> |   <a href="https://dl.gl-inet.com/firmware/ar150/clean/" target="_blank">3.0</a>   |<a href="https://dl.gl-inet.com/firmware/ar150/tor/" target="_blank">2.264</a>|<a href="https://dd-wrt.com/support/other-downloads/?path=betas%2F2018%2F10-19-2018-r37442%2FGL.iNet-AR150%2F" target="_blank">r37442</a>|
 | [GL-AR300M16<br>GL-AR300M16-Ext<br>GL-AR300M-Lite](GL-AR300M.md) |     <a href="https://dl.gl-inet.com/firmware/ar300m/v1/" target="_blank">2.27</a>     | <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">3.013</a> |      <a href="https://dl.gl-inet.com/firmware/ar300m/clean/" target="_blank">3.0</a>      |<a href="https://dl.gl-inet.com/firmware/ar300m/tor/" target="_blank">2.264</a>|-|
@@ -20,13 +20,13 @@
 
 
 
-*Use the .img file when you upgrade through <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/" target="_blank">Uboot</a>. Otherwise, please use the .tar file.
+* <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/" target="_blank">Uboot</a>によってアップグレードするときに、.imgファイルを使用してください。そうでなければ、.tarファイルを使用してください。
 
-[1] The latest firmware of our official firmware.
+[1] 最新のオフィシャルファームウェア。
 
-[2] The testing firmware which is under development.
+[2] The testing firmware which is under development.開発中のテストファームウェア。
 
-[3] OpenWrt/LEDE firmware with Luci admin page only. Our official user admin page is not included.
+[3] Luci管理ページだけのOpenWrt/LEDEファームウェアです。弊社のオフィシャル管理ページがありません。
 
-[4] Tor firmware.
+[4] Tor ファームウェア。
 

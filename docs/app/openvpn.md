@@ -35,6 +35,7 @@ GL.iNetルーターで、OpenVPNサーバーをセットアップすることが
 
 ![start server](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
 
+
 ![started](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_connected.png)
 
 
@@ -58,12 +59,14 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 
 いくつかの.ovpnファイルが別々のca、cert、crlファイルを使用するように注意してください。これらのファイルはアップロードする前に.ovpnファイルと一緒に圧縮する必要があります。
 
+
 ![Upload](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/upload.png)
 
 
 ### 2) プロフィール、ユーザーネーム、パスワードを入力します
 
 コンフィグレーションファイルのプロフィールを設定し、`提出する`をクリックしてアップロード処理を完了します。ユーザー名とパスワードを入力することが必要な場合があります。
+
 
 ![add](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/add.png)
 
