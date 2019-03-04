@@ -2,7 +2,7 @@
 
 ## Plug-ins
 
-**Plug-ins** allows you to manage the OpenWrt packages. You can install or remove any package. 
+**Plug-ins** allows you to manage OpenWrt packages. You can install or remove any package. 
 
 Remember to click `Update` whenever you access this packages repository.
 
@@ -26,4 +26,4 @@ You can use an external USB storage or a MicroSD with GL.iNet router. The file s
 
 
 
-For the guidance on how to access the contents of the external storage device form your computer or smart phone, please refer to [this page](https://docs.gl-inet.com/en/3/app/file_sharing/).
+For the guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [this page](https://docs.gl-inet.com/en/3/app/file_sharing/).

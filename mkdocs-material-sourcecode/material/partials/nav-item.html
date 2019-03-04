@@ -21,6 +21,8 @@
       <label id="spitz_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="microuter_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="vixmini_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="convexa_b_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="convexa_s_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -51,6 +53,14 @@
             document.getElementById("vixmini_label").innerHTML = ("VIXMINI");
             document.getElementById("vixmini_label").style.display = "block";
           }
+          if (window.location.href.indexOf("convexa_b_label") != -1) {
+            document.getElementById("convexa_b_label").innerHTML = ("Convexa-B");
+            document.getElementById("convexa_b_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("convexa_s_label") != -1) {
+            document.getElementById("convexa_s_label").innerHTML = ("Convexa-S");
+            document.getElementById("convexa_s_label").style.display = "block";
+          }
       </script>
 
       <ul id="setup-fullscreen" class="md-nav__list" data-md-scrollfix>
@@ -68,7 +78,7 @@
         <a id="travel_ac_router_wireless" href="../../travel_ac_router/wireless/" style="display: none;" class="md-nav__link"></a>
         <a id="travel_ac_router_clients" href="../../travel_ac_router/clients/" style="display: none;" class="md-nav__link"></a>
         <a id="travel_ac_router_upgrade" href="../../travel_ac_router/upgrade/" style="display: none;" class="md-nav__link"></a>
-		<a id="travel_ac_router_firewall" href="../../travel_ac_router/firewall/" style="display: none;" class="md-nav__link"></a>
+		    <a id="travel_ac_router_firewall" href="../../travel_ac_router/firewall/" style="display: none;" class="md-nav__link"></a>
         <a id="travel_ac_router_vpn" href="../../travel_ac_router/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="travel_ac_router_applications" href="../../travel_ac_router/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="travel_ac_router_more_settings" href="../../travel_ac_router/more_settings/" style="display: none;" class="md-nav__link"></a>
@@ -78,7 +88,7 @@
         <a id="slate_wireless" href="../../slate/wireless/" style="display: none;" class="md-nav__link"></a>
         <a id="slate_clients" href="../../slate/clients/" style="display: none;" class="md-nav__link"></a>
         <a id="slate_upgrade" href="../../slate/upgrade/" style="display: none;" class="md-nav__link"></a>
-		<a id="slate_firewall" href="../../slate/firewall/" style="display: none;" class="md-nav__link"></a>
+		    <a id="slate_firewall" href="../../slate/firewall/" style="display: none;" class="md-nav__link"></a>
         <a id="slate_vpn" href="../../slate/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="slate_applications" href="../../slate/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="slate_more_settings" href="../../slate/more_settings/" style="display: none;" class="md-nav__link"></a>
@@ -118,6 +128,26 @@
         <a id="vixmini_applications" href="../../vixmini/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="vixmini_more_settings" href="../../vixmini/more_settings/" style="display: none;" class="md-nav__link"></a>
 
+        <a id="convexa_b_first-time_setup" href="../../convexa_b/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_b_internet" href="../../convexa_b/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_b_wireless" href="../../convexa_b/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_b_clients" href="../../convexa_b/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_b_upgrade" href="../../convexa_b/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="convexa_b_firewall" href="../../convexa_b/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_b_vpn" href="../../convexa_b/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_b_applications" href="../../convexa_b/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="convexa_b_more_settings" href="../../convexa_b/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="convexa_s_first-time_setup" href="../../convexa_s/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_s_internet" href="../../convexa_s/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_s_wireless" href="../../convexa_s/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_s_clients" href="../../convexa_s/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_s_upgrade" href="../../convexa_s/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="convexa_s_firewall" href="../../convexa_s/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_s_vpn" href="../../convexa_s/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="convexa_s_applications" href="../../convexa_s/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="convexa_s_more_settings" href="../../convexa_s/more_settings/" style="display: none;" class="md-nav__link"></a>
+
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -150,7 +180,7 @@
             document.getElementById("travel_ac_router_clients").style.display = "block";
             document.getElementById("travel_ac_router_upgrade").innerHTML = ("Upgrade");
             document.getElementById("travel_ac_router_upgrade").style.display = "block";
-			document.getElementById("travel_ac_router_firewall").innerHTML = ("Firewall");
+			      document.getElementById("travel_ac_router_firewall").innerHTML = ("Firewall");
             document.getElementById("travel_ac_router_firewall").style.display = "block";
             document.getElementById("travel_ac_router_vpn").innerHTML = ("VPN");
             document.getElementById("travel_ac_router_vpn").style.display = "block";
@@ -171,7 +201,7 @@
             document.getElementById("slate_clients").style.display = "block";
             document.getElementById("slate_upgrade").innerHTML = ("Upgrade");
             document.getElementById("slate_upgrade").style.display = "block";
-			document.getElementById("slate_firewall").innerHTML = ("Firewall");
+			      document.getElementById("slate_firewall").innerHTML = ("Firewall");
             document.getElementById("slate_firewall").style.display = "block";
             document.getElementById("slate_vpn").innerHTML = ("VPN");
             document.getElementById("slate_vpn").style.display = "block";
@@ -253,6 +283,48 @@
             document.getElementById("vixmini_applications").style.display = "block";
             document.getElementById("vixmini_more_settings").innerHTML = ("More Settings");
             document.getElementById("vixmini_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("convexa_b") != -1) {
+            document.getElementById("convexa_b_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("convexa_b_first-time_setup").style.display = "block";
+            document.getElementById("convexa_b_internet").innerHTML = ("Internet");
+            document.getElementById("convexa_b_internet").style.display = "block";
+            document.getElementById("convexa_b_wireless").innerHTML = ("Wireless");
+            document.getElementById("convexa_b_wireless").style.display = "block";
+            document.getElementById("convexa_b_clients").innerHTML = ("Clients");
+            document.getElementById("convexa_b_clients").style.display = "block";
+            document.getElementById("convexa_b_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("convexa_b_upgrade").style.display = "block";
+			      document.getElementById("convexa_b_firewall").innerHTML = ("Firewall");
+            document.getElementById("convexa_b_firewall").style.display = "block";
+            document.getElementById("convexa_b_vpn").innerHTML = ("VPN");
+            document.getElementById("convexa_b_vpn").style.display = "block";
+            document.getElementById("convexa_b_applications").innerHTML = ("Applications");
+            document.getElementById("convexa_b_applications").style.display = "block";
+            document.getElementById("convexa_b_more_settings").innerHTML = ("More Settings");
+            document.getElementById("convexa_b_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("convexa_s") != -1) {
+            document.getElementById("convexa_s_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("convexa_s_first-time_setup").style.display = "block";
+            document.getElementById("convexa_s_internet").innerHTML = ("Internet");
+            document.getElementById("convexa_s_internet").style.display = "block";
+            document.getElementById("convexa_s_wireless").innerHTML = ("Wireless");
+            document.getElementById("convexa_s_wireless").style.display = "block";
+            document.getElementById("convexa_s_clients").innerHTML = ("Clients");
+            document.getElementById("convexa_s_clients").style.display = "block";
+            document.getElementById("convexa_s_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("convexa_s_upgrade").style.display = "block";
+			      document.getElementById("convexa_s_firewall").innerHTML = ("Firewall");
+            document.getElementById("convexa_s_firewall").style.display = "block";
+            document.getElementById("convexa_s_vpn").innerHTML = ("VPN");
+            document.getElementById("convexa_s_vpn").style.display = "block";
+            document.getElementById("convexa_s_applications").innerHTML = ("Applications");
+            document.getElementById("convexa_s_applications").style.display = "block";
+            document.getElementById("convexa_s_more_settings").innerHTML = ("More Settings");
+            document.getElementById("convexa_s_more_settings").style.display = "block";
           }
         </script> 
       </ul>

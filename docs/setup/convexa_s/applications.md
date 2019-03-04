@@ -8,7 +8,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/applications/plug-ins.jpg)
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/convexa_s/applications/plug-ins.jpg)
 
 
 
@@ -24,7 +24,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 **Writable**: The contents of the external storage device can be edited.
 
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/applications/file_sharing.jpg)
+![File sharing](https://static.gl-inet.com/docs/en/3/setup/convexa_s/applications/file_sharing.jpg)
 
 
 

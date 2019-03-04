@@ -118,6 +118,26 @@ pages:
         - Upgrade: 'setup/vixmini/upgrade.md'
         - Applications: 'setup/vixmini/applications.md'
         - More Settings: 'setup/vixmini/more_settings.md'
+    - Convexa-B (GL-B1300):
+        - First-time Setup: 'setup/convexa_b/first-time_setup.md'
+        - Internet: 'setup/convexa_b/internet.md'
+        - Wireless: 'setup/convexa_b/wireless.md'
+        - Clients: 'setup/convexa_b/clients.md'
+        - Upgrade: 'setup/convexa_b/upgrade.md'
+        - Firewall: 'setup/convexa_b/firewall.md'
+        - VPN: 'setup/convexa_b/vpn.md'
+        - Applications: 'setup/convexa_b/applications.md'
+        - More Settings: 'setup/convexa_b/more_settings.md'
+    - Convexa-S (GL-S1300):
+        - First-time Setup: 'setup/convexa_s/first-time_setup.md'
+        - Internet: 'setup/convexa_s/internet.md'
+        - Wireless: 'setup/convexa_s/wireless.md'
+        - Clients: 'setup/convexa_s/clients.md'
+        - Upgrade: 'setup/convexa_s/upgrade.md'
+        - Firewall: 'setup/convexa_s/firewall.md'
+        - VPN: 'setup/convexa_s/vpn.md'
+        - Applications: 'setup/convexa_s/applications.md'
+        - More Settings: 'setup/convexa_s/more_settings.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'

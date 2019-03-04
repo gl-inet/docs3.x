@@ -2,7 +2,7 @@
 
 In `FIREWALL`, you can set up firewall rules like **port forwarding**, **open port** and **DMZ**.
 
-![Firewall](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/firewall/firewall.jpg)
+![Firewall](https://static.gl-inet.com/docs/en/3/setup/convexa_s/firewall/firewall.jpg)
 
 
 
@@ -12,7 +12,7 @@ Port Forwarding allows remote computers to connect to a specific computer or ser
 
 To set up port forwarding, click `Port Forwards`and input the required parameters or click `Add a New One`.
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/firewall/port_forwards.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/convexa_s/firewall/port_forwards.jpg)
 
 **Name:** The name of the rule which can be specified by the user.
 
@@ -34,7 +34,7 @@ The router's services, such as web, FTP and so on, require their respective port
 
 To open a port, click `Open Ports on Router` and input the required parameters or click `Add a New One`.
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/firewall/open_port.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/convexa_s/firewall/open_port.jpg)
 
 **Name:** The name of the rule which can be specified by the user.
 
@@ -52,4 +52,4 @@ DMZ allows you to expose one computer to the Internet, so that all the inbounds 
 
 Click `DMZ` and enable `Open DMZ`. Input the internal IP address (E.g. 192.168.8.100) of your device which is going to receive all the inbound packets.
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/firewall/DMZ.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/convexa_s/firewall/DMZ.jpg)

@@ -4,7 +4,7 @@
 
 ## Plug-ins
 
-**Plug-ins** allows you to manage the OpenWrt packages. You can install or remove any package. 
+**Plug-ins** allows you to manage OpenWrt packages. You can install or remove any package. 
 
 Remember to click `Update` whenever you access this packages repository.
 

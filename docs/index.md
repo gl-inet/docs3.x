@@ -15,9 +15,9 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	margin-bottom: 25px;
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
-	grid-template-rows: 50% 50%;
+	grid-template-rows: 33% 33% 33%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8 {
     float: left;
     width: 95%;
     margin-right: 2%;
@@ -28,13 +28,13 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     border-style: solid;
     border-color: #ffffff
 }
-	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover {
+	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover, .box-8:hover {
     border-color: #b6bde3 !important;
 }
 	@media only screen and (max-width: 30em) {
     	.row-box {
         grid-template-columns: 50% 50%;
-        grid-template-rows: 33% 33% 33%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
     	}
 }
 </style>
@@ -62,18 +62,24 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
             </a>
         </div>
-        <div class="box-6">
+        <div class="box-4">
         	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_spitz.png" width=100%>
             </a>
         </div>
-    	<div class="box-4">
+    	<div class="box-5">
     		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter.png" width=100%>
             </a>
 		</div>
-    	<div class="box-5" style="display: none">
-        	<h2><a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">???</a></h2>
+    	<div class="box-6">
+        	<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/"><img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%></a>
+		</div>
+		<div class="box-7">
+        	<a href="https://docs.gl-inet.com/en/3/setup/convexa_b/first-time_setup/"><img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%></a>
+		</div>
+		<div class="box-8">
+        	<a href="https://docs.gl-inet.com/en/3/setup/convexa_s/first-time_setup/"><img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%></a>
 		</div>
 	</div>
 </div>
