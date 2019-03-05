@@ -1,33 +1,34 @@
-#GL-MT300N-V2 - Release Notes
+#GL-MT300N-V2 - リリースノート
 
-## V3.012 - Jan 21, 2018
+## V3.012 - 2018.1.21
 
-Firmware file: [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
+ファームウェアファイル： [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
 
-**New Feature:**
+**新しい機能：**
 
-- Web admin panel display language supports Japanese.
+- 管理者パネルは、言語設定が日本語をサポートします。
+
 
 --------
 
-## V3.011 - Jan 4, 2018
+## V3.011 - 2018.1.4
 
-Firmware file: [gl-mt300n-v2-3.011.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
+ファームウェアファイル： [gl-mt300n-v2-3.011.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
 
-**New Features:**
+**新しい機能:**
 
-- OpenWrt Updated to version 18.06.
-- Adopted new user-interface.
-- WireGuard Server/Client pre-installed, supports Azirevpn and Mullvad service providers.
-- Support DNS over TLS from Cloudflare.
-- Added [GL Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
-- Added new [DDNS](https://docs.gl-inet.com/en/3/app/ddns/) function.
-- Added client management feature which includes QoS, traffic statistics.
-- Added firewall settings page which includes port forwards, open port and DMZ.
-- Added static IP address binding in LAN IP settings.
-- Added **Hide SSID** option in wireless settings.
+- OpenWrtが18.06バージョンに更新します。
+- 新しいユーザーインターフェイスを使用します。
+- WireGuardクライアントとサーバーがインストールされて、AzirevpnとMullvadサービスプロバイダーがサポートします。
+- TLSを介して、Cloudflare DNSの使用をサポートします。
+- Good Cloud機能を追加しました。
+- 新しいDDNS機能を追加しました。
+- クライアント管理機能を追加しました、トラフィック統計とQoSがあります。
+- ファイアウォール設定パージを追加しました、ポート伝送やポートを開くやDMZがいます。
+- LAN IP設定で静態IPアドレスのバインドを追加しました。
+- 無線セクションで**隠すSSID**機能を追加しました。
 
-**Fixed:**
+**修復:**
 
-- Improved the stability of wireless connection.
-- Removed UPnP server, PPTP and L2TP.
+- 無線接続の安定性を改善します。
+- UPnPサーバー、PPTPとL2TPを削除します。

@@ -67,8 +67,7 @@ pages:
         - その他の設定: 'setup/slate/more_settings.md'
         
 - 開発:
-    - UART Serial: 'dev/serial.md'
-    - Advanced Uboot: 'dev/uboot.md'
+    - UART シリアル: 'dev/serial.md'
 - アプリケーション:
     - OpenVPN: 'app/openvpn.md'
     - WireGuard: 'app/wireguard.md'
@@ -83,7 +82,6 @@ pages:
 - リリースノート:
     - ファームウェア リリース: 'release_notes/index.md'
     - GL-MT300N-V2: 'release_notes/GL-MT300N-V2.md'
-    - GL-AR750S-Ext: 'release_notes/GL-AR750S-Ext.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'

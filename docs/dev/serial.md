@@ -1,26 +1,25 @@
-Connection UART serial
+UART シリアル接続
 ===================
 
-Connections
+接続
 ----------
 
-Serial pins are the most used pins for DIY users. You can connect to a <a href="http://www.ebay.com/itm/PL-2303-USB-to-UART-TTL-adapter-/321407483336">USB UART</a> adapter as in the picture.
-
+シリアルピンは、DIYユーザーに最も使用されているピンです。以下のピクチャのように<a href="http://www.ebay.com/itm/PL-2303-USB-to-UART-TTL-adapter-/321407483336">USB UART</a>アダプターに接続することができます。
 ![UART](https://static.gl-inet.com/docs/en/2.x/dev/src/uart_serial.jpg)
 
 Linux (ubuntu)/MAC
 ------------
-In Linux or OSX, when you plug the USB UART adapter to your computer, the driver should already be installed. Check if you have device registered.
+LinuxまたはOSXで、USB UARTアダプタをコンピュータに接続すると、ドライバはすでにインストールされているはずです。デバイスが登録されているか確認してください。
 ```
 $ls /dev/ttyUSB*
 /dev/ttyUSB0
 ```
-you need to have kermit to connect to serial.
+シリアルに接続ために、kermitが必要です。
 ```
 $sudo apt-get install gkermit
 ```
 
-Then you need to make the configuration file for kermit: ~/.kermrc. The content should be:
+kermitのコンフィグレーションファイルを作ることが必要です：　~/.kermrc　内容は：
 ```
 set line /dev/ttyUSB0
 set speed 115200
@@ -35,7 +34,7 @@ set send pack 1000
 set window 5
 ```
 
-Now connect to the device using root:
+rootを使ってデバイスに接続します：
 ```
 $sudo kermit -c
 Connecting to /dev/ttyUSB0, speed 115200
@@ -46,28 +45,27 @@ or followed by ? to see other options.
 
 ```
 
-When you have finished, press `Ctrl-\` then `c` to quit kermit.
-
+終了したら、`Ctrl-\`を押してから`c`を押してkermitを終了します。
 Windows
 ---------
-When connecting the USB UART adapter to your computer, you may need to install drivers for them. The drivers can be download here: somewhere.
+USB UARTアダプターをパソコンに接続するとき、ドライバーをインストールすることが必要かもしれません。
 
-Now you will be able to find the serial COM port (in this example: `COM3`) in device manger.
+今はデバイスマネージャーでシリアルCOMポート（この例：`COM3`）を見つけることができます。
 
 ![Com](https://static.gl-inet.com/docs/en/2.x/dev/src/find-serial-port.jpg)
 
-Install a terminal software. <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">putty</a> is recommended. You need to set COM port `COM4`, speed `115200` and connection type `Serial`. Click "Open".
+ターミナルソフトウエアをインストールします。<a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">putty</a>がおすすめです。COM ポートを`COM4`に、スビートを`115200`に、接続タイプを`Serial`に設定することが必要です。"Open"をクリックします。
 
 
 ![Putty](https://static.gl-inet.com/docs/en/2.x/dev/src/putty.png)
 
-You will be displayed a black window. If you turn on your device now, you will see the console output of the box.
+黒いWindows界面が開きます。今デバイスの電源を入れると、ボックスのコンソール出力が表示されます。
 
 
 ![Putty](https://static.gl-inet.com/docs/en/2.x/dev/src/putty1.png)
 
-Dual Serial connection on Domino Pi
+Domino Piのデュアルシリアル接続
 -------------------------------
-Domino Pi has dual serial connection, please refer to <a href='https://docs.gl-inet.com/en/2/domino/pi/serial/'>Domino Pi Serial</a> for details.
+Piは、デュアルシリアル接続があります、もっと詳細な情報について、<a href='https://docs.gl-inet.com/en/2/domino/pi/serial/'>Domino Pi Serial</a>を参考してください。
 
 

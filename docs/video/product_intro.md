@@ -1,5 +1,4 @@
-#Product Intro
-This page is listing the videos related to product introduction. We have an official [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel.
+#製品紹介
 このページは、製品紹介のビデオです。弊社はオフィシャル[YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber)チャンネルがあります。
 
 ## 2017 GL.iNet Product Collection

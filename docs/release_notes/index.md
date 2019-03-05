@@ -20,11 +20,11 @@
 
 
 
-* <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/" target="_blank">Uboot</a>によってアップグレードするときに、.imgファイルを使用してください。そうでなければ、.tarファイルを使用してください。
+* <a href="https://docs.gl-inet.com/jp/3/troubleshooting/debrick/" target="_blank">Uboot</a>によってアップグレードするときに、.imgファイルを使用してください。そうでなければ、.tarファイルを使用してください。
 
 [1] 最新のオフィシャルファームウェア。
 
-[2] The testing firmware which is under development.開発中のテストファームウェア。
+[2] 開発中のテストファームウェア。
 
 [3] Luci管理ページだけのOpenWrt/LEDEファームウェアです。弊社のオフィシャル管理ページがありません。
 

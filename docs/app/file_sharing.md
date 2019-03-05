@@ -1,51 +1,53 @@
-# File Sharing on GL.iNet Routers
+# ファイル共有
 
 You can use GL.iNet routers with external storage device such as USB stick, MicroSD card, etc,  thus the contents can be shared among all your connected clients. You can easily read or modify its contents. 
-
+GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記憶装置と一緒に使用することができます。そのため、接続しているすべてのクライアント間でコンテンツを共有できます。その内容を簡単に読んだり変更したりできます。
 ---
 
 
 
-##Router settings
+##ルーター設定
 
 The contents of the external storage device are shared to LAN but not WAN and they are unwritable by default. Please click on your router model below to check how to change the file sharing settings of the router. 
 
-**Supported external storage devices**
+**外部記憶装置をサポート**
 
 
-| Router Model | USB Stick | USB Hard Drive | MicroSD Card |
+| ルーターモデル | USB ストレージ | USB ハードドライブ | マイクロSDカード |
 | :----------- | :-------: | :---: | :---: |
 | GL-MT300N*   |  √  | √ | - |
-| GL-MT300N-V2* |     √     |    √ | - |
-| [GL-AR150 Series](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) | √ | √ | - |
-| [GL-AR300M Series](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) | √ | √ | - |
+| GL-MT300N-V2 |     √     |    √ | - |
+| GL-AR150 Series | √ | √ | - |
+| GL-AR300M Series | √ | √ | - |
 | GL-USB150 | - | - | - |
-| [GL-MiFi](https://docs.gl-inet.com/en/3/setup/4g_smart_router/applications/#file-sharing) | √ | √ | √ |
-| [GL-AR750](https://docs.gl-inet.com/en/3/setup/travel_ac_router/applications/#file-sharing) | √ | √ | √ |
-| [GL-AR750S-Ext (Slate)](https://docs.gl-inet.com/en/3/setup/slate/applications/#file-sharing) | √ | √ | √ |
+| GL-MiFi | √ | √ | √ |
+| GL-AR750 | √ | √ | √ |
+| GL-AR750S-Ext (Slate) | √ | √ | √ |
 | GL-B1300* | √ | √ | - |
 
-*Firmware 3.0 for this model has not released yet.
+*Firmware 3.0 for this model has not released yet.*このモデルの3.0ファームウェアはまだリリースされていません。
 
 *Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
+*注意：USBハードドライブの消費電力はかなり高いです。あなたは外部電源でそれを使うべきです。そうでなければ故障の原因となるかもしれません。
 
 ---
 
 
 
-##Access the storage device
+##Access the storage device　ストレージデバイスにアクセス
 
 You can access the contents of the external storage device from your computer or smart phone. Please check the following guidance for the using of file sharing among different operating systems.
-
+あなたは、パソコンまたはスマホから外部ストレージデバイスのファイルをアクセスします。異なるオペレーティングシステム間でのファイル共有の使用については、次のガイダンスを確認してください。
 
 
 ### Windows
 
 **1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. if you are using Win10, you also need to enable SMB 1.0.
+あなたのネットワークはホーム/プライベートでなければなりません。そうでなければ、**ネットワーク**であなたのルーターを見えないかもしれません。Win10を使ったら、SMB 1.0を有効にすることも必要です。
 
 - Win7
 
-  Go to Control panel -> Network and Internet -> Network and Sharing Center. Find if your active network is **Home network**. If not, click it and change it to **Home network**.
+  Go to Control panel -> Network and Internet -> Network and Sharing Center. Find if your active network is **Home network**. If not, click it and change it to **Home network**.コントロールパネルー＞ネットワークとインターネットー＞ネットワークと共有センター。アクティブなネットワークが**ホームネットワーク**かどうかを調べます。そうでない場合は、それをクリックして**ホームネットワーク**に変更してください。
 
 - Win10
 
