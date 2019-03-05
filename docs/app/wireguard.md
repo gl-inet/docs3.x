@@ -1,6 +1,6 @@
 # WireGuard設定  
 
-WireGuardは、最先端の暗号技術を利用している簡単で快速な現代VPNです。それの目標は、IPSecよりも[快速](https://www.wireguard.com/performance/)で[簡単](https://www.wireguard.com/quickstart/)で、大規模な閉塞を避ける有用なVPNです。それはOpenVPNよりもかなり高性能であることを意図しています。
+WireGuardは、最先端の暗号技術を利用している簡単で快速な現代VPNです。それの目標は、IPSecよりも[快速](https://www.wireguard.com/performance/)で[簡単](https://www.wireguard.com/quickstart/)で、大規模な閉塞を避けるに有用なVPNです。それはOpenVPNよりもかなり高性能であることを意図しています。
 
 ファームウェア3.0でWireGuardをセットアップして利用することができます、WireGuardサーバーとクライアントがインストールされています。
 
@@ -84,7 +84,7 @@ WireGuardクライアントをセットアップするため、`ファイルを�
 
 
 
-###3) WireGuardに接続
+### 3) WireGuardに接続
 
 `接続`をクリックします。接続が成功する時、アップロードとダウンロードが見えます。
 

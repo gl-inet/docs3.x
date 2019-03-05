@@ -4,7 +4,7 @@
 
 ## ナノルーター
 
-![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg)
+![mini](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/mini_led.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示すLEDです。
 - **無線**: ルーターがWi-Fiをブロードキャストしていることを示すLEDです。 無線データ転送があるときは点滅します。
@@ -17,7 +17,7 @@
 
 ## GL-USB150 
 
-![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/microuter.jpg)
+![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/microuter.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
 - **ホットスポット**:  ルーターがWi-Fiをブロードキャストしていることを示す緑色のLEDです。無線データ転送があるときは点滅します。
@@ -29,7 +29,7 @@
 
 ## GL-MiFi 4Gスマートルーター
 
-  ![mini LED](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mifi.jpg)
+  ![mini LED](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/mifi.jpg)
 
 - **電池**: バッテリーを示し、それは完全に充電されるまでデバイスが充電されているときに点滅します。
 - **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
@@ -45,7 +45,7 @@
 
 ## GL-AR750 
 
-  ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/ar750.jpg)
+  ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/ar750.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示す白色のLEDです。
 - **2.4GHz Wi-Fi**:ルーターが2.4GWi-Fiをブロードキャストしていることを示す白色のLEDです。無線データ転送があるときは点滅します。
@@ -57,7 +57,7 @@
 
 ## GL-B1300
 
-  ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/b1300.jpg)
+  ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/b1300.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
 - **Mesh**: 緑色のLEDが点滅している場合は、ルーターが別のルーターとペアリングしていることを示しています。Meshネットワークが作成されると緑色に点灯します。

@@ -30,7 +30,7 @@
 
 ## ルーターポートを開きます
 
-The router's services, such as web, FTP and so on, require their respective ports to be opened on the router in order to be publicly reachable.ルーターのweb、FTPなどのサービスを使用する時、公共ネットワークから到達可能であるためには、それぞれのポートをルーター上で開く必要があります。
+ルーターのweb、FTPなどのサービスを使用する時、公共ネットワークから到達可能であるためには、それぞれのポートをルーター上で開く必要があります。
 
 ポートを開くことのために、`ルーターポートを開きます`をクリックして、必要なパラメーターを入力してください。
 

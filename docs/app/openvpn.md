@@ -82,7 +82,7 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 
 接続しているあと、IPアドレス、送信/受信したデータが見えます。
 
-![connected](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connected.jpg)
+![connected](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/connected.png)
 
 
 
