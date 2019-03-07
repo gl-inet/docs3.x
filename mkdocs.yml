@@ -71,6 +71,8 @@ pages:
 - アプリケーション:
     - OpenVPN: 'app/openvpn.md'
     - WireGuard: 'app/wireguard.md'
+    - Shadowsocks: 'app/ss.md'
+    - ファイル共有: 'file_sharing.md'
 - ビデオ:
     - 製品紹介: 'video/product_intro.md'
     - チュートリアル: 'video/tutor.md'  

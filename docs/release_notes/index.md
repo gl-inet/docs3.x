@@ -20,7 +20,7 @@
 
 
 
-* <a href="https://docs.gl-inet.com/jp/3/troubleshooting/debrick/" target="_blank">Uboot</a>によってアップグレードするときに、.imgファイルを使用してください。そうでなければ、.tarファイルを使用してください。
+* <a href="https://docs.gl-inet.com/jp/3/troubleshooting/debrick/" target="_blank">Uboot</a>によってアップグレードするときに、.imgファイルを使用してください。ファームウェアをアップグレードする時に、.tarファイルを使用してください。
 
 [1] 最新のオフィシャルファームウェア。
 

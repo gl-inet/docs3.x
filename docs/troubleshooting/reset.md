@@ -12,30 +12,30 @@
 
 ## ナノルーター
 
-   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mini_router.jpg)
+   ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/src/factoryreset/mini_router.jpg)
 
 
 
 ## GL-USB150
 
-   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/microuter.jpg)
+   ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/src/factoryreset/microuter.jpg)
 
 
 
 ##GL-MiFi 4Gルーター
 
-   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mifi.jpg)
+   ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/src/factoryreset/mifi.jpg)
 
 
 
 ## GL-AR750 トラベルACルーター
 
-   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/ar750.jpg)
+   ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/src/factoryreset/ar750.jpg)
 
 
 
 ## GL-B1300 ホームACルーター
 
-   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/b1300.jpg)
+   ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/src/factoryreset/b1300.jpg)
 
 *注意：リセットボタンが有効にならない場合は、[Uboot](debrick.md)を参考して、ルーターを修復してください。*

@@ -1,6 +1,6 @@
 # ファイル共有
 
-You can use GL.iNet routers with external storage device such as USB stick, MicroSD card, etc,  thus the contents can be shared among all your connected clients. You can easily read or modify its contents. 
+
 GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記憶装置と一緒に使用することができます。そのため、接続しているすべてのクライアント間でコンテンツを共有できます。その内容を簡単に読んだり変更したりできます。
 ---
 
@@ -8,7 +8,7 @@ GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記�
 
 ##ルーター設定
 
-The contents of the external storage device are shared to LAN but not WAN and they are unwritable by default. Please click on your router model below to check how to change the file sharing settings of the router. 
+ 外付けストレージデバイスのコンテンツはLANでは共有されますがWANでは共有されず、デフォルトでは書き込み不可です。
 
 **外部記憶装置をサポート**
 
@@ -25,39 +25,36 @@ The contents of the external storage device are shared to LAN but not WAN and th
 | GL-AR750S-Ext (Slate) | √ | √ | √ |
 | GL-B1300* | √ | √ | - |
 
-*Firmware 3.0 for this model has not released yet.*このモデルの3.0ファームウェアはまだリリースされていません。
+*このモデルの3.0ファームウェアはまだリリースされていません。
 
-*Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
-*注意：USBハードドライブの消費電力はかなり高いです。あなたは外部電源でそれを使うべきです。そうでなければ故障の原因となるかもしれません。
+*注意：USBハードドライブの消費電力はかなり高いです。あなたは外部電源でそれを使うべきです。そうでなければ故障の原因となるかもしれません。*
 
 ---
 
 
 
-##Access the storage device　ストレージデバイスにアクセス
+## ストレージデバイスにアクセス
 
-You can access the contents of the external storage device from your computer or smart phone. Please check the following guidance for the using of file sharing among different operating systems.
 あなたは、パソコンまたはスマホから外部ストレージデバイスのファイルをアクセスします。異なるオペレーティングシステム間でのファイル共有の使用については、次のガイダンスを確認してください。
 
 
 ### Windows
 
-**1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. if you are using Win10, you also need to enable SMB 1.0.
-あなたのネットワークはホーム/プライベートでなければなりません。そうでなければ、**ネットワーク**であなたのルーターを見えないかもしれません。Win10を使ったら、SMB 1.0を有効にすることも必要です。
+**1)** あなたのネットワークはホーム/プライベートでなければなりません。そうでなければ、**ネットワーク**であなたのルーターを見えないかもしれません。Win10を使ったら、SMB 1.0を有効にすることも必要です。
 
 - Win7
 
-  Go to Control panel -> Network and Internet -> Network and Sharing Center. Find if your active network is **Home network**. If not, click it and change it to **Home network**.コントロールパネルー＞ネットワークとインターネットー＞ネットワークと共有センター。アクティブなネットワークが**ホームネットワーク**かどうかを調べます。そうでない場合は、それをクリックして**ホームネットワーク**に変更してください。
+  コントロールパネルー＞ネットワークとインターネットー＞ネットワークと共有センター。アクティブなネットワークが**ホームネットワーク**かどうかを調べます。そうでない場合は、それをクリックして**ホームネットワーク**に変更してください。
 
 - Win10
 
-  Go to Control panel -> Network and Internet -> HomeGroup. Click **Change network location**.
+  コントロールパネルー＞ネットワークとインターネットー＞ホームグルプ。**ネットワークロケーションを変更**をクリックします。
 
-  Go to Control Panel -> Programs and Features -> Turn Windows features on or off -> Find SMB 1.0/CIFS file sharing support, check all SMB1 related items, click apply and restart your computer.
+  コントロールぱねるー＞プログラムとフィトンチッドー＞Windowsフィトンチッドを開閉ー＞SMB 1.0/CIFSファイル共有サポートを見つける、SMB1相関のすべてのアイテムをチェックして、アプリをクリックしてパソコンを再起動します。
 
 
 
-**2)** Open a Windows explorer, you can find **Network** in the folder directory. Double click your router to access its contents.
+**2)** Windowsエクスプローラを開くと、フォルダディレクトリに**ネットワーク**があります。 ルーターをダブルクリックしてその内容にアクセスします。
 
 ![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/network.jpg)
 
@@ -65,21 +62,17 @@ You can access the contents of the external storage device from your computer or
 
 ### Mac
 
-**1)** Go to System Preferences -> Sharing -> File sharing. Click `Options` and then enable SMB.
+**1)** セステム界面ー＞共有ー＞ファイル共有。`オプション`をクリックして、SMBを有効にします。
 
 
-
-**2)** Open Finder. You should be able to find your router under Shared.
-
+**2)** Finderを開く、共有であなたのルーターが見つけるはずです。
 
 
 ###IOS
 
-You have to use file manage app to access the contents of your external storage device.
-
-You may use **FE File Explorer**:
-
-**1)** Click `+` to create a `Windows` connection.
+あなたは、外部ストレージデバイスのファイルをアクセスするため、ファイル管理appを使うことが必要です。
+**FE File Explorer**がおすすめです：
+**1)** `+`をクリックして、`Windows`接続を作ります。
 
 ![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios11.jpg)
 
@@ -87,26 +80,21 @@ You may use **FE File Explorer**:
 
 ![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios12.jpg)
 
-**2)** Enter the **IP address** of your router (192.168.8.1). The **User Name** is root and the **Password** is the one that you use to login the web Admin Panel. Finally, click `Save`.
-
+**2)** ルーターの**IP address**を入力します。**User Name**がrootです、そして**Password**が管理者パネルをアクセスするときのパスワードです。最後に、`Save`をクリックします。
 ![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios13.jpg)
 
-**3)** Click your newly created connection to access the contents.
-
+**3)** 作った接続をクリックして、ファイルにアクセスします。
 ![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios14.jpg)
 
 
 
 ### Android
 
-Most Android devices have file manager which you can use to access the contents of your external storage device. Or you can use **ES file explorer**:
-
-**1)** Open the app and then click `Network`.
-
+大部分のAndroidデバイスは外部ストレージデバイスのファイルにアクセスできるのファイルマネージャーがあります。**ES file explorer**を使うこともできます。
+**1)** appを開いて、`Network`をクリックします。
 ![android1](https://static.gl-inet.com/docs/en/3/app/file_sharing/android1.jpg)
 
-**2)** Click `Scan` to find your network storage device.
-
+**2)** `Scan`をクリックして、あなたのネットワークストレージデバイスを見つける。
 ![android2](https://static.gl-inet.com/docs/en/3/app/file_sharing/android2.jpg)
 
 ![android3](https://static.gl-inet.com/docs/en/3/app/file_sharing/android3.jpg)
