@@ -4,7 +4,7 @@
 
 ## ナノルーター
 
-![mini](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/mini_led.jpg)
+![mini](https://static.gl-inet.com/docs/jp/3/troubleshooting/ledlight/mini_led.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示すLEDです。
 - **無線**: ルーターがWi-Fiをブロードキャストしていることを示すLEDです。 無線データ転送があるときは点滅します。
@@ -17,7 +17,7 @@
 
 ## GL-USB150 
 
-![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/microuter.jpg)
+![](https://static.gl-inet.com/docs/jp/3/troubleshooting/ledlight/microuter.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
 - **ホットスポット**:  ルーターがWi-Fiをブロードキャストしていることを示す緑色のLEDです。無線データ転送があるときは点滅します。
