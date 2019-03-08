@@ -18,6 +18,6 @@
 
 **送信電力 (dBm)**: シグナル強度です、デフォルト強度は20dBmです。
 
-![wireless](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/無線/無線.png)
+![wireless](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/無線/無線.png)
 
 `修正`をクリックして、無線ネットワーク設定を変更します。	

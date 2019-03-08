@@ -29,7 +29,7 @@
 
 ## GL-MiFi 4Gスマートルーター
 
-  ![mini LED](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/mifi.jpg)
+  ![mini LED](https://static.gl-inet.com/docs/jp/3/troubleshooting/ledlight/mifi.jpg)
 
 - **電池**: バッテリーを示し、それは完全に充電されるまでデバイスが充電されているときに点滅します。
 - **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
@@ -45,7 +45,7 @@
 
 ## GL-AR750 
 
-  ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/ar750.jpg)
+  ![](https://static.gl-inet.com/docs/jp/3/troubleshooting/ledlight/ar750.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示す白色のLEDです。
 - **2.4GHz Wi-Fi**:ルーターが2.4GWi-Fiをブロードキャストしていることを示す白色のLEDです。無線データ転送があるときは点滅します。
@@ -57,7 +57,7 @@
 
 ## GL-B1300
 
-  ![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/b1300.jpg)
+  ![](https://static.gl-inet.com/docs/jp/3/troubleshooting/ledlight/b1300.jpg)
 
 - **パワー**: ルーターの電源が入っていることを示す緑色のLEDです。
 - **Mesh**: 緑色のLEDが点滅している場合は、ルーターが別のルーターとペアリングしていることを示しています。Meshネットワークが作成されると緑色に点灯します。
@@ -74,7 +74,7 @@
 
 GL.iNetルーターのLEDを設定するには、Web管理ページにある**高級機能**をクリックしてLuciにログインしてください。
 
-![](https://static.gl-inet.com/docs/ja/3/troubleshooting/ledlight/advanced_settings.png)
+![](https://static.gl-inet.com/docs/jp/3/troubleshooting/ledlight/advanced_settings.png)
 
 
 

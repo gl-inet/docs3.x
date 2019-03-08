@@ -2,13 +2,13 @@
 
 四つのインターネットをアクセスするモードがあります：**有線接続**、**無線中継**、**3G/4Gモデル**、**テザリング**。
 
-![connection method](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/method.jpg)
+![connection method](https://static.gl-inet.com/docs/jp/3/setup/slate/first-time_setup/method.jpg)
 
 
 
 `ネットワーク`をクリックして、ネットワーク接続を作ります。
 
-![internet](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/main_ui.png)
+![internet](https://static.gl-inet.com/docs/jp/3/setup/slate/first-time_setup/main_ui.png)
 
   
 
@@ -20,13 +20,13 @@
 
 イーサネットケーブルをルーターのWANポートに入れる前に、`LANポートとして使用` をクリックして、WANポートをLANポートに変更して利用することができます。ルーターを無線中継に利用する時に役が立ちます、なぜならあなたがもう一つのLANポートを利用できるようになります。
 
-![cable](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/ケーブル.png)
+![cable](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/ケーブル.png)
 
 
 
 イーサネットケーブルをルーターのWANポートに入れます後、接続情報が有線セクションに表示されます。DHCPがデフォルトのプロトコルです。`修正`をクリックして、プロトコルを変換できる。
 
-![cable](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/ケーブルセクション.png)
+![cable](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/ケーブルセクション.png)
 
 
 
@@ -34,7 +34,7 @@
 
 DHCPはデフォルトの一般的なプロトコルです。手動で設定する必要はありません。
 
-![dhcp](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/デフォルトプロトコル.png)
+![dhcp](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/デフォルトプロトコル.png)
 
 
 ### Static
@@ -43,7 +43,7 @@ DHCPはデフォルトの一般的なプロトコルです。手動で設定す�
 
 Staticを選択する時、あなたの望みで設定を変更して、`応用する`をクリックします。
 
-![static](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/せいたい.png)
+![static](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/せいたい.png)
 
 
 
@@ -54,7 +54,7 @@ Staticを選択する時、あなたの望みで設定を変更して、`応用�
 
 PPPoEを選択し、ユーザー名とパスワードを入力して、`応用する`をクリックします。
 
-![PPPoE](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/PPPoE.png)
+![PPPoE](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/PPPoE.png)
 
 
 
@@ -68,13 +68,13 @@ PPPoEを選択し、ユーザー名とパスワードを入力して、`応用�
 
 中継セクションで、`スキャン`をクリックして隣の無線ネットワークを探します。
 
-![repeater scan](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/中継.png)
+![repeater scan](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/中継.png)
 
 
 
 リストの中で一つのSSIDを選択し、パスワードを入力します。**ネットワークを保存**を開いて、使用しているの無線ネットワークを保存することができます。最後に、`添加する`をクリックします。
 
-![connect wifi](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/中継スキャン.png)
+![connect wifi](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/中継スキャン.png)
 
 
 
@@ -94,14 +94,14 @@ PPPoEを選択し、ユーザー名とパスワードを入力して、`応用�
 - **サービスタイプ**：あなたのSIMカードのサービスタイプを示します。
 - **APN**:あなたのSIMカードキャリアを確認します。
 
-![modem](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/3G4G.png)
+![modem](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/3G4G.png)
 
 高級設定:
 
 - **番号**：一般に、ここはデフォルト設定であります、手動でセットする必要がありません。しかし、この情報があったら、入力してください。
 - **ピンコード、ユーザーネーム、パスワード**：一般に、ロックされていないSIMカードには、これらのが必要ないです。でも、ロックされているSIMカードがいったら、あなたのサービスプロバイダーに連絡してください。
 
-![modem](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/3G4Gセット.png)
+![modem](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/3G4Gセット.png)
 
 
 
@@ -155,7 +155,7 @@ SIMカードのIPアドレスが見せる時、連接ができた。
 
 デバイスに差し込む後、テザリングセクションがアップデートして、あなたのデバイスがデバイスリストで見える。デバイスの名は**eth2**，**usb0**のように**eth**または**usb**で始まります。 お使いのデバイスを選択して`接続`をクリックしてください。
 
-![tethering](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/テザリング.png)
+![tethering](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/テザリング.png)
 
 
 

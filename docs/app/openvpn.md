@@ -9,7 +9,7 @@ GL.iNetルーターは、OpenVPNサーバーとクライアントがインスト
 
 GL.iNetルーターで、OpenVPNサーバーをセットアップすることができます。`新しいOpenVPN設定を追加する`をクリックします。
 
-![server](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server.png)
+![server](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/server.png)
 
 
 
@@ -17,7 +17,7 @@ GL.iNetルーターで、OpenVPNサーバーをセットアップすることが
 
 事前に設定されたOpenVPNサーバー設定があります。手動で変更するために `修正`をクリックすることもできます。終了したら`起動`をクリックします。
 
-![ server configuration](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
+![ server configuration](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/server_settings.png)
 
 
 
@@ -25,7 +25,7 @@ GL.iNetルーターで、OpenVPNサーバーをセットアップすることが
 
 `エクスポート設定`をクリックして、OpenVPNクライアントをコンフィグ時にアップロード必要なOpenVPNコンフィグレーションファイルをダウンロードします。
 
-![server export](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
+![server export](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/server_settings.png)
 
 
 
@@ -33,10 +33,10 @@ GL.iNetルーターで、OpenVPNサーバーをセットアップすることが
 
 起動をクリックして、OpenVPNサーバーを起動します。そうでなければ、そのコンフィグレーションファイルを使用して、OpenVPNサーバーに接続することができません。
 
-![start server](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_settings.png)
+![start server](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/server_settings.png)
 
 
-![started](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/server_connected.png)
+![started](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/server_connected.png)
 
 
 
@@ -49,7 +49,7 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 
 `新しいOpenVPN設定を追加する`をクリックして、コンフィグレーションファイルをアップロードします。
 
-![client](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/client.png)
+![client](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/client.png)
 
 
 
@@ -60,7 +60,7 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 いくつかの.ovpnファイルが別々のca、cert、crlファイルを使用するように注意してください。これらのファイルはアップロードする前に.ovpnファイルと一緒に圧縮する必要があります。
 
 
-![Upload](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/upload.png)
+![Upload](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/upload.png)
 
 
 ### 2) プロフィール、ユーザーネーム、パスワードを入力します
@@ -68,7 +68,7 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 コンフィグレーションファイルのプロフィールを設定し、`提出する`をクリックしてアップロード処理を完了します。ユーザー名とパスワードを入力することが必要な場合があります。
 
 
-![add](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/add.png)
+![add](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/add.png)
 
 
 
@@ -76,13 +76,13 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 
 `接続`をクリックしてOpenVPN連接を開始します。
 
-![connect](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/connect.png)
+![connect](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/connect.png)
 
 
 
 接続しているあと、IPアドレス、送信/受信したデータが見えます。
 
-![connected](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/connected.png)
+![connected](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/connected.png)
 
 
 
@@ -92,7 +92,7 @@ OpenVPNクライアントは、OpenVPN連接を作るために、OpenVPNコン�
 
 設定ファイルが複数のovpnファイルを含むzip / tar.gzファイルの場合は、**サーバー**に接続したい個々の.ovpnファイルを選択できます。
 
-![management](https://static.gl-inet.com/docs/ja/3/app/openvpn/src/management.png)
+![management](https://static.gl-inet.com/docs/jp/3/app/openvpn/src/management.png)
 
 
 

@@ -52,4 +52,4 @@ DMZを使用すると、1台のコンピュータをインターネットに公�
 
 `DMZ`をクリックして` Open DMZ`を有効にしてください。 すべての受信パケットを受信しようとしているあなたのデバイスの内部IPアドレス（例：192.168.8.100）を入力してください。
 
-![Port Forwards](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/firewall/DMZ.png)
+![Port Forwards](https://static.gl-inet.com/docs/jp/3/setup/slate/firewall/DMZ.png)

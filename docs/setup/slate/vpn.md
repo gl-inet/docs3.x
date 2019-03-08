@@ -7,7 +7,7 @@ GL.iNetルーターは、OpenVPNとWireGuardのVPNサーバーとクライアン
 - [**OpenVPN**](https://docs.gl-inet.com/jp/3/app/openvpn/)
 - [**WireGuard**](https://docs.gl-inet.com/jp/3/app/wireguard/)
 
-![client](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/vpn/vpn.png)
+![client](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/vpn/vpn.png)
 
 
 

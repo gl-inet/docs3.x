@@ -43,12 +43,12 @@ GL.iNetは、オープンソースのソフトウェアを使ってハードウ�
 	<div class="row-box">
         <div class="box-0">
             <a href="https://docs.gl-inet.com/jp/3/setup/mini_router/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/docs_icon_mini.png" class="image" width=100%>
+            	<img src="https://static.gl-inet.com/docs/jp/3/home/mini.png" width=100%>
             </a>
         </div>
     	<div class="box-1">
     		<a href="https://docs.gl-inet.com/en/3/setup/travel_ac_router/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/docs_icon_750.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/jp/3/home/750.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">
@@ -58,7 +58,7 @@ GL.iNetは、オープンソースのソフトウェアを使ってハードウ�
     	</div>
         <div class="box-3">
         	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/docs_icon_mifi.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/jp/3/home/mifi.png" width=100%>
             </a>
         </div>
         <div class="box-6">
@@ -68,7 +68,7 @@ GL.iNetは、オープンソースのソフトウェアを使ってハードウ�
         </div>
     	<div class="box-4">
     		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/docs_icon_usb150.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/jp/3/home/usb150.png" width=100%>
             </a>
 		</div>
     	<div class="box-5" style="display: none">

@@ -12,7 +12,7 @@ WireGuardは、最先端の暗号技術を利用している簡単で快速な�
 
 あなたは、ファームウェア3.0を使用しているGL.iNetルーターでWireGuardサーバーをセットアップできます。`WireGuardサーバーを初期化します`をクリックします。
 
-![1531199972139](https://static.gl-inet.com/docs/ja/3/app/wireguard/WGS1.png)
+![1531199972139](https://static.gl-inet.com/docs/jp/3/app/wireguard/WGS1.png)
 
 
 
@@ -20,7 +20,7 @@ WireGuardは、最先端の暗号技術を利用している簡単で快速な�
 
 簡単でデフォルト**ローカル**IPと**ローカルポート**設定を使用することができます、自分で設定することもできます。`起動`をクリックして、WireGuardサーバーを起動します。
 
-![Sever Configuration](https://static.gl-inet.com/docs/ja/3/app/wireguard/WGS2.png)
+![Sever Configuration](https://static.gl-inet.com/docs/jp/3/app/wireguard/WGS2.png)
 
 
 
@@ -30,13 +30,13 @@ WireGuardに接続する時、ユーザーを追加してコンフィグレー�
 
 `管理`をクリックして、`新しいユーザーを追加します`をクリックします. 
 
-![Add Client](https://static.gl-inet.com/docs/ja/3/app/wireguard/WGS3.png)
+![Add Client](https://static.gl-inet.com/docs/jp/3/app/wireguard/WGS3.png)
 
 
 
 新しいクライアントの**名称**を設定して、`添加`をクリックします。
 
-![Name](https://static.gl-inet.com/docs/ja/3/app/wireguard/WGS4.png)
+![Name](https://static.gl-inet.com/docs/jp/3/app/wireguard/WGS4.png)
 
 
 
@@ -44,13 +44,13 @@ WireGuardに接続する時、ユーザーを追加してコンフィグレー�
 
 現在添加したクライアントリストがチェックできるようになります。いらないクライアントを`削除`することができます。`設定`をクリックして、WireGuardクライアントをセットアップする時必要なコンフィグレーションをゲットします。QRコード、アロケーションファイル、JSONフォーマット三つのコンフィグレーションが提供します。
 
-![Configurations](https://static.gl-inet.com/docs/ja/3/app/wireguard/configurations.png)
+![Configurations](https://static.gl-inet.com/docs/jp/3/app/wireguard/configurations.png)
 
 
 
 ほかのGL.iNetをクライアントに使用する時、**JSON**コンフィグレーションをコピーして、WireGuardクライアントを設定する時にそれを直接貼り付けます。
 
-![Configurations](https://static.gl-inet.com/docs/ja/3/app/wireguard/json.png)
+![Configurations](https://static.gl-inet.com/docs/jp/3/app/wireguard/json.png)
 
 
 
@@ -60,7 +60,7 @@ WireGuardに接続する時、ユーザーを追加してコンフィグレー�
 
 WireGuardクライアントをセットアップするため、`ファイルを追加します`をクリックしてください。
 
-![Client](https://static.gl-inet.com/docs/ja/3/app/wireguard/WGC1.png)
+![Client](https://static.gl-inet.com/docs/jp/3/app/wireguard/WGC1.png)
 
 
 
@@ -68,7 +68,7 @@ WireGuardクライアントをセットアップするため、`ファイルを�
 
 名称を設定して、`続き`をクリックします。
 
-![Name](https://static.gl-inet.com/docs/ja/3/app/wireguard/name.png)
+![Name](https://static.gl-inet.com/docs/jp/3/app/wireguard/name.png)
 
 
 
@@ -80,7 +80,7 @@ WireGuardクライアントをセットアップするため、`ファイルを�
 
 `添加`をクリックして、WireGuardクライアントセットアップを完了します。
 
-![Configuraion](https://static.gl-inet.com/docs/ja/3/app/wireguard/configurations1.png)
+![Configuraion](https://static.gl-inet.com/docs/jp/3/app/wireguard/configurations1.png)
 
 
 
@@ -88,7 +88,7 @@ WireGuardクライアントをセットアップするため、`ファイルを�
 
 `接続`をクリックします。接続が成功する時、アップロードとダウンロードが見えます。
 
-![1531206410246](https://static.gl-inet.com/docs/ja/3/app/wireguard/WGC5.png)
+![1531206410246](https://static.gl-inet.com/docs/jp/3/app/wireguard/WGC5.png)
 
 
 
