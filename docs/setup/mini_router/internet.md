@@ -93,7 +93,7 @@ PPPoEを選択し、ユーザー名とパスワードを入力して、`応用�
 一般に、あなたは以下の3つの基本パラメータで3G/4Gモデムを設定します。`応用する` をクリックして続きます。
 
 - **デバイス**：モデムがQMIをサポートする場合は、**/dev/cdc-wdm0 **を選択してください。そでなければ、**/dev/ttyUSB**を選択することが必要です。**dev/ttyUSB**が0から3までのいくつかの**ttyUSB**があります、あなたがモデムスペックに正しいものを選択することが必要です。まず**ttyUSB0**を試してください。
-- **サービスタイプ**：あなたのSIMカードのサービスタイプを示します。
+- **サービス**：あなたのSIMカードのサービスタイプを示します。
 - **APN**:あなたのSIMカードキャリアを確認します。
 
 ![modem](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/3G4G.png)
@@ -109,9 +109,9 @@ PPPoEを選択し、ユーザー名とパスワードを入力して、`応用�
 
 SIMカードのIPアドレスが見せる時、連接ができた。
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem2.jpg)
+![modem connect](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/modem2.jpg)
 
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem3.jpg)
+![modem connected](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/modem3.jpg)
 
 
 
@@ -157,7 +157,7 @@ SIMカードのIPアドレスが見せる時、連接ができた。
 
 デバイスに差し込む後、テザリングセクションがアップデートして、あなたのデバイスがデバイスリストで見える。デバイスの名は**eth2**，**usb0**のように**eth**または**usb**で始まります。 お使いのデバイスを選択して`接続`をクリックしてください。
 
-![tethering](https://static.gl-inet.com/docs/ja/3/セットアップ/nanoルーター/ネットワーク/テザリング.png)
+![tethering](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/テザリング.png)
 
 
 

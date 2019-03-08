@@ -107,9 +107,9 @@ PPPoEを選択し、ユーザー名とパスワードを入力して、`応用�
 
 SIMカードのIPアドレスが見せる時、連接ができた。
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem2.jpg)
+![modem connect](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/modem2.jpg)
 
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem3.jpg)
+![modem connected](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/ネットワーク/modem3.jpg)
 
 
 
