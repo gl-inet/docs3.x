@@ -18,7 +18,7 @@
 	  {% else %}
 	  <!-- Setup Tab -->
 		<li class="md-tabs__item">
-		  {% if title == "Setup" %}
+		  {% if title == "セットアップ" %}
 		    <div class="md-tabs__link">
 			    <button onclick="myFunction()" class="dropbtn">
 				  {{ title }}<b class="caret"></b>
@@ -26,7 +26,7 @@
 				  <div id="myDropdown" class="dropdown-content">
 							<ul class="md-nav__list" data-md-scrollfix>
 									{% for nav_item in nav %}
-										{% if nav_item.title == "Setup" %}
+										{% if nav_item.title == "セットアップ" %}
 											{% for nav_item in nav_item.children %}
 									    	<a href="{{ (nav_item.children | first).url }}" title="{{ nav_item.title }}" class="md-nav__link md-nav__link--active">
 											  	{{ nav_item.title }}

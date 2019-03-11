@@ -2,7 +2,7 @@
 {% if nav_item.active %}
   {% set class = "md-nav__item md-nav__item--active" %}
 {% endif %}
-{% if nav_item.title == "Setup" %}
+{% if nav_item.title == "セットアップ" %}
   <li class="{{ class }} md-nav__item--nested">
   {% if nav_item.active %}
     <input class="md-toggle md-nav__toggle" data-md-toggle="{{ path }}" type="checkbox" id="{{ path }}" checked>
@@ -24,7 +24,7 @@
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
-            document.getElementById("mini_router_label").innerHTML = ("Mini Router");
+            document.getElementById("mini_router_label").innerHTML = ("ナノルーター");
             document.getElementById("mini_router_label").style.display = "block";
           }
           if (window.location.href.indexOf("travel_ac_router") != -1) {
@@ -59,6 +59,7 @@
         <a id="mini_router_wireless" href="../../mini_router/wireless/" style="display: none;" class="md-nav__link"></a>
         <a id="mini_router_clients" href="../../mini_router/clients/" style="display: none;" class="md-nav__link"></a>
         <a id="mini_router_upgrade" href="../../mini_router/upgrade/" style="display: none;" class="md-nav__link"></a>
+    <a id="mini_router_firewall" href="../../mini_router/firewall/" style="display: none;" class="md-nav__link"></a>
         <a id="mini_router_vpn" href="../../mini_router/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="mini_router_applications" href="../../mini_router/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="mini_router_more_settings" href="../../mini_router/more_settings/" style="display: none;" class="md-nav__link"></a>
@@ -121,21 +122,23 @@
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
-            document.getElementById("mini_router_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("mini_router_first-time_setup").innerHTML = ("基本設定");
             document.getElementById("mini_router_first-time_setup").style.display = "block";
-            document.getElementById("mini_router_internet").innerHTML = ("Internet");
+            document.getElementById("mini_router_internet").innerHTML = ("ネットワーク");
             document.getElementById("mini_router_internet").style.display = "block";
-            document.getElementById("mini_router_wireless").innerHTML = ("Wireless");
+            document.getElementById("mini_router_wireless").innerHTML = ("無線");
             document.getElementById("mini_router_wireless").style.display = "block";
-            document.getElementById("mini_router_clients").innerHTML = ("Clients");
+            document.getElementById("mini_router_clients").innerHTML = ("クライアント");
             document.getElementById("mini_router_clients").style.display = "block";
-            document.getElementById("mini_router_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("mini_router_upgrade").innerHTML = ("アップグレード");
             document.getElementById("mini_router_upgrade").style.display = "block";
+      document.getElementById("mini_router_firewall").innerHTML = ("ファイアウォール");
+            document.getElementById("mini_router_firewall").style.display = "block";
             document.getElementById("mini_router_vpn").innerHTML = ("VPN");
             document.getElementById("mini_router_vpn").style.display = "block";
-            document.getElementById("mini_router_applications").innerHTML = ("Applications");
+            document.getElementById("mini_router_applications").innerHTML = ("アプリケーション");
             document.getElementById("mini_router_applications").style.display = "block";
-            document.getElementById("mini_router_more_settings").innerHTML = ("More Settings");
+            document.getElementById("mini_router_more_settings").innerHTML = ("その他の設定");
             document.getElementById("mini_router_more_settings").style.display = "block";
           }
 
@@ -161,23 +164,23 @@
           }
 
           if (window.location.href.indexOf("slate") != -1) {
-            document.getElementById("slate_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("slate_first-time_setup").innerHTML = ("基本設定");
             document.getElementById("slate_first-time_setup").style.display = "block";
-            document.getElementById("slate_internet").innerHTML = ("Internet");
+            document.getElementById("slate_internet").innerHTML = ("ネットワーク");
             document.getElementById("slate_internet").style.display = "block";
-            document.getElementById("slate_wireless").innerHTML = ("Wireless");
+            document.getElementById("slate_wireless").innerHTML = ("無線");
             document.getElementById("slate_wireless").style.display = "block";
-            document.getElementById("slate_clients").innerHTML = ("Clients");
+            document.getElementById("slate_clients").innerHTML = ("クライアント");
             document.getElementById("slate_clients").style.display = "block";
-            document.getElementById("slate_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("slate_upgrade").innerHTML = ("アップグレード");
             document.getElementById("slate_upgrade").style.display = "block";
-			document.getElementById("slate_firewall").innerHTML = ("Firewall");
+			document.getElementById("slate_firewall").innerHTML = ("ファイアウォール");
             document.getElementById("slate_firewall").style.display = "block";
             document.getElementById("slate_vpn").innerHTML = ("VPN");
             document.getElementById("slate_vpn").style.display = "block";
-            document.getElementById("slate_applications").innerHTML = ("Applications");
+            document.getElementById("slate_applications").innerHTML = ("アプリケーション");
             document.getElementById("slate_applications").style.display = "block";
-            document.getElementById("slate_more_settings").innerHTML = ("More Settings");
+            document.getElementById("slate_more_settings").innerHTML = ("その他の設定");
             document.getElementById("slate_more_settings").style.display = "block";
           }
 

@@ -4,7 +4,7 @@
 
 GL-AR750S-Ext
 
-![router](https://static.gl-inet.com/docs/ja/3/セットアップ/slate/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/ja/3/setup/slate/first-time_setup/router.jpg)
 
 
 
