@@ -1,34 +1,32 @@
-#  GL-AR750S Gigabit AC Travel Router
+#  GL-AR750S ギガビット AC トラベルルーター
 
 
 
-The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally 3) to Gigabit ports so that it get faster speed in your travel. We also added 128MB Nand Flash to provide dual flash for more storage and faster operation speed. It has a MicroSD (TF) slot which increase your storage space up to 128GB. 
+デュアルバンドギガビットACトラベルルーターです。それはあなたの旅行でより速い速度を得るように私達はイーサネットポート（全部で3つ）をギガビットポートにアップグレードします。また、128MBのNand Flashを追加して、より多くのストレージとより速い動作速度のためのデュアルフラッシュを提供しました。それはあなたのストレージスペースを最大128GBまで増やすマイクロSD（TF）スロットを持っています。
 
+## ハードウエアスペック
 
-
-## Hardware Specification
-
-|                         Model | GL-AR750S                                                    |
+|                         モデム | GL-AR750S                                                    |
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9563, @775MHz SoC                                         |
-|                        Memory | DDRII 128MB                                                  |
-|                       Storage | Dual Flash 16MB Nor + 128MB Nand                             |
-|                    Interfaces | 1 WAN (1000Mbps), 2 LANs (1000Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, TF Card Slot (128GB Max.) |
-|                     Frequency | 2.4GHz, 5GHz                                                 |
-|             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
-|                 Max. Tx Power | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
-|                      Protocol | 802.11 b/g/n/ac                                              |
-| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
-|                  DIY Features | UART, GPIO, 3.3V & 5V power port                             |
-|              External Antenna | 2 X 2dBi Fixed Antennas                                      |
-|                    PoE Module | No                                                           |
-|                   Power Input | 5V/2A                                                        |
-|             Power Consumption | <6W                                                          |
-|             Dimension, Weight | 100mmX68mmX24mm, 86g                                         |
+|                        メモリ | DDRII 128MB                                                  |
+|                     ストレージ | デュアル フラッシュ 16MB Nor + 128MB Nand                             |
+|                インターフェイス | 1 WAN (1000Mbps), 2 LANs (1000Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, TF Card Slot (128GB Max.) |
+|                     周波数　　 | 2.4GHz, 5GHz                                                 |
+|             転送速度 　　　　　| 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
+|                 最大送信電力　 | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
+|                      プロトコル | 802.11 b/g/n/ac                                              |
+| 　　外付けドライブフォーマット　 | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
+|                  　　　DIY 機能 | UART, GPIO, 3.3V & 5V power port                             |
+|             　　 外付けアンテナ | 2 X 2dBi Fixed Antennas                                      |
+|                  PoE モジュール | サポートしません                                                           |
+|                  　　　　 電源 | 5V/2A                                                        |
+|            　　　　　　 消費電力 | <6W                                                          |
+|            　　　　 サイズ, 重量 | 100mmX68mmX24mm, 86g                                         |
 
 
 
-## PCB Pinout
+## PCB ピン配置
 
 ![GL-AR750S PINOUT](https://static.gl-inet.com/docs/en/3/hardware/ar750s/AR750S-V1.0-PINOUT-01.jpg)
 

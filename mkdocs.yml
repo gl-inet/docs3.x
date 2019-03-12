@@ -44,6 +44,7 @@ pages:
     - サービス: 'service.md'
 - ハードウエア:
     - GL-MT300N-V2: 'hardware/mt300n-v2/index.md'
+    - GL-AR750S-Ext: 'hardware/ar750s/index.md'
 - セットアップ:
     - ナノルーター:
         - 基本設定: 'setup/mini_router/first-time_setup.md'
