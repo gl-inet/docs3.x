@@ -1,31 +1,29 @@
-# Change WAN to LAN
+# WANをLANに変更する
 
-You can configure the WAN port of the router so that it can be used as a LAN port. That's useful when you are using the router in repeater mode which the WAN port is not required. As a result, you can have one more LAN port.
-
-Especially for **GL-AR300M-Lite**, it only has one Ethernet port which works as WAN by default. Therefore, you must connect to it via Wi-Fi. However, once you have connected to it, you can change its WAN port to LAN so that you can connect to it via an Ethernet cable.
-
-
+あなたは、ルーターのWANポートをLANポートに変更することができます。中継モードでWANが必要ないときに、この機能が役に立つ、あなたがもうひとつのLANポートをゲットできます。
+特に**GL-AR300M-Lite**の場合、デフォルトでWANとして機能するイーサネットポートは1つだけです。だから
+最初はWi-Fiで接続しかできない。でも、接続した後WANポートがLANポートに変更できる、そしてイーサネットケーブルでルーターを接続することもできるようになります。
 
 ---
 <ol type="1">
 <li>
-	<p>Leave the WAN port of the router unconnected.</p>
+	<p>ルーターのWANポートを未接続のままにします。</p>
 </li>
 <li>
-	<p>Connect your device to the router and access the web Admin Panel.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet.jpg"/>
+	<p>あなたのデバイスをルーターに接続して管理者パネルをアクセスする。</p>
+	<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/internet.png"/>
 </li>
 <li>
-	<p>Go to <b>Internet</b>, click <b>Use as LAN</b> under the Cable section.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/cable.jpg"/>
+	<p><b>ネットワーク</b>に行く, 有線セクションで<b>LANポートとして使用</b>をクリックします。</p>
+	<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/lan.png"/>
 </li>
 <li>
-	<p>Click <b>Yes</b> to confirm.</p>
-	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg"/>
+	<p><b>はい</b>をクリックして確認します。</p>
+	<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/cable.png"/>
 </li>
 </ol>
 ---
 
-You can simply revert the setting by repeating the above procedures. This time, it will show **Use as WAN** in step 3.
+上記の手順を繰り返すことで、設定を元に戻すことができます。ステップ3で**WANポートとして使用**が表示されます。
 
-![WAN_LAN](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan1.jpg)
+![WAN_LAN](https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/wan.png)

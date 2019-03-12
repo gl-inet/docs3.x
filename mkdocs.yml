@@ -82,9 +82,11 @@ pages:
     - LED 指標: 'troubleshooting/led.md'
     - 修復/リセット: 'troubleshooting/reset.md'
     - Ubootハードウエア修復: 'troubleshooting/debrick.md'
+    - WANポートをLANに: 'troubleshooting/chang_wan_to_lan.md'
 - リリースノート:
     - ファームウェア リリース: 'release_notes/index.md'
     - GL-MT300N-V2: 'release_notes/GL-MT300N-V2.md'
+    - GL-AR750S-Ext(Slate): 'release_notes/GL-AR750S-Ext.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'
