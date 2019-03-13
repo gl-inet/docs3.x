@@ -74,6 +74,7 @@ pages:
     - WireGuard: 'app/wireguard.md'
     - Shadowsocks: 'app/ss.md'
     - ファイル共有: 'app/file_sharing.md'
+    - DDNS: 'app/ddns.md'
 - ビデオ:
     - 製品紹介: 'video/product_intro.md'
     - チュートリアル: 'video/tutor.md'  
