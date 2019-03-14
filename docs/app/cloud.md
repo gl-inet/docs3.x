@@ -1,154 +1,146 @@
-# Cloud management
+# クラウドサービス
 
-## Introduction
-GL.iNet GoodCloud cloud management service provide a easy and simple way to remotely access and manage routers.
+## 紹介
+GL.iNetクラウド管理サービスが簡単にリモートでルーターをアクセスしたり、管理したりすることが提供します。
 
-#### Check live router status
-- Live online office status check
-- Live RAM and Load Average check
+#### オンラインルーター状態をチェック
+- オンラインオフィス状態をチェック
+- 　RAMと平均負荷をチェック
 
-#### Set up routers remotely
-- Set up routers (e.g. SSID and Key) remotely
+#### 　リモートでルーターをセットアープ
+- 　リモートでルーターを設定（SSID,パスワードなど）
 
-#### Monitoring clients on routers remotely
-- Check who is on your network
-- Realtime traffic monitoring and block clients
+#### 　ルーターに接続しているクライアントをリモートで監視する
+- 　誰があなたのネットワークを使用していることをチェック
+- 　リアルタイムトラフィック監視とクライアントをブロック
 
-#### Operate routers in batch
-- Set up config templates and configure routers in batch
-- Reboot or upgrade routers in batch
+#### 　ルーターをバッチ操作
+- 　設定テンプレートを設定してルーターをバッチ設定
+- 　ルーターをバッチリブート・アップグレード
 
-#### Manage routers in groups
-- Divide devices in different groups
-- Manage devices in one page
+#### 　グループでルーターを管理
+- 　デバイスを異なったグループに分割
+- 　一つのページでデバイスを管理
 
-## Setup
+## 　セットアープ
 
-GoodCloud only support testing firmware v3.010 and above right now. 
+GoodCloud が3.010以上のファームウェアしかサポートしません。
+### ファームウェアファイルをダウンロード
 
-### Donwload firmware file
+GL-X750(Spitz) テストファームウェア <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">GL-X750 テストファームウェアダウンロード</a>
 
-GL-X750(Spitz) testing firmware <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">GL-X750 testing firmware download</a>
+GL-AR750S(Slate) テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">GL-AR750S テストファームウェアダウンロード</a>
 
-GL-AR750S(Slate) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">GL-AR750S testing firmware download</a>
+GL-AR750 テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">GL-AR750 テストファームウェアダウンロード</a>
 
-GL-AR750 testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">GL-AR750 testing firmware download</a>
+GL-B1300 テストファームウェア <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">GL-B1300 テストファームウェアダウンロード</a>
 
-GL-B1300 testing firmware <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">GL-B1300 testing firmware download</a>
+GL-AR150 テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank"> GL-AR150 テストファームウェアダウンロード</a>
 
-GL-AR150 testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank"> testing firmware download</a>
+GL-AR300M(Shadow) テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">GL-AR300M テストファームウェアダウンロード</a>
 
-GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">GL-AR300M testing firmware download</a>
+GL-MT300N-V2(Mango) テストファームウェア <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">GL-MT300N-V2 テストファームウェアダウンロード</a>
 
-GL-MT300N-V2(Mango) testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">GL-MT300N-V2 testing firmware download</a>
+GL-MT300A テストファームウェア <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">GL-MT300A テストファームウェアダウンロード</a>
 
-GL-MT300A testing firmware <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">GL-MT300A testing firmware download</a>
+GL-MT300N テストファームウェア <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">GL-MT300N テストファームウェアダウンロード</a>
 
-GL-MT300N testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">GL-MT300N testing firmware download</a>
 
-Other devices will coming soon.
+### ローカルアップグレード
 
-### Local upgrade
+ブラウザ（Chromeがおすすめ）を開いて、ルーターの管理者パネルをアクセスします(デフォルトurl：<a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>)。
 
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+左側に「アップグレード」ー＞「ローカルアップグレード」、ダウンロードしたファームウェアを選択し、「インストール」ボタンをクリックします。インストールには数分かかります。
 
-At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
-## 1. Enable Cloud Manage on router Web Admin Panel
+## 1. ルーター管理者パネルでクラウド管理を有効にする
 
-### 1) Install gl-cloud-ui plug
+### 1) gl-cloud-ui をインストール
 
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+ルーターの管理者パネルにアクセスします(デフォルトurl：<a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>)。
 
-![install-gl-cloud-ui](https://static.gl-inet.com/goodcloud/docs/install-gl-cloud-ui.png)
+![install-gl-cloud-ui](https://static.gl-inet.com/docs/jp/3/app/ddns/install-gl-cloud-ui.png)
 
-At the left sidebar, APPLICATIONS -> Plug-ins, click "Update" button to updage Plug-ins source, then input "gl-cloud-ui" and click "Install" button. After installation, a new item "Remote Access" will appear inside APPLICATIONS.
+左側に「アプリケーション」ー＞「ソフトバーグ」、「更新」をクリックしてソフトバーグをアップデートする、"gl-cloud-ui"を入力して、「インストール」ボタンをクリックします。インストール完了後、「アプリケーション」で「リモートアクセス」選択が増えます。
 
-### 2) Enable Cloud Mangement
+### 2) クラウド管理を有効にする
 
 ![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png)
 
-Follow the steps above, to enable cloud management, select the Data Server which near your devices, if you can't find the area where you located, just select 'Global'.
+クラウド管理を有効にして、あなたのデバイスに近いデータサーバーを選択します。今は「日本」選択がありません、「Global」を選択してください。
 
-## 2. Add device on GoodCloud web site
+## 2. 　GoodCloudウェブサイトでデバイスを追加
 
-### 1) Create GoodCloud account
+### 1) 　GoodCloudアカウントを登録
 
- Visite <a href="https://www.goodcloud.xyz" target="_blank">https://www.goodcloud.xyz</a> to access GoodCloud web site by Chrome or your favorite browser.
+ <a href="https://www.goodcloud.xyz" target="_blank">https://www.goodcloud.xyz</a>を訪問し、GoodCloudウェブサイトをアクセスします。今GoodCloudで日本語がありません。
 
- Sign up an account, and sign in.
+アカウントを登録し、ログインします。
+### 2) 地域を選択
 
-### 2) Select region
-
-On the top right corner, select the region where your device select on the Web Admin Panel.
+右上隅で、ルーターの管理者パネルで選択した地域を選択する。
 
 ![select region button](https://static.gl-inet.com/goodcloud/docs/select-region-button2.png)
 
-### 3) Add a new group 
+### 3) 新しいグループを追加
 
-On the left side -> Groups List -> Add group.
+左側に -> Groups List -> Add group.
 
-Follow the steps below to add a new group.
+以下の手順に従って新しいグループを追加してください。
 
 ![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png)
 
-### 4) Add device
+### 4) Add device　デバイスを追加
 
-On the left side -> Devices List -> Add Device. There are three method to bind device to GoodCloud, "Auto discover", "Manually add", "Bulk import".
+左側に -> Devices List -> Add Device、GoodCloudにデバイスをバインドする方法は3つあります：「Auto discover」、「Manually add」、「Bulk import」。
 
-Follow the steps below to add your device.
+以下の手順に従ってデバイスを追加します。
 
 ![add device](https://static.gl-inet.com/goodcloud/docs/add-device.png)
 
-If the device and browser are at same LAN， it will be automatically discovered, and can be found on "Device" list. DDNS or Device ID can be found on the back of the router. 
+デバイスとブラウザが同じLANでいったら、デバイスが自動的に発見されるようになり、「Device」リストで表示されます。DDNSまたはデバイスIDがルーターの背面で表示されます。
 
-PS: Input "DDNS" / "Device ID" here just to verify that the router is really original/valid. DDNS feature and the Cloud feature are separate things.
+注意：ここに「DDNS」/「デバイスID」と入力して、ルーターが本当にオリジナルのものであること、または有効であることを確認します。 DDNS機能とクラウド機能は別物です。
 
-Click "Refresh" to force auto discover devices again.
+「Refresh」をクリックし、デバイスを自動的に再発見します。
 
 ![auto discover](https://static.gl-inet.com/goodcloud/docs/auto-discover.png)
 
-If can't discover automatically, select "Manually add". All information can be found on the back of the router.
-
-PS: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the router is really original/valid. DDNS feature and the Cloud feature are separate things.
+自動的に発見することができない場合は、「Manually add」を選択してください。必要な情報がルーターの背面にあります。
 
 ![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device.png)
 
-For some new products, DDNS has been changed to Device ID.
+一部の新製品では、DDNSがデバイスIDに変更されました。
 
 ![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device-device-id.png)
 
+ 
+「Bulk import」機能は、追加するデバイスが多数ある場合に適しています。
 
-"Bulk import" feature is for if you have many devices to add. 
+### 5) ルーターのWeb管理パネルのバインド情報
 
-### 5) Binded info on router Web Admin Panel
+ルーターを成功にGoodCloudに追加した後、ルーターの管理者パネルに戻って、「アプリケーション」ー＞「リモートアクセス」ー＞「クラウド管理」、「F5」を押してこのページを更新する、それはバインドしたGoodCloudユーザー名を表示し、あなたがユーザー名に留まると、GoodCloudアカウントのメールアドレスが表示されます。
 
-After you successfully add router to GoodCloud, go back to router Web Admin Panel, APPLICATION -> Remote Access -> Cloud Management, press 'F5' to refresh this page, It will display the binded GoodCloud username, hover the username will show the GoodCloud account email.
+![goodcloud-binded](https://static.gl-inet.com/docs/jp/3/app/cloud/goodcloud-binded.png)
 
-![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png)
+バインドされたGoodCloudのユーザー名は間違いたら、<a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a>にメールして助けを求めます。
 
-If the binded GoodCloud username isn't yours, just send email to <a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a> for help.
+## アンインストール
 
-## Uninstall
+クラウドがほしくなれば、ルーター管理者パネルで簡単に無効にすることができます。GoodCloudウェブサイトで設定する必要ないです。
 
-If you don't want Cloud, just disable it folow the step below on router Web Admin Panel. It don't need to do anything on GoodCloud web site.
+![disable cloud](https://static.gl-inet.com/docs/jp/3/app/cloud/disable-cloud.png)
 
-![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png)
+クラウド機能をアンインストールしてスペースを節約したい場合は、`gl-cloud-ui`、` gl-ddns`、そして `gl-mqtt`ソフトバーグをアンインストールする必要があります。
 
-![after disable cloud](https://static.gl-inet.com/goodcloud/docs/after-disable-cloud.png)
+![uninstall gl-cloud-ui](https://static.gl-inet.com/docs/jp/3/app/ddns/uninstall-gl-cloud-ui.png)
 
-After disable Cloud, the interface is like above.
+`gl-cloud-ui`ソフトバーグをアンインストールします。
 
-If you want uninstall Cloud feature to save space, you need to uninstall `gl-cloud-ui`, `gl-ddns`, and `gl-mqtt` plug-ins.
+![uninstall ddns](https://static.gl-inet.com/docs/jp/3/app/ddns/uninstall-gl-ddns.png)
 
-![uninstall gl-cloud-ui](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-cloud-ui.png)
+`gl-ddns`ソフトバーグをアンインストールします。
 
-Follow the steps above, to uninstall `gl-cloud-ui` plug-in.
+![uninstall mqtt](https://static.gl-inet.com/docs/jp/3/app/ddns/uninstall-gl-mqtt.png)
 
-![uninstall ddns](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-ddns.png)
-
-Follow the steps above, to uninstall `gl-ddns` plug-in.
-
-![uninstall mqtt](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-mqtt.png)
-
-Follow the steps above, to uninstall `gl-mqtt` plug-in.
+`gl-mqtt`ソフトバーグをアンインストールします。
