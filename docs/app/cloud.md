@@ -48,7 +48,7 @@ GL-MT300N テストファームウェア <a href="https://dl.gl-inet.com/firmwar
 
 ### ローカルアップグレード
 
-ブラウザ（Chromeがおすすめ）を開いて、ルーターの管理者パネルをアクセスします(デフォルトurl：<a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>)。
+ブラウザー（Chromeがおすすめ）を開いて、ルーターの管理者パネルをアクセスします(デフォルトurl：<a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>)。
 
 左側に「アップグレード」ー＞「ローカルアップグレード」、ダウンロードしたファームウェアを選択し、「インストール」ボタンをクリックします。インストールには数分かかります。
 
@@ -69,9 +69,9 @@ GL-MT300N テストファームウェア <a href="https://dl.gl-inet.com/firmwar
 
 クラウド管理を有効にして、あなたのデバイスに近いデータサーバーを選択します。今は「日本」選択がありません、「Global」を選択してください。
 
-## 2. 　GoodCloudウェブサイトでデバイスを追加
+## 2. GoodCloudウェブサイトでデバイスを追加
 
-### 1) 　GoodCloudアカウントを登録
+### 1) GoodCloudアカウントを登録
 
  <a href="https://www.goodcloud.xyz" target="_blank">https://www.goodcloud.xyz</a>を訪問し、GoodCloudウェブサイトをアクセスします。今GoodCloudで日本語がありません。
 
@@ -90,7 +90,7 @@ GL-MT300N テストファームウェア <a href="https://dl.gl-inet.com/firmwar
 
 ![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png)
 
-### 4) Add device　デバイスを追加
+### 4) デバイスを追加
 
 左側に -> Devices List -> Add Device、GoodCloudにデバイスをバインドする方法は3つあります：「Auto discover」、「Manually add」、「Bulk import」。
 

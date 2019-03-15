@@ -70,6 +70,7 @@ pages:
 - 開発:
     - UART シリアル: 'dev/serial.md'
 - アプリケーション:
+    - ルーターにSSH: 'app/ssh.md'
     - OpenVPN: 'app/openvpn.md'
     - WireGuard: 'app/wireguard.md'
     - Shadowsocks: 'app/ss.md'

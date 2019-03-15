@@ -1,25 +1,26 @@
-#Using SSH and WinSCP
+# SSH と WinSCPの使用
 
 
-SSH and WinSCP are basic tools if you want to play more with the mini router.
+SSH と WinSCPは、あなたがミニルーターでもっと機能を使いたいなら基本的なツールです。
 
-Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. The best known example application is for remote login to computer systems by users. Sometime you need to have basic tools to ssh to the server (e.g. When you need to set up Shadowsocks server ). This guide is how to SSH login to the GL.iNet routers.
+Secure Shell（セキュアシェル・SSH）とは、セキュリティで保護されていないネットワーク上でネットワークサービスを安全に運用するための暗号化ネットワークプロトコルです。一番有名な例は、ユーザーがコンピュータシステムへのリモートログインです。場合によっては、サーバーにSSH接続するための基本的なツールが必要になります（たとえば、Shadowsocksサーバーをセットアップする必要がある場合）。 このガイドはGL.iNetルーターにSSHログインする方法です。
 
-WinSCP is the windows tool which runs on top of SSH to connect and edit files on the router. In Linux you can use `scp`. But WinSCP is the best tool on windows.
 
+WinSCPとは、SSHプロトコルの上で実行し、ルーターに接続し、ファイルを編集するためのWindowsツールです。Linuxで`scp`も使いできます、でもwindows上でWinSCPが一番良いツールです。
 
 
 ---
 
-## SSH to the Router for Windows Users
+## 　WindowsユーザーのルーターへのSSH
 
-### 1. Download and install a PuTTY
-
-Go to the following webpage to download the latest PuTTY version：  
+### 1. PuTTYをダウンロード・インストール
+  
+下記のウェブページに行って最新のPuTTYバージョンをダウンロードする：
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-### 2. Install PuTTY
+### 2. PuTTYをインストール
+PuTTYのインストールプロセスは英語で表示されます。
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-1.png) 
 
@@ -37,101 +38,97 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 
 
-### 3. Launch PuTTY 
+### 3. PuTTYを起動
 
-Click **PuTTY** in Start Menu 
+**PuTTY** をクリックしてください。
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522164842915.png) 
 
 
 
-You will see the following Configuration Window: 
+次の設定ウィンドウが表示されます：
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-1.png) 
 
-Input Host Name (or IP address) `192.168.8.1`, Keep Port as default `22`, select connection type: `SSH`,
+Host Name 「or IP address」に `192.168.8.1`を入力し、デフォルト「Port」 `22`をそのままにいって、「connection type」を`SSH`に選択します。
 
-Input `Your Session` in saved sessions, and `Save` your content.
+Saved Sessionsで`あなたの設備`を入力し, そして`Save`をクリックして設定を保存します。
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-2.png)  
 
-Click `Open` at the bottom
+底部の`Open`をクリックします
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-3.png) 
 
-A security alert will pop-up, click `Yes`.
+セキュリティの警告が表示されたら、「はい」をクリックします
 
-login as：`root`
+login as：`root`を入力します
 
-Then input your admin password 
+password：あなたのパスワードを入力します
 
-*Note: You need to use your password which you set up the router at the first time*
+*注意：ルーターで設定した最初のパスワードを入力してください。*
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/SSH-in-2.png)  
 
-When you see above picture, that means you are now ssh login the router successfully.  
-
+以上のような画像が見るとき、あなたがルーターにSSHログインのが成功しています。
 
 
 ---
 
 ## WinSCP
 
-WinSCP is a much easier tool to edit files on the router if you are using Windows.
+Windowsを使う場合、WinSCPはルーターでファイルを編集することにはるかに簡単なツールです。
 
 
+### 1. WinSCPダウンロード
 
-### 1. Download WinSCP
-
-Download WinSCP from here: https://winscp.net/eng/download.php and install in your Windows.
-
+ https://winscp.net/eng/download.php でWinSCPをダウンロードし、あなたのWindowsにインストールします。
 
 
-### 2. Connect to the router
+### 2. ルーターに接続
 
-Run WinSCP, choose `SCP` as the protocol. If you didn't change the IP of the router it should be `192.168.8.1`. Please use your real IP of the router. Port number should be `22`. Please `root` as the username and input your real password. Then click `Login` button.
+
+WinSCPを実行し、プロトコルで`SCP`を選択します。あなたがルーターのIPアドレスを変更させない場合は、「Host name」が192.168.8.1はずです。「Port number」が`22`はずです。「User name」でrootを入力し、「Password」でルーターのパスワードを入力し、「Login」をクリックします。
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp1.jpg)
 
-After login you have full control of the router now.
+ログイン後、あなたは今ルーターのコントロール権限を持っています。
 
-You can choose view, edit or transfer files from/to the router.
 
+あなたはルーターとデバイス間のファイルの表示、編集または転送ができます。
 
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp2.jpg)
 
-For example, if you want edit firewall config, you can go to /etc/config and find firewall file. Then click your right key of your mouse, then **Edit**.
+例えば、あなたがファイアウォール設定ファイルを編集したいなら、/etc/config に行ってfirewallファイルを見つけて、マウスの右キーをクリックして、**編集**をクリックします、そしてファイルを編集できます。
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp3.jpg)
 
-Now you can edit the file content freely. Be careful not to mess up the settings.
-
+今は自由にファイルを編集することができます、設定の変更を注意してください。
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp4.jpg)
 
 
 
 ---
 
-## SSH to the router for Linux/Mac User
+## Linux/MacユーザーのルーターへのSSH
 
-The process on Linux and Mac OS are generally the same. Below we use Ubuntu as as example.
-
+Linux と Mac OSのプロセスは大体同じです、以下では例としてUbuntuを使用します。
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-Login.png)
 
  
 
-### 1. Launch Terminal
+### 1. ターミナルを起動
 
-Click the `Terminal` icon to launch Terminal. Then, input the following command: 
+ターミナルを起動するために `ターミナル`アイコンをクリックしてください。 次に、以下のコマンドを入力してください：
 
 `SSH root@192.168.8.1` 
 
-If you have ever connected to another router, host key verification failed may displayed as follow:
+他のルータに接続したことがある場合は、ホストキーの確認に失敗したことがあります
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/remove-ssh-keygen.png) 
 
-If this happens, run the command in the red box. Please copy the exact command which is displayed in your terminal.
+このような場合は、下記のコマンドを実行してください。 端末に表示されている正確なコマンドをコピーしてください。
 
 `ssh-kengen -f "~/.ssh/known_hosts" -R "192.168.8.1"`
 
@@ -139,20 +136,20 @@ If this happens, run the command in the red box. Please copy the exact command w
 
 
 
-### 2. Log In Router
+### 2. ルーターログイン
 
-retry the ssh login command: 
+ssh ログインコマンドを再試行してください。
 
 ` ssh root@192.168.8.1` 
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-sshin-router-1.png)  
 
-Type "**yes**"
+"**yes**"を入力します
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-sshin-router-2.png)  	
 
-Input your router password: (you can set this password when you first connect to your router)
+あなたのルーターパスワードを入力します
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522205896331.png) 
 
-Finally, you login the router when the above message displayed. 
+最後に、ログイン成功です。
