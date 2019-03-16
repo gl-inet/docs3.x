@@ -1,25 +1,26 @@
-# Connect to a Hotspot with Captive Portal
+# キャプティブポータルがあるホットスポットに接続
 
-Some public hotspots especially those in hotel, cafe or airport, require you to input your authentication information or agree the terms and conditions through a web page **(Captive Portal) **before you can connect to it or access the Internet.
+一部の公衆ホットスポット（ホテル、カフェ、空港などで）は、インターネットに接続前に、あなたがウェブページで認証情報を入力したり条項を同意したりする必要があります。
 
-However, you may find that you are not able to enter the captive portal so that you cannot connect to the hotspot or access the Internet. In this case, please follow the following procedures to disable the **DNS rebind protection**.
+しかしながら、あなたがキャプティブポータルに行くことができないかもしれません、その原因であなたがホットスポットに接続したり、インターネットにアクセスしたりすることができません。この状況で、下記の手順に従って、「DNS再バインド攻撃防御」を無効にしてください。
 
 
 
 ---
 <ol type="1">
 <li>
-	<p>Connect to the public hotspot which requires authentication through captive portal.</p>
+	<p>キャプティブポータルを介した認証が必要な公衆ホットスポットに接続します。</p>
     <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/1.jpg"/>
     <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/6.jpg"/>
 </li>
 <li>
-    <p>Go to Admin Panel -> MORE SETTINGS -> Custom DNS Server. Then, disable <b>DNS Rebinding Attack Protection</b>.</p>
-	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/4.jpg"/>
+    <p>「管理者パネル」 -> 「その他の設定」 -> 「カスタマDNSサーバー」、<b>DNS再バインド攻撃防御</b>を無効にします。</p>
+	<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/captive_portal/1.png"/>
 </li>
 <li>
-	<p>Use your web browser to visit a webpage, it will be redirected to the captive portal of the hotspot automatically.</p>
-    <p>If you are using smartphone but your web browser doesn't redirect to the captive portal. Please turn off the Wi-Fi of your smartphone and then turn it on and reconnect to the Wi-Fi of your router again. The captive portal should be popped up directly after you entered the Wi-Fi password.
+	<p>ウェブブラウザーを使用してウェブページを訪問し、ホットスポットのキャプティブポータルに自動的にリダイレクトされます。
+    </p>
+    <p>スマホを使用する時、ウェブブラウザーがキャプティブポータルにリダイレクトしない場合は、スマートフォンのWi-Fiをオフにしてからオンにして、ルーターのWi-Fiに再接続してください。Wi-Fiパスワードを入力した直後にキャプティブポータルが表示されます。
     </p>
 	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/7.jpg"/>
 </li>

@@ -2,7 +2,7 @@
 =========
 
 弊社はハードウェアサービスを提供します。アイデアはここに示されています：
-![Service for Makers](https://static.gl-inet.com/docs/en/2.x/src/services_20180716.png)
+![Service for Makers](https://static.gl-inet.com/docs/jp/3/home/services_jp.png)
 
 限られたリソースの原因で、弊社は現在Dominoとナノルーターに基づくそのようなサービスを提供するだけです。
 多くの人々は値下げを要求します。詳細な要件がなければ正確な情報を提供することはできません。このようなプロジェクトには数千ドルから数万ドルの費用がかかりますが、詳細な要件によります。
