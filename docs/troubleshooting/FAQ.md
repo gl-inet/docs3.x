@@ -1,67 +1,65 @@
 # FAQ
 
-##General
-
 <details>
-<summary>Why can't I access the router through 192.168.8.1?</summary>
-<p>Please check <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">setup</a> to make sure you have connected to the router properly. Then, use <b>Chrome</b> or <b>Firefox</b> to visit 192.168.8.1. Don't use Internet Explorer.</p>
-<p> If the problem still exists, <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a></p>
+<summary>なんで192.168.8.1からルーターにアクセスできない？</summary>
+<p><a href="https://docs.gl-inet.com/jp/3/setup/mini_router/first-time_setup/">セットアープ</a> をクリックし、ルーターに正しく接続したことを確認します。そして、<b>Chrome</b>または<b>Firefox</b>を使用してください。IEブラウザーを使用しないでください。</p>
+<p> 問題が解決できない場合は、ルーターを<a href="https://docs.gl-inet.com/jp/3/troubleshooting/reset/">リセット</a>する、または<a href="https://docs.gl-inet.com/jp/3/troubleshooting/debrick/">Uboot</a>を使用してファームウェアを再インストールすることを試してください。</p>
 </details>
 
 <details>
-<summary>What should I do if my router is bricked?</summary>
-<p>Please re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a></p>
+<summary>ルータがブリックしている場合はどうすればいいですか。</summary>
+<p><a href="https://docs.gl-inet.com/jp/3/troubleshooting/debrick/">Uboot</a>を使ってファームウェアを再インストールしてください。</p>
 </details>
 
 
 <details>
-<summary>How to check the firmware version of the router?</summary>
+<summary>ルーターのファームウェアバージョンを確認するにはどうすればいいですか？</summary>
 <ol type="1">
-<li>Access web Admin Panel via 192.168.8.1.</li>
-<li>Click <b>Upgrade</b> and check <b>Current Version</b>
-<p><img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware.jpg"</p>
+<li>管理者パネルにアクセスする</li>
+<li><b>アップグレード</b>をクリックして<b>現在のバージョン</b>をチェックしてください
+<p><img src="https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/アップグレード/アップグレード.png"</p>
 </ol>
 </details>
 
 <details>
-<summary>How to create a separated subnet from the main network?</summary>
-<p>GL.iNet routers will create a 192.168.8.1/24 subnet by default.</p>
+<summary>メインネットワークから独立したサブネットを作成する方法は？</summary>
+<p>GL.iNetルーターが192.168.8.1/24サブネットをデフォルトで作ります。</p>
 </details>
 
 <details>
-<summary>Can I set up the router as a bridge so that it works like I am connecting to my main router directly?</summary>
-<p>Yes, GL.iNet routers work in router mode by default, which will create a separated subnet for you. However, you can change its network mode so that it can behave like an extender without DHCP.</p>
+<summary>ルーターをブリッジに設定し、メインルーターに直接接続するように実行するのはできるんですか？</summary>
+<p>はい、できます。モードを変更すればいいです。</p>
 <ol type="1">
-<li>Access the admin panel via 192.168.8.1</li>
-<li>Go to <b>MORE SETTINGS</b> -> <b>Network mode</b>.</li>
-<li>Change the network mode to <b>Access Point</b>, <b>Extender</b> or <b>WDS</b>.</li>
-<img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg">
+<li>管理者パネルにアクセスします</li>
+<li><b>その他の設定</b> -> <b>ネットワークモード</b></li>
+<li>ネットワークモードに<b>APモード</b>、<b>無線拡張モード</b>または<b>WDSモード</b>に切り替えます</li>
+<img src="https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ネットワークモード.png">
 </details>
 
 <details>
-<summary>Can I use the WAN port as LAN?</summary>
-<p>Yes</p>
+<summary>WANポートをLANポートに変更することができますか？</summary>
+<p>はい、できます。</p>
 <ol type="1">
 <li>
-<p>Leave the WAN port of the router unconnected.</p>
+<p>WANポートを未接続のままに</p>
 </li>
 <li>
-<p>Connect your device to the router and access the web Admin Panel.</p>
-<img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet.jpg"/>
+<p>デバイスをルーターに接続し、管理者パネルにアクセス</p>
+<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/internet.png"/>
 </li>
 <li>
-<p>Go to <b>Internet</b>, click <b>Use as LAN</b> under the Cable section.</p>
-<img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/cable.jpg"/>
+<p><b>ネットワーク</b>に行って,有線セクションで<b>「LANポートとして使用」</b>をクリック</p>
+<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/lan.png"/>
 </li>
 <li>
-<p>Click <b>Yes</b> to confirm.</p>
-<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg"/>
+<p><b>はい</b>をクリックして確認</p>
+<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/cable.png"/>
 </li>
 </ol>
 </details>
 
 
-##Wi-Fi
+## Wi-Fi
 
 <details>
 <summary>What is the range of the Wi-Fi coverage?</summary>
@@ -152,7 +150,7 @@
 </details>
 
 
-##Hardware/Accessory
+## Hardware/Accessory
 
 <details>
 <summary>Can I power on the router using the USB port of my computer or power bank?</summary>
@@ -212,7 +210,7 @@
 </details>
 
 
-##Applications
+## Applications
 
 <details>
 <summary>Which VPN protocol and VPN service provider does the router support?</summary>

@@ -84,7 +84,7 @@ pages:
 - 問題解決:
     - LED 指標: 'troubleshooting/led.md'
     - 修復/リセット: 'troubleshooting/reset.md'
-    - Ubootハードウエア修復: 'troubleshooting/debrick.md'
+    - ブリックを修復: 'troubleshooting/debrick.md'
     - WANポートをLANに: 'troubleshooting/chang_wan_to_lan.md'
     - キャプティブポータル: 'troubleshooting/captive_portal.md'
 - リリースノート:

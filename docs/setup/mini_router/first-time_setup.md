@@ -8,7 +8,7 @@ GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
 GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
-![router](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/最初のセットアップ/構造.jpg)
+![router](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/構造.jpg)
 
 *注意：**GL-AR300M-Lite**が一つのイーサネットポートしかありません。*
 
@@ -20,7 +20,7 @@ GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
 マイクロUSB電源ケーブルを電源ポートに入れます。標準の5V / 1A電源アダプタを使用していることを確認してください。そではなければ、故障になるかもしれません。
 
-![Power on](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/最初のセットアップ/power.jpg)
+![Power on](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/power.jpg)
 
 ## 2.接続 
 
@@ -62,7 +62,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 1）言語設定
 管理パネルで言語をセットすることが必要です。現在、ルーターが**日本語**、**English**、**简体中文**、**繁體中文**、**Deutsch**、**Français**、**Español**をサポートします。
 
-![initial setup](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/最初のセットアップ/言語設定.png)
+![initial setup](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time-setup/言語設定.png)
 
 *Note: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
 
@@ -71,7 +71,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 2）管理者パスワード設定
 ルーターはデフォルトパスワードがありません、パスワードをセットすることが必要です。パスワードは5文字以上でなければなりません。`続き`をクリックして確認します。
 
-![password](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/最初のセットアップ/パスワード設定.png)
+![password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/パスワード設定.png)
 
 *注意：このパスワードは、管理者パネルまたはLinuxセステムで利用します、WiFiパスワードが変わりません。*
 
@@ -80,4 +80,4 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 3）管理パネル
 以上のセットが完了後、あなたがルーターの管理者パネルに入ります。状況を確認したり、ルーターの設定を変更することができます。
 
-![admin panel](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/最初のセットアップ/管理者パネル.png)
+![admin panel](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/管理者パネル.png)

@@ -6,8 +6,8 @@
 
 右のボタンをクリックして、クライアントをブロックできます。
 
-![clients](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/client/クライアント.png)
+![clients](https://static.gl-inet.com/docs/jp/3/setup/mini_router/client/クライアント.png)
 
 リアルタイム速度とトラフィック統計を有効にすれば、QoSが設定できる。
 
-![qos](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/client/qos.png)
+![qos](https://static.gl-inet.com/docs/jp/3/setup/mini_router/client/qos.png)

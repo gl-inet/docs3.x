@@ -6,7 +6,7 @@
 
 管理者パネルのパスワードを変更します、パスワードが5文字以上でなければなりません。パスワードを変更するため、現在のパスワードを入力することが必要です。
 
-![admin password](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/管理者パスワード.png)
+![admin password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/管理者パスワード.png)
 
 
 
@@ -16,7 +16,7 @@
 
 LAN IPは、ルーターを接続する時のデバイスのIPアドレスです。GL.iNetルーターのデフォルトIPアドレスは192.168.8.1です。メインルータのIPアドレスと競合する場合は、変更できます。
 
-![lan ip](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/LANIP.png)
+![lan ip](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/LANIP.png)
 
 
 
@@ -27,7 +27,7 @@ LAN IPは、ルーターを接続する時のデバイスのIPアドレスです
 ルーターの活動は、ルーターの時間に従って記録されます。したがって、あなたの所在地のタイムゾーンを選択することをお勧めします。
 
 
-![time zone](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/タイムゾーン.png)
+![time zone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/タイムゾーン.png)
 
 
 
@@ -37,7 +37,7 @@ LAN IPは、ルーターを接続する時のデバイスのIPアドレスです
 
 現在のクライアントのMACアドレスをルータに複製します。それはネットワークがあなたのMACアドレスをチェックするとき特にホテルで使用されます。 たとえば、スマートフォンがネットワークに登録されている場合は、スマートフォンのMACアドレスをルータに複製して、ルータもネットワークに接続できるようにすることができます。
 
-![mac clone](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/MACアドレスクローニング.png)
+![mac clone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/MACアドレスクローニング.png)
 
 
 
@@ -55,7 +55,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 **手動DNSサーバー設定**: 手動でカスタムDNSサーバーを入力します。
 
-![custom dns server](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/カスタムDNSサーバー.png)
+![custom dns server](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/カスタムDNSサーバー.png)
 
 
 
@@ -65,7 +65,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 モードスイッチの機能を設定します。デフォルト機能がありません。 Wireguard / OpenVPNクライアントをオンまたはオフにするトグルとして設定できます。
 
-![button settings](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/ボタン設定.png)
+![button settings](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ボタン設定.png)
 
 
 
@@ -85,7 +85,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 **WDSモード**: 無線拡張モードと同様に、メインルータがWDSモードをサポートしている場合はWDSを選択してください。
 
-![network mode](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/ネットワークモード.png)
+![network mode](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ネットワークモード.png)
 
 
 
@@ -95,7 +95,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 ルータを工場出荷時のデフォルト設定に戻します。 設定、アプリケーション、データはすべて消去されます。
 
-![revert firmware](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/ファームウェアを復元する.png)
+![revert firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ファームウェアを復元する.png)
 
 
 
@@ -105,6 +105,6 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 OpenWrtのデフォルトのWebインターフェースであるLuciに進むには、`高級機能`をクリックしてください。 詳細なシステムログを確認したり、より高度な設定を行ったりできます。
 
-![advanced](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/その他の設定/高級機能.png)
+![advanced](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/高級機能.png)
 
 *注意: ユーザーネームは**root**です。パスワードは、管理者パスワードと同じです。*
