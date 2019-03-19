@@ -110,10 +110,11 @@ Fellow the steps below to add your device.
 
 If the device and browser are at the same <a href="https://en.wikipedia.org/wiki/Local_area_network" target="_blank">LAN</a>， it will be automatically discovered, and can be found when click "Device" list. DDNS or Device ID can be found on the back of your router.
 
-    PS: Input "DDNS" / "Device ID" here just to verify that the router is really original/valid. 
-    DDNS feature and the Cloud feature are separate things.
+    PS: Input "DDNS" / "Device ID" here just to verify that the router is really 
+    original/valid. DDNS feature and the Cloud feature are separate things.
 
-    PS: For most models, it is "DDNS" on the back, but for some new models, it is "Device ID" on the back.
+    PS: For most models, it is "DDNS" on the back, but for some new models, 
+    it is "Device ID" on the back.
 
 Click "Refresh" to force auto discover devices again.
 
