@@ -190,15 +190,15 @@ At left side -> Device List, click the name of a online device, it will open a p
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png)
 
-#### 3.3.6) Log
+#### 3.3.6) Logs
 
-Log at the top right corner of the page.
+Logs is at the top right corner of the page.
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-log.png)
 
 ## Uninstall
 
-If you don't want to use GoodCloud, just disable it folow the steps below on router Web Admin Panel. There's no need to do anything on the GoodCloud website.
+To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
 ![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png)
 
