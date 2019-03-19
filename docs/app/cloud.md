@@ -196,9 +196,9 @@ Log at the top right corner of the page.
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-log.png)
 
-## Unintall
+## Uninstall
 
-If you don't want to use GoodCloud, just disable it folow the steps below on router Web Admin Panel. It don't have to do anything on GoodCloud web site.
+If you don't want to use GoodCloud, just disable it folow the steps below on router Web Admin Panel. There's no need to do anything on the GoodCloud website.
 
 ![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png)
 
