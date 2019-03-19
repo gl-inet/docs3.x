@@ -87,6 +87,7 @@ pages:
     - ブリックを修復: 'troubleshooting/debrick.md'
     - WANポートをLANに: 'troubleshooting/chang_wan_to_lan.md'
     - キャプティブポータル: 'troubleshooting/captive_portal.md'
+    - よくある質問: 'troubleshooting/FAQ.md'
 - リリースノート:
     - ファームウェア リリース: 'release_notes/index.md'
     - GL-MT300N-V2: 'release_notes/GL-MT300N-V2.md'
