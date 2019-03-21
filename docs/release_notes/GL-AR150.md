@@ -2,7 +2,7 @@
 
 
 
-## V3.011 - Mar 11, 2019
+## V3.017 - Mar 11, 2019
 
 Firmware file: [gl-ar150-3.017.bin](https://dl.gl-inet.com/firmware/ar150/v1/gl-ar150-3.017.bin)
 
