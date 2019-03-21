@@ -36,7 +36,7 @@ LAN IPは、ルーターを接続する時のデバイスのIPアドレスです
 
 現在のクライアントのMACアドレスをルータに複製します。それはネットワークがあなたのMACアドレスをチェックするとき特にホテルで使用されます。 たとえば、スマートフォンがネットワークに登録されている場合は、スマートフォンのMACアドレスをルータに複製して、ルータもネットワークに接続できるようにすることができます。
 
-![mac clone](https://static.gl-inet.com/docs/jp/3/setup/mini-router/more_settings/MACアドレスクローニング.png)
+![mac clone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/MACアドレスクローニング.png)
 
 
 

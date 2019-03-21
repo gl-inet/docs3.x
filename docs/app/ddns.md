@@ -38,7 +38,7 @@ GL-MT300N テストファームウェア <a href="https://dl.gl-inet.com/firmwar
 
 左側に「アップグレード」ー＞「ローカルアップグレード」、ダウンロードしたファームウェアを選択し、「インストール」ボタンをクリックします。インストールには数分かかります。
 
-## 1) gl-cloud-ui インストール
+## 1) gl-cloud-ui をインストール
 
 ![install-gl-cloud-ui](https://static.gl-inet.com/docs/jp/3/app/ddns/install-gl-cloud-ui.png)
 

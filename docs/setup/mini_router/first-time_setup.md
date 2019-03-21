@@ -62,7 +62,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 1）言語設定
 管理パネルで言語をセットすることが必要です。現在、ルーターが**日本語**、**English**、**简体中文**、**繁體中文**、**Deutsch**、**Français**、**Español**をサポートします。
 
-![initial setup](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time-setup/言語設定.png)
+![initial setup](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/言語設定.png)
 
 *Note: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
 
