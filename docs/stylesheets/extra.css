@@ -2,6 +2,7 @@ select {
     background: #2c3e50;
 }
 
+.select-docs-language,
 .select-docs-version {
     display: block;
     margin-top: 0.6rem;
@@ -15,6 +16,7 @@ select {
     outline: 0px;
 }
 
+.select-docs-language:hover,
 .select-docs-version:hover {
     color: #fff;
     background-color: #5666be;
@@ -36,6 +38,7 @@ select {
 }
     /* remove mobile screen select control's default sytle */
     @media only screen and (max-width: 29.9375em) {
+        .select-docs-language,
         .select-docs-version {
             -webkit-appearance: none;
         }
