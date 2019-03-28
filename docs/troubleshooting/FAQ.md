@@ -85,7 +85,6 @@
 <details>
 <summary>Can I hide the SSID of the router?</summary>
 <ol type="1">
-<li>Log into Advanced Settings (Luci) http://192.168.8.1/cgi-bin/luci.</li>
 <li>Log in to Advanced Settings (Luci) http://192.168.8.1/cgi-bin/luci.</li>
 <li>Go to <b>Network</b> -> <b>Wireless</b> and then edit the SSID that you want to hide.</li>
 <li>Check <b>Hide ESSID</b> under <b>Interface Configuration</b>.
@@ -94,7 +93,6 @@
 <details>
 <summary>Can I set up multiple SSIDs on the router?</summary>
 <ol type="1">
-<li>Go to Luci (http://192.168.8.1/cgi-bin/luci) -> Network -> Wireless.</li>
 <li>Go to <b>Luci</b> (http://192.168.8.1/cgi-bin/luci) -> <b>Network</b> -> <b>Wireless</b>.</li>
 <li>Click <b>Add</b> to create a new wireless interface.</li>
 <li>In <b>Interface Configuration</b>, you can input your own SSID. Please choose <i>Access Point (WDS)</i> <b>Mode</b> and tick <i>lan</i> for the <b>Network</b>.</li>
@@ -108,14 +106,12 @@
 <details>
 <summary>My device can only be connected through Ethernet cable.  Can I use this router to connect my device to a wireless network?</summary>
 <p>Yes, please connect your device to the LAN port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#2-repeater">repeater</a>.</p>
-<p><i>Note:<li>For Microuter, please plug it into the Ethernet port of your device and then set up repeater.</li><li>For GL-AR300M-Lite, since it has only one WAN port, you can only do that after you have connected to it wirelessly and change its WAN port to LAN port.</li></i></p>
-<p><i>Note:<li>For Microuter, please plug it into the Ethernet port of your device and then set up repeater.</li><li>For GL-AR300M-Lite, since it has only one WAN port, you can only do that after you have connected to it wirelessly and changed its WAN port to LAN port.</li></i></p>
+<p><i>Note:<li>For Microuter, if your device has USB port, connect Microuter to it and check if Microuter can create a USB to Ethernet connection. Then set up repeater.</li><li>For GL-AR300M-Lite, since it has only one WAN port, you can only do that after you have connected to it wirelessly and changed its WAN port to LAN port.</li></i></p>
 </details>
 
 <details>
 <summary>Can I connect to an existing Wi-Fi network (i.e. public Wi-Fi or hotel Wi-Fi) and then create my own Wi-Fi network? </summary>
 <p>Yes, our routers will boardcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
-<p>Yes, our routers will broadcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
 </details>
 
 <details>
@@ -156,8 +152,7 @@
 
 <details>
 <summary>Can I power on the router using the USB port of my computer or power bank?</summary>
-<p>USB port of a computer or a GOOD power bank should be able to provide enough power for the router.</p><p>However, it may cause malfunction if the power input is unstable or insufficient.</p>
-<p>USB port of the computer or a GOOD power bank should be able to provide enough power for the router.</p><p>However, it may cause malfunction if the power input is unstable or insufficient.</p>
+<p>The USB port on a computer or a GOOD power bank should be able to provide enough power for the router.</p><p>However, it may cause malfunction if the power input is unstable or insufficient.</p>
 </details>
 
 <details>
@@ -179,13 +174,11 @@
 
 <details>
 <summary>Can I share the network data from my phone to the router?</summary>
-<p>Yes, you can connect your smartphone to the USB port of the router then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
 <p>Yes, you can connect your smartphone to the USB port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
 </details>
 
 <details>
 <summary>Does it charge my phone's battery during Tethering?</summary>
-<p>Yes,when you connect your phone to the USB port of the router, the router will charge your phone. However, the charging rate may be slower than the power consumption rate of your phone.</p>
 <p>Yes, when you connect your phone to the USB port of the router, the router will charge your phone. However, the charging rate may be slower than the power consumption rate of your phone.</p>
 </details>
 
