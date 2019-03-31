@@ -7,3 +7,13 @@ document.getElementById("select-docs-version").onchange = function (event) {
         window.location.href = 'https://docs.gl-inet.com/en/3/';
     }
 };
+
+document.getElementById("select-docs-language").onchange = function (event) {
+    let currentValue = document.getElementById("select-docs-language").value;
+    if (currentValue === 'en') {
+        window.location.href = 'https://docs.gl-inet.com/en/3/';
+    }
+    else if (currentValue === 'jp') {
+        window.location.href = 'https://docs.gl-inet.com/jp/3/';
+    }
+};
