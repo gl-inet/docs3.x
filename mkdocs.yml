@@ -60,6 +60,7 @@ pages:
         - Wireless: 'setup/mini_router/wireless.md'
         - Clients: 'setup/mini_router/clients.md'
         - Upgrade: 'setup/mini_router/upgrade.md'
+        - Firewall: 'setup/mini_router/firewall.md'
         - VPN: 'setup/mini_router/vpn.md'
         - Applications: 'setup/mini_router/applications.md'
         - More Settings: 'setup/mini_router/more_settings.md'
