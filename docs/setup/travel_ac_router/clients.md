@@ -1,9 +1,13 @@
-# CLIENTS
+# クライアント
 
-You can manage all connected clients in `CLIENTS`. 
+`クライアント`ですべての接続しているクライアントを管理できます。
 
-You can see their name, IP, MAC address and connection type.
+クライアントのネームやIPアドレスやMACアドレスや接続方法が表示されます。
 
-Click the button on the right to block any unwanted client.
+右のボタンをクリックして、不要なクライアントをブロックできます。
 
-![clients](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/clients/1.jpg)
+![clients](https://static.gl-inet.com/docs/jp/3/setup/mini_router/client/クライアント.png)
+
+リアルタイム速度とトラフィック統計を有効にすれば、QoSが設定できます。
+
+![qos](https://static.gl-inet.com/docs/jp/3/setup/mini_router/client/qos.png)
