@@ -32,27 +32,33 @@ This document is based on the latest testing firmware.
 
 ### Donwload firmware file
 
-GL-X750(Spitz) testing firmware <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">GL-X750 testing firmware download</a>
+GL-X750(Spitz) testing firmware <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">download</a>
 
-GL-AR750S(Slate) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">GL-AR750S testing firmware download</a>
+GL-AR750S(Slate) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">download</a>
 
-GL-AR750 testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">GL-AR750 testing firmware download</a>
+GL-AR750(Creta) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">download</a>
 
-GL-B1300 testing firmware <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">GL-B1300 testing firmware download</a>
+GL-B1300(Convexa-B) testing firmware <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">download</a>
 
-GL-AR150 testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank"> testing firmware download</a>
+GL-AR150(White) testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank">download</a>
 
-GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">GL-AR300M testing firmware download</a>
+GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">download</a>
 
-GL-MT300N-V2(Mango) testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">GL-MT300N-V2 testing firmware download</a>
+GL-MT300N-V2(Mango) testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">download</a>
 
-GL-MT300A testing firmware <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">GL-MT300A testing firmware download</a>
+GL-MT300A testing firmware <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">download</a>
 
-GL-MT300N testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">GL-MT300N testing firmware download</a>
+GL-MT300N testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">download</a>
+
+For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover"<a href="#24-add-device">Step 2.4</a>
+
+GL-USB150 testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">download</a>
 
 ### Local upgrade
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+
+(If your firmware version is equal or greater than v3.021, please jump to <a href="#12-enable-cloud-mangement">Step 1.2</a>)
 
 At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
@@ -196,7 +202,7 @@ Logs is at the top right corner of the page.
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-log.png)
 
-## Uninstall
+## Disable
 
 To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
@@ -205,17 +211,3 @@ To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow 
 ![after disable cloud](https://static.gl-inet.com/goodcloud/docs/after-disable-cloud.png)
 
 After disable Cloud, the interface is like above.
-
-If you want uninstall Cloud feature to save space, you need to uninstall `gl-cloud-ui`, `gl-ddns`, and `gl-mqtt` plug-ins.
-
-![uninstall gl-cloud-ui](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-cloud-ui.png)
-
-Follow the steps above, to uninstall `gl-cloud-ui` plug-in.
-
-![uninstall ddns](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-ddns.png)
-
-Follow the steps above, to uninstall `gl-ddns` plug-in.
-
-![uninstall mqtt](https://static.gl-inet.com/docs/en/3/app/ddns/uninstall-gl-mqtt.png)
-
-Follow the steps above, to uninstall `gl-mqtt` plug-in.
