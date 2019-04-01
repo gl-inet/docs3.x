@@ -2,7 +2,7 @@
 
 Models:
 
-GL-MT300N, GL-MT300N-V2 (Firmware 3.0 has not released yet)
+GL-MT300N, GL-MT300N-V2
 
 GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
@@ -35,7 +35,7 @@ Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/connect.jpg)
 
-*Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](Internet#1-cable) so that you can connect to it via LAN.*
+*Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN by default. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](Internet#1-cable) so that you can connect to it via Ethernet cable.*
 
 
 
@@ -44,10 +44,10 @@ Search for the SSID of the router in your device and input the default password:
 
 *Note: The SSID was printed on the bottom label of the router with the following formats:*
 
+- **GL-MT300N**
+- **GL-MT300N-V2**
 - **GL-AR150-XXX**
-
 - **GL-AR300M-XXX**
-
 - **GL-AR300M-XXX-NOR**
 
 
