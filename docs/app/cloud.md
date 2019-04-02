@@ -204,7 +204,7 @@ Logs is at the top right corner of the page.
 
 ## GoodCloud and VPN
 
-If you enable GoodCloud feature on router and also use it as VPN clients, there is something you need to know.
+If you enable GoodCloud feature on router and also use it as VPN client, there is something you need to know.
 
 At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, OpenVPN, Shadowsocks), this bring a problem that if you VPN is configured incorrectly, GoodCloud will not work properly. In order to ensure the normal use of GoodCloud, we suggest you to follow the steps below to enable VPN Policies and disable "Use VPN for all process on the router". After you've done these steps, GoodCloud precess will not use VPN.
 
