@@ -18,21 +18,21 @@ At the left sidebar, APPLICATIONS -> Portal, follow the steps below to enable Ca
 
 3) Set free internet time.
 
-4) Certification URL is the default page that clients will force redirect to when they are connected, e.g. https://www.gl-inet.com
+4) Certification URL is the default page that clients will force redirect to when they are connected, e.g. `https://www.gl-inet.com`
 
 5) Apply the configuration.
 
-For wired desktop client, please use browser to access a http(not https) website, e.g. http://apple.com/? , then you will see the portal.
+For wired desktop client, please use browser to access a http(not https) website, e.g. `http://apple.com/?` , then you will see the portal.
 
-Below is the Portal on iPhone, click the "GET CONNECTED" button to acdess the internet. On Android and desktop platform, it's a similar interface.
+Below is the Portal on iPhone, click the "GET CONNECTED" button to access the internet. On Android and desktop platform, it's a similar interface.
 
 ![portal on iPhone](https://static.gl-inet.com/docs/en/3/app/captive_portal/portal-on-ios.png)
 
 ##2. Change the default page
 
-The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access <a href="https://docs.gl-inet.com/en/3/app/ssh/" target="_blank">this</a>. You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a>.
+The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access <a href="https://docs.gl-inet.com/en/3/app/ssh/" target="_blank">this</a>. You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a> or other sites.
 
-If you want to change the picture on the default page, 
+If you want to change the picture on the default page, just replace the image on `/etc/nodogsplash/htdocs/portal_login.png`.
 
 After you had change the page, it need to disable Portal and enable Portal again to enable the modified default page.
 
