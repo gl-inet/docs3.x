@@ -58,8 +58,6 @@ GL-USB150 testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testi
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
-(If your firmware version is equal or greater than v3.021, please jump to <a href="#12-enable-cloud-mangement">Step 1.2</a>)
-
 At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
 ## 1. Enable Cloud Manage on router Web Admin Panel
@@ -67,6 +65,8 @@ At the left side, UPGRADE -> Local Upgrade, select the firmware file you downloa
 ### 1.1) Install gl-cloud-ui plug
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+
+(If your firmware version is equal or greater than v3.021, please jump to <a href="#12-enable-cloud-mangement">Step 1.2</a>)
 
 ![install-gl-cloud-ui](https://static.gl-inet.com/goodcloud/docs/install-gl-cloud-ui.png)
 
@@ -201,6 +201,16 @@ At left side -> Device List, click the name of a online device, it will open a p
 Logs is at the top right corner of the page.
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-log.png)
+
+## GoodCloud and VPN
+
+If you enable GoodCloud feature on router and also use it as VPN clients, there is something you need to know.
+
+At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, OpenVPN, Shadowsocks), this bring a problem that if you VPN is configured incorrectly, GoodCloud will not work properly. In order to ensure the normal use of GoodCloud, we suggest you to follow the steps below to enable VPN Policies and disable "Use VPN for all process on the router". After you've done these steps, GoodCloud precess will not use VPN.
+
+![disable use vpn for all process on the router](https://static.gl-inet.com/goodcloud/docs/disable-use-vpn-for-all-process-on-the-router.png)
+
+VPN Policies feature need firmware version is equal or greater than v3.021, please jump to <a href="#donwload-firmware-file">this</a> and upgrade to latest firmware.
 
 ## Disable
 
