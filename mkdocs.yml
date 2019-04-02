@@ -154,6 +154,7 @@ pages:
     - File Sharing: 'app/file_sharing.md'
     - DDNS: 'app/ddns.md'
     - Cloud: 'app/cloud.md'
+    - Captive Portal: 'app/captive_portal.md'
 - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
