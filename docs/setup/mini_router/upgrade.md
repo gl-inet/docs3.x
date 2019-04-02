@@ -14,30 +14,31 @@
 
 ![online upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/オンラインアップグレード.png)
 
-
+*注意事項：**設定保存**を無効にすることをお勧めします。 アップグレード後も設定を維持して問題が発生した場合は、ルータをリセットしてください。
 
 ---
 
 ## アップロードファームウェア
 
-`ローカルアップグレード`をクリックして、ファームウェアファイルをルーターにアップロードします。
+`ローカルアップグレード`をクリックする、それでファームウェアファイルをルーターにアップロードしてください。ファームウェアファイルをドラッグし、表示されている領域にドロップすればいいです。
+
 
 ![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/ローカルアップグレード.png)
 
 
 
-###オフィシャルOpenWrt/LEDEファームウェア
+### オフィシャルOpenWrt/LEDEファームウェア
 
-弊社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
+本社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
 
 - GL-AR150 シリーズ: [http://download.gl-inet.com/firmware/ar150/](http://download.gl-inet.com/firmware/ar150/)
 - GL-AR300M シリーズ: [http://download.gl-inet.com/firmware/ar300m/](http://download.gl-inet.com/firmware/ar300m/)
 
-あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアは、以下のサブフォルダーでいます:
+あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアファイルは、以下のサブフォルダーであります:
 
 **v1**: オフィシャルGL.iNet OpenWrt/LEDE ファームウエア。
 
-**clean**: OpenWrt/LEDE クリーンファームウェアです、Luci管理者ページしかありません。
+**clean**: OpenWrt/LEDE クリーンファームウェアです、Luci管理者ページしかほかのUIがありません。
 
 **tor**: Tor ファームウエア。
 
@@ -51,9 +52,9 @@
 
 
 
-### あなた自分のファームウェアをコンパイルします
+### あなた自分のファームウェアをコンパイル
 
-あなた自分のファームウェアをコンパイルして、ルーターにフラッシュすることができます。[github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc)を参考してください。
+あなた自分のファームウェアをコンパイルして、ルーターにインストールすることができます。[github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc)を参考してください。
 
 
 
@@ -71,6 +72,6 @@ DDWRTとかのほかのファームウェアを試すこともできます。
 
 ## 自動アップグレード
 
-自動アップグレードが有効にできます。ルーターは、設定の時間にっとて、アップデートを自動でサーチしてアップグレードします。
+自動アップグレードが有効になれます。ルーターは、設定した時間にとって、アップデートを自動にサーチしてアップグレードすることになります。
 
 ![auto upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/自動アップグレード.png)
