@@ -1,10 +1,10 @@
-# MORE SETTINGS
+# その他の設定
 
 
 
-## Admin Password
+## 管理者パスワード
 
-Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
+管理者パネルのパスワードを変更しては、パスワードが5文字以上でなければなりません。パスワードを変更するため、現在のパスワードを入力することが必要です。
 
 ![admin password](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/admin_password.jpg)
 
@@ -14,7 +14,7 @@ Change the password of the web Admin Panel, which must be at least 5 characters 
 
 ## LAN IP
 
-LAN IP is the IP address that you use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
+LAN IPは、ルーターに接続する時デバイスのIPアドレスです。GL.iNetルーターのデフォルトIPアドレスは192.168.8.1です。メインルータのIPアドレスと競合する場合は、これが変更できます。
 
 ![lan ip](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/lan_ip.jpg)
 
@@ -22,9 +22,9 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 ---
 
-## Time Zone
+## タイムゾーン
 
-The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
+ルーターの活動は、ルーターの時間に従って記録されます。したがって、あなたの所在地のタイムゾーンを選択することをお勧めします。
 
 ![time zone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/time_zone.jpg)
 
@@ -32,9 +32,9 @@ The time of the router's activities will be recorded according to the router tim
 
 ---
 
-## MAC Clone
+## MACアドレスクローニング
 
-Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
+現在のクライアントのMACアドレスをルータに複製します。それはネットワークがあなたのMACアドレスをチェックするとき特にホテルで使用されます。 たとえば、スマートフォンがネットワークに登録されている場合は、スマートフォンのMACアドレスをルータに複製して、ルーターもネットワークに接続できるようになります。
 
 ![mac clone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/mac_clone.jpg)
 
@@ -42,17 +42,17 @@ Clone the MAC address of your current client to the router. It is used especiall
 
 ---
 
-## Custom DNS Server
+## カスタムDNSサーバー
 
-You can configure the DNS server of the router in order to prevent DNS leak or other purposes.
+DNSリークを防ぐ、またはそのほかの目的ために、ルーターのDNSサーバーを設定できます。
 
-**DNS Rebinding Attack Protection**: Some network may require authentication in captive portal. Disable this option if the captive portal of your network cannot be resolved.
+**DNS再バインド（DNS Rebinding）攻撃防御**: 一部のネットワークは、キャプティブポータル認証が必要場合があります。ネットワークのキャプティブポータルがアクセスできない場合は、このオプションを無効にしてください。
 
-**Override DNS Settings for All Clients**: Enabling this option will capture DNS request from all connected clients.
+**すべてのクライアントをカバーするDNS設定**: このオプションを有効にすると、接続されているすべてのクライアントからのDNS要求がキャプチャされます。
 
-**DNS over TLS from Cloudflare**: Cloudflare DNS over TLS uses the TLS security protocol for encrypting DNS queries, which helps increase privacy and prevent eavesdropping.
+**CloudflareのDNS over TLS機能**: TLSを介したCloudflare DNSは、DNSクエリの暗号化にTLSセキュリティプロトコルを使用します。これは、プライバシーを高め、盗聴を防ぐのに役立ちます。
 
-**Manual DNS Server Settings**: Input a custom DNS server manually.
+**手動DNSサーバー設定**: 手動でカスタムDNSサーバーを入力します。
 
 ![custom dns server](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/custom_dns_server.jpg)
 
@@ -60,9 +60,9 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 ---
 
-## Button Settings
+## ボタン設定
 
-Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client.
+モードスイッチの機能を設定します。デフォルトでこの機能がありません。Wireguard / OpenVPNクライアントをオンまたはオフにするトグルとして設定可能です。
 
 ![button settings](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/button_settings.jpg)
 
@@ -70,19 +70,19 @@ Configure the function of the mode switch. It doesn't have any function by defau
 
 ---
 
-## Network Mode
+## ネットワークモード
 
-Change the network mode to cater your usage scenario. You may need to reconnect your client device whenever you change the network mode of the router.
+使用状況に合わせてネットワークモードを変更します。 ルーターのネットワークモードを変更するたびに、クライアントデバイスを再接続する必要があるかもしれません。
 
-Be aware that you may not be able to access the web Admin Panel with the default IP 192.168.8.1 if you use the router in **Access Point**, **Extender** or **WDS** mode. If you want to access the web Admin Panel in this case, you have to use the IP address assigned by the main router to the GL.iNet router.
+**APモード**、**無線拡張モード**、または**WDS**モードでルーターを使用すると、デフォルトのIP 192.168.8.1でWeb管理パネルにアクセスできない場合があります。この場合でWeb管理パネルにアクセスしたいと、メインルータによってGL.iNetルータに割り当てられたIPアドレスを使用しなければなりません。
 
-**Router**: Create your own private network. The router will act as NAT, firewall and DHCP server.
+**無線ルーターモード**: あなた自身のプライベートネットワークを作ります。ルータはNAT、ファイアウォール、およびDHCPサーバーとして機能します。
 
-**Access Point**: Connect  to a wired network and broadcast a wireless network.
+**APモード**: 有線ネットワークに接続してワイヤレスネットワークをブロードキャストします。
 
-**Extender**: Extend the Wi-Fi coverage of an existing wireless network.
+**無線拡張モード**: 既存のワイヤレスネットワークのWi-Fiカバレッジを拡張します。
 
-**WDS**: Similar to Extender, please choose WDS if your main router supports WDS mode.
+**WDSモード**: 無線拡張モードと同様に、メインルータがWDSモードをサポートしている場合はWDSを選択してください。
 
 ![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
 
@@ -90,9 +90,9 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 ---
 
-## Revert Firmware
+## ファームウェアを復元する
 
-Revert the router to factory default settings. All your settings, applications and data will be erased.
+ルータを工場出荷時のデフォルト設定に戻します。 設定、アプリケーション、データはすべて消去されます。
 
 ![revert firmware](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/revert_firmware.jpg)
 
@@ -100,10 +100,10 @@ Revert the router to factory default settings. All your settings, applications a
 
 ---
 
-## Advanced
+## 高級機能
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
 ![advanced](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/advanced.jpg)
 
-*Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*
+*注意: ユーザーネームは**root**です。パスワードは、管理者パスワードと同じです。*
