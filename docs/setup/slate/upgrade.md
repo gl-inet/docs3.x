@@ -2,7 +2,7 @@
 
 `アップグレード`をクリックして、利用可能なアップデートをチェックして、ファームウェアをアップグレードします。
 
-![upgrade](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/アップグレード/アップグレード.png)
+![upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/アップグレード.png)
 
 
 
@@ -12,7 +12,7 @@
 
 ここで現在のファームウェアバージョンが見つかれます。ルーターがインターネットに接続する時、一番新しいのファームウェアバージョンをチェックするようになります。
 
-![online upgrade](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/アップグレード/オンラインアップグレード.png)
+![online upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/オンラインアップグレード.png)
 
 *注意事項：**設定保存**を無効にすることをお勧めします。 アップグレード後も設定を維持して問題が発生した場合は、ルータをリセットしてください。
 
@@ -22,7 +22,7 @@
 
 `ローカルアップグレード`をクリックする、それでファームウェアファイルをルーターにアップロードしてください。ファームウェアファイルをドラッグし、表示されている領域にドロップすればいいです。
 
-![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/アップグレード/ローカルアップグレード.png)
+![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/ローカルアップグレード.png)
 
 
 
@@ -67,4 +67,4 @@ DDWRTとかのほかのファームウェアを試すこともできます。
 
 自動アップグレードが有効になれます。ルーターは、設定した時間にとって、アップデートを自動にサーチしてアップグレードすることになります。
 
-![auto upgrade](https://static.gl-inet.com/docs/jp/3/setup/nanoルーター/アップグレード/自動アップグレード.png)
+![auto upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/自動アップグレード.png)
