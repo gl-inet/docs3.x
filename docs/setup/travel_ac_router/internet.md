@@ -2,13 +2,13 @@
 
 四つのインターネットをアクセスする方法があります：**有線接続**、**無線中継**、**3G/4Gモデル**、**テザリング**。
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/4ways.jpg)
+![connection method](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/internet/4ways.jpg)
 
 
 
 `ネットワーク`をクリックして、ネットワーク接続を作ります。
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/internet.jpg)
+![internet](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/internet/internet.png)
 
   
 

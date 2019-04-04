@@ -47,7 +47,7 @@ GL.iNetは、オープンソースのソフトウェアを使ってハードウ�
             </a>
         </div>
     	<div class="box-1">
-    		<a href="https://docs.gl-inet.com/en/3/setup/travel_ac_router/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/travel_ac_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/jp/3/home/750.png" width=100%>
             </a>
     	</div>

@@ -2,7 +2,7 @@
 
 `ファイアウォール`で、**ポート転送**や**ルーターポートを開きます**や**DMZ**そのようなファイアウォールルールを設定することができます。
 
-![Firewall](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/firewall.jpg)
+![Firewall](https://static.gl-inet.com/docs/jp/3/setup/slate/firewall/firewall.png)
 
 
 
@@ -12,7 +12,7 @@
 
 `ポート転送`をクリックし、パラメーターを入力し、ポート転送を設定します。
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/port_forwards.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/jp/3/setup/slate/firewall/port_forwards.png)
 
 **名称:** ルールの名称です、自分で設定することができます。
 
@@ -33,7 +33,7 @@
 
 ポートを開くことのために、`ルーターポートを開きます`をクリックして、必要なパラメーターを入力してください。
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/open_port.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/jp/3/setup/slate/firewall/open_port.png)
 
 **名称:** ルールの名称です、自分で設定することができます。
 
@@ -51,4 +51,4 @@ DMZを使用すると、1台のコンピュータをインターネットに公�
 
 `DMZ`をクリックして`起動DMZ`を有効にしてください。DMZホストIPで、すべての受信パケットを受信しようとしているあなたのデバイスの内部IPアドレス（例：192.168.8.100）を入力してください。
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/slate/firewall/DMZ.jpg)
+![Port Forwards](https://static.gl-inet.com/docs/jp/3/setup/slate/firewall/DMZ.png)

@@ -2,7 +2,7 @@
 
 `アップグレード`をクリックして、利用可能なアップデートをチェックして、ファームウェアをアップグレードします。
 
-![upgrade](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware.jpg)
+![upgrade](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware.png)
 
 
 
@@ -12,7 +12,7 @@
 
 ここで現在のファームウェアバージョンが見つかれます。ルーターがインターネットに接続する時、一番新しいのファームウェアバージョンをチェックするようになります。
 
-![online upgrade](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware1.jpg)
+![online upgrade](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware1.png)
 
 
 
@@ -27,7 +27,7 @@
 `ローカルアップグレード`をクリックする、それでファームウェアファイルをルーターにアップロードしてください。ファームウェアファイルをドラッグし、表示されている領域にドロップすればいいです。
 
 
-![upload firmware](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware2.jpg)
+![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware2.png)
 
 
 
@@ -68,4 +68,4 @@ DDWRTとかのほかのファームウェアを試すこともできます。
 
 自動アップグレードが有効になれます。ルーターは、設定した時間にとって、アップデートを自動にサーチしてアップグレードすることになります。
 
-![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware3.jpg)
+![auto upgrade](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware3.png)
