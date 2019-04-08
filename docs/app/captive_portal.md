@@ -22,7 +22,7 @@ At the left sidebar, APPLICATIONS -> Portal, follow the steps below to enable Ca
 
 5) Apply the configuration.
 
-For wired desktop client, please use browser to access a http(not https) website, e.g. `http://apple.com/?` , then you will see the portal.
+For wired desktop client, please use browser to access a http(not https) website, e.g. `http://neverssl.com` or `http://apple.com/?` , then you will see the portal.
 
 Below is the Portal on iPhone, click the "GET CONNECTED" button to access the internet. On Android and desktop platform, it's a similar interface.
 
