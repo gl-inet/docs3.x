@@ -44,8 +44,8 @@ Search for the SSID of the router in your device and input the default password:
 
 *Note: The SSID was printed on the bottom label of the router with the following formats:*
 
-- **GL-MT300N**
-- **GL-MT300N-V2**
+- **GL-MT300N-XXX**
+- **GL-MT300N-V2-XXX**
 - **GL-AR150-XXX**
 - **GL-AR300M-XXX**
 - **GL-AR300M-XXX-NOR**
