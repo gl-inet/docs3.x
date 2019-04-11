@@ -1,6 +1,6 @@
 # VPN
 
-GL.iNetルーターは、OpenVPNとWireGuardのVPNサーバーとクライアントがインストールされています。
+GL.iNetルーターは、OpenVPNとWireGuardのVPNサーバー・クライアントがインストールされています。
 
 詳細な設定手順については、以下のリンクを参照してください：
 
