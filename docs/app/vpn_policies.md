@@ -6,7 +6,7 @@ Starting from firmware version 3.022, users can define VPN routing policies. For
 
 
 
-##Settings
+## Settings
 
 **Enable VPN Policy**: Turn on/off VPN policies.
 
@@ -18,19 +18,18 @@ Starting from firmware version 3.022, users can define VPN routing policies. For
 
 
 
-##Add VPN policy
+## Add VPN policy
 
 You can only configure either **Use VPN for** or **Do not use VPN for**. Click the arrow to switch among **Use VPN for** and **Do not use VPN for**. To add a policy, enter the domain/IP or Mac address into the box and then click `Add`. Finally, click `Apply` to activate the policy. 
 
-For example, if we want to route only the traffic of gl-inet.com through VPN, we need to add *gl-inet.com* under **Use VPN for**.
+For example, if we want to route only the traffic of `gl-inet.com` through VPN, we need to add *gl-inet.com* under **Use VPN for**.
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/use_vpn.jpg)
 
-
-
-However, if we want to route all traffic through VPN except gl-inet.com, we need to add *gl-inet.com* under **Do not use VPN for**.
+However, if we want to route all traffic through VPN except `gl-inet.com`, we need to add *gl-inet.com* under **Do not use VPN for**.
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/dont_use_vpn.jpg)
+<<<<<<< HEAD
 
 
 
@@ -46,3 +45,5 @@ If you are using domain-based policy, it may not work unless you clear your DNS 
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/dns_cache.jpg)
 
+=======
+>>>>>>> e0b6ecec21ec0f166b7bc840ed348d9a3bd47b10
