@@ -12,7 +12,7 @@ Starting from firmware version 3.022, users can define VPN routing policies. For
 
 **Use VPN for all process on the router**: Generally, the traffic of all processes running on the router such as GoodCloud will be routed through VPN if there is a connected VPN client (e.g. WireGuard, OpenVPN, Shadowsocks). In this case, these processes will lose Internet if VPN is disconnected. In order to ensure a proper operation of these processes, you can disable this option. As a result, they will not use VPN.
 
-**Please Choose Policy**: The policy can be either **Domain/IP** (e.g. gl-inet.com / 192.168.1.1 / 192.168.1.0/24) or **Mac address** (24:F0:94:5C:8E:F9).
+**Please Choose Policy**: The item can be either **Domain/IP** (e.g. gl-inet.com / 192.168.1.1 / 192.168.1.0/24) or **Mac address** (24:F0:94:5C:8E:F9).
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/settings.jpg)
 
@@ -34,5 +34,15 @@ However, if we want to route all traffic through VPN except gl-inet.com, we need
 
 
 
+## Clear DNS cache
 
+If you are using domain-based policy, it may not work unless you clear your DNS cache. Please follow the instructions below to clear your DNS cache.
+
+**Windows**: Press **Win + R** and run **cmd**. Execute command `ipconfig /flushdns`.
+
+**MacOS**: Open **Terminal** and execute command `sudo killall -HUP mDNSResponder`.
+
+**Ubuntu**: Open **Terminal** and execute command `sudo service network-manager restart`.
+
+![policies](https://static.gl-inet.com/docs/en/3/app/policies/dns_cache.jpg)
 
