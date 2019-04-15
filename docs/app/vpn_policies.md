@@ -29,7 +29,6 @@ For example, if we want to route only the traffic of `gl-inet.com` through VPN, 
 However, if we want to route all traffic through VPN except `gl-inet.com`, we need to add *gl-inet.com* under **Do not use VPN for**.
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/dont_use_vpn.jpg)
-<<<<<<< HEAD
 
 
 
@@ -44,6 +43,3 @@ If you are using domain-based policy, it may not work unless you clear your DNS 
 **Ubuntu**: Open **Terminal** and execute command `sudo service network-manager restart`.
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/dns_cache.jpg)
-
-=======
->>>>>>> e0b6ecec21ec0f166b7bc840ed348d9a3bd47b10
