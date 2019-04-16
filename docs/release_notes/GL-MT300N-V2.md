@@ -1,6 +1,6 @@
 #GL-MT300N-V2 - Release Notes
 
-## V3.012 - Jan 21, 2018
+## V3.012 - Jan 21, 2019
 
 Firmware file: [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
 
@@ -10,7 +10,7 @@ Firmware file: [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v
 
 --------
 
-## V3.011 - Jan 4, 2018
+## V3.011 - Jan 4, 2019
 
 Firmware file: [gl-mt300n-v2-3.011.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
 
