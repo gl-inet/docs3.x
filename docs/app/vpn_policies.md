@@ -43,3 +43,9 @@ If you are using domain-based policy, it may not work unless you clear your DNS 
 **Ubuntu**: Open **Terminal** and execute command `sudo service network-manager restart`.
 
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/dns_cache.jpg)
+
+You may also need to clear DNS cache in your browser.
+
+**Chrome**: Visit [chrome://net-internals/#dns](chrome://net-internals/#dns). Click `Clear host cache`.
+
+**Firefox**: Open Firefox and press `Ctrl` + `Shift` + `Delete`. Select **Time range** to **Everything** and check only **Cache**. Finally, click `Clear Now`.
