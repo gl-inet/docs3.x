@@ -8,7 +8,7 @@
 
 **新しい機能:**
 
-OpenWrtが18.06バージョンに更新しました
+- OpenWrtが18.06バージョンに更新しました
 - 新しいユーザー界面
 - WireGuard サーバ・クライアントがインストールされて、 Azirevpn と Mullvad をサポートします
 - TLSを介してCloudflare DNSの使用をサポートします
