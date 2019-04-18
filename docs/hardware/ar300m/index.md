@@ -1,58 +1,56 @@
 #  GL-AR300M Series
 
-Best Mini Router Ever
+史上最高のナノルーター
 
 
+AR300Mは、本社最高のミニルーターです、それが小さくて強力です。
 
-AR300M is the our best mini router. It is small and powerful.
+いくつかのサブモデルがあります:
 
-It has several sub-models:
-
-| Sub-model    | Nor flash | Nand flash | Antenna  | 5G wifi | USB power control |
+| サブモデル    | Nor フラッシュ | Nand フラッシュ | アンテナ  | 5G wifi | USB 電源 |
 | ------------ | --------- | ---------- | -------- | ------- | ----------------- |
-| AR300M       | 16MB      | 128MB      | Internal | No      | Yes               |
-| AR300M-Ext   | 16MB      | 128MB      | External | No      | Yes               |
-| AR300M16     | 16MB      | No         | Internal | No      | Yes               |
-| AR300M16-Ext | 16MB      | No         | External | No      | Yes               |
-| AR300M-Lite  | 16MB      | No         | Internal | No      | No                |
-| AR300MD*     | 16MB      | 128MB      | Internal | Yes     | Yes               |
-
-*AR300MD 5Gwifi is suggested only to work at monitoring mode because of power consumption. 
+| AR300M       | 16MB      | 128MB      | 内部 | ない      | はい               |
+| AR300M-Ext   | 16MB      | 128MB      | 外部 | ない      | はい               |
+| AR300M16     | 16MB      | ない         | 内部 | ない      | はい               |
+| AR300M16-Ext | 16MB      | ない         | 外部 | ない      | はい               |
+| AR300M-Lite  | 16MB      | ない         | 内部 | ない      | ない                |
+| AR300MD*     | 16MB      | 128MB      | 内部 | はい     | はい               |
 
 
 
-##  Hardware Specification
+##  ハードウエア　スペック
 
-|                         Model | GL-AR300M Series                                             |
+|                         Model | GL-AR300M シリーズ                                            |
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9531 650MHz                                               |
-|                        Memory | DDRII 128MB                                                  |
-|                       Storage | 16MB Nor, 128 MB Nand (Optional)                             |
-|                    Interfaces | 1 WAN, 1 LAN, 1 USB2.0, 1 Micro USB (power), 1 Reset Button, PCIe, UART |
-|                     Frequency | 2.4GHz                                                       |
-|             Transmission Rate | 300Mbps                                                      |
+|                        メモリ | DDRII 128MB                                                  |
+|                     ストレージ | 16MB Nor, 128 MB Nand (選択可能)                             |
+|                インターフェイス | 1 WAN, 1 LAN, 1 USB2.0, 1 マイクロ USB (power), 1 リセットボタン, PCIe, UART |
+|                     　　周波数 | 2.4GHz                                                       |
+|             　　　　　　転送速度 | 300Mbps                                                      |
 |                 Max. Tx Power | 20dBm                                                        |
-|                      Protocol | 802.11 b/g/n                                                 |
-| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
-|                Webcam Support | MJPEG, YUV (not support from firmware v2.27)                 |
-|                  DIY Features | UART, GPIO, PCIe, 3.3V & 5V power port                       |
-|      External Antenna Support | Yes (optional)                                               |
-|            PoE Module Support | No                                                           |
-|                   Power Input | 5V/1A                                                        |
-|             Power Consumption | <2W                                                          |
-|             Dimension, Weight | 58mmX58mmX25mm, 39g                                          |
-|                  PCIe headers | Yes                                                          |
+|                    最大送信電力 | 802.11 b/g/n                                                 |
+| 　　　外付けドライブフォーマット | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
+|               　　 ウェブカメラ | MJPEG, YUV (ファームウェア v2.27からサポートしません)                 |
+|           　　  　     DIY機能 | UART, GPIO, PCIe, 3.3V & 5V 電源ポート                     |
+|    　　　　　　  外付けアンテナ | はい (選択可能)                                               |
+|          　　　  PoE モジュール | ない                                                          |
+|                  　　　　 電源| 5V/1A                                                        |
+|             　　　　　　消費電力 | <2W                                                          |
+|          　　　　　   サイズ、重量| 58mmX58mmX25mm, 39g                                          |
+|                 　　　　　 PCIe | はい                                                          |
 
 
 
-## PCB Pinout
+## PCB ピン配置
 
 ![gl-ar300m pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg)
 
 
-**Note: I2C is not working in some early version of the router.**
+**注意: 過去の一部のバージョンでI2C が使用できないです.**
 
 By using 128MB Nand flash, space is not a problem and the writing speed is improved greatly. You can compile a firmware with tons of features and writing data is almost instant.
+128MBフラッシュを使用して、
 
 By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the wifi speed on a mini router.
 

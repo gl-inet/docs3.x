@@ -1,25 +1,25 @@
-#GL-AR750 - Release Notes
+#GL-AR750 - リリースノート
 
 
 
-## V3.010 - Dec 26, 2018
+## V3.010 - 2018.12.26
 
-Firmware file: [gl-ar750-3.010.bin](https://dl.gl-inet.com/firmware/ar750/v1/gl-ar750-3.010.bin)
+ファームウェアファイル: [gl-ar750-3.010.bin](https://dl.gl-inet.com/firmware/ar750/v1/gl-ar750-3.010.bin)
 
-**New Features:**
+**新しい機能:**
 
-- OpenWrt Updated to version 18.06.
-- Adopted new user-interface.
-- WireGuard Server/Client pre-installed, supports Azirevpn and Mullvad service providers.
-- Support DNS over TLS from Cloudflare.
-- Support various 5GHz Wi-Fi speed configurations.
-- Added [GL Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
-- Added new [DDNS](https://docs.gl-inet.com/en/3/app/ddns/) function.
-- Added client management feature which includes QoS, traffic statistics.
-- Added firewall settings page which includes port forwards, open port and DMZ.
+OpenWrtが18.06バージョンに更新しました
+- 新しいユーザー界面
+- WireGuard サーバ・クライアントがインストールされて、 Azirevpn と Mullvad をサポートします
+- TLSを介してCloudflare DNSの使用をサポートします
+- 複数の5GHz Wi-Fi スピード設定をサポートします
+- [GL Cloud](https://docs.gl-inet.com/jp/3/app/cloud/)を追加しました
+- [DDNS](https://docs.gl-inet.com/jp/3/app/ddns/)を追加しました
+- クライアント管理機能を追加しました（Qos、トラフィック統計）
+- ファイアウォール設定ページを追加しました、ポート伝送やポートを開くやDMZがいます
 
-**Fixed:**
+**修復:**
 
-- Improved the stability of wireless connection.
-- Removed UPnP server, PPTP and L2TP.
+- 無線接続の安定性を改善した
+- UPnPサーバー、PPTPとL2TPを削除します
 

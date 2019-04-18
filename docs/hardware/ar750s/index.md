@@ -11,14 +11,14 @@
 |                           CPU | QCA9563, @775MHz SoC                                         |
 |                        メモリ | DDRII 128MB                                                  |
 |                     ストレージ | デュアル フラッシュ 16MB Nor + 128MB Nand                             |
-|                インターフェイス | 1 WAN (1000Mbps), 2 LANs (1000Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, TF Card Slot (128GB Max.) |
+|                インターフェイス | 1 WAN (1000Mbps), 2 LANs (1000Mbps), 1 USB2.0, 1 マイクロ USB (power), 1 リセットボタン, TF カード スロット (128GB Max.) |
 |                         周波数 | 2.4GHz, 5GHz                                                 |
 |                       転送速度 | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
 |                 最大送信電力 | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
 |                      プロトコル | 802.11 b/g/n/ac                                              |
 | 　　外付けドライブフォーマット | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
 |                  　　　DIY 機能 | UART, GPIO, 3.3V & 5V power port                             |
-|             　　 外付けアンテナ | 2 X 2dBi Fixed Antennas                                      |
+|             　　 外付けアンテナ | 2 X 2dBi アンテナ                                      |
 |                  PoE モジュール | サポートしません                                                           |
 |                  　　　　 電源 | 5V/2A                                                        |
 |            　　　　　　 消費電力 | <6W                                                          |
