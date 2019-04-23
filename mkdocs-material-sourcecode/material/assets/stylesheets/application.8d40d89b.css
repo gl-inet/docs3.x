@@ -2828,6 +2828,12 @@ html body .md-typeset .headerlink {
     #vixmini_label {
         display: none !important;
     }
+    #convexa_b_label {
+        display: none !important;
+    }
+    #convexa_s_label {
+        display: none !important;
+    }
     
 
     .md-header-nav__button.md-icon--home, .md-header-nav__button.md-logo {
