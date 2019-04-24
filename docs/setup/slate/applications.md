@@ -28,4 +28,45 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 
 
-For the guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [this page](https://docs.gl-inet.com/en/3/app/file_sharing/).
+For the guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](https://docs.gl-inet.com/en/3/app/file_sharing/).
+
+
+---
+
+## DDNS
+
+Dynamic Domain Name Service(DDNS) is a service used to map a domain name to the dynamic IP address of a network device. 
+
+You can remotely access your router by url though this function.
+
+
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
+
+
+For the guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+
+---
+
+## Cloud
+
+GL.iNet GoodCloud cloud management service provide an easy and simple way to remotely manage routers. 
+
+In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
+
+
+![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
+
+
+For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+
+---
+
+## Portal
+
+You can set a captival portal in our routers, when newly users connect to wifi, they need to access a web page before access the internet.
+
+
+![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png)
+
+
+For the setup guidance, please refer to [Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).

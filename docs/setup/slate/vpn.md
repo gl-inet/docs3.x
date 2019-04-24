@@ -9,5 +9,10 @@ Please refer to the links below for the detailed setup instruction:
 
 ![client](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/client.jpg)
 
+Starting from firmware version 3.022, users can define VPN routing policies. 
 
+Please refer to the links below for the detailed setup instruction:
 
+- [**VPN Policies**](http://docs.gl-inet.com/en/3/app/vpn_policies/)
+
+![policies](https://static.gl-inet.com/docs/en/3/app/policies/policies.jpg)
