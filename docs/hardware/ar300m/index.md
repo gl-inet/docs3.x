@@ -50,23 +50,25 @@ AR300Mは、本社最高のミニルーターです、それが小さくて強�
 **注意: 過去の一部のバージョンでI2C が使用できないです.**
 
 By using 128MB Nand flash, space is not a problem and the writing speed is improved greatly. You can compile a firmware with tons of features and writing data is almost instant.
-128MBフラッシュを使用して、
+128MBのNandフラッシュを使用することで、スペースは問題にならず、書き込み速度は大幅に向上します。あなたはたくさんの機能でファームウェアをコンパイルすることができ、データを書くことはほとんど瞬間的です。
 
 By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the wifi speed on a mini router.
+PCIeインターフェースを追加することで、5G 802.11a / acアドオンモジュールを接続することができ、ミニルーターで無線LANの速度を楽しむことができます。
 
 
-## Performance
+## パフォーマンス
 
 By adding a fast Nand flash, you can feel how the performance is improved compared to a Nor flash router.
+高速Nandフラッシュを追加することで、Norフラッシュルーターと比べてパフォーマンスがどのように向上するかを実感できます。
 
-The performance comparision between AR300M (nand) with AR150 is below:
+AR300M（nand）とAR150のパフォーマンス比較は以下のとおりです：
 
 ![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg)
 
 It only takes 6 seconds to upload and process 250 ovpn files. When installing packages to the router, it takes no more than 20% for the time spent than using nor flash, including the time to download resource from the Internet. So everything just happends in seconds.
+250個のovpnファイルをアップロードして処理するのに6秒しかかかりません。ルーターにパッケージをインストールする場合、インターネットからリソースをダウンロードする時間も含めて、norフラッシュを使用するよりも20％も多くかかりません。だからすべてはほんの数秒で起こります。
 
-
-## Building Firmware
+## ファームウェアの構築
 
 The router has two flash so we have two firmwares. One firmware is installed on the Nor flash and one is installed on the nand flash. The two firmware is independent from each other. The router will always try to boot from the nand flash. If it fails for 3 times it will boot from the Nor flash.
 
