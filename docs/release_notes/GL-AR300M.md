@@ -6,12 +6,9 @@
 
 ファームウェアファイル: 
 
-- GL-AR300M、GL-AR300M-Ext
+- GL-AR300M、GL-AR300M-Ext:[gl-ar300m-ubi-3.019.img](https://dl.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.019.img)
 
-[gl-ar300m-ubi-3.019.img](https://dl.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.019.img)
-
-- GL-AR300M16、GL-AR300M16-Ext、GL-AR300M-Lite
-[gl-ar300m16-3.019.bin](https://gl.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.019.bin)
+- GL-AR300M16、GL-AR300M16-Ext、GL-AR300M-Lite:[gl-ar300m16-3.019.bin](https://dl.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.019.bin)
 
 **新しい機能:**
 
