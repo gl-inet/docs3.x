@@ -49,7 +49,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         </div>
     	<div class="box-1">
     		<a href="https://docs.gl-inet.com/en/3/setup/travel_ac_router/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_7501.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">

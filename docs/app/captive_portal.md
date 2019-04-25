@@ -1,4 +1,4 @@
-#Captive Portal
+#Set a Captive Portal
 
 A captive portal is a web page accessed with a web browser that is displayed to newly connected users of a Wi-Fi network before they are granted broader access to network resources.
 
