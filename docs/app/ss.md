@@ -21,18 +21,6 @@ You will learn how to set up shadowsocks server and client in UI 3.0 on our mini
 
 ![1531132234092](https://static.gl-inet.com/docs/en/3/app/ss/ssapp1.png)
 
-	(3). shadowsocks-libev-server
-	
-	(4). shadowsocks-libev
-
-![1531132281302](https://static.gl-inet.com/docs/en/3/app/ss/ssapp2.png)
-
-	(5). luci-app-shawdowsocks
-
-![1531132348012](https://static.gl-inet.com/docs/en/3/app/ss/app3.png)
-
-
-
 The following Success window will pop-up each time when installed a package. 
 
 ![1531132507191](https://static.gl-inet.com/docs/en/3/app/ss/successinstall.png)

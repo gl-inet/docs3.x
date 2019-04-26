@@ -40,6 +40,8 @@ At the left side, UPGRADE -> Local Upgrade, select the firmware file you downloa
 
 ## 1) Install gl-cloud-ui plug
 
+(If your firmware version is equal or greater than v3.021, please jump to <a href="#2-enable-ddns">Step 2</a>)
+
 ![install-gl-cloud-ui](https://static.gl-inet.com/docs/en/3/app/ddns/install-gl-cloud-ui.png)
 
 Access to router Admin Panel (default is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>), at the left sidebar, APPLICATIONS -> Plug-ins,

@@ -39,7 +39,7 @@ For the guidance on how to access the contents of the external storage device fr
 
 You can remotely access your router by url though this function.
 
-In 3.022 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
+In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
 
 
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
@@ -55,7 +55,7 @@ For the guidance on how to set DDNS and access, please refer to [DDNS](https://d
 
 In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
 
-In 3.022 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
+In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
 
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
 

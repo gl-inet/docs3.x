@@ -2,45 +2,13 @@
 
 
 
-## AT Command
-
-The built-in modem supports AT command for the management and configuration of the modem. You can also use this AT command tool [here](internet.md#at-command).
-
-- **Shortcut:** There are several pre-configured AT commands that you can use directly. If you want to run your own AT command, choose **Manual command**.
-- **AT Command:** The place where you can input AT command. For the list of AT command, please refer to the AT command manual of the built-in modem.
-- **Port:** The default port for AT command is **/dev/ttyUSB2**.
-
-![at command](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/applications/at_command.jpg)
-
-
-
----
-
-
-
 ## Plug-ins
 
 **Plug-ins** allows you to manage OpenWrt packages. You can install or remove any package. 
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/applications/plug-ins.jpg)
-
-
-
----
-
-## Send Message
-
-You can send and receive message once you have set up the 3G/4G modem with your SIM card. Go to `Send Message` to check any received message. 
-
-![message](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/applications/message.jpg)
-
-
-
-Click `New Message` to send message.
-
-![send message](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/applications/send_message.jpg)
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.png)
 
 
 
@@ -48,7 +16,7 @@ Click `New Message` to send message.
 
 ## File Sharing
 
-You can use an external USB storage or a MicroSD with GL.iNet router. The file sharing features of the external storage device can be configured in **File Sharing**.
+You can use an external USB storage or a MicroSD card with GL.iNet router. The file sharing features of the external storage device can be configured in **File Sharing**.
 
 **Share via LAN**: Share the contents of the external storage device with all connected clients.
 
@@ -56,8 +24,53 @@ You can use an external USB storage or a MicroSD with GL.iNet router. The file s
 
 **Writable**: The contents of the external storage device can be edited.
 
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/applications/file_sharing.jpg)
+![File sharing](https://static.gl-inet.com/docs/en/3/setup/slate/applications/file_sharing.png)
 
 
 
-For the guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [this page](https://docs.gl-inet.com/en/3/app/file_sharing/).
+For the guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](https://docs.gl-inet.com/en/3/app/file_sharing/).
+
+
+---
+
+## DDNS
+
+**Dynamic Domain Name Service(DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
+
+You can remotely access your router by url though this function.
+
+In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
+
+
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
+
+
+For the guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+
+---
+
+## Cloud
+
+**GL.iNet GoodCloud cloud management** services provide an easy and simple way to remotely manage routers. 
+
+In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
+
+In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
+
+![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
+
+
+For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+
+---
+
+## Portal
+
+You can set a **captival portal** in our routers, when newly users connect to wifi, they need to access a web page before access the internet.
+
+Only support 3.022 version or above.
+
+![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png)
+
+
+For the setup guidance, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).
