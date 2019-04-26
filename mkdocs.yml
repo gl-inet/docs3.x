@@ -68,7 +68,7 @@ pages:
         - VPN: 'setup/slate/vpn.md'
         - アプリケーション: 'setup/slate/applications.md'
         - その他の設定: 'setup/slate/more_settings.md'
-    - トラベルACルーター:
+    - Creta(GL-AR750):
         - 基本設定: 'setup/travel_ac_router/first-time_setup.md'
         - ネットワーク: 'setup/travel_ac_router/internet.md'
         - 無線: 'setup/travel_ac_router/wireless.md'
