@@ -49,8 +49,6 @@ AR300Mは、本社最高のミニルーターです、それが小さくて強�
 
 **注意: 過去の一部のバージョンでI2C が使用できないです.**
 
-By using 128MB Nand flash, space is not a problem and the writing speed is improved greatly. You can compile a firmware with tons of features and writing data is almost instant.
 128MBのNandフラッシュを使用することで、スペースは問題にならず、書き込み速度は大幅に向上します。あなたはたくさんの機能でファームウェアをコンパイルすることができ、データを書くことはほとんど瞬間的です。
 
-By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the wifi speed on a mini router.
 PCIeインターフェースを追加することで、5G 802.11a / acアドオンモジュールを接続することができ、ミニルーターで無線LANの速度を楽しむことができます。
