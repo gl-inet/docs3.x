@@ -2,7 +2,7 @@
 
 モデム:
 
-GL-MT300N, GL-MT300N-V2 (Firmware 3.0 has not released yet)
+GL-MT300N, GL-MT300N-V2 
 
 GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
