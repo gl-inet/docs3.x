@@ -91,7 +91,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <p>Thanks, GL.iNet Team</p>
 <h2 id="wikidevi">Wikidevi</h2>
 <p>GL-B1300 Gigabit AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-B1300">https://wikidevi.com/wiki/GL.iNet_GL-B1300</a></p>
-<p>GL-AR750S Travel AC Router:<a herf="https://wikidevi.com/wiki/GL.iNet_GL-AR750S">https://wikidevi.com/wiki/GL.iNet_GL-AR750S</a></p>
+<p>GL-AR750S Travel AC Router: <a herf="https://wikidevi.com/wiki/GL.iNet_GL-AR750S">https://wikidevi.com/wiki/GL.iNet_GL-AR750S</a></p>
 <p>GL-AR750 Travel AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR750">https://wikidevi.com/wiki/GL.iNet_GL-AR750</a></p>
 <p>GL-USB150 Microuter: <a href="https://wikidevi.com/wiki/GL.iNet_GL-USB150">https://wikidevi.com/wiki/GL.iNet_GL-USB150</a></p>
 <p>GL-AR300M Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR300M">https://wikidevi.com/wiki/GL.iNet_GL-AR300M</a></p>
