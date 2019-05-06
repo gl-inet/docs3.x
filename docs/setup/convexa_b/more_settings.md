@@ -57,17 +57,6 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 ![custom dns server](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/custom_dns_server.jpg)
 
 
-
----
-
-## Button Settings
-
-Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client.
-
-![button settings](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/button_settings.jpg)
-
-
-
 ---
 
 ## Network Mode
