@@ -32,9 +32,9 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ###Official OpenWrt/LEDE firmware
 
-You can download the official firmware from our [website](http://download.gl-inet.com/firmware/). 
+You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- GL-USB150 (Microuter): [http://download.gl-inet.com/firmware/usb150/](http://download.gl-inet.com/firmware/usb150/)
+- GL-USB150 (Microuter): [https://dl.gl-inet.com/firmware/usb150/](https://dl.gl-inet.com/firmware/usb150/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 

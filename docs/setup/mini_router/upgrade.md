@@ -32,10 +32,10 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ###Official OpenWrt/LEDE firmware
 
-You can download the official firmware from our [website](http://download.gl-inet.com/firmware/). 
+You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- GL-AR150 series: [http://download.gl-inet.com/firmware/ar150/](http://download.gl-inet.com/firmware/ar150/)
-- GL-AR300M series: [http://download.gl-inet.com/firmware/ar300m/](http://download.gl-inet.com/firmware/ar300m/)
+- GL-AR150 series: [https://dl.gl-inet.com/firmware/ar150/](https://dl.gl-inet.com/firmware/ar150/)
+- GL-AR300M series: [https://dl.gl-inet.com/firmware/ar300m/](https://dl.gl-inet.com/firmware/ar300m/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 

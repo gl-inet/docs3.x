@@ -32,9 +32,9 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ###Official OpenWrt/LEDE firmware
 
-You can download the official firmware from our [website](http://download.gl-inet.com/firmware/). 
+You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- VIXMINI: [http://download.gl-inet.com/firmware/vixmini/release/](http://download.gl-inet.com/firmware/vixmini/release/)
+- VIXMINI: [https://dl.gl-inet.com/firmware/vixmini/release/](https://dl.gl-inet.com/firmware/vixmini/release/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 

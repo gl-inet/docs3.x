@@ -33,9 +33,9 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ###Official OpenWrt/LEDE firmware
 
-You can download the official firmware from our [website](http://download.gl-inet.com/firmware/). 
+You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- GL-MiFi: [http://download.gl-inet.com/firmware/mifi/](http://download.gl-inet.com/firmware/mifi/)
+- GL-MiFi: [https://dl.gl-inet.com/firmware/mifi/](https://dl.gl-inet.com/firmware/mifi/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 
