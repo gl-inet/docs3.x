@@ -82,7 +82,7 @@ Follow the steps above, to enable HTTP Remote Access.
 
 *** HTTP is not encrypted, use at your own risk.***
 
-After you enable HTTP Remote Access, you can access Admin Panel anywhere by your DDNS url.
+After you enable HTTP Remote Access, you can access Admin Panel anywhere by your DDNS url of http, e.g. `http://xxxxxxx.glddns.com`. If you use port forward, you should be access like `http://xxxxxxx.glddns.com:YourExternalPort`.
 
 ## 5) HTTPS Remote Access
 
@@ -102,7 +102,7 @@ As show above, click "Advanced".
 
 As show above, click "Processed to xxxxxxx.glddns.com (unsafe)".
 
-After you enable HTTPS Remote Access, you can access Admin Panel anywhere by your DDNS url.
+After you enable HTTPS Remote Access, you can access Admin Panel anywhere by your DDNS url of https, e.g. `https://xxxxxxx.glddns.com`. If you use port forward, you should be access like `https://xxxxxxx.glddns.com:YourExternalPort`.
 
 ## 6) SSH Remote Access
 
