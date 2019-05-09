@@ -6,7 +6,7 @@
 
 管理者パネルのパスワードを変更しては、パスワードが5文字以上でなければなりません。パスワードを変更するため、現在のパスワードを入力することが必要です。
 
-![admin password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/管理者パスワード.png)
+![admin password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/admin_password.png)
 
 
 
@@ -27,7 +27,7 @@ LAN IPは、ルーターに接続する時デバイスのIPアドレスです。
 ルーターの活動は、ルーターの時間に従って記録されます。したがって、あなたの所在地のタイムゾーンを選択することをお勧めします。
 
 
-![time zone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/タイムゾーン.png)
+![time zone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/time_zone.png)
 
 
 
@@ -37,7 +37,7 @@ LAN IPは、ルーターに接続する時デバイスのIPアドレスです。
 
 現在のクライアントのMACアドレスをルータに複製します。それはネットワークがあなたのMACアドレスをチェックするとき特にホテルで使用されます。 たとえば、スマートフォンがネットワークに登録されている場合は、スマートフォンのMACアドレスをルータに複製して、ルーターもネットワークに接続できるようになります。
 
-![mac clone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/MACアドレスクローニング.png)
+![mac clone](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/mac_clone.png)
 
 
 
@@ -55,7 +55,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 **手動DNSサーバー設定**: 手動でカスタムDNSサーバーを入力します。
 
-![custom dns server](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/カスタムDNSサーバー.png)
+![custom dns server](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/custom_dns_server.png)
 
 
 
@@ -65,7 +65,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 モードスイッチの機能を設定します。デフォルトでこの機能がありません。Wireguard / OpenVPNクライアントをオンまたはオフにするトグルとして設定可能です。
 
-![button settings](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ボタン設定.png)
+![button settings](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/button_settings.png)
 
 
 
@@ -85,7 +85,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 **WDSモード**: 無線拡張モードと同様に、メインルータがWDSモードをサポートしている場合はWDSを選択してください。
 
-![network mode](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ネットワークモード.png)
+![network mode](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/network_mode.png)
 
 
 
@@ -95,7 +95,7 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 ルータを工場出荷時のデフォルト設定に戻します。 設定、アプリケーション、データはすべて消去されます。
 
-![revert firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ファームウェアを復元する.png)
+![revert firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/revert_firmware.png)
 
 
 
@@ -105,6 +105,6 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 OpenWrtのデフォルトのWebインターフェースであるLuciに進むには、`高級機能`をクリックしてください。 詳細なシステムログを確認したり、より高度な設定を行ったりできます。
 
-![advanced](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/高級機能.png)
+![advanced](https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/advanced.png)
 
 *注意: ユーザーネームは**root**です。パスワードは、管理者パスワードと同じです。*
