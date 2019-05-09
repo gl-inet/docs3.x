@@ -8,21 +8,21 @@ Captive portal feature need firmware version is equal or greater than v3.022, pl
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
+The Captive Portal is only worked on Guess Wi-Fi. Please enable your guess WiFi.
+
 At the left sidebar, APPLICATIONS -> Portal, follow the steps below to enable Captive Portal.
 
 ![turn on captive portal](https://static.gl-inet.com/docs/en/3/app/captive_portal/turn-on-captive-portal.png)
 
-1) Turn on one-click Internet access
+1) Turn on captive portal. 
 
-2) Choose the network that you want to use Portal. LAN is for LAN clients, include wired clients. Guest is for Guest clients which access by Guest Wi-Fi.
+2) Set free internet time.
 
-3) Set free internet time.
+3) Certification URL is the default page that clients will force redirect to when they are connected, e.g. `https://www.gl-inet.com`
 
-4) Certification URL is the default page that clients will force redirect to when they are connected, e.g. `https://www.gl-inet.com`
+4) Apply the configuration.
 
-5) Apply the configuration.
-
-For wired desktop client, please use browser to access a http(not https) website, e.g. `http://neverssl.com` or `http://apple.com/?` , then you will see the portal.
+For desktop client, please use browser to access a http(not https) website, e.g. `http://neverssl.com` or `http://apple.com/?` , then you will see the portal.
 
 Below is the Portal on iPhone, click the "GET CONNECTED" button to access the internet. On Android and desktop platform, it's a similar interface.
 
@@ -34,7 +34,7 @@ The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to cha
 
 If you want to change the picture on the default page, just replace the image on `/etc/nodogsplash/htdocs/portal_login.png`.
 
-After you had change the page, it need to disable Portal and enable Portal again to enable the modified default page.
+After you had change the page, it need to disable Portal and enable Portal again to reload the modified default page.
 
 ##3. Disable Captive Portal
 
