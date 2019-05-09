@@ -43,7 +43,7 @@ DHCPはデフォルトで一般的なプロトコルです。手動で設定す�
 
 Staticを選択する時、あなたの望みに設定を変更して、`応用する`をクリックしてください。
 
-![static](https://static.gl-inet.com/docs/jp/3/setup/mini-router/internet/せいたい.png)
+![static](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/せいたい.png)
 
 
 
