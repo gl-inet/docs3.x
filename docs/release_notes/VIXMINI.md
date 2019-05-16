@@ -1,4 +1,4 @@
-#VIXMINI - Release Note
+# VIXMINI - Release Note
 
 
 

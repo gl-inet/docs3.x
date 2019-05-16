@@ -1,4 +1,4 @@
-#GL-MT300N-V2 - Release Notes
+# GL-MT300N-V2 - Release Notes
 
 ## V3.012 - Jan 21, 2019
 

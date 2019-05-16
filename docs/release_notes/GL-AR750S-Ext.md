@@ -1,4 +1,4 @@
-#GL-AR750S-Ext (Slate) - Release Notes
+# GL-AR750S-Ext (Slate) - Release Notes
 
 ## V3.009 - Dec 12, 2018
 

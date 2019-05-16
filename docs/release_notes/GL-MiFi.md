@@ -1,5 +1,25 @@
-#GL-MiFi - Release Notes
+# GL-MiFi - Release Notes
+
+## V3.023 - May 16,2019
+
+Firmware file:[openwrt-mifi-3.023.bin](https://dl.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.023.bin)
+
+**New Features:**
 
 
+- Added Italian, Japanese.
+- Added guest Wi-Fi network.
+- Added Hide SSID option in wireless settings.
+- Support connect to hidden Wi-Fi.
+- Added GL Cloud.
+- Added new DDNS function.
+- Added static IP address binding in LAN IP settings and custom DHCP range.
+- Added Captive Portal.
+- Optimize client management features which include QoS, traffic statistics and adding offline client.
 
-Firmware 3.0 for this series is not yet available. Testing version can be downloaded <a href="https://dl.gl-inet.com/firmware/mifi/testing/" target="_blank">here</a>.
+**Fixed:**
+
+
+- Fixed timezone sync.
+- Other minor bug fixes.
+
