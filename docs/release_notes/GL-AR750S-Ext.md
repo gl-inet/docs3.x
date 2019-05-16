@@ -4,8 +4,8 @@
 
 Firmware file:
 
-- Update through Uboot: <a href="https://dl.gl-inet.com/firmware/ar750s/release/" target="_blank">gl-ar750s-3.009.img</a>
-- Update through Admin Panel: <a href="https://dl.gl-inet.com/firmware/ar750s/release/" target="_blank">gl-ar750s-3.009.tar</a>
+- Update through Uboot: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.009.img" target="_blank">gl-ar750s-3.009.img</a>
+- Update through Admin Panel: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.009.tar" target="_blank">gl-ar750s-3.009.tar</a>
 
 **New Features:**
 
@@ -28,8 +28,8 @@ Firmware file:
 
 Firmware file:
 
-- Update through Uboot: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/release/gl-ar750s-3.007.img" target="_blank">gl-ar750s-3.007.img</a>
-- Update through Admin Panel: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/release/gl-ar750s-3.007.tar" target="_blank">gl-ar750s-3.007.tar</a>
+- Update through Uboot: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.007.img" target="_blank">gl-ar750s-3.007.img</a>
+- Update through Admin Panel: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.007.tar" target="_blank">gl-ar750s-3.007.tar</a>
 
 **New Features:**
 
@@ -52,8 +52,8 @@ Firmware file:
 
 Firmware file:
 
-- Update through Uboot: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/release/gl-ar750s-3.003.img" target="_blank">gl-ar750s-3.003.img</a>
-- Update through Admin Panel: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/release/gl-ar750s-3.003.tar" target="_blank">gl-ar750s-3.003.tar</a>
+- Update through Uboot: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.003.img" target="_blank">gl-ar750s-3.003.img</a>
+- Update through Admin Panel: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.003.tar" target="_blank">gl-ar750s-3.003.tar</a>
 
 **New Features:**
 

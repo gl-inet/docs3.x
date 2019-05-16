@@ -4,7 +4,7 @@
 
 ## V3.010 - Dec 26, 2018
 
-Firmware file: [gl-ar750-3.010.bin](https://dl.gl-inet.com/firmware/ar750/v1/gl-ar750-3.010.bin)
+Firmware file: [gl-ar750-3.010.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.010.bin)
 
 **New Features:**
 

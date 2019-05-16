@@ -2,7 +2,7 @@
 
 ## V3.012 - Jan 21, 2019
 
-Firmware file: [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
+Firmware file: [gl-mt300n-v2-3.012.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
 
 **New Feature:**
 
@@ -12,7 +12,7 @@ Firmware file: [gl-mt300n-v2-3.012.bin](https://dl.gl-inet.com/firmware/mt300n-v
 
 ## V3.011 - Jan 4, 2019
 
-Firmware file: [gl-mt300n-v2-3.011.bin](https://dl.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
+Firmware file: [gl-mt300n-v2-3.011.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
 
 **New Features:**
 
