@@ -1,4 +1,4 @@
-#VIXMINI - Release Note
+# VIXMINI - Release Note
 
 ##v3.003 - SEP 26, 2018
 
