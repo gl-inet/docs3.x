@@ -15,8 +15,7 @@ The contents of the external storage device are shared to LAN but not WAN and th
 
 | Router Model | USB Stick | USB Hard Drive | MicroSD Card |
 | :----------- | :-------: | :---: | :---: |
-| GL-MT300N*   |  √  | √ | - |
-| GL-MT300N-V2* |     √     |    √ | - |
+| [GL-MT300N-V2](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) |     √     |    √ | - |
 | [GL-AR150 Series](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) | √ | √ | - |
 | [GL-AR300M Series](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) | √ | √ | - |
 | GL-USB150 | - | - | - |
@@ -41,7 +40,23 @@ You can access the contents of the external storage device from your computer or
 
 ### Windows
 
-**1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. if you are using Win10, you also need to enable SMB 1.0.
+**1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. 
+
+#### Samba (SMB) Support: 
+
+3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](https://docs.gl-inet.com/en/3/app/ssh/#winscp), edit /etc/samba/smb.conf.template . 
+
+![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/winscpsmb.jpg)
+
+Change the "max protocol = SMB2" to 
+
+"min protocol = SMB1"
+
+"max protocol = SMB3", then **save** and **exit** WinSCP. 
+
+![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/changesmbtemp.jpg)
+
+If you are using Win10, you also need to enable SMB 1.0. 
 
 - Win7
 
@@ -52,6 +67,8 @@ You can access the contents of the external storage device from your computer or
   Go to Control panel -> Network and Internet -> HomeGroup. Click **Change network location**.
 
   Go to Control Panel -> Programs and Features -> Turn Windows features on or off -> Find SMB 1.0/CIFS file sharing support, check all SMB1 related items, click apply and restart your computer.
+  
+  ![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/Win10SMB1.jpg)
 
 
 
