@@ -32,8 +32,8 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
     <li>
     	<p>Release your finger when you see the LED has flashed:
         <ul>
-        	<li><b>5 times</b> for GL-AR150, GL-AR300M, GL-MiFi, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz).</li>
-        	<li><b>3 times</b> for GL-MT300N, GL-MT300A, and GL-B1300.</li>
+        	<li><b>5 times</b> for GL-AR150, GL-AR300M, GL-MiFi, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz), GL-B1300.</li>
+        	<li><b>3 times</b> for GL-MT300N, GL-MT300A.</li>
         </ul>
         </p>
     </li>
