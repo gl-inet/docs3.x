@@ -88,7 +88,7 @@ If you are using Win10, you also need to enable SMB 1.0.
 
 
 
-###IOS
+###iOS
 
 You have to use file manage app to access the contents of your external storage device.
 
