@@ -180,6 +180,7 @@ pages:
     - GL-X750: 'release_notes/GL-X750.md'
     - GL-USB150: 'release_notes/GL-USB150.md'
     - GL-B1300: 'release_notes/GL-B1300.md'
+    - GL-S1300: 'release_notes/GL-S1300.md'
     - VIXMINI: 'release_notes/VIXMINI.md'
 # Extension theme
 extra_css:
