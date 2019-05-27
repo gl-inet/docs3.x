@@ -74,7 +74,6 @@ d0049238c444f07001ff00
 You can find a detailed documentation about `bletool` ***https://github.com/gl-inet/ble2mqtt***. 
 
 
-
 ## MQTT
 
 MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.  You can find official document in [mqtt.org](mqtt.org).
