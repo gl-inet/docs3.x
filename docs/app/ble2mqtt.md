@@ -71,7 +71,7 @@ d0049238c444f07001ff00
 
 ```
 
-You can find a detailed documentation about `bletool` ***here***. 
+You can find a detailed documentation about `bletool` ***https://github.com/gl-inet/ble2mqtt/blob/master/BLETOOL%20Commands%20Manual_V0.2.pdf***. 
 
 
 
