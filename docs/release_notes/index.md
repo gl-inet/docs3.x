@@ -16,7 +16,7 @@
 | [GL-X750 (Spitz)](GL-X750.md) | <a href="https://dl.gl-inet.com/firmware/x750/release/" target="_blank">3.009</a> | <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">3.022</a> | - |-|-|
 | [GL-USB150 (Microuter)](GL-USB150.md)                        |     <a href="https://dl.gl-inet.com/firmware/usb150/v1/" target="_blank">3.001</a>     | <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">3.022</a> |     <a href="https://dl.gl-inet.com/firmware/usb150/clean/" target="_blank">3.0</a>     |-|-|
 | [GL-B1300 (Convexa-B)](GL-B1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/b1300/v1/" target="_blank">3.022</a>     |     <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">3.022</a>     | <a href="https://dl.gl-inet.com/firmware/b1300/clean/" target="_blank">2.271</a> |-|-|
-| [GL-S1300 (Convexa-S)](GL-S1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/s1300/release/" target="_blank">-</a>     |     <a href="https://dl.gl-inet.com/firmware/s1300/testing/" target="_blank">3.023</a>     |-|-|-|
+| [GL-S1300 (Convexa-S)](GL-S1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/s1300/release/" target="_blank">3.023</a>     |     <a href="https://dl.gl-inet.com/firmware/s1300/testing/" target="_blank">3.023</a>     |-|-|-|
 | [VIXMINI](VIXMINI.md) | <a href="https://dl.gl-inet.com/firmware/vixmini/release/" target="_blank">3.003</a> | <a href="https://dl.gl-inet.com/firmware/vixmini/testing/" target="_blank">3.003</a> | <a href="https://dl.gl-inet.com/firmware/vixmini/clean/" target="_blank">3.0</a> |-|-|
 
 
