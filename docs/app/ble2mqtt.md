@@ -130,9 +130,9 @@ After your device is connected to your cloud account, you can [SSH](https://docs
 
 Login the GoodCloud， https://www.goodcloud.xyz，find the registered device in"device list", click the device name and you will find your message in timeline.
 
-   ![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-device.png)
+   ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-device.png)
 
-   ![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-log.jpg)
+   ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-log.jpg)
 
    
 
@@ -146,19 +146,19 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
 
 1) On the **Welcome to the AWS IoT Console** page, in the navigation pane, choose **Manage->Things** , then **Register a thing**. 
 
-![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/image001.png)
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image001.png)
 
 2) On the **Creating AWS IoT things** page, choose **Create a single thing**.
 
-![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/image002.png)
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image002.png)
 
 3) On the **Create a thing** page, in the **Name** field, type a name for your thing, such as **x750**. Choose **Next**.
 
-![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/image003.png)
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image003.png)
 
 4) On the **Add a certificate for your thing** page, choose **Create certificate**. This generates an X.509 certificate and key pair.
 
-![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/image004.png)
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image004.png)
 
 5) On the **Certificate created!** page, download your public and private keys, certificate, and root certificate authority (CA):
 
@@ -171,11 +171,11 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
   Most web browsers save downloaded files into a Downloads directory. You will copy these files to a different directory when you run the sample applications. Choose **Activate** to activate the X.509 certificate, and then choose **Attach a policy**.
 
 
-![](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/image005.png)
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image005.png)
 
 The **RSA 2048 bit key: Amazon Root CA1** download web page:
 
-![	](http://static.gl-inet.com/docs/en/3/app/BLE_bridge/image007.png)
+![	](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image007.png)
 
 
 
@@ -183,17 +183,17 @@ The **RSA 2048 bit key: Amazon Root CA1** download web page:
 
 Back to the previous site, click "**Activate**", then click "**Done**". 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image008.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image008.png)
 
 **2. Attach Policy**
 
-1) After you register your thing, you will need to create and attach a new **policy** to the **certificate**.![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image009.png)
+1) After you register your thing, you will need to create and attach a new **policy** to the **certificate**.![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image009.png)
 
 
 
 2) Enter a Name for the policy,such as x750_policy, then **Advance mode**
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image010.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image010.png)
 
 3) Delete the automatically created policy code, then paste the policy below. 
 
@@ -219,18 +219,18 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 
 4) **Create** Policy after you pasted policy code. 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image012.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image012.png)
 
 
 
 5) On the left side, Secure --> Certificates, Select the certificate you just created, Actions
 --> Attach policy
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image013.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image013.png)
 
 6) Chose the policy you created(x750_policy) and choose **Attach**.
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image014.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image014.png)
 
 
 
@@ -289,11 +289,11 @@ config service 'cloud'
 
 The sample of glconfig file: 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image016.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image016.png)
 
 If you already setup GoodCloud on router before, just add the code at the end of **config service 'cloud'**
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image017.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image017.png)
 
 ```shell
 option log '1'
@@ -336,39 +336,39 @@ The following table lists the wildcards that can be used in the topic filter whe
 
 The message broker supports clients connecting with the HTTP protocol using a REST API. Clients can publish by sending a POST message to `*<AWS IoT Endpoint>*/topics/*<url_encoded_topic_name>*?qos=1"`.
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image019.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image019.png)
 
 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image020.png)
-
-
-
-
-
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image021.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image020.png)
 
 
 
 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image022.png)
-
-
-
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image023.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image021.png)
 
 
 
 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image024.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image022.png)
+
+
+
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image023.png)
 
 
 
 
 
-![](http://static.gl-inet.com./docs/en/3/app/BLE_bridge/image025.png)
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image024.png)
+
+
+
+
+
+![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image025.png)
 
 
 
