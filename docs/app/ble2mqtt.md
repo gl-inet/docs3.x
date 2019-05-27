@@ -256,7 +256,7 @@ mkdir /etc/aws/
 
 You can check if your router comes with updated MQTT package. If it is not, please upgrade it if you want to use AWS.
 
-Download the updated [mqtt package]( https://1drv.ms/u/s!AgvZCliGPjk-saQ_3HbKiRGo_WsSSQ), file name is '**gl-mqtt_3.0.37-1_mips_24kc.ipk**‘
+Download the updated [mqtt package]( <https://github.com/gl-inet/ble2mqtt>), file name is '**gl-mqtt_3.0.37-1_mips_24kc.ipk**‘
 
 Use WinSCP/SSH to transfer the package to /tmp/ , then delete the old package. 
 
