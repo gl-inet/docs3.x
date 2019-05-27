@@ -156,7 +156,7 @@ pages:
     - Cloud: 'app/cloud.md'
     - Set a Captive Portal: 'app/captive_portal.md'
     - VPN Policies: 'app/vpn_policies.md'
-	- BLE MQTT Bridge: 'app/ble2mqtt.md'
+	  - BLE MQTT Bridge: 'app/ble2mqtt.md'
 - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
