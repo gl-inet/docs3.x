@@ -1,4 +1,4 @@
-# BLE MQTT Bridge
+# 	BLE MQTT Bridge
 
 ## Introduction
 
@@ -184,7 +184,7 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image008.png)
 
-**2. Attach Policy**
+####2. Attach Policy
 
 1) After you register your thing, you will need to create and attach a new **policy** to the **certificate**.![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image009.png)
 
@@ -233,7 +233,7 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 
 
 
-####2. Config GL.iNet devices to connect to AWS IoT
+####3. Config GL.iNet devices to connect to AWS IoT
 
 **1) Upload your certificate to the router** 
 
@@ -335,41 +335,75 @@ The following table lists the wildcards that can be used in the topic filter whe
 
 The message broker supports clients connecting with the HTTP protocol using a REST API. Clients can publish by sending a POST message to `*<AWS IoT Endpoint>*/topics/*<url_encoded_topic_name>*?qos=1"`.
 
+At the left side of AWS IoT, **Manage -> Things**
+
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image019.png)
 
-
+You can find your AWT IoT endpoints at **Interact**. 
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image020.png)
 
 
 
+5) Connect your devices to AWS IoT Cloud
 
+Start connect to AWS Cloud
+
+```shell
+/etc/init.d/gl_mqtt start
+```
+
+Restart the mqtt services if its process is running.
+
+```shell
+/etc/init.d/gl_mqtt restart
+```
+
+Check mqtt process status
+
+```shell
+ps | grep gl_mqtt
+```
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image021.png)
 
+####4. MQTT Communication Testing
 
+**Test->Subscribe to a topic**
 
+The subscription and publish topics in glconfig file: 
 
+```shell
+option sub_topic '/a1rLNyG2VK5/mqtt_demo/user/get'               
+option pub_topic '/sys/a1rLNyG2VK5/mqtt_demo/thing/event/property/post' 
+```
+
+So the Subscription and Publish topic in AWS IoT Cloud shall be exchanged:
+
+```
+Subscription Topic:  '/sys/a1rLNyG2VK5/mqtt_demo/thing/event/property/post' 
+Publish topic:  '/a1rLNyG2VK5/mqtt_demo/user/get'
+```
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image022.png)
 
-
+Try **Subscribe to topic**, a message published by your router will be received in few seconds.
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image023.png)
 
-
-
-
+Or **Publish topic to your router a message**: 
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image024.png)
 
 
 
+A message published by AWS IoT Cloud will be received on your router in few seconds. 
 
+```shell
+logread
+```
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image025.png)
-
-
 
 
 
