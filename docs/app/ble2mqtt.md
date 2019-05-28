@@ -1,4 +1,4 @@
-# 	BLE MQTT Bridge
+# BLE MQTT Bridge
 
 ## Introduction
 
@@ -117,23 +117,21 @@ To forward data to GoodCloud, you can use simple shell script.
 
 After your device is connected to your cloud account, you can [SSH](https://docs.gl-inet.com/en/3/app/ssh/) to the router, try the following command.  
 
-   ```shell
-   root@GL-S1300:~# ubus call mqtt pub '{"api":"/user/data", "data":"hello from S1300"
-   }'
-   {
-           "code": 0
-   }
-   root@GL-S1300:~#
-   
-   ```
+```shell
+root@GL-S1300:~# ubus call mqtt pub '{"api":"/user/data", "data":"hello from S1300"
+}'
+{
+        "code": 0
+}
+root@GL-S1300:~#
 
-Login the GoodCloud， https://www.goodcloud.xyz，find the registered device in"device list", click the device name and you will find your message in timeline.
+```
 
-   ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-device.png)
+Login the [GoodCloud](https://www.goodcloud.xyz)，find the registered device in "device list", click the device name and you will find your message in timeline.
 
-   ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-log.jpg)
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-device.png)
 
-   
+![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-log.jpg)
 
 
 
@@ -345,7 +343,7 @@ You can find your AWT IoT endpoints at **Interact**.
 
 
 
-5) Connect your devices to AWS IoT Cloud
+**5) Connect your devices to AWS IoT Cloud**
 
 Start connect to AWS Cloud
 
