@@ -2,9 +2,9 @@
 
 Starting from firmware version 3.022, users can define VPN routing policies. For example, it is possible to use VPN for a specific website/IP while maintaining a normal Internet traffic without VPN for others.
 
+`The VPN policies do not apply in guest network.`
+
 ![policies](https://static.gl-inet.com/docs/en/3/app/policies/policies.jpg)
-
-
 
 ## Settings
 
