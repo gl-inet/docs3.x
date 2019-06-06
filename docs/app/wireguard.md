@@ -92,10 +92,32 @@ Click `Connect`. You will see the upload and download traffic when it is connect
 
 
 
-## Wireguard App on mobile devices 
+## Wireguard App on different devices 
 
-You can also use WireGuard App on your mobile phone.
+You can also use WireGuard App on other devices with various OS
 
-- Android: https://play.google.com/apps/testing/com.wireguard.android
+- Please refer to WireGuard Official Website： <https://www.wireguard.com/install/>
 
-- iOS: https://itunes.apple.com/us/app/wireguard/id1441195209?mt=8
+
+## Visit Clients Subnet in WireGuard Server
+
+###1) Change WireGuard clients LAN IP to avoid IP confliction with Server
+
+###2) Modify Wireguard_Server Configuration
+
+WinSCP or SSH into your the WireGuard Server (router) find and modify the file
+
+```shell
+/etc/config/wireguard_server
+```
+
+Add a line to the end of the config file of clients you want to visit.
+
+```shell
+list subnet '192.168.xxx.0/24'
+```
+
+**Save and Exit**
+
+
+
