@@ -64,9 +64,9 @@ At the left side, UPGRADE -> Local Upgrade, select the firmware file you downloa
 
 ### 1.1) Install gl-cloud-ui plug
 
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
-
 (If your firmware version is equal or greater than v3.021, please jump to <a href="#12-enable-cloud-mangement">Step 1.2</a>)
+
+Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
 ![install-gl-cloud-ui](https://static.gl-inet.com/goodcloud/docs/install-gl-cloud-ui.png)
 
