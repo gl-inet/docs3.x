@@ -76,7 +76,7 @@ At the left sidebar, APPLICATIONS -> Plug-ins, click "Update" button to updage P
 
 ![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png)
 
-Fellow the steps above, to enable cloud management feature, choose the Data Server which is nearest your devices located. There are three Data Server, 'Global', 'America' and 'Europe'.  If your devices are neither in America nor in Europe, just select 'Global'. Global Data Server is at Japan.
+Follow the steps above, to enable cloud management feature, choose the Data Server which is nearest your devices located. There are three Data Server, 'Global', 'America' and 'Europe'.  If your devices are neither in America nor in Europe, just select 'Global'. Global Data Server is at Japan.
 
 ## 2. Add device on GoodCloud web site
 
@@ -100,7 +100,7 @@ You can change the region on the top right corner at anytime.
 
 On the left side -> Groups List -> Add group.
 
-Fellow the steps below to add a new group.
+Follow the steps below to add a new group.
 
 ![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png)
 
@@ -110,7 +110,7 @@ Each device must belong to a group.
 
 On the left side -> Devices List -> Add Device. There are three methods to bind device to GoodCloud, "Auto discover", "Manually add" and "Bulk import".
 
-Fellow the steps below to add your device.
+Follow the steps below to add your device.
 
 ![add device](https://static.gl-inet.com/goodcloud/docs/add-device.png)
 
