@@ -52,6 +52,7 @@ pages:
     - GL-MiFi: 'hardware/mifi/index.md'
     - GL-USB150: 'hardware/usb150/index.md'
     - GL-B1300: 'hardware/b1300/index.md'
+    - GL-S1300: 'hardware/s1300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
     - Mini Router Series:
