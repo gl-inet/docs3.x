@@ -35,7 +35,7 @@ It has a Mesh button which is used to paire routers. You don't need an APP for t
 
 
 
-##PCB Pinout
+## PCB Pinout
 
 B1300 has an internal USB2.0 connector. You can uses this connect to connect various devices inside of the case.
 
