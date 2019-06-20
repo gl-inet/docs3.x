@@ -5,7 +5,7 @@ Supporting List:
 GL-AR750S-Ext, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi and GL-X750
 
 ## Install Plug-ins 
-Go to **APPLICATIONS**, then Plug-ins.
+Go to **APPLICATIONS**, then **Plug-ins**.
 Install two apps:
 
 1. luci-app-minidlna
@@ -30,18 +30,24 @@ In Windows Media Player:
 In Windows File Explorer -> Network
 ![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/dlnaserver2.png)
 
-IOS-VLC or UPNP Extreme in App Store:
+IOS: Install VLC or UPNP Extreme in App Store:
 
-![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios1.PNG)
-
-UPNP Extreme Setup:
-
-![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios2.PNG)
+You can easily find the OpenWrt DLNA Sever in UPNP:
+UPNP Extreme and VLC Installation | UPNP Setup
+- | - 
+![alt](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios1.PNG) | ![alt](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios2.PNG)
 
 VLC Setup: 
 
-![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios3.PNG)
+Step 1： Click the **Traffic Cones** Logo on the left top, select Local Network
 
-![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios4.PNG)
+Step 2: You can find the OpenWrt DLNA Server easily in Local Network.
+Step 1 | Step 2
+- | - 
+![alt](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios3.PNG) | ![alt](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios4.PNG)
 
-Enjoy your media DLNA server by GL.iNET routers. 
+
+
+Also other devices can easily find the OpenWrt DLNA Server easily.
+
+Enjoy your media DLNA Server by GL.iNET routers. 
