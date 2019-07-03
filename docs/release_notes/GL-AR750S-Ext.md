@@ -1,5 +1,36 @@
 # GL-AR750S-Ext (Slate) - Release Notes
 
+
+## V3.025 - Jul 3, 2019
+
+Firmware file:
+
+[openwrt-ar750s-3.025.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.025.img)
+
+**New Features:**
+
+- Added guest wifi.
+- Added hiding ssid and connecting hidden ssid.
+- Added client management feature which includes QoS, traffic statistics and offline client. 
+- Added compile time and release note update in firmware upgrade page.
+- Added firewall settings page which includes port forwards, open port and DMZ.
+- Added VPN Policies.
+- Added Captive Portal.
+- Added static IP address binding in LAN IP settings.
+- Added DHCP address pool
+- Added new support modem MC7430
+- Added keeping installed pakeage when upgrade
+- Added libustream-openssl modem which support download firmware and software package in https
+- Added kmod-usb-storage-uas modem
+- Added Flash available space in plus-in
+
+**Fixed:**
+
+-Remove company MAC address detection
+-Fixed other bugs 
+
+
+
 ## V3.009 - Dec 12, 2018
 
 Firmware file:
