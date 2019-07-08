@@ -8,7 +8,7 @@ Captive portal feature need firmware version is equal or greater than v3.022, pl
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
-The Captive Portal is only worked on Guess Wi-Fi. Please enable your guess WiFi.
+The Captive Portal is only worked on Guest Wi-Fi. Please enable your guest WiFi.
 
 At the left sidebar, APPLICATIONS -> Portal, follow the steps below to enable Captive Portal.
 

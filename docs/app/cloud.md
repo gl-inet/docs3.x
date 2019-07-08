@@ -1,10 +1,11 @@
-# Cloud management
+
+# GL.iNet GoodCloud
 
 ## Introduction
 GL.iNet GoodCloud cloud management service provide an easy and simple way to remotely access and manage routers.
 
 #### Check live router status
-- Live online office status check
+- Live online offline status check
 - Live RAM and Load Average check
 - Email alarm about online offline status update
 
@@ -26,7 +27,7 @@ GL.iNet GoodCloud cloud management service provide an easy and simple way to rem
 
 ## Setup
 
-GoodCloud only support firmware v3.010 and above right now, we recommend to upgrade to the latest testing version for better cloud experience.
+GoodCloud only support firmware v3.021 and above right now, we recommend to upgrade to the latest testing version for better cloud experience.
 
 This document is based on the latest testing firmware.
 
@@ -56,23 +57,13 @@ GL-USB150 testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testi
 
 ### Local upgrade
 
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+Open a web browser (we recommend Chrome) and to access router Web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
 At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
 ## 1. Enable Cloud Manage on router Web Admin Panel
 
-### 1.1) Install gl-cloud-ui plug
-
-(If your firmware version is equal or greater than v3.021, please jump to <a href="#12-enable-cloud-mangement">Step 1.2</a>)
-
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
-
-![install-gl-cloud-ui](https://static.gl-inet.com/goodcloud/docs/install-gl-cloud-ui.png)
-
-At the left sidebar, APPLICATIONS -> Plug-ins, click "Update" button to updage Plug-ins source, then input "gl-cloud-ui" and click "Install" button. After installation, a new item "Remote Access" will appear inside APPLICATIONS.
-
-### 1.2) Enable Cloud Mangement
+Open a web browser (we recommend Chrome) and to access router Web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
 ![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png)
 
@@ -196,11 +187,11 @@ At left side -> Device List, click the name of a online device, it will open a p
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png)
 
-#### 3.3.6) Logs
+#### 3.3.5) Timeline
 
-Logs is at the top right corner of the page.
+Timeline tab display the activities of router, and messages uploaded by the router's associated IoT device.
 
-![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-log.png)
+![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png)
 
 ## GoodCloud and VPN
 
