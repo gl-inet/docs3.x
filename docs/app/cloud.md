@@ -51,7 +51,7 @@ GL-MT300A testing firmware <a href="https://dl.gl-inet.com/firmware/mt300a/testi
 
 GL-MT300N testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">download</a>
 
-For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover"<a href="#24-add-device">Step 2.4</a>
+For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover" <a href="#24-add-device">Step 2.4</a>
 
 GL-USB150 testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">download</a>
 
@@ -192,6 +192,90 @@ At left side -> Device List, click the name of a online device, it will open a p
 Timeline tab display the activities of router, and messages uploaded by the router's associated IoT device.
 
 ![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png)
+
+## Site to Site (Coming soon)
+
+### Introduction
+
+Site to site allows offices in multiple locations to establish secure connections with each other over internet. It extends the company's network, making computers resources from one location available to employees at other locations. 
+
+senerio 1: A company has dozens of branch offices that they wish to join in a single private network to share resources.
+
+Senerio 2: A company has a close relationship with a partner company, the Site to Site allows the companies to work together in a secure, shared network environment while preventing access to their separate internets.
+
+Senerio 3: A family has IP camera and when they are not at home, the Site to Site allows to remote access the IP camera.
+
+### What conditions do I need to create Site to Site?
+
+One of the loations has a public static(or dynamic) ip, and two or more GL-iNet devices with latest testing firmware. 
+
+For free user, it can build a Site to Site network with three devices.
+
+### Steps to build a Site to Site network.
+
+1.	Upgrade your GL.iNet devices to latest testing firmware and binded to [Goodcloud.xyz](htttps://www.goodcloud.xyz). (<a href="#2-add-device-on-goodcloud-web-site">how</a>)
+
+2.  Follow the steps below to create a Site to Site network.
+
+![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-01.png)
+
+Defaul port is 51830, if you want to use another port, find the Advanced option at the lower left corner.
+
+After you had chosen the devices, click Continue.
+
+![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-02.png)
+
+Then, it will test each device if it can be set as the Main Node of Site to Site.
+
+![testing eacg device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-01.png)
+
+If none of the devices can be used as the Main Node, make sure that:
+
+- One of routers has a public IP, either static public IP or dynamic public IP.
+- Port is open, default is 51830.
+- If your router is behind NAT, you may need to set up port forwading.
+
+You can also change port and try again.
+
+![testing each device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-02.png)
+
+If there are more than one device can be set as the Main Node, you need to choose one to continue.
+
+![testing each device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-03.png)
+
+If there is only one device can be set as the Main Node, it will go to the Site to Site detail page directly.
+
+The network is stopped by default, then you need to click Start button.
+
+![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-00.png)
+
+Wait a few minutes, the node's status will turn to "Connected to Site to Site".
+
+![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-01.png)
+
+### Testing the Site to Site connection
+
+Now the Site to Site network is created and started, let's test the connection.
+
+Use your PC or Phone to connect to one of the Node of this Site to Site, and use browser to access another Node's LAN ip, if you see the login page, the connection between these two nodes is worked.
+
+For example, my PC connect to Node 1 device, and then I use browser to access Main Node's LAN IP (192.168.48.1), if I see the login page, it means the connection between Node1 and Main Node is worked.
+
+### Route and other options
+
+You can change each device's LAN IP and routes.
+
+![LAN IP and routes](https://static.gl-inet.com/goodcloud/docs/lanip-routes-s2s.png)
+
+E.g. There is a Server A(172.30.97.100) in Node 1's subnet, if you want other Site to Site nodes  only can access Node 1's Service A, you can set it like below:
+
+![LAN IP and routes](https://static.gl-inet.com/goodcloud/docs/lanip-routes-s2s-02.png)
+
+You can add node's parent routes too.
+
+Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to change the IP of tunnel subnet. Click 'IP Address Range'.
+
+![IP Address Range](https://static.gl-inet.com/goodcloud/docs/ip-address-range-s2s.png)
 
 ## GoodCloud and VPN
 
