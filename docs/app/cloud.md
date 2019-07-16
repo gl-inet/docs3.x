@@ -195,6 +195,8 @@ Timeline tab display the activities of router, and messages uploaded by the rout
 
 ## Site to Site (Coming soon)
 
+Site to Site only support firmware v3.026 and above.
+
 ### Introduction
 
 Site to site allows offices in multiple locations to establish secure connections with each other over internet. It extends the company's network, making computers resources from one location available to employees at other locations. 
