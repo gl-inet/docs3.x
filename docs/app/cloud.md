@@ -193,15 +193,17 @@ Timeline tab display the activities of router, and messages uploaded by the rout
 
 ![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png)
 
-## Site to Site (Coming soon)
+## Site to Site
 
 Site to Site only support firmware v3.026 and above.
 
 ### Introduction
 
-Site to site allows offices in multiple locations to establish secure connections with each other over internet. It extends the company's network, making computers resources from one location available to employees at other locations. 
+Site to Site allows offices in multiple locations to establish secure connections with each other over internet. It extends the company's network, making computers resources from one location available to employees at other locations. 
 
-senerio 1: A company has dozens of branch offices that they wish to join in a single private network to share resources.
+<a href="https://static.gl-inet.com/www/images/solutions/s2s/s2s_main_5.png" target="_blank"><img alt="site to site diagram" src="https://static.gl-inet.com/www/images/solutions/s2s/s2s_main_5.png"></a>
+
+Senerio 1: A company has dozens of branch offices that they wish to join in a single private network to share resources.
 
 Senerio 2: A company has a close relationship with a partner company, the Site to Site allows the companies to work together in a secure, shared network environment while preventing access to their separate internets.
 
@@ -211,7 +213,7 @@ Senerio 3: A family has IP camera and when they are not at home, the Site to Sit
 
 One of the loations has a public static(or dynamic) ip, and two or more GL-iNet devices with latest testing firmware. 
 
-For free user, it can build a Site to Site network with three devices.
+For free user, it can build one Site to Site network with 3 devices.
 
 ### Steps to build a Site to Site network.
 
