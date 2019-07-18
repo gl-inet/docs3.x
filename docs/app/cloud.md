@@ -7,6 +7,7 @@ GL.iNet GoodCloud cloud management service provide an easy and simple way to rem
 #### Check live router status
 - Live online offline status check
 - Live RAM and Load Average check
+- LTE Signal
 - Email alarm about online offline status update
 
 #### Set up routers remotely
@@ -24,6 +25,11 @@ GL.iNet GoodCloud cloud management service provide an easy and simple way to rem
 #### Manage routers in groups
 - Divide devices in different groups
 - Manage devices in one page
+
+#### Site to Site
+- Virtual Office: extend your office network to other offices
+- Business Travel: remote access office's OA, CRM, MySQL systems
+- Smart Home: remote access IP camera, NAS and other devices at home
 
 ## Setup
 
@@ -175,19 +181,31 @@ At left side -> Device List, click the name of a online device, it will open a p
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-device-info.png)
 
-#### 3.3.2) Wifi
+#### 3.3.2) LTE Signal
+
+Only available for 4G devices, e.g. GL-MiFi, GL-X750
+
+Toggle the column on Device List page.
+
+![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal.png)
+
+It will show Signal strength, Type, and relavant parameters.
+
+![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal_2.png)
+
+#### 3.3.3) WiFi
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-wifi.png)
 
-#### 3.3.3) Router status
+#### 3.3.4) Router status
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-router-status.png)
 
-#### 3.3.4) Client list
+#### 3.3.5) Client list
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png)
 
-#### 3.3.5) Timeline
+#### 3.3.6) Timeline
 
 Timeline tab display the activities of router, and messages uploaded by the router's associated IoT device.
 
