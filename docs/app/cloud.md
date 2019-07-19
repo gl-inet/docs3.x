@@ -33,33 +33,15 @@ GL.iNet GoodCloud cloud management service provide an easy and simple way to rem
 
 ## Setup
 
-GoodCloud only support firmware v3.021 and above right now, we recommend to upgrade to the latest testing version for better cloud experience.
+GoodCloud only support firmware v3.021 and above right now, we recommend to upgrade to the latest testing version(Pre-release) for better cloud experience.
 
 This document is based on the latest testing firmware.
 
 ### Donwload firmware file
 
-GL-X750(Spitz) testing firmware <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">download</a>
-
-GL-AR750S(Slate) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">download</a>
-
-GL-AR750(Creta) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">download</a>
-
-GL-B1300(Convexa-B) testing firmware <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">download</a>
-
-GL-AR150(White) testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank">download</a>
-
-GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">download</a>
-
-GL-MT300N-V2(Mango) testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">download</a>
-
-GL-MT300A testing firmware <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">download</a>
-
-GL-MT300N testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">download</a>
+Choose the Pre-release column of this url <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">https://docs.gl-inet.com/en/3/release_notes/</a>
 
 For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover" <a href="#24-add-device">Step 2.4</a>
-
-GL-USB150 testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">download</a>
 
 ### Local upgrade
 
