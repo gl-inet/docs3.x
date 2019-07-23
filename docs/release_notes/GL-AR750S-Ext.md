@@ -19,15 +19,15 @@ Firmware file:
 - Added static IP address binding in LAN IP settings.
 - Added DHCP address pool
 - Added new support modem MC7430
-- Added keeping installed pakeage when upgrade
+- Added keeping installed package when upgrade
 - Added libustream-openssl modem which support download firmware and software package in https
 - Added kmod-usb-storage-uas modem
 - Added Flash available space in plus-in
 
 **Fixed:**
 
--Remove company MAC address detection
--Fixed other bugs 
+- Remove company MAC address detection
+- Fixed other bugs 
 
 
 
