@@ -94,7 +94,7 @@ If your configuration file is a zip/tar.gz file which includes multiple ovpn fil
 
 
 
-###Get your configuration file
+## Get your configuration file
 
 We have tested different VPN service providers. Therefore, if you don't know how to get the configuration file, you can follow the instruction below. However, you have to contact your service provider for the configuration file if they are not listed below. 
 
@@ -266,7 +266,9 @@ Right click the links below and save as.
 
 <details>
 <summary>NordVPN</summary>
-<p><a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902">Official Website</a></p>
+<p><a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902">Official Website</a>
+
+Tips: if the tar file is too big to upload, you can upload single ovpn file.</p>
 
 <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">Download</a> directly.
 
