@@ -6,7 +6,7 @@
 
 [openwrt-ar750s-3.025.img](https://dl.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.025.img)
 
-新しい機能：
+**新しい機能**：
 
 - ゲストwifiを追加
 - ssid隠すと隠したssidを接続機能を追加
