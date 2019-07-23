@@ -1,5 +1,6 @@
-#GL-AR150 - Release Notes
+# GL-AR150 - Release Notes
 
 
+## V3.017 - 2019.3.11
 
-Firmware 3.0 for this series is not yet available. Testing version can be downloaded <a href="http://download.gl-inet.com/firmware/ar150/testing/" target="_blank">here</a>.
+ファームウェア： [gl-ar150-3.017.bin](https://dl.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.017)

@@ -96,7 +96,7 @@ pages:
 - 問題解決:
     - LED 指標: 'troubleshooting/led.md'
     - 修復/リセット: 'troubleshooting/reset.md'
-    - ブリックを修復: 'troubleshooting/debrick.md'
+    - ファームウェアを再インストール: 'troubleshooting/debrick.md'
     - WANポートをLANに: 'troubleshooting/chang_wan_to_lan.md'
     - キャプティブポータル: 'troubleshooting/captive_portal.md'
     - よくある質問: 'troubleshooting/FAQ.md'

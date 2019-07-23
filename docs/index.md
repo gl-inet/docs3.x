@@ -1,6 +1,6 @@
 # GL.iNetへようこそ
 
-GL.iNetは、オープンソースのソフトウェアを使ってハードウェアを簡単に機能させるための会社です。このドキュメントサイトは、オープンソースソフトウェアがハードウェア上でどのように機能するのかを新人にアドバイスすることを目的としています。 製品が進化するにつれて、このドキュメントサイトは随時更新されます。
+GL.iNetは、ハードウェアをオープンソースソフトウェアと簡単に連携させるための会社です。このドキュメントサイトは、オープンソースソフトウェアがハードウェア上でどのように機能するのかを新人にアドバイスすることを目的としています。製品が進化するにつれて、このドキュメントサイトは随時更新されます。
 <style>
     .row1, .row2 {
 	font-family: 'Lato', sans-serif;
@@ -81,7 +81,9 @@ GL.iNetは、オープンソースのソフトウェアを使ってハードウ�
 <p>弊社は、製品を使用するときあなたのあらゆる技術的問題を解決するために全力を尽くします。<a href="https://forum.gl-inet.com/">ディスカッション</a>フォーラムでは、あなたのアイデアを他のユーザーと共有するためのコミュニティを構築しました。そして、弊社は<a href="https://www.facebook.com/gl.inet.wifi/">Facebook</a>、<a href="https://twitter.com/GLiNetWiFi">Twitter</a>でサポートが提供します。あなたが弊社に働きかけてほしいと思うの本当に深い技術的な質問があるならば、<a href=mailto:support@gl-inet.com>support@gl-inet.com</a>に問題を電子メールで送ってください。</p>
 <h2 id="thank-you">感謝</h2>
 <p>GL.iNet OpenWrtルーターは、香港と深圳を拠点とするGL.iNetチーム、そして他の多くのオープンソースコミュニティメンバーによってもたらされます。 このページには、あなたの記事を作るためのヒントやコツがあり、これも素晴らしいでしょう。</p>
-<p>ありがとうございます 、GL.iNet チーム</p>
+<p>ありがとうございます。 
+
+GL.iNet チーム</p>
 <h2 id="wikidevi">Wikidevi</h2>
 <p>GL-B1300 ギガビット AC ルーター: <a href="https://wikidevi.com/wiki/GL.iNet_GL-B1300">https://wikidevi.com/wiki/GL.iNet_GL-B1300</a></p>
 <p>GL-AR750 トラベル AC ルーター: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR750">https://wikidevi.com/wiki/GL.iNet_GL-AR750</a></p>
