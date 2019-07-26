@@ -137,13 +137,13 @@ If you have any difficulty, please send email to <a href="mailto:admin@goodcloud
 
 ## 3. Manage your devices
 
-### 3.1) Check devices online offline status
+### 3.1 Check devices online offline status
 
 Sign in Goodcloud, devices online offline status can be check at left side -> Device List, there is color circle at the first column of this table, green circle means this device is online. Red circle is offline. Gray circle is deactivated, which means this device has never connected to GoodCloud.
 
 "Online time" is the latest time when device connected GoodCloud. "Offline time" is the latest time when device disconnected GoodCloud.
 
-### 3.2) Set email alarm
+### 3.2 Set email alarm
 
 You can set email alarm when a device is online, offline, and new client connected.
 
@@ -155,7 +155,7 @@ Then set the email you want to receive notification. To ensure you get email suc
 
 ![alarm rules](https://static.gl-inet.com/goodcloud/docs/alarm-rules.png)
 
-### 3.3) Manage router
+### 3.3 Manage router
 
 At left side -> Device List, click the name of a online device, it will open a page to manage this device of WiFi, Clients and view router info, memory usage, up time, load average and log.
 
@@ -281,7 +281,79 @@ Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to cha
 
 ![IP Address Range](https://static.gl-inet.com/goodcloud/docs/ip-address-range-s2s.png)
 
-## GoodCloud and VPN
+## 4. Batch Setting
+
+You can use this feature to configure multiple parameters for a single device, or you can configure multiple parameters for multiple devices.
+
+    PS: This feature is only available to business users.
+
+### 4.1 Batch Setting of Single Device
+
+To configure single device, as show below.
+
+  ![Modify Configuration](https://static.gl-inet.com/goodcloud/docs/modify_configuration.png)
+
+The left side of image below is correct. If your interface is like the right side of image below, please upgrade to latest testing firmware.
+
+  ![Single Configuration](https://static.gl-inet.com/goodcloud/docs/single_configuration.png)
+
+Check the configuration that needs to be modified and input value.
+  
+![Add Configuration](https://static.gl-inet.com/goodcloud/docs/add_configuration.png)
+
+The checked configuration is required, and only the configuration that conforms to the rule can be filled out. After the configuration is delivered, it does not take effect immediately. The configuration takes effect and the device needs to be restarted. You can check the Restart now option in the lower right corner of the above figure. After the configuration is completed, the device will restart immediately.
+
+Preview the configuration and confirm the delivery.
+
+![Preview Configuration](https://static.gl-inet.com/goodcloud/docs/preview_configuration.png)
+
+Unchecked **Restart now** option will prompt.
+  
+![config not take effect](https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png)
+
+### 4.2 Batch Setting of Mutiple Device
+
+Select the devices you want to configure.
+
+![mutiple configuration](https://static.gl-inet.com/goodcloud/docs/mutiple_configuration.png)
+
+Other operations are the same as when operating a single device.
+
+### 4.3 Other Batch Operations
+
+Other Batch Operations: Move to other group, upgrade, restart, delete.
+
+![Task](https://static.gl-inet.com/goodcloud/docs/task.png)
+
+## 5. Template Management
+
+Save frequently used configurations as templates and quickly apply them when you modify configurations in batches.
+
+    PS: This feature is only available to business users.
+
+### 5.1 Add a Template
+
+Check the configuration that needs to be modified and input value.
+
+![Add Template](https://static.gl-inet.com/goodcloud/docs/add_template.png)
+
+Give the template a name and description.
+
+![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png)
+
+## 6. Task List
+
+At task list page, it shows the execution result of the configuration template.
+
+    PS: This feature is only available to business users.
+
+![Task list](https://static.gl-inet.com/goodcloud/docs/task_list.png)
+
+You can view the execution result of each device and configuration.
+
+![Task list detail info](https://static.gl-inet.com/goodcloud/docs/task_list_detail_info.png)
+
+## 7. GoodCloud and VPN
 
 If you enable GoodCloud feature on router and also use it as VPN client, there is something you need to know.
 
@@ -291,7 +363,7 @@ At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, Op
 
 VPN Policies feature need firmware version is equal or greater than v3.021, please jump to <a href="#donwload-firmware-file">this</a> and upgrade to latest firmware.
 
-## Disable
+## 8. Disable
 
 To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
