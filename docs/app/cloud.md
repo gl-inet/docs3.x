@@ -59,7 +59,7 @@ Follow the steps above, to enable cloud management feature, choose the Data Serv
 
 ## 2. Add device on GoodCloud web site
 
-### 2.1) Create GoodCloud account
+### 2.1 Create GoodCloud account
 
  Visit <a href="https://www.goodcloud.xyz" target="_blank">https://www.goodcloud.xyz</a> to access GoodCloud web site by Chrome or your favorite browser.
 
@@ -67,7 +67,7 @@ Follow the steps above, to enable cloud management feature, choose the Data Serv
 
 If you have any difficulty with sign up, please send email to <a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a> for help.
 
-### 2.2) Select region
+### 2.2 Select region
 
 At the first time when you sign in, it will pop up a dialog to let you select the region, select the region that your device selected Data Server on the Web Admin Panel (<a href="#12-enable-cloud-mangement">Step 1.2</a>).
 
@@ -75,7 +75,7 @@ You can change the region on the top right corner at anytime.
 
 ![select region button](https://static.gl-inet.com/goodcloud/docs/select-region-button2.png)
 
-### 2.3) Add a new group 
+### 2.3 Add a new group 
 
 On the left side -> Groups List -> Add group.
 
@@ -85,7 +85,7 @@ Follow the steps below to add a new group.
 
 Each device must belong to a group.
 
-### 2.4) Add device
+### 2.4 Add device
 
 On the left side -> Devices List -> Add Device. There are three methods to bind device to GoodCloud, "Auto discover", "Manually add" and "Bulk import".
 
@@ -118,7 +118,7 @@ For some new models, DDNS has been changed to Device ID on the back of router.
 
 "Bulk import" is for user who have a great number of devices to add. By "Bulk import" you can import many devices by a Microsoft excel file.
 
-### 2.5) Binded info on router Web Admin Panel
+### 2.5 Binded info on router Web Admin Panel
 
 After you seccessfully add router to GoodCloud, go back to router Web Admin Panel, 
 
@@ -128,7 +128,7 @@ press 'F5' to refresh this page, It will display the binded GoodCloud username, 
 
 ![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png)
 
-### 2.6) Unbind router
+### 2.6 Unbind router
 
 ![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/unbind.png)
 
@@ -159,11 +159,11 @@ Then set the email you want to receive notification. To ensure you get email suc
 
 At left side -> Device List, click the name of a online device, it will open a page to manage this device of WiFi, Clients and view router info, memory usage, up time, load average and log.
 
-#### 3.3.1) Device info
+#### 3.3.1 Device info
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-device-info.png)
 
-#### 3.3.2) LTE Signal
+#### 3.3.2 LTE Signal
 
 Only available for 4G devices, e.g. GL-MiFi, GL-X750
 
@@ -175,29 +175,29 @@ It will show Signal strength, Type, and relavant parameters.
 
 ![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal_2.png)
 
-#### 3.3.3) WiFi
+#### 3.3.3 WiFi
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-wifi.png)
 
-#### 3.3.4) Router status
+#### 3.3.4 Router status
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-router-status.png)
 
-#### 3.3.5) Client list
+#### 3.3.5 Client list
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png)
 
-#### 3.3.6) Timeline
+#### 3.3.6 Timeline
 
 Timeline tab display the activities of router, and messages uploaded by the router's associated IoT device.
 
 ![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png)
 
-## Site to Site
+## 4. Site to Site
 
 Site to Site only support firmware v3.026 and above.
 
-### Introduction
+### 4.1 Introduction
 
 Site to Site allows offices in multiple locations to establish secure connections with each other over internet. It extends the company's network, making computers resources from one location available to employees at other locations. 
 
@@ -209,13 +209,13 @@ Senerio 2: A company has a close relationship with a partner company, the Site t
 
 Senerio 3: A family has IP camera and when they are not at home, the Site to Site allows to remote access the IP camera.
 
-### What conditions do I need to create Site to Site?
+### 4.2 What conditions do I need to create Site to Site?
 
 One of the loations has a public static(or dynamic) ip, and two or more GL-iNet devices with latest testing firmware. 
 
 For free user, it can build one Site to Site network with 3 devices.
 
-### Steps to build a Site to Site network.
+### 4.3 Steps to build a Site to Site network.
 
 1.	Upgrade your GL.iNet devices to latest testing firmware and binded to [Goodcloud.xyz](htttps://www.goodcloud.xyz). (<a href="#2-add-device-on-goodcloud-web-site">how</a>)
 
@@ -257,7 +257,7 @@ Wait a few minutes, the node's status will turn to "Connected to Site to Site".
 
 ![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-01.png)
 
-### Testing the Site to Site connection
+### 4.4 Testing the Site to Site connection
 
 Now the Site to Site network is created and started, let's test the connection.
 
@@ -265,7 +265,7 @@ Use your PC or Phone to connect to one of the Node of this Site to Site, and use
 
 For example, my PC connect to Node 1 device, and then I use browser to access Main Node's LAN IP (192.168.48.1), if I see the login page, it means the connection between Node1 and Main Node is worked.
 
-### Route and other options
+### 4.5 Route and other options
 
 You can change each device's LAN IP and routes.
 
@@ -281,13 +281,13 @@ Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to cha
 
 ![IP Address Range](https://static.gl-inet.com/goodcloud/docs/ip-address-range-s2s.png)
 
-## 4. Batch Setting
+## 5. Batch Setting
 
 You can use this feature to configure multiple parameters for a single device, or you can configure multiple parameters for multiple devices.
 
     PS: This feature is only available to business users.
 
-### 4.1 Batch Setting of Single Device
+### 5.1 Batch Setting of Single Device
 
 To configure single device, as show below.
 
@@ -311,7 +311,7 @@ Unchecked **Restart now** option will prompt.
   
 ![config not take effect](https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png)
 
-### 4.2 Batch Setting of Mutiple Device
+### 5.2 Batch Setting of Mutiple Device
 
 Select the devices you want to configure.
 
@@ -319,19 +319,19 @@ Select the devices you want to configure.
 
 Other operations are the same as when operating a single device.
 
-### 4.3 Other Batch Operations
+### 5.3 Other Batch Operations
 
 Other Batch Operations: Move to other group, upgrade, restart, delete.
 
 ![Task](https://static.gl-inet.com/goodcloud/docs/task.png)
 
-## 5. Template Management
+## 6. Template Management
 
 Save frequently used configurations as templates and quickly apply them when you modify configurations in batches.
 
     PS: This feature is only available to business users.
 
-### 5.1 Add a Template
+### 6.1 Add a Template
 
 Check the configuration that needs to be modified and input value.
 
@@ -341,7 +341,7 @@ Give the template a name and description.
 
 ![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png)
 
-## 6. Task List
+## 7. Task List
 
 At task list page, it shows the execution result of the configuration template.
 
@@ -353,7 +353,7 @@ You can view the execution result of each device and configuration.
 
 ![Task list detail info](https://static.gl-inet.com/goodcloud/docs/task_list_detail_info.png)
 
-## 7. GoodCloud and VPN
+## 8. GoodCloud and VPN
 
 If you enable GoodCloud feature on router and also use it as VPN client, there is something you need to know.
 
@@ -363,7 +363,7 @@ At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, Op
 
 VPN Policies feature need firmware version is equal or greater than v3.021, please jump to <a href="#donwload-firmware-file">this</a> and upgrade to latest firmware.
 
-## 8. Disable
+## 9. Disable
 
 To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
