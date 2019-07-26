@@ -77,8 +77,7 @@ pages:
         - ファイアウォール: 'setup/travel_ac_router/firewall.md'
         - VPN: 'setup/travel_ac_router/vpn.md'
         - アプリケーション: 'setup/travel_ac_router/applications.md'
-        - その他の設定: 'setup/travel_ac_router/more_settings.md'
-        
+        - その他の設定: 'setup/travel_ac_router/more_settings.md'     
 - 開発:
     - UART シリアル: 'dev/serial.md'
 - アプリケーション:
@@ -87,6 +86,7 @@ pages:
     - WireGuard: 'app/wireguard.md'
     - Shadowsocks: 'app/ss.md'
     - ファイル共有: 'app/file_sharing.md'
+    - DLNAサーバー: 'app/dlna.md'
     - DDNS: 'app/ddns.md'
     - クラウドサービス: 'app/cloud.md'
 - ビデオ:

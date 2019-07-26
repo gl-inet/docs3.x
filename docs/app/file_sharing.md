@@ -60,6 +60,10 @@ GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記�
 
 ![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/network.jpg)
 
+デバイスが発見されていない場合で、ルーターのipアドレスを入力し、共有ファイルが見つけます。
+
+![Network](https://static.gl-inet.com/docs/jp/3/app/file_sharing/network1.png)
+
 
 
 ### Mac
