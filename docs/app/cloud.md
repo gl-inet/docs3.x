@@ -41,7 +41,7 @@ This document is based on the latest testing firmware.
 
 Choose the Pre-release column of this url <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">https://docs.gl-inet.com/en/3/release_notes/</a>
 
-For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover" <a href="#24-add-device">Step 2.4</a>
+For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover". ( about <a href="#add-device">Add device</a> )
 
 ### Local upgrade
 
@@ -49,7 +49,11 @@ Open a web browser (we recommend Chrome) and to access router Web Admin Panel (d
 
 At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
-## 1. Enable Cloud Manage on router Web Admin Panel
+If you want to learn more about upgrade, please scroll top -> Setup -> Choose the model -> Upgrade
+
+![learn more about upgrade](https://static.gl-inet.com/goodcloud/docs/learn_more_about_upgrade.png)
+
+### Enable Cloud Manage on router Web Admin Panel
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
@@ -57,9 +61,7 @@ Open a web browser (we recommend Chrome) and to access router Web Admin Panel (d
 
 Follow the steps above, to enable cloud management feature, choose the Data Server which is nearest your devices located. There are three Data Server, 'Global', 'America' and 'Europe'.  If your devices are neither in America nor in Europe, just select 'Global'. Global Data Server is at Japan.
 
-## 2. Add device on GoodCloud web site
-
-### 2.1 Create GoodCloud account
+### Create GoodCloud account
 
  Visit <a href="https://www.goodcloud.xyz" target="_blank">https://www.goodcloud.xyz</a> to access GoodCloud web site by Chrome or your favorite browser.
 
@@ -67,15 +69,15 @@ Follow the steps above, to enable cloud management feature, choose the Data Serv
 
 If you have any difficulty with sign up, please send email to <a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a> for help.
 
-### 2.2 Select region
+### Select region
 
-At the first time when you sign in, it will pop up a dialog to let you select the region, select the region that your device selected Data Server on the Web Admin Panel (<a href="#12-enable-cloud-mangement">Step 1.2</a>).
+At the first time when you sign in, it will pop up a dialog to let you select the region, select the region that your device selected Data Server on the Web Admin Panel (<a href="enable-cloud-mangement">Step 1.2</a>).
 
 You can change the region on the top right corner at anytime.
 
 ![select region button](https://static.gl-inet.com/goodcloud/docs/select-region-button2.png)
 
-### 2.3 Add a new group 
+### Add a new group 
 
 On the left side -> Groups List -> Add group.
 
@@ -83,11 +85,15 @@ Follow the steps below to add a new group.
 
 ![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png)
 
+Set the group name, company, description and location.
+
 Each device must belong to a group.
 
-### 2.4 Add device
+### Add device
 
 On the left side -> Devices List -> Add Device. There are three methods to bind device to GoodCloud, "Auto discover", "Manually add" and "Bulk import".
+
+#### Auto discover
 
 Follow the steps below to add your device.
 
@@ -98,17 +104,23 @@ If the device and browser are at the same <a href="https://en.wikipedia.org/wiki
     PS: Input "DDNS" / "Device ID" here just to verify that the router is really 
     original/valid. DDNS feature and the Cloud feature are separate things.
 
-    PS: For most models, it is "DDNS" on the back, but for some new models, 
+    For most models, it is "DDNS" on the back, but for some new models, 
     it is "Device ID" on the back.
+
+    If you haven't added a group before, it will automatically create a default 
+    group.
 
 Click "Refresh" to force auto discover devices again.
 
 ![auto discover](https://static.gl-inet.com/goodcloud/docs/auto-discover.png)
 
-If it can't discover automatically, select "Manually add". All information that need to input can be found on the back of the router.
+#### Manually add
 
-    PS: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the router is really 
-    original and valid. DDNS feature and the Cloud feature are separate things.
+If it can't discover automatically, try "Manually add". All information that need to input can be found on the back of the router.
+
+    PS: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the 
+    router is really original and valid. DDNS feature and the Cloud feature are 
+    separate things.
 
 ![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device.png)
 
@@ -116,9 +128,11 @@ For some new models, DDNS has been changed to Device ID on the back of router.
 
 ![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device-device-id.png)
 
+#### Bulk import
+
 "Bulk import" is for user who have a great number of devices to add. By "Bulk import" you can import many devices by a Microsoft excel file.
 
-### 2.5 Binded info on router Web Admin Panel
+### Binded info on router Web Admin Panel
 
 After you seccessfully add router to GoodCloud, go back to router Web Admin Panel, 
 
@@ -128,42 +142,45 @@ press 'F5' to refresh this page, It will display the binded GoodCloud username, 
 
 ![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png)
 
-### 2.6 Unbind router
+Click 'View Logs' will show api call logs by GoodCloud.
+
+### Unbind router
 
 ![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/unbind.png)
 
 If you want to unbind router, click Unbind button.
-If you have any difficulty, please send email to <a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a> for help.
 
-## 3. Manage your devices
+If you have any difficulties, please send email to <a href="mailto:admin@goodcloud.xyz">admin@goodcloud.xyz</a> for help.
 
-### 3.1 Check devices online offline status
+## Manage your devices
 
-Sign in Goodcloud, devices online offline status can be check at left side -> Device List, there is color circle at the first column of this table, green circle means this device is online. Red circle is offline. Gray circle is deactivated, which means this device has never connected to GoodCloud.
+### devices info and status
 
-"Online time" is the latest time when device connected GoodCloud. "Offline time" is the latest time when device disconnected GoodCloud.
+Sign in [Goodcloud](https://www.goodcloud.xyz), check at left side -> Device List
 
-### 3.2 Set email alarm
+![device list table](https://static.gl-inet.com/goodcloud/docs/device_list_table.png)
 
-You can set email alarm when a device is online, offline, and new client connected.
+there is icon at the first column of this table, 
 
-At left side -> Setting -> Alarm Setting, create alarm rules
+ ![online icon](https://static.gl-inet.com/goodcloud/docs/online_icon.png) means this device is online.
 
-![create alarm rules](https://static.gl-inet.com/goodcloud/docs/create-alarm-rules.png)
+ ![offline icon](https://static.gl-inet.com/goodcloud/docs/offline_icon.png) means this device is offline.
 
-Then set the email you want to receive notification. To ensure you get email successful, please add admin@goodcloud.xyz to your email address book.
+ ![deactovate icon](https://static.gl-inet.com/goodcloud/docs/deactivate_icon.png) means this device is deactivated, it has never connected to GoodCloud before.
 
-![alarm rules](https://static.gl-inet.com/goodcloud/docs/alarm-rules.png)
+![column selector](https://static.gl-inet.com/goodcloud/docs/column_selector.png)
 
-### 3.3 Manage router
+Select the column you want to display.
 
-At left side -> Device List, click the name of a online device, it will open a page to manage this device of WiFi, Clients and view router info, memory usage, up time, load average and log.
+"Online time" is the latest time when device connected GoodCloud.
 
-#### 3.3.1 Device info
+"Offline time" is the latest time when device disconnected GoodCloud.
 
-![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-device-info.png)
+"Update time" is the latest time when device connected or disconnected GoodCloud.
 
-#### 3.3.2 LTE Signal
+IP, if your router run VPN client, this IP will be your VPN IP by default. <a href="#goodcloud-and-vpn">Learn More</a>
+
+### LTE Signal
 
 Only available for 4G devices, e.g. GL-MiFi, GL-X750
 
@@ -175,29 +192,53 @@ It will show Signal strength, Type, and relavant parameters.
 
 ![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal_2.png)
 
-#### 3.3.3 WiFi
+### Device detail info
+
+At left side -> Device List, click the name of a online device, it will open a page to manage this device of WiFi, Clients and view router info, memory usage, up time, load average and log.
+
+![to device detail page](https://static.gl-inet.com/goodcloud/docs/to_device_detail.png)
+
+#### Device info
+
+![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-device-info.png)
+
+#### WiFi
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-wifi.png)
 
-#### 3.3.4 Router status
+Modify all WiFi settings.
+
+#### Router status
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-router-status.png)
 
-#### 3.3.5 Client list
+#### Client list
 
 ![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png)
 
-#### 3.3.6 Timeline
+#### Timeline
 
 Timeline tab display the activities of router, and messages uploaded by the router's associated IoT device.
 
 ![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png)
 
-## 4. Site to Site
+### Set email alarm
+
+You can set email alarm when a device is online, offline, and new client connected.
+
+At left side -> Setting -> Alarm Setting, create alarm rules
+
+![create alarm rules](https://static.gl-inet.com/goodcloud/docs/create-alarm-rules.png)
+
+Then set the email you want to receive notification. To ensure you get email successful, please add admin@goodcloud.xyz to your email address book.
+
+![alarm rules](https://static.gl-inet.com/goodcloud/docs/alarm-rules.png)
+
+## Site to Site
 
 Site to Site only support firmware v3.026 and above.
 
-### 4.1 Introduction
+### Introduction
 
 Site to Site allows offices in multiple locations to establish secure connections with each other over internet. It extends the company's network, making computers resources from one location available to employees at other locations. 
 
@@ -209,13 +250,13 @@ Senerio 2: A company has a close relationship with a partner company, the Site t
 
 Senerio 3: A family has IP camera and when they are not at home, the Site to Site allows to remote access the IP camera.
 
-### 4.2 What conditions do I need to create Site to Site?
+### What conditions do I need to create Site to Site?
 
 One of the loations has a public static(or dynamic) ip, and two or more GL-iNet devices with latest testing firmware. 
 
 For free user, it can build one Site to Site network with 3 devices.
 
-### 4.3 Steps to build a Site to Site network.
+### Steps to build a Site to Site network.
 
 1.	Upgrade your GL.iNet devices to latest testing firmware and binded to [Goodcloud.xyz](htttps://www.goodcloud.xyz). (<a href="#2-add-device-on-goodcloud-web-site">how</a>)
 
@@ -257,7 +298,7 @@ Wait a few minutes, the node's status will turn to "Connected to Site to Site".
 
 ![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-01.png)
 
-### 4.4 Testing the Site to Site connection
+### Testing the Site to Site connection
 
 Now the Site to Site network is created and started, let's test the connection.
 
@@ -265,7 +306,7 @@ Use your PC or Phone to connect to one of the Node of this Site to Site, and use
 
 For example, my PC connect to Node 1 device, and then I use browser to access Main Node's LAN IP (192.168.48.1), if I see the login page, it means the connection between Node1 and Main Node is worked.
 
-### 4.5 Route and other options
+### Route and other options
 
 You can change each device's LAN IP and routes.
 
@@ -279,23 +320,23 @@ You can add node's parent routes too.
 
 Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to change the IP of tunnel subnet. Click 'IP Address Range'.
 
-![IP Address Range](https://static.gl-inet.com/goodcloud/docs/ip-address-range-s2s.png)
+![Tunnel IP Address Range](https://static.gl-inet.com/goodcloud/docs/tunnel-ip-address-range-s2s.png)
 
-## 5. Batch Setting
+## Batch Setting
 
 You can use this feature to configure multiple parameters for a single device, or you can configure multiple parameters for multiple devices.
 
     PS: This feature is only available to business users.
 
-### 5.1 Batch Setting of Single Device
+### Batch Setting of Single Device
 
 To configure single device, as show below.
 
-  ![Modify Configuration](https://static.gl-inet.com/goodcloud/docs/modify_configuration.png)
+  <a href="https://static.gl-inet.com/goodcloud/docs/modify_configuration.png" target="_blank"><img alt="Modify Configuration" src="https://static.gl-inet.com/goodcloud/docs/modify_configuration.png"></a>
 
 The left side of image below is correct. If your interface is like the right side of image below, please upgrade to latest testing firmware.
 
-  ![Single Configuration](https://static.gl-inet.com/goodcloud/docs/single_configuration.png)
+  <a href="https://static.gl-inet.com/goodcloud/docs/single_configuration.png" target="_blank"><img alt="Single Configuration" src="https://static.gl-inet.com/goodcloud/docs/single_configuration.png"></a>
 
 Check the configuration that needs to be modified and input value.
   
@@ -308,10 +349,10 @@ Preview the configuration and confirm the delivery.
 ![Preview Configuration](https://static.gl-inet.com/goodcloud/docs/preview_configuration.png)
 
 Unchecked **Restart now** option will prompt.
-  
-![config not take effect](https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png)
 
-### 5.2 Batch Setting of Mutiple Device
+<a href="https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png" target="_blank"><img alt="config not take effect" src="https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png"></a>
+
+### Batch Setting of Mutiple Device
 
 Select the devices you want to configure.
 
@@ -319,19 +360,19 @@ Select the devices you want to configure.
 
 Other operations are the same as when operating a single device.
 
-### 5.3 Other Batch Operations
+### Other Batch Operations
 
 Other Batch Operations: Move to other group, upgrade, restart, delete.
 
 ![Task](https://static.gl-inet.com/goodcloud/docs/task.png)
 
-## 6. Template Management
+## Template Management
 
 Save frequently used configurations as templates and quickly apply them when you modify configurations in batches.
 
     PS: This feature is only available to business users.
 
-### 6.1 Add a Template
+### Add a Template
 
 Check the configuration that needs to be modified and input value.
 
@@ -341,7 +382,7 @@ Give the template a name and description.
 
 ![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png)
 
-## 7. Task List
+## Task List
 
 At task list page, it shows the execution result of the configuration template.
 
@@ -353,17 +394,19 @@ You can view the execution result of each device and configuration.
 
 ![Task list detail info](https://static.gl-inet.com/goodcloud/docs/task_list_detail_info.png)
 
-## 8. GoodCloud and VPN
+## BLE MQTT Bridge
 
-If you enable GoodCloud feature on router and also use it as VPN client, there is something you need to know.
+Bluetooth Low Energy (BLE) is widely used for smart home, wearable and IoT sensors. This feature is for GL.iNet BLE gateway, GL-X750 Spitz and GL-S1300 convexa S which has built-in BLE modules. Read <a href="https://github.com/gl-inet/ble2mqtt" target="_blank">this</a> to learn how to use them forward your BLE data to the cloud based on MQTT protocol, including GL.iNet GoodCloud and AWS IoT.
+
+## GoodCloud and VPN
+
+If you enable GoodCloud feature on router and also use it as VPN client, there is something important you need to know.
 
 At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, OpenVPN, Shadowsocks), this bring a problem that if you VPN is configured incorrectly, GoodCloud will not work properly. In order to ensure the normal use of GoodCloud, we suggest you to follow the steps below to enable VPN Policies and disable "Use VPN for all process on the router". After you've done these steps, GoodCloud precess will not use VPN.
 
 ![disable use vpn for all process on the router](https://static.gl-inet.com/goodcloud/docs/disable-use-vpn-for-all-process-on-the-router.png)
 
-VPN Policies feature need firmware version is equal or greater than v3.021, please jump to <a href="#donwload-firmware-file">this</a> and upgrade to latest firmware.
-
-## 9. Disable
+## Disable
 
 To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
