@@ -71,7 +71,7 @@
 
 
 
-##LED Customization
+## LED Customization
 
 To configure the LED of GL.iNet routers, please login to Luci by clicking **Advanced settings** at the bottom-left corner of the web admin page. 
 
