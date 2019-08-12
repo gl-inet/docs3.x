@@ -3,7 +3,7 @@ This article is about how to tether your phone to your router by using EasyTethe
 
 
 
-##Intro
+## Intro
 
 There is several reasons you need to share your smartphone's data  to your router:
 
@@ -206,7 +206,92 @@ EOF
 
 You can now connect your device to the router and access the Internet. However, if you are using the lite version of EasyTether app, you will not able to access the website with https like: https://www.youtube.com since this type of secure communication is being blocked by the lite version.
 
+## Advanced Configuration
+
+If you are using your WAN ethernet port to connect to the internet, it may be tedious to ssh into your router when you want to switch between EasyTether and ethernet. This section will show you how to set your router up so you can use either one without needing to ssh into the router and reconfigure the interfaces.
 
 
+***i.*** Create the EasyTether interface
+
+SSH into your router with Putty and run the the following command:
+
+```
+cat << EOF >> /etc/config/network
+
+config interface 'easytether'
+        option proto 'dhcp'
+        option metric '30'
+        option ifname 'tap-easytether'
+EOF
+```
+
+***ii.*** Add the EasyTether interface to the firewall.
+
+SSH into your router with Putty and run the the following command:
+
+```
+vi /etc/config/firewall
+```
+
+Press `i` to change edit mode to insert.  
+You wil see several entries starting with `config zone`. Find the one with `option name 'wan'`.  
+Add `easytether` to the end of `option network`. (See example below)  
+Press `Esc`, then type `:wq`.  
+
+Example:
+```
+config zone
+        option name 'wan'
+        option input 'REJECT'
+        option output 'ACCEPT'
+        option forward 'REJECT'
+        option masq '1'
+        option mtu_fix '1'
+        option network 'wan wan6 wwan easytether'
+```
 
 
+## Enabling auto-connect
+
+This will enable the router to automatically estabilish an easytether connection.
+
+***i.*** SSH into your router with Putty and run the the following commands:
+
+```
+cat << EOF >> /etc/config/easytether
+
+while true
+do
+        if (ip a s tap-easytether up); then
+        else
+                easytether-usb
+        fi
+sleep 1
+done
+EOF
+```
+
+```
+cat << EOF >> /etc/crontabs/root
+
+@reboot sh /etc/config/easytether
+EOF
+```
+
+## Interface priority
+
+It can be useful to use EasyTether as a fallback connection in the event your main source of internet goes down. This section shows you how to set interface priorities.
+
+
+***i.*** SSH into your router with Putty and run the the following commands:
+
+```
+vi /etc/config/network
+```
+
+Edit the `option metric` value to your desired results for each interface. The lower the number, the higher the priority.  
+
+The recommended settings are as follows:  
+`option metric 10` `wan` (Ethernet)  
+`option metric 20` `wwan` (Wi-Fi Repeater)  
+`option metric 30` `easytether` (EasyTether)
