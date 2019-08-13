@@ -8,30 +8,6 @@
 
 GoodCloudはファームウェア3.010以上しかサポートしません。
 
-### ファームウェアファイルダウンロード
-
-GL-X750(Spitz) テストファームウェア <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">GL-X750 テストファームウェアダウンロード</a>
-
-GL-AR750S(Slate) テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">GL-AR750S テストファームウェアダウンロード</a>
-
-GL-AR750 テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">GL-AR750 テストファームウェアダウンロード</a>
-
-GL-B1300 テストファームウェア <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">GL-B1300 テストファームウェアダウンロード</a>
-
-GL-USB150(Microuter) テストファームウェア <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">GL-USB150 テストファームウェアダウンロード</a>
-
-GL-AR150 テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank"> テストファームウェアダウンロード</a>
-
-GL-AR300M(Shadow) テストファームウェア <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">GL-AR300M テストファームウェアダウンロード</a>
-
-GL-MT300N-V2(Mango) テストファームウェア <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">GL-MT300N-V2 テストファームウェアダウンロード</a>
-
-GL-MT300A テストファームウェア <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">GL-MT300A テストファームウェアダウンロード</a>
-
-GL-MT300N テストファームウェア <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">GL-MT300N テストファームウェアダウンロード</a>
-
-他のデバイスも計画中です。
-
 ### ローカルアップグレード
 
 ブラウザ（Chromeがおすすめ）を開いて、ルーターの管理者パネルをアクセスします(デフォルトurl：<a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>)。
