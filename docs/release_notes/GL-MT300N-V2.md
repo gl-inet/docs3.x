@@ -1,8 +1,28 @@
 # GL-MT300N-V2 - Release Notes
 
+## V3.025 - Aug 13, 2019
+
+Firmware file: [openwrt-mt300n-v2-3.025.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.025.bin)
+
+**New Feature**:
+
+- Added Italian
+- Added Guest Wifi
+- Added Repeater Options
+- Added connecting to hidden wifi
+- Added offline clients
+- Added VPN Policies
+- Added Remote Access
+- Added Captive portal
+- Added DHCP address range management
+
+---
+
+
+
 ## V3.012 - Jan 21, 2019
 
-Firmware file: [gl-mt300n-v2-3.012.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.012.bin)
+Firmware file: [openwrt-mt300n-v2-3.012.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.012.bin)
 
 **New Feature:**
 
