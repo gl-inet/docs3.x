@@ -59,7 +59,7 @@ You may also try other firmwares such as DDWRT.
 
 
 
-*Note: If you uploaded an incompatible firmware thus bricked the router, please use Uboot to re-install the correct firmware.*
+*Note: If you uploaded an incompatible firmware thus bricked the router, please use [Uboot](/troubleshooting/debrick/) to re-install the correct firmware.*
 
 
 

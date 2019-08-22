@@ -23,6 +23,7 @@
       <label id="vixmini_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="convexa_b_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="convexa_s_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="microuter-n300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -38,14 +39,14 @@
             document.getElementById("slate_label").style.display = "block";
           }
           if (window.location.href.indexOf("4g_smart_router") != -1) {
-            document.getElementById("fourg_smart_router_label").innerHTML = ("4G Smart Router");
+            document.getElementById("fourg_smart_router_label").innerHTML = ("4G Smart Router2");
             document.getElementById("fourg_smart_router_label").style.display = "block";
           }
           if (window.location.href.indexOf("spitz") != -1) {
             document.getElementById("spitz_label").innerHTML = ("Spitz");
             document.getElementById("spitz_label").style.display = "block";
           }
-          if (window.location.href.indexOf("microuter") != -1) {
+          if (window.location.href.indexOf("microuter/") != -1) {
             document.getElementById("microuter_label").innerHTML = ("Microuter");
             document.getElementById("microuter_label").style.display = "block";
           }
@@ -60,6 +61,10 @@
           if (window.location.href.indexOf("convexa_s") != -1) {
             document.getElementById("convexa_s_label").innerHTML = ("Convexa-S");
             document.getElementById("convexa_s_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("microuter-n300") != -1) {
+            document.getElementById("microuter-n300_label").innerHTML = ("microuter-N300");
+            document.getElementById("microuter-n300_label").style.display = "block";
           }
       </script>
 
@@ -150,6 +155,15 @@
         <a id="convexa_s_vpn" href="../../convexa_s/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="convexa_s_applications" href="../../convexa_s/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="convexa_s_more_settings" href="../../convexa_s/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="microuter-n300_first-time_setup" href="../../microuter-n300/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_internet" href="../../microuter-n300/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_wireless" href="../../microuter-n300/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_clients" href="../../microuter-n300/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_upgrade" href="../../microuter-n300/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_vpn" href="../../microuter-n300/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_applications" href="../../microuter-n300/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="microuter-n300_more_settings" href="../../microuter-n300/more_settings/" style="display: none;" class="md-nav__link"></a>
 
 
         <script>
@@ -254,7 +268,7 @@
             document.getElementById("spitz_more_settings").style.display = "block";
           }
 
-          if (window.location.href.indexOf("microuter") != -1) {
+          if (window.location.href.indexOf("microuter/") != -1) {
             document.getElementById("microuter_first-time_setup").innerHTML = ("First-time Setup");
             document.getElementById("microuter_first-time_setup").style.display = "block";
             document.getElementById("microuter_internet").innerHTML = ("Internet");
@@ -334,6 +348,25 @@
             document.getElementById("convexa_s_applications").style.display = "block";
             document.getElementById("convexa_s_more_settings").innerHTML = ("More Settings");
             document.getElementById("convexa_s_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("microuter-n300") != -1) {
+            document.getElementById("microuter-n300_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("microuter-n300_first-time_setup").style.display = "block";
+            document.getElementById("microuter-n300_internet").innerHTML = ("Internet");
+            document.getElementById("microuter-n300_internet").style.display = "block";
+            document.getElementById("microuter-n300_wireless").innerHTML = ("Wireless");
+            document.getElementById("microuter-n300_wireless").style.display = "block";
+            document.getElementById("microuter-n300_clients").innerHTML = ("Clients");
+            document.getElementById("microuter-n300_clients").style.display = "block";
+            document.getElementById("microuter-n300_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("microuter-n300_upgrade").style.display = "block";
+            document.getElementById("microuter-n300_vpn").innerHTML = ("VPN");
+            document.getElementById("microuter-n300_vpn").style.display = "block";
+            document.getElementById("microuter-n300_applications").innerHTML = ("Applications");
+            document.getElementById("microuter-n300_applications").style.display = "block";
+            document.getElementById("microuter-n300_more_settings").innerHTML = ("More Settings");
+            document.getElementById("microuter-n300_more_settings").style.display = "block";
           }
         </script> 
       </ul>

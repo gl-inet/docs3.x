@@ -20,7 +20,7 @@ It has a Mesh button which is used to paire routers. You don't need an APP for t
 | ----------------------------: | :---------------------------------------------------- |
 |                           CPU | Atheros IPQ4029, Quad-core ARM,717MHz                 |
 |                        Memory | DDR3L 512MB                                           |
-|                       Storage | 16MB Nor Flash + 8GB EMMC                                        |
+|                       Storage | 16MB Nor Flash + 8GB EMMC                             |
 |                    Interfaces | 1 WAN, 2 LANs 1 USB3.0, 1 Reset Button, 1 Mesh Button |
 |                     Frequency | 2.4GHz / 5GHz                                         |
 |             Transmission Rate | 400Mbps(2.4GHz) + 867Mbps(5GHz)                       |

@@ -53,6 +53,7 @@ pages:
     - GL-USB150: 'hardware/usb150/index.md'
     - GL-B1300: 'hardware/b1300/index.md'
     - GL-S1300: 'hardware/s1300/index.md'
+    - microuter-N300: 'hardware/microuter-n300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
     - Mini Router Series:
@@ -142,6 +143,15 @@ pages:
         - VPN: 'setup/convexa_s/vpn.md'
         - Applications: 'setup/convexa_s/applications.md'
         - More Settings: 'setup/convexa_s/more_settings.md'
+    - microuter-N300:
+        - First-time Setup: 'setup/microuter-n300/first-time_setup.md'
+        - Internet: 'setup/microuter-n300/internet.md'
+        - Wireless: 'setup/microuter-n300/wireless.md'
+        - Clients: 'setup/microuter-n300/clients.md'
+        - Upgrade: 'setup/microuter-n300/upgrade.md'
+        - VPN: 'setup/microuter-n300/vpn.md'
+        - Applications: 'setup/microuter-n300/applications.md'
+        - More Settings: 'setup/microuter-n300/more_settings.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'
