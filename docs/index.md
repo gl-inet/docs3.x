@@ -43,52 +43,52 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="row1">
 	<div class="row-box">
         <div class="box-0">
-            <a href="/setup/mini_router/first-time_setup/">
+            <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" class="image" width=100%>
             </a>
         </div>
     	<div class="box-1">
-    		<a href="/setup/travel_ac_router/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/en/3/setup/travel_ac_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_7501.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">
-    		<a href="/setup/slate/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/en/3/setup/slate/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
         <div class="box-3">
-        	<a href="/setup/4g_smart_router/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
             </a>
         </div>
         <div class="box-4">
-        	<a href="/setup/spitz/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_spitz.png" width=100%>
             </a>
         </div>
     	<div class="box-5">
-    		<a href="/setup/microuter/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter.png" width=100%>
             </a>
 		</div>
     	<div class="box-6">
-        	<a href="/setup/vixmini/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/vixmini/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
 			</a>
 		</div>
 		<div class="box-7">
-        	<a href="/setup/convexa_b/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/convexa_b/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
 			</a>
 		</div>
 		<div class="box-8">
-        	<a href="/setup/convexa_s/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/convexa_s/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
 			</a>
 		</div>
 		<div class="box-9">
-        	<a href="/setup/microuter-n300/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
 			</a>
 		</div>
