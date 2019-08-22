@@ -49,17 +49,6 @@ Find the available firmwares from the folder according to your device model, and
 You can compile your own firmware and flash to the router. Please refer to [github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc).
 
 
-
-### Third party firmware
-
-You may also try other firmwares such as DDWRT.
-
-
-
-*Note: If you uploaded an incompatible firmware thus bricked the router, please use [Uboot](/troubleshooting/debrick/) to re-install the correct firmware.*
-
-
-
 ---
 
 ## Auto Upgrade
