@@ -27,7 +27,7 @@ You can connect to the router via USB Ethernet or Wi-Fi.
 
 
 ### Connect via USB Ethernet
-This only works on computer with USB port. Plug in Microuter and then your computer will install the driver automatically. Lastly, it will create a **USB to Ethernet** network.
+This only works on computer with USB port. Plug in Microuter and then your computer will install the driver automatically. Lastly, it will create a **USB to Ethernet** network. For special situation, <a href="https://static.gl-inet.com/www/images/products/gl-usb150/GL-USB150_Windows_Drivers.zip">here</a> are drivers for Windows.
 
 ![connect via USB](https://static.gl-inet.com/docs/en/3/setup/microuter/first-time_setup/connect.jpg)
 
