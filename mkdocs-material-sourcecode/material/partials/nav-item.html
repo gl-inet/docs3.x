@@ -24,6 +24,7 @@
       <label id="convexa_b_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="convexa_s_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="microuter-n300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="brume_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -65,6 +66,10 @@
           if (window.location.href.indexOf("microuter-n300") != -1) {
             document.getElementById("microuter-n300_label").innerHTML = ("microuter-N300");
             document.getElementById("microuter-n300_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("brume") != -1) {
+            document.getElementById("brume_label").innerHTML = ("brume");
+            document.getElementById("brume_label").style.display = "block";
           }
       </script>
 
@@ -165,6 +170,13 @@
         <a id="microuter-n300_applications" href="../../microuter-n300/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="microuter-n300_more_settings" href="../../microuter-n300/more_settings/" style="display: none;" class="md-nav__link"></a>
 
+        <a id="brume_first-time_setup" href="../../brume/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_internet" href="../../brume/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_clients" href="../../brume/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_upgrade" href="../../brume/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_vpn" href="../../brume/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_applications" href="../../brume/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_more_settings" href="../../brume/more_settings/" style="display: none;" class="md-nav__link"></a>
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -368,6 +380,24 @@
             document.getElementById("microuter-n300_more_settings").innerHTML = ("More Settings");
             document.getElementById("microuter-n300_more_settings").style.display = "block";
           }
+
+          if (window.location.href.indexOf("brume") != -1) {
+            document.getElementById("brume_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("brume_first-time_setup").style.display = "block";
+            document.getElementById("brume_internet").innerHTML = ("Internet");
+            document.getElementById("brume_internet").style.display = "block";
+            document.getElementById("brume_clients").innerHTML = ("Clients");
+            document.getElementById("brume_clients").style.display = "block";
+            document.getElementById("brume_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("brume_upgrade").style.display = "block";
+            document.getElementById("brume_vpn").innerHTML = ("VPN");
+            document.getElementById("brume_vpn").style.display = "block";
+            document.getElementById("brume_applications").innerHTML = ("Applications");
+            document.getElementById("brume_applications").style.display = "block";
+            document.getElementById("brume_more_settings").innerHTML = ("More Settings");
+            document.getElementById("brume_more_settings").style.display = "block";
+          }
+        
         </script> 
       </ul>
 

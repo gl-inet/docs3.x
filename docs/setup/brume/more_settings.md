@@ -6,7 +6,7 @@
 
 Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/admin_password.jpg)
+![admin password](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/admin_password.png)
 
 
 
@@ -26,7 +26,7 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/time_zone.jpg)
+![time zone](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/time_zone.png)
 
 
 
@@ -54,7 +54,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/custom_dns_server.jpg)
+![custom dns server](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/custom_dns.png)
 
 
 
@@ -64,7 +64,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client.
 
-![button settings](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/button_settings.jpg)
+![button settings](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/button_setting.png)
 
 
 
@@ -84,7 +84,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **WDS**: Similar to Extender, please choose WDS if your main router supports WDS mode.
 
-![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
+![network mode](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/network_mode.png)
 
 
 
@@ -94,7 +94,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 Revert the router to factory default settings. All your settings, applications and data will be erased.
 
-![revert firmware](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/revert_firmware.jpg)
+![revert firmware](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/revert_firmware.png)
 
 
 

@@ -152,6 +152,14 @@ pages:
         - VPN: 'setup/microuter-n300/vpn.md'
         - Applications: 'setup/microuter-n300/applications.md'
         - More Settings: 'setup/microuter-n300/more_settings.md'
+    - Brume(GL-MV1000):
+        - First-time Setup: 'setup/brume/first-time_setup.md'
+        - Internet: 'setup/brume/internet.md'
+        - Clinets: 'setup/brume/clients.md'
+        - Upgrade: 'setup/brume/upgrade.md'
+        - VPN: 'setup/brume/vpn.md'
+        - Applications: 'setup/brume/applications.md'
+        - More Settings: 'setup/brume/more_settings.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'

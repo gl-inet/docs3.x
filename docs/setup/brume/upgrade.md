@@ -2,7 +2,7 @@
 
 Click `UPGRADE` to check any available update and upgrade the firmware.
 
-![upgrade](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware.jpg)
+![upgrade](https://static.gl-inet.com/docs/en/3/setup/brume/upgrade/upgrade.png)
 
 
 

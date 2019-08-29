@@ -8,7 +8,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.png)
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/brume/applications/plug-ins.png)
 
 
 
@@ -24,7 +24,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 **Writable**: The contents of the external storage device can be edited.
 
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/slate/applications/file_sharing.png)
+![File sharing](https://static.gl-inet.com/docs/en/3/setup/brume/applications/file_sharing.png)
 
 
 
@@ -42,7 +42,7 @@ You can remotely access your router by url though this function.
 In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
 
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/brume/applications/ddns.png)
 
 
 For the guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
@@ -64,13 +64,3 @@ For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud
 
 ---
 
-## Portal
-
-You can set a **captival portal** in our routers, when newly users connect to wifi, they need to access a web page before access the internet.
-
-Only support 3.022 version or above.
-
-![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png)
-
-
-For the setup guidance, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).
