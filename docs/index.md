@@ -91,11 +91,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         	<a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
 			</a>
-		</div>
-		<div class="box-10">
-		    <a href="https://docs.gl-inet.com/en/3/setup/brume/first-time_setup/">
-			    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
-			</a>
+		</div>	
 	</div>
 </div>
 <br>
