@@ -18,7 +18,7 @@
 |   Power Consumption | <2.75W                            |
 | Working Temperature | 0~40°C (32~104°F)                 |
 | Storage Temperature | -20~70°C (-4~158°F)               |
-|  Dimension, Weight  | 47mmX47mmX18mm, 30g               |
+|  Dimension, Weight  | 51mmX51mmX18.5mm, 30g               |
 
 
 
