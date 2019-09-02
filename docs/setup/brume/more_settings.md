@@ -16,7 +16,7 @@ Change the password of the web Admin Panel, which must be at least 5 characters 
 
 LAN IP is the IP address that you use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/lan_ip.jpg)
+![lan ip](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/lan_ip.png)
 
 
 
@@ -27,17 +27,6 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
 ![time zone](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/time_zone.png)
-
-
-
----
-
-## MAC Clone
-
-Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
-
-![mac clone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/mac_clone.jpg)
-
 
 
 ---
@@ -104,6 +93,6 @@ Revert the router to factory default settings. All your settings, applications a
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/advanced.jpg)
+![advanced](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/luci.png)
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

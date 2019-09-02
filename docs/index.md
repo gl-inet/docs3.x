@@ -64,12 +64,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         </div>
         <div class="box-4">
         	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_spitz.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
             </a>
         </div>
     	<div class="box-5">
     		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter.png" width=100%>
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
             </a>
 		</div>
     	<div class="box-6">
