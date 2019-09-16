@@ -1,6 +1,6 @@
 # ネットワーク
 
-四つのインターネットをアクセスする方法があります：**有線接続**、**無線中継**、**3G/4Gモデル**、**テザリング**。
+三つのインターネットをアクセスする方法があります：**有線接続**、**3G/4Gモデル**、**テザリング**。
 
 ![connection method](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/internet/4ways.jpg)
 
