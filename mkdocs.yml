@@ -50,6 +50,7 @@ pages:
     - GL-AR750: 'hardware/ar750/index.md'
     - GL-AR750S: 'hardware/ar750s/index.md'
     - GL-MiFi: 'hardware/mifi/index.md'
+    - GL-X750: 'hardware/x750/index.md'
     - GL-USB150: 'hardware/usb150/index.md'
     - GL-B1300: 'hardware/b1300/index.md'
     - GL-S1300: 'hardware/s1300/index.md'
