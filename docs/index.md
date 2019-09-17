@@ -61,18 +61,20 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
             	<img src="https://static.gl-inet.com/docs/jp/3/home/mifi.png" width=100%>
             </a>
         </div>
-        <div class="box-6">
+        <div class="box-4">
         	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_spitz.png" width=100%>
             </a>
         </div>
-    	<div class="box-4">
+    	<div class="box-5">
     		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/jp/3/home/usb150.png" width=100%>
             </a>
 		</div>
-    	<div class="box-5" style="display: none">
-        	<h2><a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">???</a></h2>
+		<div class="box-6">
+    		<a href="https://docs.gl-inet.com/en/3/setup/brume/first-time_setup/">
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
+            </a>
 		</div>
 	</div>
 </div>

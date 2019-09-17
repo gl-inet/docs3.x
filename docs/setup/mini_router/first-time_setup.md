@@ -64,7 +64,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 
 ![initial setup](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/言語設定.png)
 
-*Note: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index.html](http://192.168.8.1/index.html)*
+*Note: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index](http://192.168.8.1/index)*
 
   
 
