@@ -14,7 +14,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 	margin-bottom: 25px;
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
-	grid-template-rows: 50% 50%;
+	grid-template-rows: 33% 33% 33%;
 }
     .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
     float: left;
@@ -72,7 +72,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
             </a>
 		</div>
 		<div class="box-6">
-    		<a href="https://docs.gl-inet.com/en/3/setup/brume/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/ja/3/setup/brume/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
             </a>
 		</div>
