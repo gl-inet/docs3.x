@@ -38,7 +38,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 ![initial setup](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/welcome.png)
 
-*Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index.html](http://192.168.8.1/index.html) instead of [http://192.168.8.1](http://192.168.8.1).*
+*Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
   
 
@@ -46,8 +46,6 @@ You need to choose the display language of the Admin Panel. Currently, our route
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
 
 ![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/password.jpg)
-
-*Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
 
 

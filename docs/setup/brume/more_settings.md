@@ -67,11 +67,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **Router**: Create your own private network. The router will act as NAT, firewall and DHCP server.
 
-**Access Point**: Connect  to a wired network and broadcast a wireless network.
-
-**Extender**: Extend the Wi-Fi coverage of an existing wireless network.
-
-**WDS**: Similar to Extender, please choose WDS if your main router supports WDS mode.
+**Bridge mode**: Briage to a wired network.
 
 ![network mode](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/network_mode.png)
 

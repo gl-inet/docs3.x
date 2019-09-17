@@ -56,7 +56,7 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ---
 
-##2) Repeater
+## 2) Repeater
 
 Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
 
@@ -76,7 +76,7 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ---
 
-##3) 3G/4G Modem
+## 3) 3G/4G Modem
 
 Spitz has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
 
@@ -129,7 +129,7 @@ The built-in modem supports AT command for the management and configuration of t
 
 ---
 
-##4) Tethering
+## 4) Tethering
 
 Using USB cable to share network from your smartphone to the router is called Tethering.
 
