@@ -78,7 +78,7 @@ pages:
         - VPN: 'setup/travel_ac_router/vpn.md'
         - アプリケーション: 'setup/travel_ac_router/applications.md'
         - その他の設定: 'setup/travel_ac_router/more_settings.md'     
-　　- Brume(GL-MV1000):
+    - Brume(GL-MV1000):
         - 基本設定: 'setup/brume/first-time_setup.md'
         - ネットワーク: 'setup/brume/internet.md'
         - クライアント: 'setup/brume/clients.md'
@@ -86,7 +86,7 @@ pages:
         - ファイアウォール: 'setup/brume/firewall.md'
         - VPN: 'setup/brume/vpn.md'
         - アプリケーション: 'setup/brume/applications.md'
-        - その他の設定: 'setup/brume/more_settings.md'   
+        - その他の設定: 'setup/brume/more_settings.md'
 - 開発:
     - UART シリアル: 'dev/serial.md'
 - アプリケーション:
