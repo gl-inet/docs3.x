@@ -21,6 +21,7 @@
       <label id="spitz_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="microuter_label" class="md-nav__title" for="{{ path }}" style="display: none;"></label>
       <label id="vixmini_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="brume_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -50,6 +51,10 @@
           if (window.location.href.indexOf("vixmini") != -1) {
             document.getElementById("vixmini_label").innerHTML = ("VIXMINI");
             document.getElementById("vixmini_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("brume") != -1) {
+            document.getElementById("brume_label").innerHTML = ("Brume");
+            document.getElementById("brume_label").style.display = "block";
           }
       </script>
 
@@ -140,7 +145,7 @@
             document.getElementById("mini_router_clients").style.display = "block";
             document.getElementById("mini_router_upgrade").innerHTML = ("アップグレード");
             document.getElementById("mini_router_upgrade").style.display = "block";
-      document.getElementById("mini_router_firewall").innerHTML = ("ファイアウォール");
+            document.getElementById("mini_router_firewall").innerHTML = ("ファイアウォール");
             document.getElementById("mini_router_firewall").style.display = "block";
             document.getElementById("mini_router_vpn").innerHTML = ("VPN");
             document.getElementById("mini_router_vpn").style.display = "block";
@@ -161,7 +166,7 @@
             document.getElementById("travel_ac_router_clients").style.display = "block";
             document.getElementById("travel_ac_router_upgrade").innerHTML = ("アップグレード");
             document.getElementById("travel_ac_router_upgrade").style.display = "block";
-			document.getElementById("travel_ac_router_firewall").innerHTML = ("ファイアウォール");
+		      	document.getElementById("travel_ac_router_firewall").innerHTML = ("ファイアウォール");
             document.getElementById("travel_ac_router_firewall").style.display = "block";
             document.getElementById("travel_ac_router_vpn").innerHTML = ("VPN");
             document.getElementById("travel_ac_router_vpn").style.display = "block";
