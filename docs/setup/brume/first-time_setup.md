@@ -2,7 +2,7 @@
 
 Model: GL-MV1000
 
-![router](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/MV1000.jpg)
+![router](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/MV1000.png)
 
 ---
 
