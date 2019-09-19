@@ -2,7 +2,9 @@
 
 ## v3.027 - Sep 19, 2019
 
-Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/gl-usb150-3.001.bin" target="_blank">gl-usb150-3.001.bin</a>
+<mark>Note: This version cannot use Online Upgrade(automatically upgrade) due to tech issue, </mark> please follow <a href="https://docs.gl-inet.com/en/3/setup/microuter/upgrade/#upload-firmware" target="_blank">the instruction of Local Upgrade</a> manually.
+
+Here is  the local upgrade firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/gl-usb150-3.027.bin" target="_blank">gl-usb150-3.027.bin</a>.
 
 **New Features:**
 
@@ -30,6 +32,7 @@ Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/
 
 - Removed MAC address check.
 
+---
 
 ## v3.001 - SEP 12, 2018
 
