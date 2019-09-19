@@ -14,21 +14,21 @@ Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/
 - Added Captive Portal.
 - Added DHCP address pool.
 - Added static IP address binding in LAN IP settings.
-- Added keeping installed package when upgrade
-- Added libustream-openssl modem which support download firmware and software package in https
-- Added Flash available space in plus-in
-- Added Site to Site
+- Added keeping installed package when upgrade.
+- Added libustream-openssl modem which support download firmware and software package in https.
+- Added Flash available space in plus-in.
+- Added Site to Site.
 
 **Improvements:**
 
-- Optimized VPN
-- Optimized lighttpd startup sequence
-- Optimized firmware upgrade
-- Optimized Cloudfare DNS using stubby
+- Optimized VPN.
+- Optimized lighttpd startup sequence.
+- Optimized firmware upgrade.
+- Optimized Cloudfare DNS using stubby.
 
-**Fix:**
+**Fixed:**
 
-- Removed MAC address check
+- Removed MAC address check.
 
 
 ## v3.001 - SEP 12, 2018
