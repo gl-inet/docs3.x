@@ -209,6 +209,7 @@ pages:
     - GL-B1300: 'release_notes/GL-B1300.md'
     - GL-S1300: 'release_notes/GL-S1300.md'
     - VIXMINI: 'release_notes/VIXMINI.md'
+    - GL-MV1000: 'release_notes/GL-MV1000.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'
