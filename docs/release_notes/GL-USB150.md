@@ -1,6 +1,6 @@
 # GL-USB150 (Microuter) - Release Notes
 
-## v3.027 - Sep 19, 2019
+## V3.027 - Sep 19, 2019
 
 <mark>Note: This version cannot use Online Upgrade(automatically upgrade) due to tech issue, </mark> please follow <a href="https://docs.gl-inet.com/en/3/setup/microuter/upgrade/#upload-firmware" target="_blank">the instruction of Local Upgrade</a> manually.
 

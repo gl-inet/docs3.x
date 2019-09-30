@@ -18,6 +18,8 @@
 | [GL-B1300 (Convexa-B)](GL-B1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/b1300/v1/" target="_blank">3.027</a>     |     <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">3.027</a>     | <a href="https://dl.gl-inet.com/firmware/b1300/clean/" target="_blank">2.271</a> |-|-|
 | [GL-S1300 (Convexa-S)](GL-S1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/s1300/release/" target="_blank">3.023</a>     |     <a href="https://dl.gl-inet.com/firmware/s1300/testing/" target="_blank">3.026</a>     |-|-|-|
 | [VIXMINI](VIXMINI.md) | <a href="https://dl.gl-inet.com/firmware/vixmini/release/" target="_blank">3.003</a> | <a href="https://dl.gl-inet.com/firmware/vixmini/testing/" target="_blank">3.003</a> | <a href="https://dl.gl-inet.com/firmware/vixmini/clean/" target="_blank">3.0</a> |-|-|
+| [GL-MV1000(Brume)](GL-MV1000.md) | <a href="https://dl.gl-inet.com/firmware/mv1000/release/" target="_blank">3.027</a> | <a href="https://dl.gl-inet.com/firmware/mv1000/testing/" target="_blank">3.027</a> |-|-|-|
+
 
 
 
