@@ -14,7 +14,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
 
 <ol type="1">
     <li><p>
-        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file. Everyone else, download the .bin firmware file.
+        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file. For GL-B1300, GL-S1300, please download the .img firmware. Everyone else, download the .bin firmware file.
         </p> 
     </li>
     <li>
