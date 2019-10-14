@@ -25,6 +25,7 @@
       <label id="convexa_s_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="microuter-n300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="brume_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="mudi_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -70,6 +71,10 @@
           if (window.location.href.indexOf("brume") != -1) {
             document.getElementById("brume_label").innerHTML = ("Brume");
             document.getElementById("brume_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("mudi") != -1) {
+            document.getElementById("mudi_label").innerHTML = ("Mudi");
+            document.getElementById("mudi_label").style.display = "block";
           }
       </script>
 
@@ -178,6 +183,17 @@
         <a id="brume_vpn" href="../../brume/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="brume_applications" href="../../brume/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="brume_more_settings" href="../../brume/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        
+        <a id="mudi_first-time_setup" href="../../mudi/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="mudi_internet" href="../../mudi/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="mudi_wireless" href="../../mudi/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="mudi_clients" href="../../mudi/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="mudi_upgrade" href="../../mudi/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="mudi_firewall" href="../../mudi/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="mudi_vpn" href="../../mudi/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="mudi_applications" href="../../mudi/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="mudi_more_settings" href="../../mudi/more_settings/" style="display: none;" class="md-nav__link"></a>
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -399,6 +415,28 @@
             document.getElementById("brume_applications").style.display = "block";
             document.getElementById("brume_more_settings").innerHTML = ("More Settings");
             document.getElementById("brume_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("mudi") != -1) {
+            document.getElementById("mudi_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("mudi_first-time_setup").style.display = "block";
+            document.getElementById("mudi_internet").innerHTML = ("Internet");
+            document.getElementById("mudi_internet").style.display = "block";
+            document.getElementById("mudi_wireless").innerHTML = ("Wireless");
+            document.getElementById("mudi_wireless").style.display = "block";
+            document.getElementById("mudi_clients").innerHTML = ("Clients");
+            document.getElementById("mudi_clients").style.display = "block";
+            document.getElementById("mudi_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("mudi_upgrade").style.display = "block";
+            document.getElementById("mudi_firewall").innerHTML = ("Firewall");
+            document.getElementById("mudi_firewall").style.display = "block";
+            document.getElementById("mudi_vpn").innerHTML = ("VPN");
+            document.getElementById("mudi_vpn").style.display = "block";
+            document.getElementById("mudi_applications").innerHTML = ("Applications");
+            document.getElementById("mudi_applications").style.display = "block";
+            document.getElementById("mudi_more_settings").innerHTML = ("More Settings");
+            document.getElementById("mudi_more_settings").style.display = "block";  
+          
           }
         
         </script> 

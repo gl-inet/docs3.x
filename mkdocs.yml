@@ -163,6 +163,16 @@ pages:
         - VPN: 'setup/brume/vpn.md'
         - Applications: 'setup/brume/applications.md'
         - More Settings: 'setup/brume/more_settings.md'
+    - Mudi(GL-E750):
+        - First-time Setup: 'setup/mudi/first-time_setup.md'
+        - Internet: 'setup/mudi/internet.md'
+        - Wireless: 'setup/mudi/wireless.md'
+        - Clinets: 'setup/mudi/clients.md'
+        - Upgrade: 'setup/mudi/upgrade.md'
+        - Firewall: 'setup/mudi/firewall.md'
+        - VPN: 'setup/mudi/vpn.md'
+        - Applications: 'setup/mudi/applications.md'
+        - More Settings: 'setup/mudi/more_settings.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'
