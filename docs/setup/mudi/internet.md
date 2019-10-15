@@ -14,7 +14,7 @@ Click `INTERNET` to create an Internet connection.
 
 ## 1) Cable
 
-Connect the router to the modem or main router via Ethernet cable to access the Internet. 
+Connect the router to the docking and then connect to the modem or main router via Ethernet cable to access the Internet. 
 
 Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](internet#2-repeater). As a result, you can have one more LAN port.
 
@@ -22,7 +22,7 @@ Before plugging the Ethernet cable into the WAN port of the router, you can clic
 
 
 
-Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
+Plug the Ethernet cable into the ethernet port of the docking station which is connected to the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/dhcp_page.jpg)
 

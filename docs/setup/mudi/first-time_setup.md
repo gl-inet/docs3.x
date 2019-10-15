@@ -17,7 +17,7 @@ For GL-E750 with built-in battery, press the power button to turn on the device.
 
 ![battery](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/E750_1.png)
 
-When mudi's power is off, you can still check the battery status by clicking the power button. The LED screen will show battery status when you click the power button.
+When Mudi's power is off, you can still check the battery status by clicking the power button. The LED screen will show battery status when you click the power button.
 
 ![battery](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/battery.png)
 
@@ -42,7 +42,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 
 
 ### Connect via LAN 
-Connect your router to docking station first and then connect your device to the LAN port of the docking station via Ethernet cable.
+Connect your Mudi to docking station first and then connect your device to the LAN port of the docking station via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/cable1.png)
 
