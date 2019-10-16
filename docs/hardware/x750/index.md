@@ -26,3 +26,8 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 |           Working Temperature | -20~40°C (-4~104°F)                                          |
 |           Storage Temperature | -20~70°C (-4~158°F)                                          |
 |            Dimension / Weight | 115 x 74 x 22mm / 86g                                        |
+
+
+## PCB Pinout
+
+![pinout](https://static.gl-inet.com/docs/en/3/hardware/spitz/x750.png) 

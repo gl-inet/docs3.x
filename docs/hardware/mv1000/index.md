@@ -1,6 +1,6 @@
 # GL-MV1000
 
-
+Brume is a router with strong performance and stable operation, designed for high-speeding computing system. Due to its based on opensource platform, Brume can  also serve as an integration platform for developers, maker for IOT integration development and other functions.
 
 ## Hardware Specification
 

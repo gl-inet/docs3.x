@@ -57,6 +57,7 @@ pages:
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - GL-MV1000: 'hardware/mv1000/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
+    - GL-X1200: 'hardware/x1200/index.md'
 - Setup:
     - Mini Router Series:
         - First-time Setup: 'setup/mini_router/first-time_setup.md'
@@ -221,6 +222,7 @@ pages:
     - GL-S1300: 'release_notes/GL-S1300.md'
     - VIXMINI: 'release_notes/VIXMINI.md'
     - GL-MV1000: 'release_notes/GL-MV1000.md'
+    - GL-X1200: 'release_notes/GL-X1200.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'
