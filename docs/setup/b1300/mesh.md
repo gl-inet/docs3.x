@@ -1,35 +1,35 @@
 # メッシュ
 
 3.022以上のファームウェアでメッシュが利用可能です。
-Mesh is available on B1300 and S1300 after firmware v3.022. 
+
 メッシュを利用することには、少なくとも二つのメッシュWIFIルーターが必要です。
-You need at least two of mesh supported routers to establish mesh network.
+
 
 ## メッシュネットワークセットアップ
 
-1) Power on Main Nod　メインノードを起動
+1) メインノードを起動
 
-Select one B1300/S1300 as main nod to make [Initial Setup](https://docs.gl-inet.com/en/3/setup/convexa_b/first-time_setup/) , then make [Cable Connection](https://docs.gl-inet.com/en/3/setup/convexa_b/internet/#1-cable) between WAN port of Main Nod and LAN port of up level router/modem. 
+一つのb1300をメインノードとして使用します、[最初のセットアップ](https://docs.gl-inet.com/ja/3/setup/b1300/first-time_setup/)を完成して、WANポートにインターネットケーブルを接続します。 
 
-一つのb1300をメインノードとして使用して、[最初のセットアップ](https://docs.gl-inet.com/ja/3/setup/b1300/first-time_setup/)を完成して、
-
-2) Power on Sub Nods　子ノードを起動
-   
-  Power on to all sub nods without any ethernet cable connection. 
+2) 子ノードを起動
+   子ノードを起動します。
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/mesh/b1300_mesh_1.jpg)
 
 3) Start Pairing Mode on Main Nod
+メインノードでペアリングモードを起動します
 
 Hold the **Mesh Button** for 5 seconds and release it until the **Mesh Light** blinking first accelerate. The main nod is on pairing mode.
 
-4) Start Pairing Mode on Sub Nods
+**メッシュボタン**を5秒開に
+
+4) Start Pairing Mode on Sub Nods　子ノードでペアリングモードを起動します
 
 Follow step 3) to start pairing mode on sub nods, initial setup is unnecessary.
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/mesh/b1300_mesh_2.jpg)
 
-5) Establish Mesh Network
+5) Establish Mesh Network メッシュネットワークをセットアップ
 
 The mesh network starts working when **Mesh LED Lights** of all nods are solid. 
 
