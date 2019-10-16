@@ -9,14 +9,14 @@ Firmware file:
 
 **New Features:**
 
-- Added guest wifi.
-- Added hiding ssid and connecting hidden ssid.
-- Added client management feature which includes QoS, traffic statistics and offline client. 
-- Added compile time and release note update in firmware upgrade page.
-- Added firewall settings page which includes port forwards, open port and DMZ.
-- Added VPN Policies.
-- Added Captive Portal.
-- Added static IP address binding in LAN IP settings.
+- Added guest wifi
+- Added hiding ssid and connecting hidden ssid
+- Added client management feature which includes QoS, traffic statistics and offline client.
+- Added compile time and release note update in firmware upgrade page
+- Added firewall settings page which includes port forwards, open port and DMZ
+- Added VPN Policies
+- Added Captive Portal
+- Added static IP address binding in LAN IP settings
 - Added DHCP address pool
 - Added new support modem MC7430
 - Added keeping installed package when upgrade
@@ -26,7 +26,7 @@ Firmware file:
 
 **Fixed:**
 
-- Remove company MAC address detection
+- Removed company MAC address detection
 - Fixed other bugs 
 
 
