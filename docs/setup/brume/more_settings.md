@@ -98,6 +98,6 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/more_settings/advanced.png)
+![advanced](https://static.gl-inet.com/docs/jp/3/setup/mv1000/more_settings/advanced.png)
 
 *注意: ユーザーネームは**root**です。パスワードは、管理者パスワードと同じです。*

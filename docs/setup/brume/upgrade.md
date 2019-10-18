@@ -35,8 +35,7 @@
 
 本社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
 
-- GL-AR750: [http://download.gl-inet.com/firmware/ar750/](http://download.gl-inet.com/firmware/ar750/)
-- GL-AR750S (Slate): [http://download.gl-inet.com/firmware/ar750s/](http://download.gl-inet.com/firmware/ar750s/)
+- GL-MV1000: [http://download.gl-inet.com/firmware/mv1000/](http://download.gl-inet.com/firmware/mv1000/)
 
 あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアファイルは、以下のサブフォルダーであります:
 

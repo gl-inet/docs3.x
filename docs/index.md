@@ -14,7 +14,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 	margin-bottom: 25px;
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
-	grid-template-rows: 33% 33% 33%;
+	grid-template-rows: 50% 50%;
 }
     .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
     float: left;
@@ -46,32 +46,17 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
             	<img src="https://static.gl-inet.com/docs/jp/3/home/mini.png" width=100%>
             </a>
         </div>
-    	<div class="box-1">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/travel_ac_router/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/750.png" width=100%>
-            </a>
-    	</div>
-    	<div class="box-2">
+		<div class="box-1">
     		<a href="https://docs.gl-inet.com/jp/3/setup/slate/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
-        <div class="box-3">
-        	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/mifi.png" width=100%>
+    	<div class="box-2">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/travel_ac_router/first-time_setup/">
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
             </a>
-        </div>
-        <div class="box-4">
-        	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_spitz.png" width=100%>
-            </a>
-        </div>
-    	<div class="box-5">
-    		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
-            	<img src="https://static.gl-inet.com/docs/jp/3/home/usb150.png" width=100%>
-            </a>
-		</div>
-		<div class="box-6">
+    	</div>
+		<div class="box-3">
     		<a href="https://docs.gl-inet.com/ja/3/setup/brume/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
             </a>
