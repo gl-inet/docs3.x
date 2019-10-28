@@ -33,7 +33,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
     	<p>Release your finger when you see the LED has flashed:
         <ul>
         	<li><b>6 times</b> for GL-MiFi, and then the LTE light will faintly flash twice.</li>
-            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz).</li>
+            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2.</li>
             <li><b>4 times</b> for GL-S1300, GL-B1300. 
                 <div>The leftmost LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on. </div>
                 <div>(For some old GL-B1300, the leftmost LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times at the same time then they stay on.)</div>
