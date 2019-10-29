@@ -15,7 +15,7 @@ GL-E750
 For GL-E750 with built-in battery, press the power button to turn on the device. 
 
 
-![battery](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/E750_1.png)
+![battery](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/power.jpg)
 
 When Mudi's power is off, you can still check the battery status by clicking the power button. The LED screen will show battery status when you click the power button.
 
@@ -25,7 +25,7 @@ You can also plug the Micro USB power cable into the power port of the router to
 
 Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/power1.png)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/power.png)
 
 
 
@@ -54,7 +54,6 @@ Search for the SSID of the router in your device and input the default password:
 *Note: The SSID was printed on the bottom label of the router with the following format:*
 
 - **GL-E750-XXX**
-- **GL-E750-5G-XXX**
 
 
 
