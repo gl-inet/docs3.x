@@ -57,7 +57,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
             </a>
     	</div>
 		<div class="box-3">
-    		<a href="https://docs.gl-inet.com/ja/3/setup/brume/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/brume/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
             </a>
 		</div>
