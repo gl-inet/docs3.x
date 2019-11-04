@@ -36,6 +36,9 @@ The contents of the external storage device are shared to LAN but not WAN and th
 
 You can access the contents of the external storage device from your computer or smart phone. Please check the following guidance for the using of file sharing among different operating systems.
 
+### General Notes
+
+You may be able to access the share via `\\192.168.8.1\GLiShare` or `smb://192.168.8.1/GLiShare` or with `GL-modelXXX` instead of `192.168.8.1` (eg `\\GL-AR750S\GLiShare`)  in your system's file explorer. Since sharing is enabled to the LAN by default (this includes both wired AND wireless clients) and maps a "bad user" to Guest, then even if they don't supply a username and password or an invalid one, ANYONE connected to your router can access the files in the share in Read-Only mode. If you enable Writable mode this applies to both Guests AND the default `root` user. If you enable write access, anybody can create or delete files and folders, if you disable write access, not even the `root` user can delete them via SMB (they can through the CLI though). We can hope that in a future revision there is a simple user management and that a named user (or `root`) can read and/or write while Guests are limited by the `Writable` or a `Public Write` flag on a share (and having multiple shares would be great as well).
 
 
 ### Windows
@@ -110,7 +113,15 @@ You may use **FE File Explorer**:
 
 ![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios14.jpg)
 
+### Linux
 
+If you are using Linux you are probably comfortable with connecting to servers, and how to do this can vary greatly from distribution to distribution and largely depends on your window manager/display environment. Most systems come with Gnome and it is the default on the very popular Ubuntu distribution, so we'll give an example using the Files tool (also called Nautilus). If you open the app you should have a "Connect to server" option, there you can enter either the `\\servername\share` or `smb://servername/share` format.
+
+### ChromeOS or ChromiumOS (Neverware CloudReady and others)
+
+There is a built in Samba/SMB client in the Files app, but it doesn't really seem to work very well. Instead the most useful ChromeOS app to allow mounting Samba shares even though it doesn't have high ratings is "File System for Windows". It is open source and works far better than the built in version. https://chrome.google.com/webstore/detail/file-system-for-windows/mfhnnfciefdpolbelmfkpmhhmlkehbdf/related?hl=en
+
+Once you have installed the app you can launch it from that page, and if you want to access it again in the future, in the Files app if you go to the 3 dot menu at the top right and "Add new service" you then select "File System for Windows" from the list and it will give you the dialog to fill out with the server name and some other details, but only the server name/IP and share name are required. You can click the gear icon to enable saving the password for a share indefinitely, and you can click the "Keep" button to save the share to easily mount again in the future.
 
 ### Android
 
