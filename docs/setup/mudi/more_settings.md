@@ -51,9 +51,9 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 ## Button Settings
 
-Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client.
+Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client or Power saving mode.
 
-![button settings](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/button_setting.png)
+![button settings](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/button_setting.png)
 
 
 
@@ -69,7 +69,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **Bridge mode**: Briage to a wired network.
 
-![network mode](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/network_mode.png)
+![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
 
 
 
@@ -89,6 +89,6 @@ Revert the router to factory default settings. All your settings, applications a
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/luci.png)
+![advanced](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/luci.png)
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

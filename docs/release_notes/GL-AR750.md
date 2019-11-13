@@ -1,5 +1,27 @@
 # GL-AR750 - Release Notes
 
+## V3.027 - Oct 16, 2019
+
+Firmware file: [gl-ar750-3.027.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.027.bin)
+
+**New Features:**
+
+- Added guest wifi
+- Added site to site
+- Added keeping installed package when upgrade
+- Added VPN Policies
+- Added Cloud/DDNS
+- Added Captive Portal
+- Added static IP address binding in LAN IP settings
+- Added DHCP address pool
+- Added libustream-openssl modem which support download firmware and software package in https
+
+**Fixed:**
+
+- Removed company MAC address detection
+
+---
+
 
 
 ## V3.010 - Dec 26, 2018

@@ -1,8 +1,40 @@
 # GL-USB150 (Microuter) - Release Notes
 
+## V3.027 - Sep 19, 2019
 
+<mark>Note: This version cannot use Online Upgrade(automatically upgrade) due to tech issue, </mark> please follow <a href="https://docs.gl-inet.com/en/3/setup/microuter/upgrade/#upload-firmware" target="_blank">the instruction of Local Upgrade</a> manually.
 
-##v3.001 - SEP 12, 2018
+Here is  the local upgrade firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/gl-usb150-3.027.bin" target="_blank">gl-usb150-3.027.bin</a>.
+
+**New Features:**
+
+- Added Guest wifi.
+- Added hiding ssid and connecting hidden ssid.
+- Added client management feature which includes QoS, traffic statistics and offline client. 
+- Added VPN Policies.
+- Added Cloud/DDNS.
+- Added Captive Portal.
+- Added DHCP address pool.
+- Added static IP address binding in LAN IP settings.
+- Added keeping installed package when upgrade.
+- Added libustream-openssl modem which support download firmware and software package in https.
+- Added Flash available space in plus-in.
+- Added Site to Site.
+
+**Improvements:**
+
+- Optimized VPN.
+- Optimized lighttpd startup sequence.
+- Optimized firmware upgrade.
+- Optimized Cloudfare DNS using stubby.
+
+**Fixed:**
+
+- Removed MAC address check.
+
+---
+
+## v3.001 - SEP 12, 2018
 
 Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/gl-usb150-3.001.bin" target="_blank">gl-usb150-3.001.bin</a>
 

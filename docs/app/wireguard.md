@@ -76,7 +76,7 @@ Specify the name and then click `Next`.
 
 You can copy the `JSON` configurations from your server to `Configuration` or input the settings manually.
 
-If you are using **Azirevpn** or **Mullvad**, you can click `Others` and use your **AzireVPN** or **Mullvad** account to set up WireGuard client directly.
+If you are using <a href="https://www.azirevpn.com/" target="_blank">Azirevpn</a> or <a href="https://mullvad.net/" target="_blank">Mullvad</a>, you can click `Others` and use your **AzireVPN** or **Mullvad** account to set up WireGuard client directly.
 
 Click `Add` to finish the WireGuard Client setup.
 
@@ -99,7 +99,7 @@ You can also use WireGuard App on other devices with various OS
 - Please refer to WireGuard Official Website： <https://www.wireguard.com/install/>
 
 
-## Visit Clients Subnet in WireGuard Server
+## Visit Client’s LAN Subnet from WireGuard Server LAN Subnet
 
 ###1) Change WireGuard clients LAN IP to avoid IP confliction with Server
 

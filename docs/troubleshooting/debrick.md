@@ -1,6 +1,6 @@
 # Using Uboot to Debrick Your Router
 
-You may brick your router if you were doing some DIY projects or flashed a wrong firmware. You may not be able to access your router but you can re-install the firmware by using Uboot failsafe.
+You may have bricked your router if you were doing some DIY projects or flashed a wrong firmware. You may not be able to access your router but you can re-install the firmware by using Uboot failsafe.
 
 
 
@@ -14,15 +14,15 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
 
 <ol type="1">
     <li><p>
-        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the.img firmware file, others download the .bin firmware file.
+        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file. For GL-B1300, GL-S1300, please download the .img firmware. Everyone else, download the .bin firmware file.
         </p> 
     </li>
     <li>
-        <p> Connect your computer to the <b>Ethernet port (either LAN or WAN)</b> of the router, and you <b>MUST</b> leave the other port <b>unconnected</b>.
+        <p> Connect your computer to the <b>Ethernet port (either LAN or WAN)</b> of the router. You <b>MUST</b> leave the other port <b>unconnected</b>.
         </p>
     </li>
     <li>
-    	<p>Press and hold the Reset button firmly first, and then power on (plugged in then it will power on automately) your device.
+    	<p>Press and hold the Reset button firmly first, and then power on your device. (If your device does not have a power button, plugging it in will power it on automatically.)
         </p>
     </li>
     <li>
@@ -33,10 +33,10 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
     	<p>Release your finger when you see the LED has flashed:
         <ul>
         	<li><b>6 times</b> for GL-MiFi, and then the LTE light will faintly flash twice.</li>
-            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz).</li>
+            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2.</li>
             <li><b>4 times</b> for GL-S1300, GL-B1300. 
-                <div>The leftmost LED stayed on the whole time, the rightmost LED flashed 4 times, after which the middle LED turned on and stayed on. </div>
-                <div>(For some old GL-B1300, the leftmost LED stayed on the whole time, both the middle LED and the rightmost LED flashed 5 times at the same time then they stayed on.)</div>
+                <div>The leftmost LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on. </div>
+                <div>(For some old GL-B1300, the leftmost LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times at the same time then they stay on.)</div>
             </li>
         	<li><b>3 times</b> for GL-MT300N, GL-MT300A.</li>
         </ul>
@@ -71,7 +71,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
     <li>
     	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. 
         </p>
-        <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file and upload to the Nand flash.
+        <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file and upload to the NAND flash.
         <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/uboot.jpg"><p>
     </li>
     <li>

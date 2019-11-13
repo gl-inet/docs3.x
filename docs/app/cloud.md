@@ -258,7 +258,7 @@ For free user, it can build one Site to Site network with 3 devices.
 
 ### Steps to build a Site to Site network.
 
-1.	Upgrade your GL.iNet devices to latest testing firmware and binded to [Goodcloud.xyz](htttps://www.goodcloud.xyz). (<a href="#2-add-device-on-goodcloud-web-site">how</a>)
+1.	Upgrade your GL.iNet devices to latest testing firmware and binded to [Goodcloud.xyz](htttps://www.goodcloud.xyz). (<a href="#add-device">how</a>)
 
 2.  Follow the steps below to create a Site to Site network.
 
@@ -278,7 +278,7 @@ If none of the devices can be used as the Main Node, make sure that:
 
 - One of routers has a public IP, either static public IP or dynamic public IP.
 - Port is open, default is 51830.
-- If your router is behind NAT, you may need to set up port forwading.
+- If the router is behind NAT, you may need to set up port forwading.
 
 You can also change port and try again.
 
@@ -290,11 +290,11 @@ If there are more than one device can be set as the Main Node, you need to choos
 
 If there is only one device can be set as the Main Node, it will go to the Site to Site detail page directly.
 
-The network is stopped by default, then you need to click Start button.
+The network is stopped by default, check the LAN IP, if it is OK then you need to click Start button, otherwise click Setting to change LAN IP.
 
 ![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-00.png)
 
-Wait a few minutes, the node's status will turn to "Connected to Site to Site".
+Wait a few minutes, the node's connect status will display as lines. Solid line means connected, dashed line means disconnected.
 
 ![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-01.png)
 

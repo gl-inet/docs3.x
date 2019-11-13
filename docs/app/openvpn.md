@@ -415,7 +415,7 @@ miami.proxpn.com - Miami</p>
 
 <details>
 <summary>TorGuard</summary>
-<p><a href="https://torguard.net/">Official Website</a></p>
+<p><a href="https://torguard.net/aff.php?aff=3040">Official Website</a></p>
 
 <ol type="1">
 

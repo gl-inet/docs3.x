@@ -1,24 +1,31 @@
-# Getting Started with GL.iNet 4G Smart Router
+# Getting Started with GL.iNet Mudi
 
 Models:
 
-GL-MiFi-A, GL-MiFi-V, GL-MiFi-AU, GL-MiFi-CE
+GL-E750
 
-![router](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/E750_interface.png)
 
 ---
 
 
 
-##1. Power on 
+## 1. Power on 
 
-For GL-MiFi with built-in battery, press the power button to turn on the device. 
+For GL-E750 with built-in battery, press the power button to turn on the device. 
+
+
+![battery](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/power.jpg)
+
+When Mudi's power is off, you can still check the battery status by clicking the power button. The LED screen will show battery status when you click the power button.
+
+![battery](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/battery.png)
 
 You can also plug the Micro USB power cable into the power port of the router to power on the device. That will also charge the built-in battery.
 
 Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/power.png)
 
 
 
@@ -35,9 +42,9 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 
 
 ### Connect via LAN 
-Connect your device to the LAN port of the router via Ethernet cable.
+Connect your Mudi to docking station first and then connect your device to the LAN port of the docking station via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/cable1.png)
 
 
 
@@ -46,7 +53,7 @@ Search for the SSID of the router in your device and input the default password:
 
 *Note: The SSID was printed on the bottom label of the router with the following format:*
 
-- **GL-MiFi-XXX**
+- **GL-E750-XXX**
 
 
 
@@ -60,7 +67,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** and **日本語**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/welcome.jpg)
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/language.png)
 
 *Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -78,4 +85,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/first-time_setup/main_ui.jpg)
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/main_ui.png)
