@@ -22,9 +22,12 @@ The contents of the external storage device are shared to LAN but not WAN and th
 | [GL-MiFi](https://docs.gl-inet.com/en/3/setup/4g_smart_router/applications/#file-sharing) | √ | √ | √ |
 | [GL-AR750](https://docs.gl-inet.com/en/3/setup/travel_ac_router/applications/#file-sharing) | √ | √ | √ |
 | [GL-AR750S-Ext (Slate)](https://docs.gl-inet.com/en/3/setup/slate/applications/#file-sharing) | √ | √ | √ |
-| GL-B1300* | √ | √ | - |
-
-*Firmware 3.0 for this model has not released yet.
+| [GL-B1300 (Convexa B)](https://docs.gl-inet.com/en/3/setup/convexa_b/applications/#file-sharing) | √ | √ | - |
+| [GL-S1300 (Convexa S)](https://docs.gl-inet.com/en/3/setup/convexa_s/applications/#file-sharing) | √ | √ | - |
+| [GL-X750 (Spitz)](https://docs.gl-inet.com/en/3/setup/spitz/applications/#file-sharing) | √ | √ | √ |
+| [GL-E750 (Mudi)](https://docs.gl-inet.com/en/3/setup/mudi/applications/#file-sharing) | √ | √ | √ |
+| [GL-MV1000 (Brume)](https://docs.gl-inet.com/en/3/setup/brume/applications/#file-sharing) | √ | √ | √ |
+| microuter-N300 | - | - | - |
 
 *Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
 
