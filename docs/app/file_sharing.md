@@ -88,18 +88,23 @@ If you are using Win10, you also need to enable SMB 1.0.
 **Method 1**
 
 **1)** Open Finder, Menu -> Go -> Connect to Server... 
+
 ![finder_connect_to_server](https://static.gl-inet.com/docs/en/3/app/file_sharing/finder-connect to server.png)
 
 **2)** Input `smb://192.168.8.1`, you need to change this if your router IP address is not 192.168.8.1
+
 ![connect_to_server](https://static.gl-inet.com/docs/en/3/app/file_sharing/connect to server.png)
 
 **3)** Click Connect.
+
 ![confirm_connect_to_server](https://static.gl-inet.com/docs/en/3/app/file_sharing/confirm connect to server.png)
 
 **4)** Input username and password, they are the same when you login Web Admin Panel.
+
 ![input_server_username_password](https://static.gl-inet.com/docs/en/3/app/file_sharing/input server username password.png)
 
 **5)** Then Finder will display files of USB disk.
+
 ![finder_connect_to_router_usb_disk](https://static.gl-inet.com/docs/en/3/app/file_sharing/finder connect to router usb disk.png)
 
 **Method 2**
