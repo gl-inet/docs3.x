@@ -64,11 +64,11 @@ Change the "max protocol = SMB2" to
 
 If you are using Win10, you also need to enable SMB 1.0. 
 
-- Win7
+- Windows 7
 
   Go to Control panel -> Network and Internet -> Network and Sharing Center. Find if your active network is **Home network**. If not, click it and change it to **Home network**.
 
-- Win10
+- Windows 10
 
   Go to Control panel -> Network and Internet -> HomeGroup. Click **Change network location**.
 
@@ -84,15 +84,27 @@ If you are using Win10, you also need to enable SMB 1.0.
 
 
 
-### Mac
+### Mac OS
+**Method 1**
+
+**1)** Open Finder, Menu -> Go -> Connect to Server... 
+
+![finder-connect to server](https://static.gl-inet.com/docs/en/3/app/file_sharing/finder-connect to server.png)
+
+**2)** Input `smb://192.168.8.1`, you need to change this if your router IP address is not 192.168.8.1
+![connect to server](https://static.gl-inet.com/docs/en/3/app/file_sharing/connect to server.png)
+**3)** Click Connect.
+![confirm connect to server](https://static.gl-inet.com/docs/en/3/app/file_sharing/confirm connect to server.png)
+**4)** Input username and password, they are the same when you login Web Admin Panel.
+![input server username password](https://static.gl-inet.com/docs/en/3/app/file_sharing/input server username password.png)
+**5)** Then Finder will display files of USB disk.
+![finder connect to router usb disk](https://static.gl-inet.com/docs/en/3/app/file_sharing/finder connect to router usb disk.png)
+
+**Method 2**
 
 **1)** Go to System Preferences -> Sharing -> File sharing. Click `Options` and then enable SMB.
 
-
-
 **2)** Open Finder. You should be able to find your router under Shared.
-
-
 
 ###iOS
 
