@@ -2,7 +2,7 @@
 
 ## V3.027 - Oct 16, 2019
 
-Firmware file: [gl-ar750-3.027.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.027.bin)
+Firmware file: [openwrt-ar750-3.027.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.027.bin)
 
 **New Features:**
 

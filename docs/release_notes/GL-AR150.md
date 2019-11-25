@@ -4,7 +4,7 @@
 
 ## V3.017 - Mar 11, 2019
 
-Firmware file: [gl-ar150-3.017.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.017.bin)
+Firmware file: [openwrt-ar150-3.017.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.017.bin)
 
 **New Features:**
 
