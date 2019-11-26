@@ -18,6 +18,7 @@ Firmware file:[openwrt-mifi-3.028.bin](https://s3.us-east-2.amazonaws.com/downlo
 - Added front-end networking mode icon change
 
 **Fix:**
+
 - Removed company MAC address detection
 
 
