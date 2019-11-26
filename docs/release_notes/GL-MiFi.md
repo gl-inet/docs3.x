@@ -6,6 +6,8 @@
 Firmware file:[openwrt-mifi-3.028.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.028.bin)
 
 **New Features:**
+
+
 - Added site to site
 - Added one-click channel optimization function
 - Added VPN Policies
