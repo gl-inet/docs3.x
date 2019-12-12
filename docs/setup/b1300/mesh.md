@@ -9,47 +9,45 @@
 
 1) メインノードを起動
 
-一つのb1300をメインノードとして使用します、[最初のセットアップ](https://docs.gl-inet.com/ja/3/setup/b1300/first-time_setup/)を完成して、WANポートにインターネットケーブルを接続します。 
+一つのb1300をメインノードとして使用します、[最初のセットアップ](https://docs.gl-inet.com/jp/3/setup/b1300/first-time_setup/)を完成して、WANポートにインターネットケーブルを接続します。 
 
 2) 子ノードを起動
    子ノードを起動します。
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/mesh/b1300_mesh_1.jpg)
 
-3) Start Pairing Mode on Main Nod
-メインノードでペアリングモードを起動します
+3) メインノードでペアリングモードを起動します
 
-Hold the **Mesh Button** for 5 seconds and release it until the **Mesh Light** blinking first accelerate. The main nod is on pairing mode.
+**メッシュボタン**を5秒間押し続け、**メッシュライト**が最初に点滅するそして加速するときにボタンをリリースします。メインノードがペアリングモードになります。
 
-**メッシュボタン**を5秒開に
 
-4) Start Pairing Mode on Sub Nods　子ノードでペアリングモードを起動します
+4) 子ノードをペアリングモードに起動します
 
-Follow step 3) to start pairing mode on sub nods, initial setup is unnecessary.
+手順3に従って子ノードでペアリングモードを起動します。
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/mesh/b1300_mesh_2.jpg)
 
-5) Establish Mesh Network メッシュネットワークをセットアップ
+5) メッシュネットワークを構築します
 
-The mesh network starts working when **Mesh LED Lights** of all nods are solid. 
+すべてのノードの**メッシュライト**が緑になると、メッシュネットワークが機能します。
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/mesh/b1300_mesh_3.jpg)
 
-## Mesh network established status
+## メッシュネットワークの状態
 
-The **Mesh** icon will replace **Wireless** after mesh network established. Repeater function will not avalible in mesh mode. 
+メッシュネットワークがセットアップ完了あと、**メッシュ**アイコンが**無線**を取り替えます。中継が機能できません。
 
-All SSIDs including 2.4Ghz and 5Ghz become one and same password.
+すべてのSSIDが一つのSSIDと一つのパスワードになります。
 
-You can find devices MAC address, connected nods and connection methods in mesh clients.
+デバイスMACアドレス、接続しているノードと接続方法がメッシュクライアントであります。
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/mesh/mesh.png)
 
-**CLIENTS** management in mesh
+メッシュ**クライアント**管理
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/mesh-client.png)
 
-You can manage all devices connected to mesh network in [CLIENTS](https://docs.gl-inet.com/en/3/setup/convexa_b/clients/). 
+[CLIENTS](https://docs.gl-inet.com/jp/3/setup/b1300/clients/)ですべてのメッシュネットワークに接続しているデバイスを管理できます。
 
-## Stop Mesh Network 
+## メッシュネットワークを停止
 
-When you want to stop the mesh network, hold the **Mesh Button** for 5 seconds and release it until the **Mesh Light** blinking 2nd accelerate.
+メッシュネットワークを停止する場合は、**メッシュボタン**を5秒間押し続け、**メッシュライト**が2番目に点滅するまで放します。
