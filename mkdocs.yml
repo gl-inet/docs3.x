@@ -87,6 +87,18 @@ pages:
         - VPN: 'setup/brume/vpn.md'
         - アプリケーション: 'setup/brume/applications.md'
         - その他の設定: 'setup/brume/more_settings.md'
+    - Convexa-B(GL-B1300):
+        - 基本設定: 'setup/b1300/first-time_setup.md'
+        - ネットワーク: 'setup/b1300/internet.md'
+        - 無線: 'setup/b1300/wireless.md'
+        - メッシュ: 'setup/b1300/mesh.md'
+        - クライアント: 'setup/b1300/clients.md'
+        - アップグレード: 'setup/b1300/upgrade.md'
+        - ファイアウォール: 'setup/b1300/firewall.md'
+        - VPN: 'setup/b1300/vpn.md'
+        - アプリケーション: 'setup/b1300/applications.md'
+        - その他の設定: 'setup/b1300/more_settings.md'
+        
 - 開発:
     - UART シリアル: 'dev/serial.md'
 - アプリケーション:
