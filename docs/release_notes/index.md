@@ -20,7 +20,7 @@
 | [VIXMINI](VIXMINI.md) | <a href="https://dl.gl-inet.com/firmware/vixmini/release/" target="_blank">3.003</a> | <a href="https://dl.gl-inet.com/firmware/vixmini/testing/" target="_blank">3.003</a> | <a href="https://dl.gl-inet.com/firmware/vixmini/clean/" target="_blank">3.0</a> |-|-|
 | [GL-MV1000 (Brume)](GL-MV1000.md) | <a href="https://dl.gl-inet.com/firmware/mv1000/release/" target="_blank">3.027</a> | <a href="https://dl.gl-inet.com/firmware/mv1000/testing/" target="_blank">3.100</a> |-|-|
 | [GL-X1200 (Amarok)](GL-X1200.md) | <a href="https://dl.gl-inet.com/firmware/x1200/release/" target="_blank">3.027</a> | <a href="https://dl.gl-inet.com/firmware/x1200/testing/" target="_blank">3.100</a> |-|-|
-| GL-E750 (Mudi)| <a href="https://dl.gl-inet.com/firmware/e750/release/" target="_blank">-</a> | <a href="https://dl.gl-inet.com/firmware/e750/testing/" target="_blank">3.100</a> |-|-|-|
+| [GL-E750 (Mudi)](GL-E750.md)| <a href="https://dl.gl-inet.com/firmware/e750/release/" target="_blank">3.100</a>| <a href="https://dl.gl-inet.com/firmware/e750/testing/" target="_blank">3.100</a> |-|-|-|
 
 
 *Use the .img file when you upgrade through <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/" target="_blank">Uboot</a>. Otherwise, please use the .tar file.

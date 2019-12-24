@@ -16,7 +16,7 @@ Change the password of the web Admin Panel, which must be at least 5 characters 
 
 LAN IP is the IP address that you use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/lan_ip.jpg)
+![lan ip](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/more_settings/lan_ip.png)
 
 
 
