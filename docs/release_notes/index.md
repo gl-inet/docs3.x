@@ -21,7 +21,7 @@
 | [GL-MV1000 (Brume)](GL-MV1000.md) | <a href="https://dl.gl-inet.com/firmware/mv1000/release/" target="_blank">3.027</a> | <a href="https://dl.gl-inet.com/firmware/mv1000/testing/" target="_blank">-</a> |-|-|
 | [GL-X1200 (Amarok)](GL-X1200.md) | <a href="https://dl.gl-inet.com/firmware/x1200/release/" target="_blank">3.027</a> | <a href="https://dl.gl-inet.com/firmware/x1200/testing/" target="_blank">3.100</a> |-|-|
 | [GL-E750 (Mudi)](GL-E750.md)| <a href="https://dl.gl-inet.com/firmware/e750/release/" target="_blank">3.100</a>| <a href="https://dl.gl-inet.com/firmware/e750/testing/" target="_blank">3.100</a> |-|-|-|
-
+| [Microuter-N300](Microuter-N300.md)| <a href="https://dl.gl-inet.com/firmware/n300/release/" target="_blank">3.025</a>| <a href="https://dl.gl-inet.com/firmware/n300/testing/" target="_blank">3.100</a> |-|-|-|
 
 *Use the .img file when you upgrade through <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/" target="_blank">Uboot</a>. Otherwise, please use the .tar file.
 
