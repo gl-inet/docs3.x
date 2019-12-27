@@ -1,0 +1,3 @@
+GL-X1200 is a 3G/4G wireless router with high-performance and stability, to meet with the requirements of wireless network connection for industrial users. Based on OpenWRT OS, it also offered an integrated platform of functions extension for developers, Makers, IoT integration and development.
+
+Please read this pdf [User Manual](https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf)
