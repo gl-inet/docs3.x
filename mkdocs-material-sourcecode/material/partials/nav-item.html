@@ -26,6 +26,7 @@
       <label id="microuter-n300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="brume_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="mudi_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-x1200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -75,6 +76,10 @@
           if (window.location.href.indexOf("mudi") != -1) {
             document.getElementById("mudi_label").innerHTML = ("Mudi");
             document.getElementById("mudi_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-x1200") != -1) {
+            document.getElementById("gl-x1200_label").innerHTML = ("GL-X1200");
+            document.getElementById("gl-x1200_label").style.display = "block";
           }
       </script>
 
@@ -194,6 +199,8 @@
         <a id="mudi_vpn" href="../../mudi/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="mudi_applications" href="../../mudi/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="mudi_more_settings" href="../../mudi/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="gl-x1200_first-time_setup" href="../../gl-x1200/first-time_setup/" style="display: none;" class="md-nav__link"></a>
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -436,7 +443,11 @@
             document.getElementById("mudi_applications").style.display = "block";
             document.getElementById("mudi_more_settings").innerHTML = ("More Settings");
             document.getElementById("mudi_more_settings").style.display = "block";  
-          
+          }
+
+          if (window.location.href.indexOf("gl-x1200") != -1) {
+            document.getElementById("gl-x1200_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-x1200_first-time_setup").style.display = "block";
           }
         
         </script> 

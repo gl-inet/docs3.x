@@ -56,8 +56,8 @@ pages:
     - GL-S1300: 'hardware/s1300/index.md'
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - GL-MV1000: 'hardware/mv1000/index.md'
-    - Domino Core: 'hardware/domino-core/index.md'
     - GL-X1200: 'hardware/x1200/index.md'
+    - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
     - Mini Router Series:
         - First-time Setup: 'setup/mini_router/first-time_setup.md'
@@ -155,7 +155,7 @@ pages:
         - VPN: 'setup/microuter-n300/vpn.md'
         - Applications: 'setup/microuter-n300/applications.md'
         - More Settings: 'setup/microuter-n300/more_settings.md'
-    - Brume(GL-MV1000):
+    - Brume (GL-MV1000):
         - First-time Setup: 'setup/brume/first-time_setup.md'
         - Internet: 'setup/brume/internet.md'
         - Clinets: 'setup/brume/clients.md'
@@ -164,7 +164,7 @@ pages:
         - VPN: 'setup/brume/vpn.md'
         - Applications: 'setup/brume/applications.md'
         - More Settings: 'setup/brume/more_settings.md'
-    - Mudi(GL-E750):
+    - Mudi (GL-E750):
         - First-time Setup: 'setup/mudi/first-time_setup.md'
         - Internet: 'setup/mudi/internet.md'
         - Wireless: 'setup/mudi/wireless.md'
@@ -174,6 +174,8 @@ pages:
         - VPN: 'setup/mudi/vpn.md'
         - Applications: 'setup/mudi/applications.md'
         - More Settings: 'setup/mudi/more_settings.md'
+    - Amarok (GL-X1200):
+        - First-time Setup: 'setup/gl-x1200/first-time_setup.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'
