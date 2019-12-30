@@ -1,5 +1,31 @@
 # GL-AR750S-Ext (Slate) - Release Notes
 
+## V3.100 - Dec 30, 2019
+
+Firmware file:
+
+[openwrt-ar750s-3.025.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.100.img)
+
+**New Features:**
+
+- Added Site to Site
+- Added cells info
+- Added app status interface
+- Added DNS encryption
+- Added Channel Optimization
+- Added Tor function
+- Added internet kill switch
+
+**Fixed:**
+
+- Removed ipk auto re-install function and changed to save ipk list
+- Changed tx power to showed by levels
+
+**Improvements:**
+
+- Optimized wireguard auto reconnection
+- Optimized wireguard DNS resolution failure
+
 
 ## V3.025 - Jul 3, 2019
 
@@ -28,8 +54,6 @@ Firmware file:
 
 - Removed company MAC address detection
 - Fixed other bugs 
-
-
 
 ## V3.009 - Dec 12, 2018
 

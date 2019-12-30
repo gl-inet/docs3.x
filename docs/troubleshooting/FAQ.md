@@ -1,6 +1,6 @@
 # FAQ
 
-##General
+## General
 
 <details>
 <summary>Why can't I access the router through 192.168.8.1?</summary>
@@ -163,7 +163,7 @@
 
 <details>
 <summary>Can it work with 3G/4G USB modem?</summary>
-<p>Yes, only Microuter (GL-USB150) doesn't support USB modem. Please find the list of compatible USB modem <a href="http://127.0.0.1:8000/setup/mini_router/internet/#compatible-modems">here</a>.</p>
+<p>Yes, only Microuter (GL-USB150) doesn't support USB modem. Please find the list of compatible USB modem <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#compatible-modems">here</a>.</p>
 </details>
 
 <details>
