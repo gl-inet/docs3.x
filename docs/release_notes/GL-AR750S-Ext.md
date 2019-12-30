@@ -4,7 +4,7 @@
 
 Firmware file:
 
-[openwrt-ar750s-3.025.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.100.img)
+[openwrt-ar750s-3.100.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.100.img)
 
 **New Features:**
 
