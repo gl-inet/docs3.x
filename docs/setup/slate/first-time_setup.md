@@ -68,7 +68,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 
 ![password](https://static.gl-inet.com/docs/jp/3/setup/slate/first-time_setup/password.png)
 
-*注意: このパスワードは、管理者パネルまたはLinuxセステムで利用します、WiFiパスワードが変わりません。*
+*注意: このパスワードは、管理者パネルまたはLinuxシステムで利用し、WiFiパスワードが変わりません。*
 
 
 
