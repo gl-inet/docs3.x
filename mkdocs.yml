@@ -176,6 +176,10 @@ pages:
         - More Settings: 'setup/mudi/more_settings.md'
     - Amarok (GL-X1200):
         - First-time Setup: 'setup/gl-x1200/first-time_setup.md'
+    - GL-S10:
+        - First-time Setup: 'setup/gl-s10/first-time_setup.md'
+        - API Manual: 'setup/gl-s10/api_manual.md'
+        - Firmware Complilation Guide: 'setup/gl-s10/firmware_compilation_guide.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'
