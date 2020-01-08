@@ -212,6 +212,7 @@ pages:
     - Captive Portal: 'troubleshooting/captive_portal.md'
     - Repeat Failure: 'troubleshooting/repeat_failure.md'
     - FAQs: 'troubleshooting/FAQ.md'
+    - Use GL.iNet app: 'troubleshooting/use_glinet_app.md'
 - Release Notes:
     - Firmware Releases: 'release_notes/index.md'
     - GL-AR150: 'release_notes/GL-AR150.md'
