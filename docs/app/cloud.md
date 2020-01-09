@@ -99,7 +99,7 @@ Follow the steps below to add your device.
 
 ![add device](https://static.gl-inet.com/goodcloud/docs/add-device.png)
 
-If the device and browser are at the same <a href="https://en.wikipedia.org/wiki/Local_area_network" target="_blank">LAN</a>， it will be automatically discovered, and can be found when click "Device" list. DDNS or Device ID can be found on the back of your router.
+If the router and PC(which opened goodcloud.xyz page) are at the same public IP，it will be automatically discovered, and can be found when click "Device" list. DDNS or Device ID can be found on the back of your router.
 
     PS: Input "DDNS" / "Device ID" here just to verify that the router is really 
     original/valid. DDNS feature and the Cloud feature are separate things.
