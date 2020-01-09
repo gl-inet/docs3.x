@@ -1,4 +1,4 @@
-# Microuter-N300 - Release Notes
+# microuter-N300 - Release Notes
 
 ## V3.025 - Aug 2,2019
 
