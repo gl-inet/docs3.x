@@ -72,7 +72,7 @@ Revert the router to factory default settings. All your settings, applications a
 
 ## Advanced
 
-If you can not find Advanced menu item, please follow the step to install it.
+If you can not find Advanced menu item, please follow the steps to install it.
 
 ![how to instlal luci](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/how_to_install_luci.png)
 
