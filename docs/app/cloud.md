@@ -272,6 +272,8 @@ After you had chosen the devices, click Continue.
 
 Then, it will test each device if it can be set as the Main Node of Site to Site.
 
+We suggest that the router with strong performance be the Main Node.
+
 ![testing eacg device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-01.png)
 
 If none of the devices can be used as the Main Node, make sure that:
