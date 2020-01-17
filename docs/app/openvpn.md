@@ -347,7 +347,7 @@ miami.proxpn.com - Miami</p>
 <summary>PureVPN</summary>
 <p><a href="https://billing.purevpn.com/aff.php?aff=35535">Official Website</a></p>
 
-<a href="https://s3-us-west-1.amazonaws.com/heartbleed/linux/linux-files.zip">Download</a> directly.
+<a href="https://s3-us-west-1.amazonaws.com/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
 
 </details>
 
