@@ -153,11 +153,13 @@ You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsand
 
 ## 4) Tethering
 
-Using USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
+Using a USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
 
 For host-less modem tethering, plug it into the USB port of the router.
 
-For smartphone tethering, connect it to the USB port of the router and click **Trust** to continue when the message pops up in your smartphone.
+For iPhone tethering, connect it to the USB port of the router and go to Settings->Personal Hotspot->Allow Others to Join, then click **Trust** to continue when the message pops up in your iPhone.(If the connection is failed please uncheck and check again allow Others to Join)
+
+For Android phone tethering, connect it to the USB port of the router then check Settings->Personal hotspot->Usb network sharing.
 
 After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 

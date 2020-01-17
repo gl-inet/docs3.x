@@ -277,7 +277,6 @@ Tips: if the tar file is too big to upload, you can upload single ovpn file.</p>
 
 
 
-
 <details>
 <summary>PIA</summary>
 <p><a href="https://www.privateinternetaccess.com/pages/buy-vpn/glinet">Official Website</a></p>
@@ -286,9 +285,22 @@ Tips: if the tar file is too big to upload, you can upload single ovpn file.</p>
 
 </details>
 
+<details>
+<summary>PIVPN</summary>
+<p><a href="http://www.pivpn.io/">Official Website</a></p>
+
+If Passphrase is needed please add askpass parameter.
+
+If UserName/Password is needed please add auth-user-pass parameter.
+
+</details>
 
 
+<details>
+<summary>Proton VPN</summary>
+<p><a href="https://protonvpn.com/">Official Website</a></p>
 
+</details>
 
 <details>
 <summary>Proxy.sh</summary>
@@ -335,7 +347,7 @@ miami.proxpn.com - Miami</p>
 <summary>PureVPN</summary>
 <p><a href="https://billing.purevpn.com/aff.php?aff=35535">Official Website</a></p>
 
-<a href="https://s3-us-west-1.amazonaws.com/heartbleed/linux/linux-files.zip">Download</a> directly.
+<a href="https://s3-us-west-1.amazonaws.com/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
 
 </details>
 

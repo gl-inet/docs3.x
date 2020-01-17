@@ -1,14 +1,10 @@
 # MORE SETTINGS
 
-
-
 ## Admin Password
 
 Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
 
 ![admin password](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/admin_password.png)
-
-
 
 ---
 
@@ -18,8 +14,6 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 ![lan ip](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/lan_ip.png)
 
-
-
 ---
 
 ## Time Zone
@@ -27,7 +21,6 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
 ![time zone](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/time_zone.png)
-
 
 ---
 
@@ -45,8 +38,6 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 ![custom dns server](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/custom_dns.png)
 
-
-
 ---
 
 ## Button Settings
@@ -54,8 +45,6 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client or Power saving mode.
 
 ![button settings](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/button_setting.png)
-
-
 
 ---
 
@@ -71,8 +60,6 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 ![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
 
-
-
 ---
 
 ## Revert Firmware
@@ -81,11 +68,15 @@ Revert the router to factory default settings. All your settings, applications a
 
 ![revert firmware](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/revert_firmware.png)
 
-
-
 ---
 
 ## Advanced
+
+If you can not find Advanced menu item, please follow the steps to install it.
+
+![how to instlal luci](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/how_to_install_luci.png)
+
+After it install successfully, you will find the Advanced menu item.
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 

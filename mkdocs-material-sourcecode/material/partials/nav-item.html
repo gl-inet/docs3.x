@@ -26,6 +26,8 @@
       <label id="microuter-n300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="brume_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="mudi_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-x1200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-s10_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -75,6 +77,14 @@
           if (window.location.href.indexOf("mudi") != -1) {
             document.getElementById("mudi_label").innerHTML = ("Mudi");
             document.getElementById("mudi_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-x1200") != -1) {
+            document.getElementById("gl-x1200_label").innerHTML = ("GL-X1200");
+            document.getElementById("gl-x1200_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-s10") != -1) {
+            document.getElementById("gl-s10_label").innerHTML = ("GL-S10");
+            document.getElementById("gl-s10_label").style.display = "block";
           }
       </script>
 
@@ -194,6 +204,12 @@
         <a id="mudi_vpn" href="../../mudi/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="mudi_applications" href="../../mudi/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="mudi_more_settings" href="../../mudi/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="gl-x1200_first-time_setup" href="../../gl-x1200/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="gl-s10_first-time_setup" href="../../gl-s10/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-s10_api_manual" href="../../gl-s10/api_manual/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-s10_firmware_compilation_guide" href="../../gl-s10/firmware_compilation_guide/" style="display: none;" class="md-nav__link"></a>
 
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -436,7 +452,20 @@
             document.getElementById("mudi_applications").style.display = "block";
             document.getElementById("mudi_more_settings").innerHTML = ("More Settings");
             document.getElementById("mudi_more_settings").style.display = "block";  
-          
+          }
+
+          if (window.location.href.indexOf("gl-x1200") != -1) {
+            document.getElementById("gl-x1200_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-x1200_first-time_setup").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("gl-s10") != -1) {
+            document.getElementById("gl-s10_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-s10_first-time_setup").style.display = "block";
+            document.getElementById("gl-s10_api_manual").innerHTML = ("API Manual");
+            document.getElementById("gl-s10_api_manual").style.display = "block";
+            document.getElementById("gl-s10_firmware_compilation_guide").innerHTML = ("Firmware Compilation Guide");
+            document.getElementById("gl-s10_firmware_compilation_guide").style.display = "block";
           }
         
         </script> 
