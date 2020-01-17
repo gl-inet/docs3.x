@@ -194,6 +194,7 @@ pages:
     - qDslrDashboard: 'app/qdslrdashboard.md'
     - EasyTether: 'app/tether.md'
     - Tor: 'app/tor.md'
+    - Canera: 'app/camera.md'
 - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
