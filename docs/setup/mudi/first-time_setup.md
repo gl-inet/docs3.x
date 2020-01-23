@@ -10,7 +10,23 @@ GL-E750
 
 
 
-## 1. Power on 
+## 1. Insert a MicroSD Card and a SIM Card into Mudi
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=l9dxJUL7lhA&t=24s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+1 ) Turn to the backside of Mudi.
+
+2 ) Poke your finger into the hole near the edge of the lid.
+
+3 ) Slide along the edge.
+
+4 ) When the lid slightly goes up (from around 25 degrees to 30 degrees or so), pull it up for the opening.
+
+5 ) Insert the card into the card slot as suggested by the symbol near the corner.
+
+6 ) Press the lid down to close the cover plate.
+
+## 2. Power on 
 
 For GL-E750 with built-in battery, press the power button to turn on the device. 
 
@@ -33,7 +49,7 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 
 
 
-## 2. Connect 
+## 3. Connect 
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
@@ -58,7 +74,7 @@ Search for the SSID of the router in your device and input the default password:
 
 
 
-## 3. Access the Web Admin Panel
+## 4. Access the Web Admin Panel
 
 Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel. 
 
