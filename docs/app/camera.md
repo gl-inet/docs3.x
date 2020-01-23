@@ -28,7 +28,7 @@ The current router firmware version 3.0 does not contain USB Webcam control inte
 Go to
 **APPLICATIONS**, then 
 **Plug-ins**,
-Install two apps:
+Install two apps:dd
 
 1. luci-app-mjpg-streamer
 2. kmod-video-uvc
