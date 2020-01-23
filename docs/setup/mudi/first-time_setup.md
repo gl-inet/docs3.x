@@ -1,6 +1,6 @@
 # Getting Started with GL.iNet Mudi
 
-Models:
+Model:
 
 GL-E750
 
@@ -12,7 +12,7 @@ GL-E750
 
 ## 1. Insert a MicroSD Card and a SIM Card into Mudi
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=l9dxJUL7lhA&t=24s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9dxJUL7lhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 1 ) Turn to the backside of Mudi.
 
