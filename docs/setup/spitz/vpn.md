@@ -23,7 +23,7 @@ Starting from firmware version 3.100,
 
 Please refer to the links below for the detailed setup instruction:
 
-- [**InternetKillSwitch**](https://docs.gl-inet.com/en/3/app/internet_kill_switch/)
+- [**Internet Kill Switch**](https://docs.gl-inet.com/en/3/app/internet_kill_switch/)
 
 
 
