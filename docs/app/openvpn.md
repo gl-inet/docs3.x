@@ -170,16 +170,20 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 <li>At the new screen, in the 'Server configuration' tab, the desired parameters can be configured. For the purpose of setting OpenVPN for your DD-WRT Router, choose 'OpenVPN' from the Protocol drop down menu. Your desired country and server group, as described below, need to be defined too:</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/Cyberghost3.png" /></p>
 
-* Protocol: For Router configurations, please choose OpenVPN
+<ul>
+<li>Protocol: For Router configurations, please choose OpenVPN</li>
 
-* Country: Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.
-* Server group: Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use:
+<li>Country: Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.</li>
 
-    UDP allows higher speed than the TCP version, but can result in broken downloads in some cases. This is the default setting.
+<li>Server group: Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use:
 
-    TCP allows more stable connections than the UDP version, but is a bit slower. Choose this version, if you have recurrent connection issues such as sudden disconnections.
+<p>UDP allows higher speed than the TCP version, but can result in broken downloads in some cases. This is the default setting.</p>
 
-After setting up your preferred settings, save them with 'Save and download configuration'.
+<p>TCP allows more stable connections than the UDP version, but is a bit slower. Choose this version, if you have recurrent connection issues such as sudden disconnections.</p>
+</li>
+</ul>
+<p>After setting up your preferred settings, save them with 'Save and download configuration'.</p>
+
 </ol>
 </details>
 

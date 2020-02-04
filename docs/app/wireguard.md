@@ -78,11 +78,11 @@ There are different methods to input the configurations.
 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations1.jpg)
 
-You can copy the `JSON` configurations from your server to `Configuration` or input the settings manually.
+You can copy the `JSON` or `Plain Text` configurations from your server to `Configuration` or input the settings manually.
 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/other9.1.png)
 
-After copy the `JSON` from your server, you can paste it in the `Configuration` and then click **Add** to finish the WireGuard Client setup.
+After copy the `JSON` or `Plain Text` from your server, you can paste it in the `Configuration` and then click **Add** to finish the WireGuard Client setup.
 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/wire1.1.PNG)
 
