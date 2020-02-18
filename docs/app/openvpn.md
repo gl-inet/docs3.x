@@ -289,7 +289,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>PrivateVPN</summary>
-<p><a href="https://privatevpn.com/rt/bsZD">Official Website</a></p>
+<p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3">Official Website</a></p>
 
 <a href="https://privatevpn.com/support/getting-started/miscellaneous/openvpn/openvpn-configurations-files">Download</a> directly.
 
