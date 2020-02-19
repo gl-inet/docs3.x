@@ -259,7 +259,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 <summary>NordVPN</summary>
 <p><a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902">Official Website</a>
 
-Tips: if the tar file is too big to upload, you can upload single ovpn file.</p>
+Tips: if the zip file is too big to upload, you can upload single ovpn file.</p>
 
 <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">Download</a> directly.
 
