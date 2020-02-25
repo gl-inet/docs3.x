@@ -104,7 +104,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 
 <details>
 <summary>AirVPN</summary>
-<p><a href="https://airvpn.org/?referred_by=402389">Official Website</a></p>
+<p><a href="https://airvpn.org/?referred_by=402389" target="_blank">Official Website</a></p>
 
 <ol type="1">
 <li>Login your AirVPN acoount</li>
@@ -122,7 +122,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 
 <details>
 <summary>Astrill</summary>
-<p><a href="https://www.astrill.com/a/k84h2c1apba0">Official Website</a></p>
+<p><a href="https://www.astrill.com/a/k84h2c1apba0" target="_blank">Official Website</a></p>
 
 <p>*Information quoted from <a href="https://wiki.astrill.com/Astrill_Setup_Manual:How_to_configure_OpenVPN_with_OpenVPN_application_on_Windows">Astrill official instruction</a></p>
 
@@ -245,7 +245,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 
 <details>
 <summary>Ivacy</summary>
-<p><a href="https://billing.ivacy.com/page/22852">Official Website</a></p>
+<p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
 
 <a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip">Download</a> directly.
 
@@ -257,7 +257,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 
 <details>
 <summary>NordVPN</summary>
-<p><a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902">Official Website</a>
+<p><a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902" target="_blank">Official Website</a>
 
 Tips: if the zip file is too big to upload, you can upload single ovpn file.</p>
 
@@ -270,7 +270,7 @@ Tips: if the zip file is too big to upload, you can upload single ovpn file.</p>
 
 <details>
 <summary>PIA</summary>
-<p><a href="https://www.privateinternetaccess.com/pages/buy-vpn/glinet">Official Website</a></p>
+<p><a href="https://www.privateinternetaccess.com/pages/buy-vpn/glinet" target="_blank">Official Website</a></p>
 
 <a href="https://www.privateinternetaccess.com/openvpn/openvpn.zip">Download</a> directly.
 
@@ -289,7 +289,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>PrivateVPN</summary>
-<p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3">Official Website</a></p>
+<p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3" target="_blank">Official Website</a></p>
 
 <a href="https://privatevpn.com/support/getting-started/miscellaneous/openvpn/openvpn-configurations-files">Download</a> directly.
 
@@ -298,11 +298,11 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>Proton VPN</summary>
-<p><a href="https://protonvpn.com/">Official Website</a></p>
+<p><a href="https://proton.go2cloud.org/SH9s" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
-<li>Login your Proton VPN account.</li>
+<li>Login your <a href="https://proton.go2cloud.org/SH9s">Proton VPN</a> account.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/proton1.png" /></p>
 <li>Click "Download" in the left-hand side.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/proton2.png" /></p>
@@ -311,12 +311,12 @@ If UserName/Password is needed please add auth-user-pass parameter.
 <li>Choose the protocol based on your preference and download the configuration files.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/proton4.png" /></p>
 </ol>
-
 </details>
+
 
 <details>
 <summary>Proxy.sh</summary>
-<p><a href="https://proxy.sh/panel/aff.php?aff=1458">Official Website</a></p>
+<p><a href="https://proxy.sh/panel/aff.php?aff=1458" target="_blank">Official Website</a></p>
 
 <p>Download according to the service that you have subscribed:</p>
 <p><a href="https://proxy.sh/s/openvpn">$2 customers</a></p>
@@ -332,7 +332,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>Proxpn</summary>
-<p><a href="https://secure.proxpn.com/?a_aid=5ac450e27df6f">Official Website</a></p>
+<p><a href="https://secure.proxpn.com/?a_aid=5ac450e27df6f" target="_blank">Official Website</a></p>
 
 <a href="https://www.proxpn.com/updater/locations.html">Download</a> directly.
 
@@ -344,7 +344,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>PureVPN</summary>
-<p><a href="https://billing.purevpn.com/aff.php?aff=35535">Official Website</a></p>
+<p><a href="https://billing.purevpn.com/aff.php?aff=35535" target="_blank">Official Website</a></p>
 
 <a href="https://s3-us-west-1.amazonaws.com/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
 
@@ -356,7 +356,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>SaferVPN</summary>
-<p><a href="https://safervpn.com/?a_aid=563">Official Website</a></p>
+<p><a href="https://safervpn.com/?a_aid=563" target="_blank">Official Website</a></p>
 
 <a href="https://support.safervpn.com/hc/en-us/articles/360035425314-What-are-SaferVPN-s-OpenVPN-configuration-ovpn-files-for-manual-setup-">Download</a> directly.
 
@@ -391,7 +391,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>Surfshark</summary>
-<p><a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400">Official Website</a></p>
+<p><a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400" target="_blank">Official Website</a></p>
 
 <p>Login and <a href="https://api.surfshark.com/v1/server/configurations">Download</a> directly.</p>
 
@@ -403,7 +403,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>TCPVPN</summary>
-<p><a href="https://www.tcpvpn.com/home">Official Website</a></p>
+<p><a href="https://www.tcpvpn.com/home" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
@@ -422,22 +422,19 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 
 
-
-
 <details>
 <summary>TorGuard</summary>
-<p><a href="https://torguard.net/aff.php?aff=3040">Official Website</a></p>
+
+<p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
 
 <ol type="1">
-
 <li>
-<p>If you are using TorGuard, you need to login the control panel and generate the ovpn file from the "Tools" menu. Please select "All", using udp or tcp and select Cipher. Then press <code>Generate Config</code> and the zip file will be downloaded automatically.<img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/2.x/app/src/torguard.jpg" /></p>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040">TorGuard</a>, you need to login the control panel and generate the ovpn file from the "Tools" menu. Please select "All", using udp or tcp and select Cipher. Then press <code>Generate Config</code> and the zip file will be downloaded automatically.<img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/2.x/app/src/torguard.jpg" /></p>
 </li>
 <li>
-<p>The username and password for openvpn connection is different from your control panel login. You can change the service username and password in Security manual. You can generate a random login username and password.<img alt="Set password" src="https://static.gl-inet.com/docs/en/2.x/app/src/torguard1.jpg" /></p>
+    <p>The username and password for openvpn connection is different from your control panel login. You can change the service username and password in Security manual. You can generate a random login username and password.<img alt="Set password" src="https://static.gl-inet.com/docs/en/2.x/app/src/torguard1.jpg" /></p>
 </li>
 </ol>
-
 </details>
 
 
