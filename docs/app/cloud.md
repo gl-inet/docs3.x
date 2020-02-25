@@ -37,7 +37,7 @@ GoodCloud only support firmware v3.021 and above right now, we recommend to upgr
 
 This document is based on the latest testing firmware.
 
-### Donwload firmware file
+### Download firmware file
 
 Choose the Pre-release column of this url <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">https://docs.gl-inet.com/en/3/release_notes/</a>
 
