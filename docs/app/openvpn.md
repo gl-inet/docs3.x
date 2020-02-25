@@ -490,7 +490,7 @@ according to the server location.</p>
 
 <details>
 <summary>VPN Unlimited</summary>
-<p><a href="https://www.vpnunlimitedapp.com/en/">Official Website</a></p>
+<p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
