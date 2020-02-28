@@ -48,8 +48,19 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 *Note: Hot plug for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
 
 
+## 3.Power Off
 
-## 3. Connect 
+Press the power button for 5 seconds to turn off the device. When you press the the power button for 3 seconds, the OLED screen will show **Power Saving On** first. **KEEP PRESSING** the power button, you will see **Shut Down** under the **Power Saving On** and it will countdown 3 seconds and turn off the device.
+
+
+## 4. Power Saving
+
+Press the power button for 3 seconds to turn on the power saving mode, you will see **Power Saving On** on the OLED screen.
+
+Also, press the power button for 3 seconds to turn off the power saving mode, you will see **Power Saving Off** on the OLED screen.
+
+
+## 5. Connect 
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
@@ -74,7 +85,7 @@ Search for the SSID of the router in your device and input the default password:
 
 
 
-## 4. Access the Web Admin Panel
+## 6. Access the Web Admin Panel
 
 Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel. 
 
