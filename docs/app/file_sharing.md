@@ -46,9 +46,35 @@ You may be able to access the share via `\\192.168.8.1\` or `smb://192.168.8.1/`
 
 ### Windows
 
-**1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. 
+#### Method 1: Samba 2.0 (SMB2.0) Support: 
+We suggest Samba 2.0 support for Window 10 users.
 
-#### Samba (SMB) Support: 
+Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not enabled by default in Window 10. You may modify the router Samba configuration.
+
+![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/smb1.0.png)
+
+1). SSH into your router, you can gain control of both the router and the network that the rotuer is controlling. You can refer to the following link: [https://docs.gl-inet.com/en/3/app/ssh/](https://docs.gl-inet.com/en/3/app/ssh/)
+
+2). Modify the Samba configuration file, type the following command:
+
+`sed -i 's/security = share/security = user/' /etc/samba/smb.conf.template`
+
+3). Restart the Samba service, type the following command:
+
+`/etc/init.d/samba restart`
+
+![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/ssh2.png)
+
+4). Open 'This PC' and type `\\your router IP Address`, such as `\\192.168.8.1`.
+
+![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/Filesharing.png)
+
+5). You can view files in your USB flash drive through GL.iNet router now.
+
+
+#### Method 2: Samba 1.0 (SMB1.0) Support: 
+
+**1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. 
 
 3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](https://docs.gl-inet.com/en/3/app/ssh/#winscp), edit /etc/samba/smb.conf.template . 
 
