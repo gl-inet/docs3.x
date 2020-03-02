@@ -1,6 +1,6 @@
 # Getting Started with GL.iNet Mudi
 
-Models:
+Model:
 
 GL-E750
 
@@ -10,7 +10,23 @@ GL-E750
 
 
 
-## 1. Power on 
+## 1. Insert a MicroSD Card and a SIM Card into Mudi
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9dxJUL7lhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+1 ) Turn to the backside of Mudi.
+
+2 ) Poke your finger into the hole near the edge of the lid.
+
+3 ) Slide along the edge.
+
+4 ) When the lid slightly goes up (from around 25 degrees to 30 degrees or so), pull it up for the opening.
+
+5 ) Insert the card into the card slot as suggested by the symbol near the corner.
+
+6 ) Press the lid down to close the cover plate.
+
+## 2. Power on 
 
 For GL-E750 with built-in battery, press the power button to turn on the device. 
 
@@ -32,8 +48,19 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 *Note: Hot plug for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
 
 
+## 3. Power Off
 
-## 2. Connect 
+Press the power button for 5 seconds to turn off the device. When you press the the power button for 3 seconds, the OLED screen will show **Power Saving On** first. **KEEP PRESSING** the power button, you will see **Shut Down** under the **Power Saving On** and it will countdown 3 seconds and turn off the device.
+
+
+## 4. Power Saving
+
+Press the power button for 3 seconds to turn on the power saving mode, you will see **Power Saving On** on the OLED screen.
+
+Also, press the power button for 3 seconds to turn off the power saving mode, you will see **Power Saving Off** on the OLED screen.
+
+
+## 5. Connect 
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
@@ -58,7 +85,7 @@ Search for the SSID of the router in your device and input the default password:
 
 
 
-## 3. Access the Web Admin Panel
+## 6. Access the Web Admin Panel
 
 Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel. 
 
