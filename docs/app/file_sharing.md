@@ -47,7 +47,7 @@ You may be able to access the share via `\\192.168.8.1\` or `smb://192.168.8.1/`
 ### Windows
 
 #### Method 1: Samba 2.0 (SMB2.0) Support: 
-We suggest Samba 2.0 support for Window 10 users.
+We suggest Samba 2.0 support for Windows 10 users.
 
 Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not enabled by default in Window 10. You may modify the router Samba configuration.
 
@@ -76,7 +76,7 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 **1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. 
 
-3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](https://docs.gl-inet.com/en/3/app/ssh/#winscp), edit /etc/samba/smb.conf.template . 
+3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](https://docs.gl-inet.com/en/3/app/ssh/#winscp), edit `/etc/samba/smb.conf.template`. 
 
 ![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/winscpsmb.jpg)
 
@@ -88,7 +88,7 @@ Change the "max protocol = SMB2" to
 
 ![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/changesmbtemp.jpg)
 
-If you are using Win10, you also need to enable SMB 1.0. 
+If you are using Windows 10, you also need to enable SMB 1.0. 
 
 - Windows 7
 
@@ -96,7 +96,7 @@ If you are using Win10, you also need to enable SMB 1.0.
 
 - Windows 10
 
-  Go to Control panel -> Network and Internet -> HomeGroup. Click **Change network location**.
+  Change your network to private by this [tutorial](https://www.digitalcitizen.life/how-set-your-networks-location-private-or-public-windows-10).
 
   Go to Control Panel -> Programs and Features -> Turn Windows features on or off -> Find SMB 1.0/CIFS file sharing support, check all SMB1 related items, click apply and restart your computer.
   
