@@ -13,12 +13,14 @@ Firmware file:
 - Added "kmod-nf-nathelper" kernel package in order to solve the problem that FTP server couldn't be found
 
 **Fixed:**
+
 - Disabled the ipv6 function due to leak problem
 - Fixed initialization failed problem on Tor
 - Fixed the problem : Unable to access web panel when 83 port is open
 - Fixed the problem : Last changed ovpn rules back to default setting after system reboot 
 
 **Improvements:**
+
 - Optimized web access problem when upgrading firmware with low version
 - Optimized splash screen problem when upgrading
 - Optimized AR750S pictures and upgrade hints
