@@ -1,5 +1,31 @@
 # GL-AR750S-Ext (Slate) - Release Notes
 
+## V3.101 - Mar 3, 2020
+
+Firmware file:
+
+[openwrt-ar750s-3.101.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.101.img)
+
+**New Features:**
+
+- Added hints in Tor function
+- Added hint in upgrade page :"If unable to access router web panel after the firmware upgradation completed, please try to clear the browser cache
+- Added "kmod-nf-nathelper" kernel package in order to solve the problem that FTP server couldn't be found
+
+**Fixed:**
+- Disabled the ipv6 function due to leak problem
+- Fixed initialization failed problem on Tor
+- Fixed the problem : Unable to access web panel when 83 port is open
+- Fixed the problem : Last changed ovpn rules back to default setting after system reboot 
+
+**Improvements:**
+- Optimized web access problem when upgrading firmware with low version
+- Optimized splash screen problem when upgrading
+- Optimized AR750S pictures and upgrade hints
+- Optimized Japanese translation
+
+---
+
 ## V3.100 - Dec 30, 2019
 
 Firmware file:
@@ -25,6 +51,8 @@ Firmware file:
 
 - Optimized wireguard auto reconnection
 - Optimized wireguard DNS resolution failure
+
+---
 
 
 ## V3.025 - Jul 3, 2019
@@ -54,6 +82,8 @@ Firmware file:
 
 - Removed company MAC address detection
 - Fixed other bugs 
+
+---
 
 ## V3.009 - Dec 12, 2018
 
