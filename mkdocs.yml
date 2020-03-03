@@ -57,6 +57,7 @@ pages:
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - GL-MV1000: 'hardware/mv1000/index.md'
     - GL-X1200: 'hardware/x1200/index.md'
+    - GL-E750: 'hardware/gl-e750/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
     - Mini Router Series:
@@ -189,6 +190,7 @@ pages:
     - OpenVPN: 'app/openvpn.md'
     - Shadowsocks: 'app/ss.md'
     - WireGuard: 'app/wireguard.md'
+    - Internet Kill Switch: 'app/internet_kill_switch.md'
     - VPN Policies: 'app/vpn_policies.md'
     - File Sharing: 'app/file_sharing.md'
     - DLNA Server: 'app/dlnaserver.md'
@@ -200,7 +202,7 @@ pages:
     - qDslrDashboard: 'app/qdslrdashboard.md'
     - EasyTether: 'app/tether.md'
     - Tor: 'app/tor.md'
-    - Canera: 'app/camera.md'
+    - Camera: 'app/camera.md'
 - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
@@ -213,7 +215,8 @@ pages:
     - Captive Portal: 'troubleshooting/captive_portal.md'
     - Repeat Failure: 'troubleshooting/repeat_failure.md'
     - Use GL.iNet app: 'troubleshooting/use_glinet_app.md'
-    - FAQs: 'troubleshooting/FAQ.md'
+    - Extensible Authentication Protocol: 'troubleshooting/eap.md'
+    - FAQs: 'troubleshooting/faq.md'
 - Release Notes:
     - Firmware Releases: 'release_notes/index.md'
     - GL-AR150: 'release_notes/GL-AR150.md'

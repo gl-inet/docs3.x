@@ -6,31 +6,9 @@ Dynamic Domain Name Service(DDNS) is a service used to map a domain name to the 
 
 DDNS requires firmware v3.010 or higher. 
 
-This document is based on the latest testing firmware.
+### Download firmware file
 
-### Donwload firmware file
-
-GL-X750(Spitz) testing firmware <a href="https://dl.gl-inet.com/firmware/x750/testing/" target="_blank">download</a>
-
-GL-AR750S(Slate) testing firmware <a href="https://dl.gl-inet.com/firmware/ar750s/testing/" target="_blank">download</a>
-
-GL-AR750 testing firmware <a href="https://dl.gl-inet.com/firmware/ar750/testing/" target="_blank">download</a>
-
-GL-B1300 testing firmware <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">download</a>
-
-GL-USB150(Microuter) testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">download</a>
-
-GL-AR150 testing firmware <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank">download</a>
-
-GL-AR300M(Shadow) testing firmware <a href="https://dl.gl-inet.com/firmware/ar300m/testing/" target="_blank">download</a>
-
-GL-MT300N-V2(Mango) testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n-v2/testing/" target="_blank">download</a>
-
-GL-MT300A testing firmware <a href="https://dl.gl-inet.com/firmware/mt300a/testing/" target="_blank">download</a>
-
-GL-MT300N testing firmware <a href="https://dl.gl-inet.com/firmware/mt300n/testing/" target="_blank">download</a>
-
-GL-USB150 testing firmware <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">download</a>
+Open this website to download the latest firmware <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">https://docs.gl-inet.com/en/3/release_notes/</a>
 
 ### Local upgrade
 

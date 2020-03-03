@@ -1,6 +1,14 @@
 # GL-MiFi - Release Notes
 
 
+## V3.029 - Jan 02, 2020
+
+Firmware file:[openwrt-mifi-3.029.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.029.bin)
+
+**Fix:**
+
+- In certain case, the web Admin Panel cannot be accessed
+
 ## V3.028 - Nov 25,2019
 
 Firmware file:[openwrt-mifi-3.028.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.028.bin)
