@@ -9,7 +9,7 @@ Firmware file:
 **New Features:**
 
 - Added hints in Tor function
-- Added hint in upgrade page :"If unable to access router web panel after the firmware upgradation completed, please try to clear the browser cache
+- Added hint in upgrade page :"If unable to access router web panel after the firmware upgrade is complete, please try to clear the browser cache."
 - Added "kmod-nf-nathelper" kernel package in order to solve the problem that FTP server couldn't be found
 
 **Fixed:**
