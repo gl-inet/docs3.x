@@ -1,6 +1,36 @@
 #Tutorials
 This page is listing the videos related to product tutorials. We will update contents to our official [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel time to time.
 
+## Bind GL.iNet Routers to GoodCloud
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvJQZphSO1A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## Initial Set-up for Slate (GL-AR750S-Ext) Dual-band WirelessTravel Router
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cpN3ZXDBzi0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## How to Set Up an WireGuard Client on GL.iNet Routers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oTrche1jprQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## How to Set Up an WireGuard Server on GL.iNet Routers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPQba8jcZ_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## How to Set Up an OpenVPN Client on GL.iNet Routers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XlXr8Qd63GM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## How to Set Up an OpenVPN Server on GL.iNet Routers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvxTMCEEStI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
 ## How to insert a MicroSD Card and a SIM Card into Mudi (GL-E750)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l9dxJUL7lhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -16,10 +46,10 @@ This page is listing the videos related to product tutorials. We will update con
 
 
 
-##Create your private network with Microuter GL-USB150
+## Create your private network with Microuter GL-USB150
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-agrYE5Uf4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
-##How to open the case of GL.iNet mini routers
+## How to open the case of GL.iNet mini routers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_OUN2AsXBrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
