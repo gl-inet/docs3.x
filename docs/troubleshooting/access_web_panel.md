@@ -1,12 +1,12 @@
 # Access Web Panel
 
-Sometimes you may be unable to access 192.168.8.1 to login web admin panel, please follow the guide below to solve this problem.
+<p>Sometimes you may be unable to access 192.168.8.1 to login web admin panel, please follow the guide below to solve this problem.</p>
 
 ---
 
 ## Check connection/router's IP address 
 
-Make sure your WAN/LAN port connection is correct. WAN port is connected to an internet source and LAN port is connected to devices. If connected by wifi, make sure the SSID is correct.
+<p>Make sure your WAN/LAN port connection is correct. WAN port is connected to an internet source and LAN port is connected to devices. If connected by wifi, make sure the SSID is correct.</p>
 
 Then follow the steps below to check the router's IP address.
 
@@ -31,12 +31,12 @@ If the IP address is incorrect, check your connection again.
 <ol type="1">
    <li>
 
-   Try [Reset](reset.md) to back to default factory.
+   Try <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">Reset</a> to back to factory default.
 
    </li>
    <li>
 
-   If the reset doesn't work, you can try [debrick via uboot](debrick.md).
+   If the reset doesn't work, you can try <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Debrick via uboot</a>.
 
    </li>
 </ol>
@@ -54,7 +54,7 @@ If the IP address is incorrect, check your connection again.
    </li>
    <li>
 
-   In order to avoid problems caused by the cache, click **ctrl+shift+n** in Chrome to enter the incognito mode. Then try to access 192.168.8.1 again. 
+   <p>In order to avoid problems caused by the cache, click <b>ctrl+shift+n</b> in Chrome to enter the incognito mode. Then try to access 192.168.8.1 again.</p>
 
    <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/access_web_panel/2.png"/></li>
    </li>
