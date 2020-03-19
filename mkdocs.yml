@@ -216,7 +216,7 @@ pages:
     - Repeat Failure: 'troubleshooting/repeat_failure.md'
     - Use GL.iNet app: 'troubleshooting/use_glinet_app.md'
     - Access Web Panel: 'troubleshooting/access_web_panel.md'
-        - Extensible Authentication Protocol: 'troubleshooting/eap.md'
+    - Extensible Authentication Protocol: 'troubleshooting/eap.md'
     - FAQs: 'troubleshooting/faq.md'
 - Release Notes:
     - Firmware Releases: 'release_notes/index.md'

@@ -4,9 +4,9 @@ Sometimes you may be unable to access 192.168.8.1 to login web admin panel, plea
 
 ---
 
-## Check connection/router's ip address 
+## Check connection/router's IP address 
 
-Make sure your WAN/LAN port connection is correct. WAN port is connected to internet source and LAN port is connected to devices. If connected by wifi, make sure the SSID is correct.
+Make sure your WAN/LAN port connection is correct. WAN port is connected to an internet source and LAN port is connected to devices. If connected by wifi, make sure the SSID is correct.
 
 Then follow the steps below to check the router's IP address.
 
