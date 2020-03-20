@@ -61,7 +61,7 @@
 </details>
 
 
-##Wi-Fi
+## Wi-Fi
 
 <details>
 <summary>What is the range of the Wi-Fi coverage?</summary>
@@ -148,7 +148,7 @@
 </details>
 
 
-##Hardware/Accessory
+## Hardware/Accessory
 
 <details>
 <summary>Can I power on the router using the USB port of my computer or power bank?</summary>
@@ -205,7 +205,7 @@
 </details>
 
 
-##Applications
+## Applications
 
 <details>
 <summary>Which VPN protocol and VPN service provider does the router support?</summary>
@@ -222,4 +222,9 @@
 <li>Click <b>Update</b> to update the package repository and install the package that you need.</li>
 <p>Or You can SSH to the router. We suggest <a href="http://127.0.0.1:8000/app/ssh/#1-download-and-install-a-putty">Putty</a> for Windows users. Mac/Linux users can use <b>Terminal</b>.<br>Once you have SSH to the router, you can install OpenWrt package by these commands:
 <br><i>opkg update<br>opkg install PackageName</i></p>
+</details>
+
+<details>
+<summary>Why my openvpn connection returned Auth_failed?</summary>
+<P>It is because you put in the wrong username and password, they are not the username/passwd you used to login your vpn service website account. Instead, they are part of vpn configuration which you can find in account background.</p>
 </details>
