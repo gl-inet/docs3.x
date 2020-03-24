@@ -429,10 +429,12 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <ol type="1">
 <li>
-    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and generate the ovpn file from the "Tools" menu. Please select "All", using udp or tcp and select Cipher. Then press <code>Generate Config</code> and the zip file will be downloaded automatically.<img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/2.x/app/src/torguard.jpg" /></p>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and generate the ovpn file from the "Tools" menu. Please select "All", using udp or tcp and select Cipher. Then press <code>Generate Config</code> and the zip file will be downloaded automatically.<img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_generate_ovpn.jpg"/></p>
 </li>
 <li>
-    <p>The username and password for openvpn connection is different from your control panel login. You can change the service username and password in Security manual. You can generate a random login username and password.<img alt="Set password" src="https://static.gl-inet.com/docs/en/2.x/app/src/torguard1.jpg" /></p>
+    <p>The username and password for openvpn connection is different from your control panel login. You can change the service username and password in my service credentials. </p>
+    <p><img alt="torguard my service credentials" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_my_service_credentials.jpg"/></p>
+    <p>You can generate a random login username and password.<img alt="Set password" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_set_password.jpg"/></p>
 </li>
 </ol>
 </details>
