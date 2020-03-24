@@ -125,6 +125,24 @@ Other recommended WireGuard provider:
 <p><img alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_3.jpg" /></p>
 </details>
 
+<details>
+<summary>TorGuard</summary>
+<p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and Enable WireGuard Access from the "Tools" menu. </p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_enable_wireguard_access.png" /></p>
+</li>
+<li>
+    <p>Downlod the config.</p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_download_wireguard_config.jpg" /></p>
+</li>
+<li>
+    <p>Copy & paste the config content to router wireguard client.</p>
+    <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+</li>
+</details>
 
 ### 3) Connect to the WireGuard server
 
