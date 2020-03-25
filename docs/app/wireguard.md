@@ -84,7 +84,7 @@ Other recommended WireGuard provider:
 <p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
 <ol type="1">
 <li>
-    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and Enable WireGuard Access from the "Tools" menu. </p>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find Enable WireGuard Access from the "Tools" menu. </p>
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_enable_wireguard_access.png" /></p>
 </li>
 <li>
@@ -97,6 +97,26 @@ Other recommended WireGuard provider:
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
 </li>
 </details>
+
+<details>
+<summary>VPN.AC</summary>
+<p><a href="https://vpn.ac/aff.php?aff=1424" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>
+    <p>If you are using <a href="https://vpn.ac/aff.php?aff=1424" target="_blank">VPN.AC</a>, you need to login the control panel and find WireGuard Manager from the "Services" menu. </p>
+    <p><img alt="VPN.AC WireGuard Manager" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_wireguard_manager.jpg" /></p>
+</li>
+<li>
+    <p>Create the config and download.</p>
+    <p><img alt="VPN.AC create wireguard profiles" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_create_wireguard_profiles.jpg" /></p>
+</li>
+<li>
+    <p>Copy & paste the config content to router wireguard client.</p>
+    <p>Extract files, open the config by text edit software, copy and paste the content to router wireguard client.</p>
+    <p><img alt="VPN.AC enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
+</li>
+</details>
+
 
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
