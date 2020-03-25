@@ -138,6 +138,26 @@ Tips: if the zip file is too big to upload, you can upload single ovpn file.</p>
 </details>
 
 
+<details>
+<summary>ExpressVPN</summary>
+<p><a href="https://www.linkev.com/?a_fid=glinet" target="_blank">Official Website</a></p>
+
+<p>*Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download">Expressvpn official instruction</a></p>
+<ol type="1">
+
+<li>Log in to your <a href="https://www.linkev.com/?a_fid=glinet" target="_blank">ExpressVPN</a> account.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN1.jpg" /></p>
+<li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN2.png" /></p>
+<li>Click on Manual Config on the left side of the screen and then select the OpenVPN tab on the right. You will first see your username and password and then a list of OpenVPN configuration files.</li>
+<p>Find the location(s) you want to connect to (e.g., Los Angeles, New York, Hong Kong), then download and save the .ovpn file(s) to your desktop.</p>
+<p>Note: Please have your username and password ready, as you will be asked to enter them later in the setup process.</p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN3.png" /></p>
+</ol>
+
+</details>
+
+
 Others:
 
 <details>
@@ -211,26 +231,6 @@ Others:
 </ul>
 <p>After setting up your preferred settings, save them with 'Save and download configuration'.</p>
 </ol>
-</details>
-
-
-<details>
-<summary>ExpressVPN</summary>
-<p><a href="https://www.expressvpn.com/">Official Website</a></p>
-
-<p>*Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download">Expressvpn official instruction</a></p>
-<ol type="1">
-
-<li>Log in to your account.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN1.jpg" /></p>
-<li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN2.png" /></p>
-<li>Click on Manual Config on the left side of the screen and then select the OpenVPN tab on the right. You will first see your username and password and then a list of OpenVPN configuration files.</li>
-<p>Find the location(s) you want to connect to (e.g., Los Angeles, New York, Hong Kong), then download and save the .ovpn file(s) to your desktop.</p>
-<p>Note: Please have your username and password ready, as you will be asked to enter them later in the setup process.</p>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN3.png" /></p>
-</ol>
-
 </details>
 
 
