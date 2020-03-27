@@ -1,60 +1,11 @@
-# WireGuard Settings for Firmware 3.0  
-
+# WireGuard
 WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/), [simpler](https://www.wireguard.com/quickstart/), leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
 
-You can setup and use WireGuard easily in firmware 3.0, wireGuard server and clients are pre-installed in firmware 3.0. 
+GL.iNet routers have pre-installed WireGuard server and client.
 
-
+If you are looking for a WireGuard provider, access [this](#3-wireguard-providers) directly.
 
 ---
-
-## WireGuard Server
-
-You can set up a WireGuard server on GL.iNet router with firmware 3.0. Click `+ Create a New User`.
-
-![1531199972139](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS1.png)
-
-
-
-### 1) Start a WireGuard server
-
-You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
-
-![Sever Configuration](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS2.png)
-
-
-
-### 2) Add a new client
-
-You have to add a new user and apply the configurations when you are connecting to this WireGuard server.
-
-Click `Management` tab and then `Create a New User`. 
-
-![Add Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS3.png)
-
-
-
-Specify the **Name** of the new client and then click `Add`.
-
-![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS4.png)
-
-
-
-### 3) Get the configuration details for your client
-
-You can now check the list of the clients you added. You can `Delete` any unwanted client. Please click `Configurations` to find the configuration details which you need to use when you are setting up WireGuard client. We provide QRcode, Plain Text and JSON configurations currently.
-
-![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations.jpg)
-
-
-
-If you are using another GL.iNet router as a client, please copy the **JSON** configuration and paste it directly when you are setting up WireGuard client.
-
-![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/json.jpg)
-
-
-
-
 
 ## WireGuard Client 
 
@@ -85,6 +36,9 @@ You can copy the `JSON` or `Plain Text` configurations from your server to `Conf
 After copy the `JSON` or `Plain Text` from your server, you can paste it in the `Configuration` and then click **Add** to finish the WireGuard Client setup.
 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/wire1.1.PNG)
+
+
+### 3) WireGuard Providers
 
 If you are using <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> or <a href="https://mullvad.net/" target="_blank">Mullvad</a>, you can click `Others` and use your **AzireVPN** or **Mullvad** account to set up WireGuard client directly.
 
@@ -125,13 +79,98 @@ Other recommended WireGuard provider:
 <p><img alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_3.jpg" /></p>
 </details>
 
+<details>
+<summary>TorGuard</summary>
+<p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find Enable WireGuard Access from the "Tools" menu. </p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_enable_wireguard_access.png" /></p>
+</li>
+<li>
+    <p>Downlod the config.</p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_download_wireguard_config.jpg" /></p>
+</li>
+<li>
+    <p>Copy & paste the config content to router wireguard client.</p>
+    <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+</li>
+</details>
 
-### 3) Connect to the WireGuard server
+<details>
+<summary>VPN.AC</summary>
+<p><a href="https://vpn.ac/aff.php?aff=1424" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>
+    <p>If you are using <a href="https://vpn.ac/aff.php?aff=1424" target="_blank">VPN.AC</a>, you need to login the control panel and find WireGuard Manager from the "Services" menu. </p>
+    <p><img alt="VPN.AC WireGuard Manager" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_wireguard_manager.jpg" /></p>
+</li>
+<li>
+    <p>Create the config and download.</p>
+    <p><img alt="VPN.AC create wireguard profiles" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_create_wireguard_profiles.jpg" /></p>
+</li>
+<li>
+    <p>Copy & paste the config content to router wireguard client.</p>
+    <p>Extract files, open the config by text edit software, copy and paste the content to router wireguard client.</p>
+    <p><img alt="VPN.AC enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
+</li>
+</details>
+
+
+Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
+
+### 4) Connect to the WireGuard server
 
 Click `Connect`. You will see the upload and download traffic when it is connected successfully.
 
 ![1531206410246](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC5.png)
 
+---
+
+## WireGuard Server
+
+You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`.
+
+![1531199972139](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS1.png)
+
+
+
+### 1) Start a WireGuard server
+
+You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
+
+![Sever Configuration](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS2.png)
+
+
+
+### 2) Add a new client
+
+You have to add a new user and apply the configurations when you are connecting to this WireGuard server.
+
+Click `Management` tab and then `Create a New User`. 
+
+![Add Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS3.png)
+
+
+
+Specify the **Name** of the new client and then click `Add`.
+
+![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS4.png)
+
+
+
+### 3) Get the configuration details for your client
+
+You can now check the list of the clients you added. You can `Delete` any unwanted client. Please click `Configurations` to find the configuration details which you need to use when you are setting up WireGuard client. We provide QRcode, Plain Text and JSON configurations currently.
+
+![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations.jpg)
+
+
+
+If you are using another GL.iNet router as a client, please copy the **JSON** configuration and paste it directly when you are setting up WireGuard client.
+
+![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/json.jpg)
 
 
 ## Wireguard App Support

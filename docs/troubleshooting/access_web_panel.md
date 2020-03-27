@@ -1,21 +1,22 @@
 # Access Web Panel
 
-Sometimes you may be unable to access 192.168.8.1 to login web admin panel, please follow the guide below to solve this problem.
+<p>Sometimes you may be unable to access 192.168.8.1 to login web admin panel, please follow the guide below to solve this problem.</p>
 
 ---
 
-## Check connection/router's ip address 
+## Check connection/router's IP address 
 
-Make sure your WAN/LAN port connection is correct. WAN port is connected with internet source and LAN port is connected to devices. If you are connected by wifi, make sure the SSID is correct.
+<p>Make sure your WAN/LAN port connection is correct. WAN port is connected to an internet source and LAN port is connected to devices. If connected by wifi, make sure the SSID is correct.</p>
 
-Then follow steps below to check router's ip address.
+Then follow the steps below to check the router's IP address.
 
 <details>
         <summary>Windows 7 / Windows 10</summary>
 <ol type="1">
-        	<li>Go to Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings.</li>
-        	<li>Right click Local Area Connection -> Status .</li>
-        	<li>Click Details -> Check IPv4 DHCP Server if it is 192.168.8.1(Correct results).</li>
+         <li>Go to Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings.</li>
+         <li>Right click Local Area Connection -> Status .</li>
+         <li>Click Details -> Check IPv4 Default Gateway if it is 192.168.8.1(Correct results).
+         <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/access_web_panel/1.png"/></li>
         </ol>
         </details>
 
@@ -23,26 +24,26 @@ Then follow steps below to check router's ip address.
 
 ---
 
-## Your ip address is incorrect
+## Your IP address is incorrect
 
-If the ip address is incorrect, check your connection again.
+If the IP address is incorrect, check your connection again.
 
 <ol type="1">
    <li>
 
-   Try [Reset](reset.md) to back to default factory.
+   Try <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">Reset</a> to back to factory default.
 
    </li>
    <li>
 
-   If reset doesn't work, you can try [debrick via uboot](debrick.md).
+   If the reset doesn't work, you can try <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Debrick via uboot</a>.
 
    </li>
 </ol>
 
 ---
 
-## Your ip address is correct
+## Your IP address is correct
 
 
 <ol type="1">
@@ -53,11 +54,10 @@ If the ip address is incorrect, check your connection again.
    </li>
    <li>
 
-   In order to avoid problem caused by cache, click **ctrl+shift+n** in Chrome to enter incognito mode. Then try to access 192.168.8.1 again. 
+   <p>In order to avoid problems caused by the cache, click <b>ctrl+shift+n</b> in Chrome to enter the incognito mode. Then try to access 192.168.8.1 again.</p>
 
+   <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/access_web_panel/2.png"/></li>
    </li>
 </ol>
 
 ---
-
-*If following the steps above didn't solve your problem, please contact support@gl-inet.com for further help.*
