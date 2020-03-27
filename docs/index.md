@@ -109,25 +109,30 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 		</div>
 	</div>
 </div>
+
 <br>
 <h2 id="official-support">Official Support</h2>
 <p>We try our best to solve your every technical problem when you use our products. We have built a community for you to share your ideas with other users on our <a href="https://forum.gl-inet.com/">Discourse</a> forum. Also, we can also offer helps on our <a href="https://www.facebook.com/gl.inet.wifi/">Facebook</a> page and our <a href="https://twitter.com/GLiNetWiFi">Twitter</a> platform. If you have some really in-depth technical questions you want we to work on, please email them to <a href="mailto:support@gl-inet.com">support@gl-inet.com</a> </p>
 <h2 id="thank-you">Thank You</h2>
 <p>GL.iNet OpenWrt routers are brought to you by the GL.iNet Team based in Hong Kong and Shenzhen, and many other open source community members. As a community driven resource, the people who use and edit the docs would be very grateful if you followed the guidelines below. This page also has tips and tricks for making your article, which would also be fabulous.</p>
 <p>Thanks, GL.iNet Team</p>
-<h2 id="wikidevi">Wikidevi</h2>
-<p>GL-B1300 Gigabit AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-B1300">https://wikidevi.com/wiki/GL.iNet_GL-B1300</a></p>
-<p>GL-AR750S Travel AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR750S">https://wikidevi.com/wiki/GL.iNet_GL-AR750S</a></p>
-<p>GL-AR750 Travel AC Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR750">https://wikidevi.com/wiki/GL.iNet_GL-AR750</a></p>
-<p>GL-USB150 Microuter: <a href="https://wikidevi.com/wiki/GL.iNet_GL-USB150">https://wikidevi.com/wiki/GL.iNet_GL-USB150</a></p>
-<p>GL-AR300M Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR300M">https://wikidevi.com/wiki/GL.iNet_GL-AR300M</a></p>
-<p>GL-AR150 Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-AR150">https://wikidevi.com/wiki/GL.iNet_GL-AR150</a></p>
-<p>GL-MiFi 4G Smart Router: TBA</p>
-<p>GL-MT300A Mini Smart Router: TBA</p>
-<p>GL-MT300N-V2 Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_GL-MT300N-V2">https://wikidevi.com/wiki/GL.iNet_GL-MT300N-V2</a></p>
-<p>GL-MT300N Mini Smart Router: TBA</p>
-<p>GL.iNet 6416 Mini Smart Router: <a href="https://wikidevi.com/wiki/GL.iNet_6416A">https://wikidevi.com/wiki/GL.iNet_6416A</a></p>
-<p>GL-X750 4G LTE Router: <a herf="https://wikidevi.com/wiki/GL.iNet_GL-X750">https://wikidevi.com/wiki/GL.iNet_GL-X750</a></p>
+
+<h2 id="toh_openwrt">Table of GL.iNet hardware on OpenWrt website</h2>
+<p>All device and techdata of GL.iNet on OpenWrt webaiste: <a href="https://openwrt.org/toh/gl.inet/start" target="_blank">https://openwrt.org/toh/gl.inet/start</a></p>
+<p>GL-B1300 Gigabit AC Router: <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-b1300" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-b1300</a></p>
+<p>GL-X750 4G LTE Router: <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-x750" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-x750</a></p>
+<p>GL-AR750S Travel AC Router: <a href="https://openwrt.org/toh/gl.inet/gl-ar750s" target="_blank">https://openwrt.org/toh/gl.inet/gl-ar750s</a></p>
+<p>GL-AR750 Travel AC Router: <a href="https://openwrt.org/toh/gl.inet/gl-ar750" target="_blank">https://openwrt.org/toh/gl.inet/gl-ar750</a></p>
+<p>GL-USB150 Microuter: <a href="https://openwrt.org/toh/gl.inet/gl.inet_gl-usb150" target="_blank">https://openwrt.org/toh/gl.inet/gl.inet_gl-usb150</a></p>
+<p>GL-MiFi 4G Smart Router: <a href="https://openwrt.org/toh/hwdata/gl.inet/gl-mifi" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl-mifi</a></p>
+<p>GL-MT300N-V2 Mini Smart Router: <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2</a></p>
+<p>GL-AR300M Mini Smart Router: <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar300m" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar300m</a></p>
+<p>GL-AR150 Mini Smart Router: <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar150" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar150</a></p>
+<p>GL-MT300A Mini Smart Router (discontinued): <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300a" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300a</a></p>
+<p>GL-MT300N Mini Smart Router (discontinued): <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2</a></p>
+<p>GL.iNet 6416 Mini Smart Router (discontinued): <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_6416a" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_6416a</a></p>
+
+
 <h3 id="markdown">Markdown</h3>
 <p>Markdown Basics: <a href="https://help.github.com/articles/markdown-basics/">https://help.github.com/articles/markdown-basics/</a></p>
 <p>Markdown Syntax: <a href="http://daringfireball.net/projects/markdown/syntax">http://daringfireball.net/projects/markdown/syntax</a></p>
