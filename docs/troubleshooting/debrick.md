@@ -23,8 +23,8 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
     </li>
     <li>
     	<p>Press and hold the Reset button firmly first, and then power on your device. (If your device does not have a power button, plugging it in will power it on automatically.)
-                    	<p>If you can not find the reset button, please refer to our page,<a href="https://docs.gl-inet.com/en/3/troubleshooting/reset" target="_blank"> How to Repair and Reset</a>.
-            	<p>Release your finger when you see the LED has flashed:
+        <p>If you can not find the reset button, please refer to our page,<a href="https://docs.gl-inet.com/en/3/troubleshooting/reset" target="_blank"> How to Repair and Reset</a>.</p>
+        <p>Release your finger when you see the LED has flashed:
         </p>
     </li>
     <li>
@@ -32,7 +32,6 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
         </p>
     </li>
     <li>
-        </p>
         </p>
         <ul>
         	<li><b>6 times</b> for GL-MiFi, and then the LTE light will faintly flash twice.</li>
@@ -42,7 +41,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
                 <div>(For some old GL-B1300, the leftmost LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times at the same time then they stay on.)</div>
             </li>
         	<li><b>3 times</b> for GL-MT300N, GL-MT300A.</li>
-            <li><b>No repeat LED flashes signal </b> for MV1000.</li>
+            <li><b>No repeat LED flashes signal </b> for GL-MV1000.</li>
             <div>(Power and WAN LEDs will stay on the whole time.)</div>
         </ul>
         </p>
