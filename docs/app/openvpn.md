@@ -412,11 +412,11 @@ The username and password are listed below the download link.</p>
 
 <details>
 <summary>VPNGate</summary>
-<p><a href="http://www.vpngate.net/en/">Official Website</a></p>
+<p><a href="https://www.vpngate.net/en/">Official Website</a></p>
 
 <ol type="1">
 
-<p>The OpenVPN configuration files are listed on the <a href="http://www.vpngate.net/en/">VPN Gate website</a>
+<p>The OpenVPN configuration files are listed on the <a href="https://www.vpngate.net/en/">VPN Gate website</a>
 according to the server location.</p>
 <li>Click OpenVPN Config file under the column “OpenVPN”.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/VPNGate1.png" /></p>

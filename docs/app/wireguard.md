@@ -131,7 +131,7 @@ Other recommended WireGuard provider:
     </li>
     <li>
         <p>After generate the config.</p>
-        <p><img alt="after generate the config" src="http://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_has_create_profile.jpg" /></p>
+        <p><img alt="after generate the config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_has_create_profile.jpg" /></p>
         <p>Copy & paste the config content to router wireguard client.</p>
         <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>        
     </li>
