@@ -264,10 +264,29 @@ Others:
 
 
 
-<details>
+<details id="ivpnid">
 <summary>Ivacy</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
 <a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip">Download</a> directly.
+</details>
+
+
+<details>
+<summary>IVPN</summary>
+<p><a href="https://www.ivpn.net/" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>
+    <p>Download the <a href="https://www.ivpn.net/releases/config/ivpn-openvpn-config.zip">OpenVPN config files</a>.</p>
+</li>
+<li>
+    <p>Find the Account ID on <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>.</p>
+</li>
+<li>
+    <p>When drag the config file to Add a New OpenVPN Configuration, you will be asked to enter User Name and Password. The User Name is your Account ID that begins with letters 'ivpn'. The password can be anything, like "ivpn"</p>
+    <p><img alt="ivpn set up on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_set_up_openvpn_client.png" /></p>
+</li>
+<p><a href="https://www.ivpn.net/setup/gnu-linux-terminal.html" target="_blank">Refer link</a></p>
+</ol>
 </details>
 
 

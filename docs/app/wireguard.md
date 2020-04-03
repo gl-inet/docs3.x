@@ -96,9 +96,10 @@ Other recommended WireGuard provider:
     <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
 </li>
+</ol>
 </details>
 
-<details>
+<details id="ivpnid">
 <summary>VPN.AC</summary>
 <p><a href="https://vpn.ac/aff.php?aff=1424" target="_blank">Official Website</a></p>
 <ol type="1">
@@ -115,6 +116,27 @@ Other recommended WireGuard provider:
     <p>Extract files, open the config by text edit software, copy and paste the content to router wireguard client.</p>
     <p><img alt="VPN.AC enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
 </li>
+</ol>
+</details>
+
+
+<details>
+<summary>IVPN</summary>
+<p><a href="https://www.ivpn.net/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>If you are using <a href="https://www.ivpn.net/" target="_blank">IVPN</a>, you need to Log in to the Client Area on the IVPN website. <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>, then follow the <a href="https://www.ivpn.net/clientarea/login" target="_blank">WireGuard Setup Guides</a> </p>
+        <p>Skip the step 1, because WireGuard is pre-installed on GL.iNet routers.</p>
+        <p><img alt="IVPN linux steup guide" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_linux_setup_guide.jpg"/></p>
+    </li>
+    <li>
+        <p>After generate the config.</p>
+        <p><img alt="after generate the config" src="http://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_has_create_profile.jpg" /></p>
+        <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>        
+    </li>
+    <p><a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">Refer link</a></p>
+</ol>
 </details>
 
 
