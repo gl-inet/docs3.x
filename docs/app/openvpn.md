@@ -326,7 +326,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 </details>
 
 
-<details id="strongvpnid">
+<details id="strongvpn">
 <summary>SaferVPN</summary>
 <p><a href="https://safervpn.com/?a_aid=563" target="_blank">Official Website</a></p>
 

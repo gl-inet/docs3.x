@@ -99,7 +99,7 @@ Other recommended WireGuard provider:
 </ol>
 </details>
 
-<details>
+<details id="strongvpn">
 <summary>VPN.AC</summary>
 <p><a href="https://vpn.ac/aff.php?aff=1424" target="_blank">Official Website</a></p>
 <ol type="1">
