@@ -326,7 +326,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 </details>
 
 
-<details>
+<details id="strongvpnid">
 <summary>SaferVPN</summary>
 <p><a href="https://safervpn.com/?a_aid=563" target="_blank">Official Website</a></p>
 
@@ -337,23 +337,17 @@ If UserName/Password is needed please add auth-user-pass parameter.
 </details>
 
 
-
-
-
 <details>
 <summary>StrongVPN</summary>
 <p><a href="https://strongvpn.com/">Official Website</a></p>
-
 <ol type="1">
 
 <li>Login with your StrongVPN account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
 <p><img alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_01.jpg" /></p>
-<li>Find the Manuel setup section, follow the steps to get configuration.</li>
+<li>Find the Manual setup section, follow the steps to get configuration.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_02.jpg" /></p>
 
-
 </ol>
-
 </details>
 
 
