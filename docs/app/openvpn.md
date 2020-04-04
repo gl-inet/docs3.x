@@ -346,15 +346,11 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <ol type="1">
 
-<li>Login with your StrongVPN account and then you will be able to see the summary of your VPN account. Click “Change Server”.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN1.png" /></p>
-<li>Filter the servers by clicking OPEN and choose one of the server from the list.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN2.png" /></p>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN3.png" /></p>
-<li>Go back to accounts summary and click Account Setup Instructions.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN4.png" /></p>
-<li>Click Linux/Max config file.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN5.png" /></p>
+<li>Login with your StrongVPN account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
+<p><img alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_01.jpg" /></p>
+<li>Find the Manuel setup section, follow the steps to get configuration.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_02.jpg" /></p>
+
 
 </ol>
 
