@@ -119,10 +119,23 @@ Other recommended WireGuard provider:
 </ol>
 </details>
 
-<details id="ivpnid">
+<details>
 <summary>StrongVPN</summary>
 <p><a href="https://strongvpn.com/" target="_blank">Official Website</a></p>
 <p>If you are using <a href="https://strongvpn.com/" target="_blank">StrongVPN</a>, please read <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">this document</a></p>
+</details>
+
+<details id="ivpnid">
+<summary>12VPX</summary>
+<p><a href="https://12vpx.com/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>If you are using <a href="https://12vpx.com/" target="_blank">12VPX</a>, login then access <a href="https://12vpx.com/setup/wireguard" target="_blank">this page</a>, you will see the configs of all servers.
+    </li>
+    <li>
+        <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
+    </li>
 </details>
 
 <details>
