@@ -197,23 +197,23 @@ Others:
 
 <details>
 <summary>CactusVPN</summary>
-<p><a href="https://www.cactusvpn.com/">Official Website</a></p>
-<p><a href="https://www.cactusvpn.com/downloads/">Download</a> directly.</p>
+<p><a href="https://www.cactusvpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://www.cactusvpn.com/downloads/" target="_blank">Download</a> directly.</p>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/CactusVPN1.jpg" /></p>
 </details>
 
 
 <details>
 <summary>Cryptostorm</summary>
-<p><a href="https://cryptostorm.is/">Official Website</a></p>
-<p><a href="https://cryptostorm.is/configs/ecc/">Download</a> directly.</p>
+<p><a href="https://cryptostorm.is/" target="_blank">Official Website</a></p>
+<p><a href="https://cryptostorm.is/configs/ecc/" target="_blank">Download</a> directly.</p>
 </details>
 
 
 <details>
 <summary>CyberGhost</summary>
-<p><a href="https://support.cyberghostvpn.com/hc/en-us">Official Website</a></p>
-<p>*Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0">CyberGhost official instruction</a></p>
+<p><a href="https://support.cyberghostvpn.com/hc/en-us" target="_blank">Official Website</a></p>
+<p>*Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0" target="_blank">CyberGhost official instruction</a></p>
 <ol type="1">
 <li>Login your CyberGhost VPN online account.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/Cyberghost1.png" /></p>
@@ -237,7 +237,7 @@ Others:
 
 <details>
 <summary>FinchVPN</summary>
-<p><a href="https://www.finchvpn.com/">Official Website</a></p>
+<p><a href="https://www.finchvpn.com/" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
@@ -258,8 +258,8 @@ Others:
 
 <details>
 <summary>HideMyAss</summary>
-<p><a href="https://www.hidemyass.com/">Official Website</a></p>
-<a href="https://vpn.hidemyass.com/vpn-config/vpn-configs.zip">Download</a> directly.
+<p><a href="https://www.hidemyass.com/" target="_blank">Official Website</a></p>
+<a href="https://vpn.hidemyass.com/vpn-config/vpn-configs.zip" target="_blank">Download</a> directly.
 </details>
 
 
@@ -267,7 +267,7 @@ Others:
 <details id="ivpnid">
 <summary>Ivacy</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
-<a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip">Download</a> directly.
+<a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly.
 </details>
 
 
@@ -292,7 +292,7 @@ Others:
 
 <details>
 <summary>PIVPN</summary>
-<p><a href="https://pivpn.dev/">Official Website</a></p>
+<p><a href="https://pivpn.dev/" target="_blank">Official Website</a></p>
 
 If Passphrase is needed please add askpass parameter.
 
@@ -339,7 +339,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>StrongVPN</summary>
-<p><a href="https://strongvpn.com/">Official Website</a></p>
+<p><a href="https://strongvpn.com/" target="_blank">Official Website</a></p>
 <ol type="1">
 
 <li>Login with your StrongVPN account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
@@ -389,7 +389,7 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 <details>
 <summary>VPNBook</summary>
-<p><a href="https://www.vpnbook.com/">Official Website</a></p>
+<p><a href="https://www.vpnbook.com/" target="_blank">Official Website</a></p>
 
 <p>The OpenVPN configuration files are available on the website of VPNBook: https://www.vpnbook.com/. 
 The username and password are listed below the download link.</p>
@@ -402,7 +402,7 @@ The username and password are listed below the download link.</p>
 
 <details>
 <summary>VPNGate</summary>
-<p><a href="https://www.vpngate.net/en/">Official Website</a></p>
+<p><a href="https://www.vpngate.net/en/" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
