@@ -144,6 +144,19 @@ Other recommended WireGuard provider:
 </ol>
 </details>
 
+<details>
+<summary>ANONINE</summary>
+<p><a href="https://anonine.com/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>Fellow the guide <a href="https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10" target="_blank">here</a> to create the config.</p>
+    </li>
+    <li>
+    <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>  
+    </li>
+</ol>
+</details>
 
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
