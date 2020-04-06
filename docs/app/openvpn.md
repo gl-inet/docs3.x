@@ -197,23 +197,23 @@ Others:
 
 <details>
 <summary>CactusVPN</summary>
-<p><a href="https://www.cactusvpn.com/">Official Website</a></p>
-<p><a href="https://www.cactusvpn.com/downloads/">Download</a> directly.</p>
+<p><a href="https://www.cactusvpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://www.cactusvpn.com/downloads/" target="_blank">Download</a> directly.</p>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/CactusVPN1.jpg" /></p>
 </details>
 
 
 <details>
 <summary>Cryptostorm</summary>
-<p><a href="https://cryptostorm.is/">Official Website</a></p>
-<p><a href="https://cryptostorm.is/configs/ecc/">Download</a> directly.</p>
+<p><a href="https://cryptostorm.is/" target="_blank">Official Website</a></p>
+<p><a href="https://cryptostorm.is/configs/ecc/" target="_blank">Download</a> directly.</p>
 </details>
 
 
 <details>
 <summary>CyberGhost</summary>
-<p><a href="https://support.cyberghostvpn.com/hc/en-us">Official Website</a></p>
-<p>*Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0">CyberGhost official instruction</a></p>
+<p><a href="https://support.cyberghostvpn.com/hc/en-us" target="_blank">Official Website</a></p>
+<p>*Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0" target="_blank">CyberGhost official instruction</a></p>
 <ol type="1">
 <li>Login your CyberGhost VPN online account.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/Cyberghost1.png" /></p>
@@ -237,7 +237,7 @@ Others:
 
 <details>
 <summary>FinchVPN</summary>
-<p><a href="https://www.finchvpn.com/">Official Website</a></p>
+<p><a href="https://www.finchvpn.com/" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
@@ -258,8 +258,8 @@ Others:
 
 <details>
 <summary>HideMyAss</summary>
-<p><a href="https://www.hidemyass.com/">Official Website</a></p>
-<a href="https://vpn.hidemyass.com/vpn-config/vpn-configs.zip">Download</a> directly.
+<p><a href="https://www.hidemyass.com/" target="_blank">Official Website</a></p>
+<a href="https://vpn.hidemyass.com/vpn-config/vpn-configs.zip" target="_blank">Download</a> directly.
 </details>
 
 
@@ -275,11 +275,31 @@ Others:
 </details>
 
 
-<details>
+<details id="ivpnid">
 <summary>Ivacy</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
-<a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip">Download</a> directly.
+<a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly.
 </details>
+
+
+<details>
+<summary>IVPN</summary>
+<p><a href="https://www.ivpn.net/" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>
+    <p>Download the <a href="https://www.ivpn.net/releases/config/ivpn-openvpn-config.zip">OpenVPN config files</a>.</p>
+</li>
+<li>
+    <p>Find the Account ID on <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>.</p>
+</li>
+<li>
+    <p>When drag the config file to Add a New OpenVPN Configuration, you will be asked to enter User Name and Password. The User Name is your Account ID that begins with letters 'ivpn'. The password can be anything, like "ivpn"</p>
+    <p><img alt="ivpn set up on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_set_up_openvpn_client.png" /></p>
+</li>
+<p><a href="https://www.ivpn.net/setup/gnu-linux-terminal.html" target="_blank">Refer link</a></p>
+</ol>
+</details>
+
 
 
 <details>
@@ -307,7 +327,7 @@ Others:
 </details>
 
 
-<details>
+<details id="strongvpn">
 <summary>SaferVPN</summary>
 <p><a href="https://safervpn.com/?a_aid=563" target="_blank">Official Website</a></p>
 
@@ -318,27 +338,17 @@ Others:
 </details>
 
 
-
-
-
 <details>
 <summary>StrongVPN</summary>
-<p><a href="https://strongvpn.com/">Official Website</a></p>
-
+<p><a href="https://strongvpn.com/" target="_blank">Official Website</a></p>
 <ol type="1">
 
-<li>Login with your StrongVPN account and then you will be able to see the summary of your VPN account. Click “Change Server”.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN1.png" /></p>
-<li>Filter the servers by clicking OPEN and choose one of the server from the list.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN2.png" /></p>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN3.png" /></p>
-<li>Go back to accounts summary and click Account Setup Instructions.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN4.png" /></p>
-<li>Click Linux/Max config file.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/StrongVPN5.png" /></p>
+<li>Login with your StrongVPN account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
+<p><img alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_01.jpg" /></p>
+<li>Find the Manual setup section, follow the steps to get configuration.</li>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_02.jpg" /></p>
 
 </ol>
-
 </details>
 
 
@@ -358,14 +368,29 @@ Others:
 
 
 
+<<<<<<< HEAD
+=======
+<details>
+<summary>VPNBook</summary>
+<p><a href="https://www.vpnbook.com/" target="_blank">Official Website</a></p>
+
+<p>The OpenVPN configuration files are available on the website of VPNBook: https://www.vpnbook.com/. 
+The username and password are listed below the download link.</p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/VPNBook1.jpg" /></p>
+</details>
+
+
+
+
+>>>>>>> c4c4e006e820f55d43a5a7578d927b6fff9744e7
 
 <details>
 <summary>VPNGate</summary>
-<p><a href="http://www.vpngate.net/en/">Official Website</a></p>
+<p><a href="https://www.vpngate.net/en/" target="_blank">Official Website</a></p>
 
 <ol type="1">
 
-<p>The OpenVPN configuration files are listed on the <a href="http://www.vpngate.net/en/">VPN Gate website</a>
+<p>The OpenVPN configuration files are listed on the <a href="https://www.vpngate.net/en/">VPN Gate website</a>
 according to the server location.</p>
 <li>Click OpenVPN Config file under the column “OpenVPN”.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/VPNGate1.png" /></p>

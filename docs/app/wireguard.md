@@ -96,9 +96,10 @@ Other recommended WireGuard provider:
     <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
 </li>
+</ol>
 </details>
 
-<details>
+<details id="strongvpn">
 <summary>VPN.AC</summary>
 <p><a href="https://vpn.ac/aff.php?aff=1424" target="_blank">Official Website</a></p>
 <ol type="1">
@@ -115,8 +116,60 @@ Other recommended WireGuard provider:
     <p>Extract files, open the config by text edit software, copy and paste the content to router wireguard client.</p>
     <p><img alt="VPN.AC enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
 </li>
+</ol>
 </details>
 
+<details>
+<summary>StrongVPN</summary>
+<p><a href="https://strongvpn.com/" target="_blank">Official Website</a></p>
+<p>If you are using <a href="https://strongvpn.com/" target="_blank">StrongVPN</a>, please read <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">this document</a></p>
+</details>
+
+<details id="ivpnid">
+<summary>12VPX</summary>
+<p><a href="https://12vpx.com/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>If you are using <a href="https://12vpx.com/" target="_blank">12VPX</a>, login then access <a href="https://12vpx.com/setup/wireguard" target="_blank">this page</a>, you will see the configs of all servers.
+    </li>
+    <li>
+        <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
+    </li>
+</details>
+
+<details>
+<summary>IVPN</summary>
+<p><a href="https://www.ivpn.net/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>If you are using <a href="https://www.ivpn.net/" target="_blank">IVPN</a>, you need to Log in to the Client Area on the IVPN website. <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>, then follow the <a href="https://www.ivpn.net/clientarea/login" target="_blank">WireGuard Setup Guides</a> </p>
+        <p>Skip the step 1, because WireGuard is pre-installed on GL.iNet routers.</p>
+        <p><img alt="IVPN linux steup guide" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_linux_setup_guide.jpg"/></p>
+    </li>
+    <li>
+        <p>After generate the config.</p>
+        <p><img alt="after generate the config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_has_create_profile.jpg" /></p>
+        <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>        
+    </li>
+    <p><a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">Refer link</a></p>
+</ol>
+</details>
+
+<details>
+<summary>ANONINE</summary>
+<p><a href="https://anonine.com/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>Fellow the guide <a href="https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10" target="_blank">here</a> to create the config.</p>
+    </li>
+    <li>
+    <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>  
+    </li>
+</ol>
+</details>
 
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
