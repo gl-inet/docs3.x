@@ -263,22 +263,22 @@ Others:
 </details>
 
 
+<details>
+<summary>IPVANISH</summary>
+<p><a href="https://www.ipvanish.com/" target="_blank">Official Website</a></p>
+<p>You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/">www.ipvanish.com/software/configs/ (configs.zip).</a> </p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ipvanish_download_openvpn_configs.jpg" />></p>
+<p>Drag the configs.zip to the New OpenVPN Configuration dialog</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ipvanish_drag_import_configs.jpg" /></p>
+<p>User Name and Password is your IPVanish username and password.</p>
+<p><a href="https://support.ipvanish.com/hc/en-us/articles/360001329813-Android-OpenVPN-Setup" target >Refer link</a></p>
+</details>
+
 
 <details>
 <summary>Ivacy</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
 <a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip">Download</a> directly.
-</details>
-
-
-<details>
-<summary>PIVPN</summary>
-<p><a href="https://pivpn.dev/">Official Website</a></p>
-
-If Passphrase is needed please add askpass parameter.
-
-If UserName/Password is needed please add auth-user-pass parameter.
-
 </details>
 
 
@@ -343,26 +343,6 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 
 
-<details>
-<summary>TCPVPN</summary>
-<p><a href="https://www.tcpvpn.com/home" target="_blank">Official Website</a></p>
-
-<ol type="1">
-
-<li>You can find different servers on their webpage: https://www.tcpvpn.com/home. Choose your preferred server.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/TCPVPN1.png" /></p>
-<li>Choose your preferred server location.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/TCPVPN2.jpg" /></p>
-<li>You will see the download page of the configuration file. Click Dowload Config (.ovpv).</li>
-</ol>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/TCPVPN3.jpg" /></p>
-<hr />
-
-</ol>
-
-</details>
-
-
 
 <details>
 <summary>VPN.AC</summary>
@@ -374,18 +354,6 @@ If UserName/Password is needed please add auth-user-pass parameter.
 
 </details>
 
-
-
-
-
-<details>
-<summary>VPNBook</summary>
-<p><a href="https://www.vpnbook.com/">Official Website</a></p>
-
-<p>The OpenVPN configuration files are available on the website of VPNBook: https://www.vpnbook.com/. 
-The username and password are listed below the download link.</p>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/VPNBook1.jpg" /></p>
-</details>
 
 
 
