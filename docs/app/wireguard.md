@@ -125,6 +125,14 @@ Other recommended WireGuard provider:
 <p>If you are using <a href="https://strongvpn.com/" target="_blank">StrongVPN</a>, please read <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">this document</a></p>
 </details>
 
+
+<details>
+<summary>VPN Unlimited</summary>
+<p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
+<p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, please read <a href="https://www.vpnunlimitedapp.com/help/manuals/wireguard-setup-on-glinet-router" target="_blank">this document</a></p>
+</details>
+
+
 <details id="ivpnid">
 <summary>12VPX</summary>
 <p><a href="https://12vpx.com/" target="_blank">Official Website</a></p>
