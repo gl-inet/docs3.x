@@ -196,6 +196,14 @@ Others:
 
 
 <details>
+<summary>bolehvpn</summary>
+<p><a href="https://www.bolehvpn.net/" target="_blank">Official Website</a></p>
+<p>Login in <a href="https://users.bolehvpn.net/" target="_blank">Dashboard</a>, download your configuration files and select the <a href="https://users.bolehvpn.net/download/inline/6" target="_blank">Linux_iOS inline</a> format. Extract the zip files after completing the download.</p>
+<p><a href="https://www.bolehvpn.net/clients-installations/#1487691248224-0c435dba-d612" target="_blank">Refer link</a></p>
+</details>
+
+
+<details>
 <summary>CactusVPN</summary>
 <p><a href="https://www.cactusvpn.com/" target="_blank">Official Website</a></p>
 <p><a href="https://www.cactusvpn.com/downloads/" target="_blank">Download</a> directly.</p>
@@ -301,7 +309,6 @@ Others:
 </details>
 
 
-
 <details>
 <summary>Proxy.sh</summary>
 <p><a href="https://proxy.sh/panel/aff.php?aff=1458" target="_blank">Official Website</a></p>
@@ -368,21 +375,6 @@ Others:
 
 
 
-<<<<<<< HEAD
-=======
-<details>
-<summary>VPNBook</summary>
-<p><a href="https://www.vpnbook.com/" target="_blank">Official Website</a></p>
-
-<p>The OpenVPN configuration files are available on the website of VPNBook: https://www.vpnbook.com/. 
-The username and password are listed below the download link.</p>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/VPNBook1.jpg" /></p>
-</details>
-
-
-
-
->>>>>>> c4c4e006e820f55d43a5a7578d927b6fff9744e7
 
 <details>
 <summary>VPNGate</summary>
