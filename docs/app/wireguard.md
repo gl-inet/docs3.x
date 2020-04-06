@@ -165,7 +165,7 @@ Other recommended WireGuard provider:
 </ol>
 </details>
 
-<details>
+<details id="nvpn">
 <summary>ANONINE</summary>
 <p><a href="https://anonine.com/" target="_blank">Official Website</a></p>
 <ol type="1">
