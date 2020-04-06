@@ -179,6 +179,23 @@ Other recommended WireGuard provider:
 </ol>
 </details>
 
+
+<details>
+<summary>NVPN</summary>
+<p><a href="https://www.nvpn.net/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>Fellow the guide <a href="https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows" target="_blank">here</a> to create the config.</p>
+    </li>
+    <li>
+        <p>Copy & paste the config content to router wireguard client.</p>
+        <p><img alt="NVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>  
+    </li>
+</ol>
+</details>
+
+
+
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
 ### 4) Connect to the WireGuard server
