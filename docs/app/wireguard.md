@@ -151,7 +151,7 @@ Other recommended WireGuard provider:
 <p><a href="https://www.ivpn.net/" target="_blank">Official Website</a></p>
 <ol type="1">
     <li>
-        <p>If you are using <a href="https://www.ivpn.net/" target="_blank">IVPN</a>, you need to Log in to the Client Area on the IVPN website. <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>, then follow the <a href="https://www.ivpn.net/clientarea/login" target="_blank">WireGuard Setup Guides</a> </p>
+        <p>If you are using <a href="https://www.ivpn.net/" target="_blank">IVPN</a>, you need to Log in to the Client Area on the IVPN website. <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>, then follow the <a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">WireGuard Setup Guides</a> </p>
         <p>Skip the step 1, because WireGuard is pre-installed on GL.iNet routers.</p>
         <p><img alt="IVPN linux steup guide" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_linux_setup_guide.jpg"/></p>
     </li>
