@@ -121,8 +121,8 @@ Other recommended WireGuard provider:
 
 <details>
 <summary>StrongVPN</summary>
-<p><a href="https://strongvpn.com/" target="_blank">Official Website</a></p>
-<p>If you are using <a href="https://strongvpn.com/" target="_blank">StrongVPN</a>, please read <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">this document</a></p>
+<p><a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a></p>
+<p>If you are using <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a>, please read <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">this document</a></p>
 </details>
 
 

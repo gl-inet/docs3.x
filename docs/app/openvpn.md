@@ -347,10 +347,10 @@ Others:
 
 <details>
 <summary>StrongVPN</summary>
-<p><a href="https://strongvpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a></p>
 <ol type="1">
 
-<li>Login with your StrongVPN account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
+<li>Login with your <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a> account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
 <p><img alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_01.jpg" /></p>
 <li>Find the Manual setup section, follow the steps to get configuration.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_02.jpg" /></p>
