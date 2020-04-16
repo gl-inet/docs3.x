@@ -30,6 +30,7 @@
 
 
 **Others:**
+
 - Disabled ipv6 function by default due to leak problem.
 - Changed tx power value to display by level.
 - Modified the name of server zone.
