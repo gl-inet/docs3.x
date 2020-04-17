@@ -17,7 +17,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	grid-template-columns: 33% 33% 33%;
 	grid-template-rows: 20% 20% 20% 20% 20%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13 {
     float: left;
     width: 95%;
     margin-right: 2%;
@@ -28,7 +28,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     border-style: solid;
     border-color: #ffffff
 }
-	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover, .box-8:hover, .box-9:hover, .box-10:hover, .box-11:hover, .box-12:hover {
+	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover, .box-8:hover, .box-9:hover, .box-10:hover, .box-11:hover, .box-12:hover, box-13:hover {
     border-color: #b6bde3 !important;
 }
 	@media only screen and (max-width: 30em) {
@@ -105,6 +105,11 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 		<div class="box-12">
         	<a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
+			</a>
+		</div>	
+		<div class="box-13">
+        	<a href="https://docs.gl-inet.com/en/3/setup/cirrus/first-time_setup/">
+				<img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
 			</a>
 		</div>
 	</div>
