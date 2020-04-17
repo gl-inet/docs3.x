@@ -21,7 +21,7 @@ Press and hold for **10 seconds** then release to reset the router to factory se
 
 
 
-##GL-MiFi 4G Smart Router
+## GL-MiFi 4G Smart Router
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mifi.jpg)
 
@@ -32,9 +32,21 @@ Press and hold for **10 seconds** then release to reset the router to factory se
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/ar750.jpg)
 
 
+## GL-MV1000 VPN Router
+
+   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mv1000.png)
+
+## GL-AR750S-Ext Travel AC Router
+
+   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/ar750s.png)
 
 ## GL-B1300 Home AC Router
 
    ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/b1300.jpg)
+
+
+## GL-E750 Mudi OpenWrt Router
+
+   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/e750.png)
 
 *Note: If factory reset is not working. You might need to follow the [Uboot tutorial](debrick.md) to debrick your router.*

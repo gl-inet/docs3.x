@@ -26,11 +26,6 @@ By Jabber Tech | Product Mentioned: [GL-MT300N](http://www.gl-inet.com/mt300n/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pfHZ-iP0rXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-##GL.iNet Mini OpenWrt Router with TOR! (Awesome)
-By Bri Y the PC Guy | Product Mentioned: [GL-MT300A](https://www.gl-inet.com/mt300a/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T7OBRp-C76Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 ##Anleitung: Gl.iNet VPN-Client Router Einrichtung
 By VPN Anbieter Vergleich Test  | Product Mentioned: [GL-MT300A](https://www.gl-inet.com/mt300a/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rl04SULQ4vE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

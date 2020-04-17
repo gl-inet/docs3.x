@@ -48,7 +48,7 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 *Note: Hot plug for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
 
 
-## 3.Power Off
+## 3. Power Off
 
 Press the power button for 5 seconds to turn off the device. When you press the the power button for 3 seconds, the OLED screen will show **Power Saving On** first. **KEEP PRESSING** the power button, you will see **Shut Down** under the **Power Saving On** and it will countdown 3 seconds and turn off the device.
 

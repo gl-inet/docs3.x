@@ -10,7 +10,7 @@ This guide is how to connect an EAP Wi-Fi network via GL admin panel.
 
 
 ---
-## Steps
+## Connect via web panel
 ### 1. Visit the Admin Panel 
 
 ![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/Picture1.png)
@@ -53,3 +53,37 @@ Choose 2.4G or 5G.
 ![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/Picture6.png)
 
 Enter your User Name and Password and then click join.
+
+---
+
+## Connect via Luci
+
+Our web page only supports few EAP types for now so you may need to connect via Luci page in most situations.
+
+### 1. Visit the Luci page
+
+Go to MORE SETTINGS->Advanced.
+
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/7.png)
+
+Input your web password.
+
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/8.png)
+
+Then you will enter luci page.
+
+### 2. Connect to EAP wifi
+
+Go to Network->Wifi(or Wireless).
+
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/9.png)
+
+Click 'Scan' on 2.4G section or 5G section.
+
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/10.png)
+
+Join the network you want.
+
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/11.png)
+
+---

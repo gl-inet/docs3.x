@@ -8,11 +8,11 @@ Firmware file:
 
 - **GL-AR300M,GL-AR300M-Ext**:
 
-[openwrt-mifi-3.023.bin](https://s3.us-east-2.amazonaws.com/dl.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.024.img)
+[openwrt-ar300m-ubi-3.024.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.024.img)
 
 - **GL-AR300M16,GL-AR300M16-Ext**:
 
-[openwrt-mifi-3.023.bin](https://s3.us-east-2.amazonaws.com/dl.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.024.bin)
+[openwrt-ar300m16-3.024.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.024.bin)
 
 
 **New Features:**
