@@ -266,7 +266,7 @@ Others:
 
 <details>
 <summary>HideMyAss</summary>
-<p><a href="https://www.hidemyass.com/" target="_blank">Official Website</a></p>
+<p><a href="https://click.hmavpn.com/aff_c?offer_id=1&aff_id=861" target="_blank">Official Website</a></p>
 <a href="https://vpn.hidemyass.com/vpn-config/vpn-configs.zip" target="_blank">Download</a> directly.
 </details>
 

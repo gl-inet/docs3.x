@@ -28,6 +28,7 @@
       <label id="mudi_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-x1200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-s10_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-ap1300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -85,6 +86,10 @@
           if (window.location.href.indexOf("gl-s10") != -1) {
             document.getElementById("gl-s10_label").innerHTML = ("GL-S10");
             document.getElementById("gl-s10_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-ap1300") != -1) {
+            document.getElementById("gl-ap1300_label").innerHTML = ("GL-AP1300");
+            document.getElementById("gl-ap1300_label").style.display = "block";
           }
       </script>
 
@@ -211,6 +216,16 @@
         <a id="gl-s10_api_manual" href="../../gl-s10/api_manual/" style="display: none;" class="md-nav__link"></a>
         <a id="gl-s10_firmware_compilation_guide" href="../../gl-s10/firmware_compilation_guide/" style="display: none;" class="md-nav__link"></a>
 
+        <a id="cirrus_first-time_setup" href="../../cirrus/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="cirrus_internet" href="../../cirrus/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="cirrus_wireless" href="../../cirrus/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="cirrus_clients" href="../../cirrus/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="cirrus_upgrade" href="../../cirrus/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="cirrus_firewall" href="../../cirrus/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="cirrus_vpn" href="../../cirrus/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="cirrus_applications" href="../../cirrus/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="cirrus_more_settings" href="../../cirrus/more_settings/" style="display: none;" class="md-nav__link"></a>
+        
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
             document.getElementById("mini_router_first-time_setup").innerHTML = ("First-time Setup");
@@ -468,6 +483,27 @@
             document.getElementById("gl-s10_firmware_compilation_guide").style.display = "block";
           }
         
+          if (window.location.href.indexOf("cirrus") != -1) {
+            document.getElementById("cirrus_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("cirrus_first-time_setup").style.display = "block";
+            document.getElementById("cirrus_internet").innerHTML = ("Internet");
+            document.getElementById("cirrus_internet").style.display = "block";
+            document.getElementById("cirrus_wireless").innerHTML = ("Wireless");
+            document.getElementById("cirrus_wireless").style.display = "block";
+            document.getElementById("cirrus_clients").innerHTML = ("Clients");
+            document.getElementById("cirrus_clients").style.display = "block";
+            document.getElementById("cirrus_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("cirrus_upgrade").style.display = "block";
+            document.getElementById("cirrus_firewall").innerHTML = ("Firewall");
+            document.getElementById("cirrus_firewall").style.display = "block";
+            document.getElementById("cirrus_vpn").innerHTML = ("VPN");
+            document.getElementById("cirrus_vpn").style.display = "block";
+            document.getElementById("cirrus_applications").innerHTML = ("Applications");
+            document.getElementById("cirrus_applications").style.display = "block";
+            document.getElementById("cirrus_more_settings").innerHTML = ("More Settings");
+            document.getElementById("cirrus_more_settings").style.display = "block";  
+          }
+
         </script> 
       </ul>
 

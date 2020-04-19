@@ -54,6 +54,7 @@ pages:
     - GL-USB150: 'hardware/usb150/index.md'
     - GL-B1300: 'hardware/b1300/index.md'
     - GL-S1300: 'hardware/s1300/index.md'
+    - GL-AP1300: 'hardware/ap1300/index.md'
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - GL-MV1000: 'hardware/mv1000/index.md'
     - GL-X1200: 'hardware/x1200/index.md'
@@ -181,6 +182,16 @@ pages:
         - First-time Setup: 'setup/gl-s10/first-time_setup.md'
         - API Manual: 'setup/gl-s10/api_manual.md'
         - Firmware Complilation Guide: 'setup/gl-s10/firmware_compilation_guide.md'
+    - Cirrus (GL-AP1300):
+        - First-time Setup: 'setup/cirrus/first-time_setup.md'
+        - Internet: 'setup/cirrus/internet.md'
+        - Wireless: 'setup/cirrus/wireless.md'
+        - Clients: 'setup/cirrus/clients.md'
+        - Upgrade: 'setup/cirrus/upgrade.md'
+        - Firewall: 'setup/cirrus/firewall.md'
+        - VPN: 'setup/cirrus/vpn.md'
+        - Applications: 'setup/cirrus/applications.md'
+        - More Settings: 'setup/cirrus/more_settings.md'
         
 - Development:
     - UART Serial: 'dev/serial.md'
