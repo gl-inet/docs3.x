@@ -7,7 +7,7 @@ GL-AP1300
 ![router](https://static.gl-inet.com/docs/en/3/setup/cirrus/First%20time/AP1300.png)
 
 
-GL-AP1300 (With 4G Module)
+GL-AP1300LTE
 
 ![router](https://static.gl-inet.com/docs/en/3/setup/cirrus/First%20time/AP1300LTE.png)
 
@@ -36,7 +36,7 @@ The power cable **(12V/2A DC)** can be found in the package.
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/cirrus/First%20time/power2.png)
 
-*IMPORTANT NOTE: With 4G Module, you **MUST** insert Nano SIM Card and attach the antennas before connecting to a power supply.*
+*IMPORTANT NOTE: For GL-AP1300LTE, you **MUST** insert Nano SIM Card and attach the antennas before connecting to a power supply.*
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/cirrus/First%20time/AP1300_insert.png)
 

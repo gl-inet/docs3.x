@@ -1,6 +1,6 @@
 # INTERNET
 
-There are total 3 types of connection method that you can use to access the Internet: **Cable**, **Repeater** and **3G/4G Modem(With 4G Module ONLY)**.
+There are total 3 types of connection method that you can use to access the Internet: **Cable**, **Repeater** and **3G/4G Modem(AP-1300LTE ONLY)**.
 
 ![connection methods](https://static.gl-inet.com/docs/en/3/setup/cirrus/internet/internet-setting-AP1300.png)
 
@@ -78,7 +78,7 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ## 3) 3G/4G Modem
 
-Cirrus(With 4G Version) has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
+GL-AP1300LTE has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem1.jpg)
 
