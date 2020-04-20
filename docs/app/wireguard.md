@@ -135,10 +135,10 @@ Other recommended WireGuard provider:
 
 <details id="ivpnid">
 <summary>12VPX</summary>
-<p><a href="https://12vpx.com/" target="_blank">Official Website</a></p>
+<p><a href="https://12vpx.com/?aff=1174" target="_blank">Official Website</a></p>
 <ol type="1">
     <li>
-        <p>If you are using <a href="https://12vpx.com/" target="_blank">12VPX</a>, login then access <a href="https://12vpx.com/setup/wireguard" target="_blank">this page</a>, you will see the configs of all servers.
+        <p>If you are using <a href="https://12vpx.com/?aff=1174" target="_blank">12VPX</a>, login then access <a href="https://12vpx.com/setup/wireguard" target="_blank">this page</a>, you will see the configs of all servers.
     </li>
     <li>
         <p>Copy & paste the config content to router wireguard client.</p>
