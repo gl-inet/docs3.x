@@ -78,7 +78,7 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ## 3) 3G/4G Modem
 
-Spitz has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
+Cirrus(With 4G Version) has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem1.jpg)
 
@@ -108,6 +108,38 @@ It is connected when the IP address of your SIM card shows up.
 ![modem connect](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem3.jpg)
 
 ![modem connected](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem4.jpg)
+
+
+
+### Compatible Modems
+
+Here is a list of supported modems that we had tested before. 
+
+| Model                                  | 3G/4G | Tested | Tested by       | Comments* |
+| -------------------------------------- | ----- | ------ | --------------- | --------- |
+| Quectel EC20-E, EC20-A, EC20-C         | 4G    | Yes    | GL.iNet         |           |
+| Quectel EC25-E, EC25-A, EC25-V, EC25-C | 4G    | Yes    | GL.iNet         |           |
+| Quectel UC20-E                         | 3G    | Yes    | GL.iNet         |           |
+| ZTE ME909s-821                         | 4G    | Yes    | GL.iNet         |           |
+| Huawei E1550                           | 3G    | Yes    | GL.iNet         |           |
+| Huawei E3276                          | 4G    | Yes    | GL.iNet         |           |
+| TP-Link MA260                          | 3G    | Yes    | GL.iNet         |           |
+| ZTE M823                               | 4G    | Yes    | Arnas Risqianto |           |
+| ZTE MF190                              | 3G    | Yes    | Arnas Risqianto |           |
+| Huawei E3372                           | 4G    | Yes    | anonymous       |           |
+| Pantech UML290VW (Verizon)             | 4G    | Yes    | GL.iNet/steven  | QMI       |
+| Pantech UML295 (Verizon)               | 4G    | Yes    | GL.iNet/steven  | Host-less |
+| Novatel USB551L (Verizon)              | 4G    | Yes    | GL.iNet/steven  | QMI       |
+| Verizon U620L (Verizon)                | 4G    | Yes    |                 | Host-less |
+|                                        |       |        |                 |           |
+
+*QMI: This modem supports QMI mode. Please choose **/dev/cdc-wdm0** in the **Device** list.
+
+*Host-less: This modem supports tethering mode, please set up by using Tethering but not 3G/4G modem.
+
+You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html) for a well supported modem list.
+
+
 
 
 
