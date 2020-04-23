@@ -310,7 +310,7 @@ Others:
 
 <details>
 <summary>Ovpn</summary>
-<p><a href="https://www.ovpn.com/en?ref=alfiezhao" target="_blank">Office Website</a></a></p>
+<p><a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a></a></p>
 <p>Just login, then you can easy get the OpenVPN configurations file by click the menu below.</p>
 <p><img alt="get ovpn configuration files" src="https://static.gl-inet.com/docs/en/3/app/openvpn/ovpn/get_ovpn_configuration_files.jpg"/></p>
 <p>Choose the server and download.</p>
