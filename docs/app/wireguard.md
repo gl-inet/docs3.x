@@ -66,9 +66,20 @@ Waiting for the adding.
 Other recommended WireGuard provider:
 
 <details>
+<summary>OVPN</summary>
+<p><a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a></p>
+<p>Login <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">www.ovpn.com</a>, find the menu below to get WireGuard configuration files.</p>
+<p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/get_wireguard_configuration_files.jpg"/></p>
+<p>Click Generate WireGuard keys, choose the server you wanted, then download the config.</p>
+<p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/download_wireguard_configuration_files.jpg"/></p>
+<p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
+<p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+</details>
+
+<details>
 <summary>SpiderVPN</summary>
 <p><a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">Official Website</a></p>
-<p>Login in <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.</p>
+<p>Login <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.</p>
 <p>1.</p>
 <p><img alt="get spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_1.jpg" /></p>
 <p>2. download the vpn configuration</p>
