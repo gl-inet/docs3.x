@@ -2,7 +2,7 @@
 
 ## V3.102 - Apr 15, 2020
 
-**Firmware file:** [openwrt-mt300n-v2-3.102.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.102.bin)
+**Firmware file:** [openwrt-mt300n-v2-3.102.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.102.bin)（Found some problems with this version, not available for now)
 
 **New Features:**
 
