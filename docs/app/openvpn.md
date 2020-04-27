@@ -205,7 +205,7 @@ Others:
 
 <details>
 <summary>CactusVPN</summary>
-<p><a href="https://www.cactusvpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://billing.cactusvpn.com/aff.php?aff=2310" target="_blank">Official Website</a></p>
 <p><a href="https://www.cactusvpn.com/downloads/" target="_blank">Download</a> directly.</p>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/CactusVPN1.jpg" /></p>
 </details>
