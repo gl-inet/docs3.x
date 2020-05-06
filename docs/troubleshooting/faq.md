@@ -227,5 +227,5 @@
 
 <details>
 <summary>Why my OpenVPN connection returned Auth_failed?</summary>
-<P>It is because you put in the wrong username and password, they are not the username/password you used to login your vpn service website account. Instead, they are part of vpn configuration which you can find in account background.</p>
+<P>Your username/password for OpenVPN login over a router with your VPN provider is not the same username password combination (email/password) you use when you login the VPN provider's website. You should be able to find the configuration on the account dashboard.</p>
 </details>
