@@ -271,7 +271,7 @@ Others:
 </details>
 
 
-<details>
+<details id="ivacy">
 <summary>IPVANISH</summary>
 <p><a href="https://www.ipvanish.com/" target="_blank">Official Website</a></p>
 <p>You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/">www.ipvanish.com/software/configs/ (configs.zip).</a> </p>
@@ -286,7 +286,17 @@ Others:
 <details id="ivpnid">
 <summary>Ivacy</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
-<a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly.
+<p>
+    <a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly, it is the configs of all OpenVPN servers. Drag this zip file to GL.iNet router New OpenVPN Configuration dialog.
+</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/add_a_new_openvpn_configuration.jpg" /></p>
+<p>If this zip file is too big, try to delete some .ovpn files on the zip, and keep the servers you wanted. Don't delete the .crt and .key files</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/delete_some_servers.jpg" /></p>
+<p>It will pop up a dialog ask for username and password, just input the email and password you login ivacy.com</p>
+<p>Choose the server by click the button show in the image below, and click Connect button.</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/switch_servers.png" /></p>
+
+<p><a href="https://support.ivacy.com/setup_guide/how-to-setup-ivacy-on-gl-inet-router/" target="_blank">Refer link</a></p>
 </details>
 
 
