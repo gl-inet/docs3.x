@@ -2,7 +2,7 @@
 
 ## V3.102 - Apr 15, 2020
 
-**Firmware file:** [openwrt-mt300n-v2-3.102.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.102.bin)（Found some problems with this version, not available for now)
+**Firmware file:** [openwrt-mt300n-v2-3.102.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.102.bin)
 
 **New Features:**
 
@@ -14,8 +14,6 @@
 - Added Internet Kill Switch function.
 - Added default kernel package "kmod-nf-nathelper"  to solve the problem that FTP server cannot be found.
 - Added 83 ports to support web access.
-- Added guest network.
-- Added Captive Portal.
 
 **Fixed Problems:**
 
