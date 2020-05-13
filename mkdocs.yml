@@ -160,6 +160,7 @@ pages:
     - Brume (GL-MV1000):
         - First-time Setup: 'setup/brume/first-time_setup.md'
         - Internet: 'setup/brume/internet.md'
+        - Wireless: 'setup/brume/wireless.md'
         - Clinets: 'setup/brume/clients.md'
         - Upgrade: 'setup/brume/upgrade.md'
         - Firewall: 'setup/brume/firewall.md'

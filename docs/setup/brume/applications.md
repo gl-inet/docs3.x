@@ -64,3 +64,13 @@ For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud
 
 ---
 
+## Portal (For MV1000W)
+
+You can set a **captival portal** in our routers, when newly users connect to wifi, they need to access a web page before access the internet.
+
+Only support 3.022 version or above.
+
+![Portal](https://static.gl-inet.com/docs/en/3/setup/cirrus/application/Portal.png)
+
+
+For the setup guidance, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).

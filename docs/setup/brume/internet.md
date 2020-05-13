@@ -1,8 +1,8 @@
 # INTERNET
 
-There are total 3 types of connection method that you can use to access the Internet: **Cable**, **3G/4G Modem** and **Tethering**.
+There are total 4 types of connection method that you can use to access the Internet: **Cable**, **3G/4G Modem**, **Tethering** and **Repeater** (MW1000W ONLY).
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/brume/internet/internet_settings.jpg)
+![connection method](https://static.gl-inet.com/docs/en/3/setup/brume/internet/internet_new1.png)
 
 
 
@@ -151,3 +151,25 @@ After plugging in your device, the Tethering section will update and your device
 Some carriers prohibit the sharing of the data so that you may not be able to use tethering. However, you can try [easytethering](/app/tether.md). 
 
 *Note: Easytether is not a free service and we have no affiliation with them.*
+
+
+
+---
+
+## 4) Repeater
+
+Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
+
+It works in WISP (Wireless Internet Service Provider) mode by default, which means that the router will create its own subnet and act as a firewall to protect you from the public network.
+
+In Repeater section, click `Scan` to search for the available wireless networks nearby.
+
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp1.jpg)
+
+
+
+Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
+
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg)
+
+
