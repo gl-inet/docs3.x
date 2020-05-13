@@ -30,7 +30,7 @@ GL-X1200 is a powerful, stableoperation, and a high-performanceproduct designed 
 |            Power Input | 12V/3A or 48V/1A DC inputor POE input (802.3at)                                      |
 |         POE Output           |       POE output (802.af) is supported when powered via 48V/1A DC|
 | Enclosure             |        Metallic housing case with ground-screws.|
-| Dimension             |         240*145*40mm (L*W*H, Exclude Antenna size)|
+| Dimension             |         240x145x40mm (LWH, Exclude Antenna size)|
 |            Weight         |       1360g(product net weight)  |
 |          Power Consumption |   Maximum 11W  (Exclude  power  consumption  of external  device connected by USB port)     |
 |         Temperature            |       OperationTemperature: -20~55°C (Extended Operation Temperature: If powered by PSU, -20~60°C.<br> If powered by POE,-40~70°C.Can operatefor short time and the performancewill be reduced)<br>Storage Temperature: -40～70°C|

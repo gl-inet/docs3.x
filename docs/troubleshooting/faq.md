@@ -19,7 +19,7 @@
 <ol type="1">
 <li>Access web Admin Panel via 192.168.8.1.</li>
 <li>Click <b>Upgrade</b> and check <b>Current Version</b>
-<p><img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware.jpg"</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware.jpg" /></p>
 </ol>
 </details>
 
@@ -78,7 +78,7 @@
 <ol type="1">
 <li>Access web Admin Panel via 192.168.8.1.</li>
 <li>Click <b>Wireless</b> and turn the <b>ON/OFF</b> button to Off</li>
-<p><img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/wireless/status.jpg"</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/wireless/status.jpg" /></p>
 </ol>
 </details>
 
@@ -210,7 +210,8 @@
 <details>
 <summary>Which VPN protocol and VPN service provider does the router support?</summary>
 <p>Our routers support OpenVPN and WireGuard.</p>
-<p>Please check <a href="https://docs.gl-inet.com/en/3/app/openvpn/#get-your-configuration-file">here</a> for the list of compatible OpenVPN service providers.</p>
+<p>Please check <a href="https://docs.gl-inet.com/en/3/app/openvpn/#get-your-configuration-file" target="_blank">here</a> for the list of compatible OpenVPN service providers.</p>
+<p>Please check <a href="https://docs.gl-inet.com/en/3/app/wireguard/#wireguard-providers" target="_blank">here</a> for the list of WireGuard service providers.</p>
 </details>
 
 <details>
@@ -225,6 +226,6 @@
 </details>
 
 <details>
-<summary>Why my openvpn connection returned Auth_failed?</summary>
-<P>It is because you put in the wrong username and password, they are not the username/passwd you used to login your vpn service website account. Instead, they are part of vpn configuration which you can find in account background.</p>
+<summary>Why my OpenVPN connection returned Auth_failed?</summary>
+<P>Your username/password for OpenVPN login over a router with your VPN provider is not the same username password combination (email/password) you use when you login the VPN provider's website. You should be able to find the configuration on the account dashboard.</p>
 </details>

@@ -87,7 +87,7 @@ Tips: if the zip file is too big to upload, you can upload single ovpn file.</p>
 <summary>Surfshark</summary>
 <p><a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400" target="_blank">Official Website</a></p>
 
-<p>Login and <a href="https://api.surfshark.com/v1/server/configurations">Download</a> directly.</p>
+<p>Login and <a href="https://api.surfshark.com/v1/server/configurations">Download</a> directly, or read this <a href="https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-" target="_blank">guide</a>.</p>
 </details>
 
 
@@ -205,7 +205,7 @@ Others:
 
 <details>
 <summary>CactusVPN</summary>
-<p><a href="https://www.cactusvpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://billing.cactusvpn.com/aff.php?aff=2310" target="_blank">Official Website</a></p>
 <p><a href="https://www.cactusvpn.com/downloads/" target="_blank">Download</a> directly.</p>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/CactusVPN1.jpg" /></p>
 </details>
@@ -271,7 +271,7 @@ Others:
 </details>
 
 
-<details>
+<details id="ivacy">
 <summary>IPVANISH</summary>
 <p><a href="https://www.ipvanish.com/" target="_blank">Official Website</a></p>
 <p>You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/">www.ipvanish.com/software/configs/ (configs.zip).</a> </p>
@@ -286,7 +286,17 @@ Others:
 <details id="ivpnid">
 <summary>Ivacy</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
-<a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly.
+<p>
+    <a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly, it is the configs of all OpenVPN servers. Drag this zip file to GL.iNet router New OpenVPN Configuration dialog.
+</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/add_a_new_openvpn_configuration.jpg" /></p>
+<p>If this zip file is too big, try to delete some .ovpn files on the zip, and keep the servers you wanted. Don't delete the .crt and .key files</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/delete_some_servers.jpg" /></p>
+<p>It will pop up a dialog ask for username and password, just input the email and password you login ivacy.com</p>
+<p>Choose the server by click the button show in the image below, and click Connect button.</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/switch_servers.png" /></p>
+
+<p><a href="https://support.ivacy.com/setup_guide/how-to-setup-ivacy-on-gl-inet-router/" target="_blank">Refer link</a></p>
 </details>
 
 
@@ -308,6 +318,15 @@ Others:
 </ol>
 </details>
 
+<details>
+<summary>OVPN</summary>
+<p><a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a></p>
+<p>Just login, then you can easy get the OpenVPN configurations file by click the menu below.</p>
+<p><img alt="get ovpn configuration files" src="https://static.gl-inet.com/docs/en/3/app/openvpn/ovpn/get_ovpn_configuration_files.jpg"/></p>
+<p>Choose the server and download.</p>
+<p><img alt="download ovpn openvpn configuration files" src="https://static.gl-inet.com/docs/en/3/app/openvpn/ovpn/download_configuration_files.jpg"/></p>
+<p>The username and password are the same you login OVPN.</p>
+</details>
 
 <details>
 <summary>Proxy.sh</summary>

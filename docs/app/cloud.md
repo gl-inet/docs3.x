@@ -252,9 +252,7 @@ Senerio 3: A family has IP camera and when they are not at home, the Site to Sit
 
 ### What conditions do I need to create Site to Site?
 
-One of the loations has a public static(or dynamic) ip, and two or more GL-iNet devices with latest testing firmware. 
-
-For free user, it can build one Site to Site network with 3 devices.
+One of the loations has a public static(or dynamic) ip, and two or more GL-iNet devices with latest testing firmware.
 
 ### Steps to build a Site to Site network.
 
@@ -266,13 +264,15 @@ For free user, it can build one Site to Site network with 3 devices.
 
 Defaul port is 51830, if you want to use another port, find the Advanced option at the lower left corner.
 
+Due to device's performance, each Site to Site network can have up to 10 devices.
+
 After you had chosen the devices, click Continue.
 
 ![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-02.png)
 
 Then, it will test each device if it can be set as the Main Node of Site to Site.
 
-We suggest that the router with strong performance be the Main Node.
+We suggest that the router with strong performance and best network speed to be the Main Node.
 
 ![testing eacg device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-01.png)
 

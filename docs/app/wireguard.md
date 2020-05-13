@@ -15,7 +15,7 @@ To set up a WireGuard client, please click `+ Add New Profiles`.
 
 
 
-### 1) Specify the name of your server
+### Specify the name of your server
 
 Specify the name and then click `Next`.
 
@@ -23,7 +23,7 @@ Specify the name and then click `Next`.
 
 
 
-### 2) Input the configurations
+### Input the configurations
 
 There are different methods to input the configurations.
 
@@ -38,7 +38,7 @@ After copy the `JSON` or `Plain Text` from your server, you can paste it in the 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/wire1.1.PNG)
 
 
-### 3) WireGuard Providers
+### WireGuard Providers
 
 If you are using <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> or <a href="https://mullvad.net/" target="_blank">Mullvad</a>, you can click `Others` and use your **AzireVPN** or **Mullvad** account to set up WireGuard client directly.
 
@@ -66,9 +66,20 @@ Waiting for the adding.
 Other recommended WireGuard provider:
 
 <details>
+<summary>OVPN</summary>
+<p><a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a></p>
+<p>Login <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">www.ovpn.com</a>, find the menu below to get WireGuard configuration files.</p>
+<p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/get_wireguard_configuration_files.jpg"/></p>
+<p>Click Generate WireGuard keys, choose the server you wanted, then download the config.</p>
+<p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/download_wireguard_configuration_files.jpg"/></p>
+<p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
+<p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+</details>
+
+<details>
 <summary>SpiderVPN</summary>
 <p><a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">Official Website</a></p>
-<p>Login in <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.</p>
+<p>Login <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.</p>
 <p>1.</p>
 <p><img alt="get spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_1.jpg" /></p>
 <p>2. download the vpn configuration</p>
@@ -198,7 +209,7 @@ Other recommended WireGuard provider:
 
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
-### 4) Connect to the WireGuard server
+### Connect to the WireGuard server
 
 Click `Connect`. You will see the upload and download traffic when it is connected successfully.
 
@@ -214,7 +225,7 @@ You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`
 
 
 
-### 1) Start a WireGuard server
+### Start a WireGuard server
 
 You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
 
@@ -222,7 +233,7 @@ You can simply use the default parameters of **Local IP** and **Local Port**, or
 
 
 
-### 2) Add a new client
+### Add a new client
 
 You have to add a new user and apply the configurations when you are connecting to this WireGuard server.
 
@@ -238,7 +249,7 @@ Specify the **Name** of the new client and then click `Add`.
 
 
 
-### 3) Get the configuration details for your client
+### Get the configuration details for your client
 
 You can now check the list of the clients you added. You can `Delete` any unwanted client. Please click `Configurations` to find the configuration details which you need to use when you are setting up WireGuard client. We provide QRcode, Plain Text and JSON configurations currently.
 

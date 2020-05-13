@@ -14,8 +14,6 @@
 - Added Internet Kill Switch function.
 - Added default kernel package "kmod-nf-nathelper"  to solve the problem that FTP server cannot be found.
 - Added 83 ports to support web access.
-- Added guest network.
-- Added Captive Portal.
 
 **Fixed Problems:**
 

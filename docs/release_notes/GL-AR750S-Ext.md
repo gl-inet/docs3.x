@@ -1,5 +1,37 @@
 # GL-AR750S-Ext (Slate) - Release Notes
 
+## V3.104 - May 7, 2020
+
+Firmware file:
+
+[openwrt-ar750s-3.104.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.104.img)
+
+**New Features:**
+
+- Added Korean.
+- Added hint in vpn page.
+
+**Fixed Problems:**
+
+- Fixed the problem that tcpdump was unable to catch the ingree data pack.
+- Fixed tethering problem with Samsung S10 phone.
+- Fixed the problem that the web was unable to access due to 443,83,80 port settings of vpn server.
+- Fixed PPP CVE-8597 security vulnerability.
+- Fixed opkg CVE-7982 security vulnerability.
+
+**Improvements:**
+
+- Optimized the vpn conflict testing.
+- Optimized the port forwarding function.
+- Optimized wireless rate from setting mode to working mode and bandwidth mode.
+
+**Others:**
+
+- Modified the page tag.
+- Disabled ipv6 function by default due to leak problem.
+
+---
+
 ## V3.101 - Mar 3, 2020
 
 Firmware file:
@@ -135,7 +167,7 @@ Firmware file:
 
 ---
 
-##v3.003 - OCT 10, 2018
+## v3.003 - OCT 10, 2018
 
 Firmware file:
 
