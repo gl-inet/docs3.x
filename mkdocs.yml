@@ -157,7 +157,7 @@ pages:
         - VPN: 'setup/microuter-n300/vpn.md'
         - Applications: 'setup/microuter-n300/applications.md'
         - More Settings: 'setup/microuter-n300/more_settings.md'
-    - Brume (GL-MV1000):
+    - Brume (GL-MV1000/GL-MV1000W):
         - First-time Setup: 'setup/brume/first-time_setup.md'
         - Internet: 'setup/brume/internet.md'
         - Wireless: 'setup/brume/wireless.md'
@@ -183,7 +183,7 @@ pages:
         - First-time Setup: 'setup/gl-s10/first-time_setup.md'
         - API Manual: 'setup/gl-s10/api_manual.md'
         - Firmware Complilation Guide: 'setup/gl-s10/firmware_compilation_guide.md'
-    - Cirrus (GL-AP1300):
+    - Cirrus (GL-AP1300/GL-AP1300LTE):
         - First-time Setup: 'setup/cirrus/first-time_setup.md'
         - Internet: 'setup/cirrus/internet.md'
         - Wireless: 'setup/cirrus/wireless.md'

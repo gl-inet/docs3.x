@@ -1,6 +1,6 @@
 # WIRELESS
 
-"2.4G WiFi" is for MV1000W only. If you are using MV1000, you could check the "Dongle".
+Only MV1000W is equipped with the Wi-Fi function. MV1000 users could check <a href="https://docs.gl-inet.com/en/3/setup/brume/wireless/#2-dongle" target="_blank">Dongle</a> to know how to add Wi-Fi to MV1000.
 
 
 
@@ -29,7 +29,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless2.png)
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless7.png)
 
 Click `Modify` to change the settings of the wireless network.
 
@@ -38,10 +38,10 @@ Click `Modify` to change the settings of the wireless network.
 
 ## 2) Dongle
 
-Starting from firmware version 3.100, users can add Wi-Fi to MV1000. Users can also add a dongle to MV1000W to create a dual band. 
+Starting from firmware version 3.100, users could add Wi-Fi to MV1000 and MV1000W. 
 
 Please download the latest firmware from the links here :
-- [**Firmware**](https://docs.gl-inet.com/en/3/app/vpn_policies/)
+- [**Firmware**](https://dl.gl-inet.com/firmware/mv1000/testing/)
 
 Here is a list of supported dongles that we had tested before. 
 
@@ -51,5 +51,19 @@ Here is a list of supported dongles that we had tested before.
 | RTL8812AU                              | AWUS036ACS    | Yes    | GL.iNet         |           |
 
 
-When you insert the dongle, there will be UI for wifi. You can set up as AP or repeater.
-![Dongle](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless3.png)
+When you insert the dongle, you will see the dongle under "Wireless" and then you could set up as Access Point or repeater.
+
+
+MV1000:
+
+![MV1000](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless6.png)
+
+
+MV1000W:
+
+![MV1000W](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless5.png)
+
+
+Click `Modify` to change the settings of the wireless network.
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless4.png)
+
