@@ -292,15 +292,18 @@ Others:
 
 
 <details id="ivpnid">
-<summary>Ivacy</summary>
+<summary>IVACY</summary>
 <p><a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a></p>
 <p>
-    <a href="https://s3.amazonaws.com/ivacy-apps/openvpn-files/OpenVPN-Configs.zip" target="_blank">Download</a> directly, it is the configs of all OpenVPN servers. Drag this zip file to GL.iNet router New OpenVPN Configuration dialog.
+    <a href="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/IVACY_OpenVPN_Configs_UDP.zip" target="_blank">Download OpenVPN UDP Configs</a>
 </p>
+<p>
+    <a href="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/IVACY_OpenVPN_Configs_TCP.zip" target="_blank">Download OpenVPN TCP Configs</a>
+</p>
+<p>Download the UDP or TCP OpenVPN configs. Then drag the zip file to GL.iNet router New OpenVPN Configuration dialog.</p>
 <p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/add_a_new_openvpn_configuration.jpg" /></p>
-<p>If this zip file is too big, try to delete some .ovpn files on the zip, and keep the servers you wanted. Don't delete the .crt and .key files</p>
-<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/delete_some_servers.jpg" /></p>
 <p>It will pop up a dialog ask for username and password, just input the email and password you login ivacy.com</p>
+<p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/ivacy_add_new_configs.jpg" /></p>
 <p>Choose the server by click the button show in the image below, and click Connect button.</p>
 <p><img src="https://static.gl-inet.com/docs/en/3/app/openvpn/ivacy/switch_servers.png" /></p>
 
