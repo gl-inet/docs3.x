@@ -80,7 +80,7 @@ Recommended:
 <p>Choose the configuration name and click <b>Connect</b>.</p>
 <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/nordvpn_connect.jpg"/></p>
 
-<p>You can download all servers configs <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">here</a>.</p>
+<p>Of course you can download all servers configs <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">here</a>.</p>
 <p>Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.</p>
 <p><a href="https://support.nordvpn.com/Connectivity/Router/1047409122/GL-iNet-setup-with-NordVPN.htm" target="_blank">Refer link</a></p>
 </details>
