@@ -69,17 +69,20 @@ Recommended:
 <summary>NordVPN</summary>
 <p><a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902" target="_blank">Official Website</a>
 
-<p>Download OpenVPN client configuration files. We recommend going into NordVPN recommended server utility <a href="https://nordvpn.com/servers/tools/" target="_blank">here</a>.</p>
-<p><img alt="nordvpn server utility" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/nordvpn_server_utility.png"> </p>
-<p>As show above, download the configuration file, then go to the web Admin Panel => OpenVPN Client => Add a New OpenVPN Configuration </p>
+<p>Download OpenVPN client configuration files. We recommend going into <a href="https://nordvpn.com/servers/tools/" target="_blank">NordVPN recommended server utility here</a>.</p>
+<p><img alt="nordvpn server utility" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/nordvpn_server_utility.jpg"> </p>
+<p>As show above, download the configuration file, then go to the web Admin Panel, default is http://192.168.8.1, OpenVPN Client --> Add a New OpenVPN Configuration </p>
 <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/openvpn_client.jpg"/></p>
-<p>It will pop up a dialog</p>
+<p>It will pop up a dialog.</p>
 <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/new_openvpn_configuration.jpg"/></p>
-<p>It will ask username and password. Input the NordVPN credentials and click Submit</p>
+<p>Drag the .ovpn file jsut downloaed to the dialog, it will ask username and password. Input the NordVPN credentials and click <b>Submit</b>.</p>
+<p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/nordvpn_username_password.jpg"/></p>
+<p>Choose the configuration name and click <b>Connect</b>.</p>
+<p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/nordvpn/nordvpn_connect.jpg"/></p>
 
-Tips: if the zip file is too big to upload, you can upload single ovpn file.</p>
-
-<a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">Download</a> directly.
+<p>You can download all servers configs <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">here</a>.</p>
+<p>Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.</p>
+<p><a href="https://support.nordvpn.com/Connectivity/Router/1047409122/GL-iNet-setup-with-NordVPN.htm" target="_blank">Refer link</a></p>
 </details>
 
 
