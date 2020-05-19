@@ -133,7 +133,20 @@ Other recommended WireGuard provider:
 <details>
 <summary>StrongVPN</summary>
 <p><a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a></p>
-<p>If you are using <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a>, please read <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">this document</a></p>
+<p>If you are using <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a>, sign in at <a href="https://wg.strongvpn.com" target="_blank">https://wg.strongvpn.com</a></p>
+<p>Select a location from the drop down menu, click GENERATE, open the downloaded text file, and then copy the contents of the file.</p>
+<p><img alt="strongvpn wireguard configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_wireguard_configuration_generator.png" /></p>
+<p>Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_1.png" /></p>
+<p>Specify the name of your server and click next.</p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_2.png" /></p>
+<p>Paste the configuration text to the Configuration windows. Click <b>Add</b></p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_3.png" /></p>
+<p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_4.png" /></p>
+<p>You will see the upload and download traffic when it is connected successfully.</p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_5.png" /></p>
+<p><a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">Refer link</a></p>
 </details>
 
 
