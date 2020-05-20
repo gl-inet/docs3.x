@@ -3,7 +3,7 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-o
 
 GL.iNet routers have pre-installed WireGuard server and client.
 
-If you are looking for a WireGuard provider, access [this](#3-wireguard-providers) directly.
+If you are looking for a WireGuard provider, access [this](#wireguard-providers) directly.
 
 ---
 
@@ -151,9 +151,49 @@ Other recommended WireGuard provider:
 
 
 <details>
-<summary>VPN Unlimited</summary>
+<summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
-<p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, please read <a href="https://www.vpnunlimitedapp.com/help/manuals/wireguard-setup-on-glinet-router" target="_blank">this document</a></p>
+<p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, sign in to your <a href="https://my.keepsolid.com/" target="_blank">User Office</a> > select the VPN Unlimited® application > click <b>Manage</b>.</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/01.jpg" /></p>
+
+<p>Press the field under <b>Device</b> and click <b>Manually create a new device…</b> > set it’s custom name, for example WireGuard  > choose appropriate location of the <b>Server</b> > select the <b>WireGuard</b>® protocol from the dropdown menu > click <b>Generate</b>. </p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/02.jpg" /></p>
+
+<p>The configuration parameters will then appear below in the text format. You’ll need them for further configuration of your GL.iNet router.</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/03.jpg" /></p>
+
+<p>Login to the web Admin Panel, default is http://192.168.8.1, click VPN > WireGuard® Client.</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/04.jpg" /></p>
+
+<p>Click <b>Add New Profiles</b>.</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/05.jpg" /></p>
+
+<p>Specify custom <b>Name</b> of server and click <b>Next</b>.</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/06.jpg" /></p>
+
+<p>The <b>Add a New WireGuard</b>® <b>Client</b> window will appear. In the <b>Configuration</b> tab, paste the details of the manual configuration settings you’ve generated before: </p>
+
+<p>
+[Interface]</br>
+PrivateKey = <i>paste the PrivateKey from your User Office</i></br>
+ListenPort = <i>paste the ListenPort details</i></br>
+Address = <i>paste Address information</i></br>
+DNS = <i>paste DNS details from the User Office</i></br>
+</br>
+[Peer]</br>
+PublicKey = <i>paste PublicKey from the User Office</i></br>
+PresharedKey = <i>paste PresharedKey details</i></br>
+AllowedIPs = <i>paste AllowedIPs details</i></br>
+Endpoint = <i>paste Endpoint information</i></br>
+</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/07.jpg" /></p>
+
+<p>Once completed, click <b>Add</b>.</p>
+
+<p>Click <b>Connect</b> on the <b>WireGuard®</b> <b>Client</b> tab.</p>
+<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/08.jpg" /></p>
+
+<p><a href="https://www.vpnunlimitedapp.com/help/manuals/wireguard-setup-on-glinet-router" target="_blank">Refer link</a></p>
 </details>
 
 

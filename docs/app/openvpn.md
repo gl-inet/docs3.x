@@ -422,15 +422,11 @@ according to the server location.</p>
 <li>You will see the download page.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/VPNGate2.png" /></p>
 </ol>
-
 </details>
 
 
-
-
-
 <details>
-<summary>VPN Unlimited</summary>
+<summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
 
 <ol type="1">
