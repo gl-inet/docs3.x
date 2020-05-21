@@ -73,7 +73,7 @@ Other recommended WireGuard provider:
 <p>Click Generate WireGuard keys, choose the server you wanted, then download the config.</p>
 <p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/download_wireguard_configuration_files.jpg"/></p>
 <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
-<p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+<p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
 </details>
 
 <details>
@@ -106,6 +106,7 @@ Other recommended WireGuard provider:
     <p>Copy & paste the config content to router wireguard client.</p>
     <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+    <p><a href="https://torguard.net/knowledgebase.php?action=displayarticle&id=250" target="_blank">Refer link</a></p>
 </li>
 </ol>
 </details>
