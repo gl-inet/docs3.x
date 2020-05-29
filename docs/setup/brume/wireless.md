@@ -1,6 +1,6 @@
 # WIRELESS
 
-Only MV1000W is equipped with the Wi-Fi function. MV1000 users could check <a href="https://docs.gl-inet.com/en/3/setup/brume/wireless/#2-dongle" target="_blank">Dongle</a> to know how to add Wi-Fi to MV1000.
+Only available when MV1000W is equipped with the Wi-Fi module. MV1000 users could check <a href="https://docs.gl-inet.com/en/3/setup/brume/wireless/#2-dongle" target="_blank">Dongle</a> to know how to add Wi-Fi to MV1000.
 
 
 
