@@ -250,6 +250,7 @@ pages:
     - GL-X1200: 'release_notes/GL-X1200.md'
     - GL-E750: 'release_notes/GL-E750.md'
     - microuter-N300: 'release_notes/microuter-N300.md'
+    - GL-AP1300: 'release_notes/GL-AP1300.md'
 # Extension theme
 extra_css:
   - 'stylesheets/extra.css'
