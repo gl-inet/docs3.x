@@ -262,9 +262,9 @@ One of the loations has a public static(or dynamic) ip, and two or more GL-iNet 
 
 ![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-01.png)
 
-Defaul port is 51830, if you want to use another port, find the Advanced option at the lower left corner.
+Default port is 51830, if you want to use another port, find the Advanced option at the lower left corner.
 
-Due to device's performance, each Site to Site network can have up to 10 devices.
+Due to the device's performance, each Site to Site network can have up to 10 devices.
 
 After you had chosen the devices, click Continue.
 
