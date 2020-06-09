@@ -1,6 +1,46 @@
 # GL-AR300M - Release Notes
 
+## V3.104 - Jun 8, 2020
 
+Nand :  [openwrt-ar300m-ubi-3.104.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.104.img)
+
+Nor :  [openwrt-ar300m16-3.104.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.104.bin)
+
+
+**New Features:**
+
+- Added site to site.
+- Added one-click channel optimization function.
+- Added app status interface.
+- Added DNS encryption function.
+- Added Tor function (currently support custom installation).
+- Added Internet Kill Switch function.
+- Added default kernel package "kmod-nf-nathelper"  to solve the problem that FTP server cannot be found.
+
+**Fixed Problem:**
+
+- Tcpdump unable to catch ingree data problem.
+- Tethering problem with Samsung 10.
+- Fixed the problem that the web panel is unable to access due to 443,83,80 port settings of vpn server.
+- Fixed PPP CVE-8597 CVE-7982 security vulnerability.
+
+**Improvements:**
+
+- Removed gl-autoupkg(auto reinstall ipk function), change from keep installed packages to keep installed packages list. Auto upgrade and cloud upgrade will save this list by default, users can choose the package they want to keep via admin panel.
+- Optimized Wireguard auto-reconnect function.
+- Optimized the vpn conflict testing.
+- Optimized the port forwarding function.
+
+**Others:**
+
+- Changed tx power value to display by level.
+- Disabled ipv6 function by default due to leak problem.
+- Optimized wireless rate from setting mode to working mode and bandwidth mode.
+- Modified the name of server zone.
+
+
+
+---
 
 ## V3.024 - Jun 19, 2019
 
@@ -34,7 +74,7 @@ Firmware file:
 - Fix other bugs
 
 
-
+---
 
 ## V3.019 - Mar 21, 2019
 
