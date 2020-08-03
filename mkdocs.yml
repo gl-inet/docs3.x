@@ -208,6 +208,7 @@ pages:
     - DLNA Server: 'app/dlnaserver.md'
     - DDNS: 'app/ddns.md'
     - Cloud: 'app/cloud.md'
+    - SMS Forward: 'app/sms_forward.md'
     - LED Customization: 'app/led_customization.md'
     - Set a Captive Portal: 'app/captive_portal.md'
     - BLE MQTT Bridge: 'app/ble2mqtt.md'
