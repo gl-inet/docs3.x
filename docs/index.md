@@ -34,7 +34,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	@media only screen and (max-width: 30em) {
     	.row-box {
         grid-template-columns: 50% 50%;
-        grid-template-rows: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+        grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
     	}
 }
 </style>
