@@ -6,7 +6,7 @@ edit_uri: ""
 site_name: GL.iNet Docs
 site_description: Documentation for GL.iNet Productions
 site_author: Shan
-site_url: https://docs.gl-inet.com/
+site_url: https://docs.gl-inet.com/en/3/
 google_analytics: ['UA-108265653-1', 'glinet.com']
 site_dir: '/home/ubuntu/docs-build/en/3/'
 
@@ -219,6 +219,7 @@ pages:
     - DLNA Server: 'app/dlnaserver.md'
     - DDNS: 'app/ddns.md'
     - Cloud: 'app/cloud.md'
+    - SMS Forward: 'app/sms_forward.md'
     - LED Customization: 'app/led_customization.md'
     - Set a Captive Portal: 'app/captive_portal.md'
     - BLE MQTT Bridge: 'app/ble2mqtt.md'
