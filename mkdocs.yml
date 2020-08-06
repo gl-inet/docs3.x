@@ -57,6 +57,7 @@ pages:
     - GL-AP1300: 'hardware/ap1300/index.md'
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - GL-MV1000: 'hardware/mv1000/index.md'
+    - GL-MV1000W: 'hardware/mv1000_w/index.md'
     - GL-X1200: 'hardware/x1200/index.md'
     - GL-E750: 'hardware/gl-e750/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
@@ -157,7 +158,7 @@ pages:
         - VPN: 'setup/microuter-n300/vpn.md'
         - Applications: 'setup/microuter-n300/applications.md'
         - More Settings: 'setup/microuter-n300/more_settings.md'
-    - Brume (GL-MV1000/GL-MV1000W):
+    - Brume (GL-MV1000):
         - First-time Setup: 'setup/brume/first-time_setup.md'
         - Internet: 'setup/brume/internet.md'
         - Wireless: 'setup/brume/wireless.md'
@@ -167,6 +168,16 @@ pages:
         - VPN: 'setup/brume/vpn.md'
         - Applications: 'setup/brume/applications.md'
         - More Settings: 'setup/brume/more_settings.md'
+    - Brume_W (GL-MV1000W):
+        - First-time Setup: 'setup/brume_w/first-time_setup.md'
+        - Internet: 'setup/brume_w/internet.md'
+        - Wireless: 'setup/brume_w/wireless.md'
+        - Clients: 'setup/brume_w/clients.md'
+        - Upgrade: 'setup/brume_w/upgrade.md'
+        - Firewall: 'setup/brume_w/firewall.md'
+        - VPN: 'setup/brume_w/vpn.md'
+        - Applications: 'setup/brume_w/applications.md'
+        - More Settings: 'setup/brume_w/more_settings.md'
     - Mudi (GL-E750):
         - First-time Setup: 'setup/mudi/first-time_setup.md'
         - Internet: 'setup/mudi/internet.md'
