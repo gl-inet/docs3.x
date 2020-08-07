@@ -168,7 +168,7 @@ pages:
         - VPN: 'setup/brume/vpn.md'
         - Applications: 'setup/brume/applications.md'
         - More Settings: 'setup/brume/more_settings.md'
-    - Brume_W (GL-MV1000W):
+    - Brume-W (GL-MV1000W):
         - First-time Setup: 'setup/brume_w/first-time_setup.md'
         - Internet: 'setup/brume_w/internet.md'
         - Wireless: 'setup/brume_w/wireless.md'

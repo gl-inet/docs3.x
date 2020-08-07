@@ -1,4 +1,4 @@
-# Getting Started with GL.iNet Brume
+# Getting Started with GL.iNet Brume-W
 
 Model: GL-MV1000W
 
@@ -34,7 +34,7 @@ Connect your computer to the power port of the router via USB Type-C cable. Keep
 
 ![connect usb type-c cable](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
 
-Certain Windows systems don't recognize the Brume as a network device or fail to find the correct driver.
+Certain Windows systems don't recognize the Brume-W as a network device or fail to find the correct driver.
 Use this driver for such cases: <a href="https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/mod-duo-rndis.zip" target="_blank">mod-duo-rndis.zip</a>
 
 Below follows a tutorial on how to install it.
