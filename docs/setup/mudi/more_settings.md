@@ -48,6 +48,27 @@ Configure the function of the mode switch. It doesn't have any function by defau
 
 ---
 
+## MCU Settings
+
+Configure the contents displayed on OLED including **main screen**, **WiFi infomation**, **LAN IP**, **VPN information** and **cutomized contents**. You just enable or disable the display contents and click ***Apply***. 
+
+**Show the WIFI password**: Whether or not to show the WI-FI password in the OLED.
+
+**Show the main screen**：Whether or not to show the first (main) screen.
+
+**Show the 2.4G WIFI info**：Whether or not to show the second (2.4G WIFI info) screen.
+
+**Show the 5G WIFI info**：Whether or not to show the second (5G WIFI info) screen.
+
+**Show the LAN IP**：Whether or not to show the forth (LAN IP info) screen.
+
+**Show the VPN info**：Whether or not to show the forth (LAN IP info) screen.
+
+**Show customized**：The content of the user customized screen.
+
+![MCU settings](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/MCUsetting.jpg)
+
+---
 ## Network Mode
 
 Change the network mode to cater your usage scenario. You may need to reconnect your client device whenever you change the network mode of the router.
@@ -58,7 +79,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **Bridge mode**: Briage to a wired network.
 
-![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
+![network mode](http://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
 
 ---
 
