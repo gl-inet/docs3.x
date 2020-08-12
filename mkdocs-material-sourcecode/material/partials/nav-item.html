@@ -25,6 +25,7 @@
       <label id="convexa_s_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="microuter-n300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="brume_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="brume_w_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="mudi_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-x1200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-s10_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
@@ -71,9 +72,13 @@
             document.getElementById("microuter-n300_label").innerHTML = ("microuter-N300");
             document.getElementById("microuter-n300_label").style.display = "block";
           }
-          if (window.location.href.indexOf("brume") != -1) {
+          if (window.location.href.indexOf("brume/") != -1) {
             document.getElementById("brume_label").innerHTML = ("Brume");
             document.getElementById("brume_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("brume_w") != -1) {
+            document.getElementById("brume_w_label").innerHTML = ("Brume-W");
+            document.getElementById("brume_w_label").style.display = "block";
           }
           if (window.location.href.indexOf("mudi") != -1) {
             document.getElementById("mudi_label").innerHTML = ("Mudi");
@@ -200,6 +205,15 @@
         <a id="brume_applications" href="../../brume/applications/" style="display: none;" class="md-nav__link"></a>
         <a id="brume_more_settings" href="../../brume/more_settings/" style="display: none;" class="md-nav__link"></a>
 
+        <a id="brume_w_first-time_setup" href="../../brume_w/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_internet" href="../../brume_w/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_wireless" href="../../brume_w/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_clients" href="../../brume_w/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_upgrade" href="../../brume_w/upgrade/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_firewall" href="../../brume_w/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_vpn" href="../../brume_w/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_applications" href="../../brume_w/applications/" style="display: none;" class="md-nav__link"></a>
+        <a id="brume_w_more_settings" href="../../brume_w/more_settings/" style="display: none;" class="md-nav__link"></a>
         
         <a id="mudi_first-time_setup" href="../../mudi/first-time_setup/" style="display: none;" class="md-nav__link"></a>
         <a id="mudi_internet" href="../../mudi/internet/" style="display: none;" class="md-nav__link"></a>
@@ -430,7 +444,7 @@
             document.getElementById("microuter-n300_more_settings").style.display = "block";
           }
 
-          if (window.location.href.indexOf("brume") != -1) {
+          if (window.location.href.indexOf("brume/") != -1) {
             document.getElementById("brume_first-time_setup").innerHTML = ("First-time Setup");
             document.getElementById("brume_first-time_setup").style.display = "block";
             document.getElementById("brume_internet").innerHTML = ("Internet");
@@ -449,6 +463,27 @@
             document.getElementById("brume_applications").style.display = "block";
             document.getElementById("brume_more_settings").innerHTML = ("More Settings");
             document.getElementById("brume_more_settings").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("brume_w") != -1) {
+            document.getElementById("brume_w_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("brume_w_first-time_setup").style.display = "block";
+            document.getElementById("brume_w_internet").innerHTML = ("Internet");
+            document.getElementById("brume_w_internet").style.display = "block";
+            document.getElementById("brume_w_wireless").innerHTML = ("Wireless");
+            document.getElementById("brume_w_wireless").style.display = "block";
+            document.getElementById("brume_w_clients").innerHTML = ("Clients");
+            document.getElementById("brume_w_clients").style.display = "block";
+            document.getElementById("brume_w_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("brume_w_upgrade").style.display = "block";
+            document.getElementById("brume_w_firewall").innerHTML = ("Firewall");
+            document.getElementById("brume_w_firewall").style.display = "block";
+            document.getElementById("brume_w_vpn").innerHTML = ("VPN");
+            document.getElementById("brume_w_vpn").style.display = "block";
+            document.getElementById("brume_w_applications").innerHTML = ("Applications");
+            document.getElementById("brume_w_applications").style.display = "block";
+            document.getElementById("brume_w_more_settings").innerHTML = ("More Settings");
+            document.getElementById("brume_w_more_settings").style.display = "block";
           }
 
           if (window.location.href.indexOf("mudi") != -1) {

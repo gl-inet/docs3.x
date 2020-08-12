@@ -1,0 +1,108 @@
+# SMS Forward
+
+Starting from firmware version 3.105, users can forward SMS message from router to phone or email, please follow this guide to complete the settings.
+
+![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/4G_page.png)
+
+![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/setting.png)
+
+## Settings 
+
+**Phone**: The phone numbers that you want to forward the SMS messages to.
+
+**Email**: The emails that you want to forward the SMS message to.
+
+**Account**: The email account that you want to set as the sender.
+
+**App Password**: The password for you to sign in your email on devices
+
+**domain**: Domain of your email
+
+**smtp**: The smtp address of your email server
+
+**protocol**: Encryption protocol
+
+## Add Forward Targets
+
+You can add the forward targets here. For example, I add an American phone number and a Gmail address. The "+" could be omitted but remember to add the country code. Use "|" to divide the targets.
+
+![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/add.png)
+
+There have no other settings for forwarding the sms to phone via message except inputting the phone number, but for email you need to do some additional settings.
+
+**Please test first if router could send SMS to other phone, some maynot work in specific environment.**
+
+## Setup Email Sender
+
+If you want to forward the SMS via emails, you will need to set a sender account first, please follow the guide below.
+
+
+<details>
+<summary>Gmail</summary>
+<p>For Gmail, there are two kinds if password to login as the mail sender, password or App password.</p>
+
+For the APP Password, you need to login your google account and create it. (Need to enable two-steps verification first)
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/app_password.png"> </p>
+
+If you want to use origin password, you need to enable "Less Secure App Access", which is conflict with two-steps verification.
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/less_secure.png"> </p>
+
+Both 465 and 587 ports are useable.
+
+<p>Example:</p>
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/gmail.png"> </p>
+
+</details>
+
+<details>
+<summary>Outlook</summary>
+<p>For Outlook, you can use password directly without any setting, and it supports port 587. </p>
+
+<p>Example:</p>
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/outlook.png"> </p>
+
+</details>
+
+
+<details>
+<summary>iCloud</summary>
+<p>For iCloud, you need to set an app password for login, and it supports port 587.</p>
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/icloudapp.png"> </p>
+
+<p>Example:</p>
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/icloud.png"> </p>
+
+</details>
+
+
+
+<details>
+<summary>Yahoo</summary>
+<p>For Yahoo, you need to set an app password for login, and it supports both port 465 and 587.</p>
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/yahooapp.png"> </p>
+
+<p>Example:</p>
+
+<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/app/sms_forward/yahoo.png"> </p>
+
+</details>
+
+
+## Verification Email
+
+Once you setup the sender account, the router will send an email to your email account to make sure the setup has been completed.
+
+![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/verification.png)
+
+Then the SMS that router received will be automatically forwarded to the phone numbers and email address that you set.
+
+![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/forward_email.png)
+
+---

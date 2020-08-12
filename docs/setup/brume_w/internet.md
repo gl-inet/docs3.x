@@ -1,14 +1,14 @@
 # INTERNET
 
-There are total 3 types of connection method that you can use to access the Internet: **Cable**, **3G/4G Modem** and **Tethering**.
+There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Tethering**, **3G/4G USB Modem** and **Repeater** .
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/brume/internet/internet_settings.jpg)
+![connection method](https://static.gl-inet.com/docs/en/3/setup/brume-w/internet/internet.png)
 
 
 
 Click `INTERNET` to create an Internet connection.
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/brume/internet/internet.png)
+![internet](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/main_ui.jpg)
 
 
 
@@ -59,7 +59,34 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ---
 
-## 2) USB 3G/4G Modem
+## 2) Tethering
+
+Using a USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
+
+For host-less modem tethering, plug it into the USB port of the router.
+
+For iPhone tethering, connect it to the USB port of the router and go to Settings->Personal Hotspot->Allow Others to Join, then click **Trust** to continue when the message pops up in your iPhone.(If the connection is failed please uncheck and check again allow Others to Join)
+
+For Android phone tethering, connect it to the USB port of the router then check Settings->Personal hotspot->Usb network sharing.
+
+After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/tethering.jpg)
+
+
+
+### EasyTether
+
+Some carriers prohibit the sharing of the data so that you may not be able to use tethering. However, you can try [easytethering](/app/tether.md). 
+
+*Note: Easytether is not a free service and we have no affiliation with them.*
+
+
+
+
+---
+
+## 3) USB 3G/4G Modem
 
 You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem  Plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
 
@@ -130,24 +157,20 @@ You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsand
 
 ---
 
-## 3) Tethering
+## 4) Repeater
 
-Using a USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
+Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
 
-For host-less modem tethering, plug it into the USB port of the router.
+It works in WISP (Wireless Internet Service Provider) mode by default, which means that the router will create its own subnet and act as a firewall to protect you from the public network.
 
-For iPhone tethering, connect it to the USB port of the router and go to Settings->Personal Hotspot->Allow Others to Join, then click **Trust** to continue when the message pops up in your iPhone.(If the connection is failed please uncheck and check again allow Others to Join)
+In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-For Android phone tethering, connect it to the USB port of the router then check Settings->Personal hotspot->Usb network sharing.
-
-After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
-
-![tethering](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/tethering.jpg)
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp1.jpg)
 
 
 
-### EasyTether
+Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-Some carriers prohibit the sharing of the data so that you may not be able to use tethering. However, you can try [easytethering](/app/tether.md). 
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg)
 
-*Note: Easytether is not a free service and we have no affiliation with them.*
+

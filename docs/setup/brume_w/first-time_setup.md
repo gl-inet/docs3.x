@@ -1,16 +1,16 @@
-# Getting Started with GL.iNet Brume
+# Getting Started with GL.iNet Brume-W
 
-Model: GL-MV1000
+Model: GL-MV1000W
 
-![router](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/MV1000.png)
+![router](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/SETUP_NEW1.png)
 
 ---
 
 ## 1. Power on
 
-Plug the USB Type-C power cable into the power port of the router. Make sure you are using a standard **5V/3A** power adapter. Otherwise it may cause malfunction.
+Plug the USB Type-C power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
 
 
 *Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
@@ -24,7 +24,7 @@ You can only connect to the router via Ethernet cable or USB type-C cable.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/connect.jpg)
 
 ### Connect via USB Type-C Cable
 
@@ -32,9 +32,9 @@ Connect your computer to the power port of the router via USB Type-C cable. Keep
 
     It supports Windows 10, Windows 7, Mac OS, Ubuntu.
 
-![connect usb type-c cable](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/power1.jpg)
+![connect usb type-c cable](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
 
-Certain Windows systems don't recognize the Brume as a network device or fail to find the correct driver.
+Certain Windows systems don't recognize the Brume-W as a network device or fail to find the correct driver.
 Use this driver for such cases: <a href="https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/mod-duo-rndis.zip" target="_blank">mod-duo-rndis.zip</a>
 
 Below follows a tutorial on how to install it.
@@ -73,7 +73,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** and **日本語**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/welcome.png)
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/welcome_2.jpg)
 
 *Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -85,4 +85,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/main_ui.png)
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/main_ui.jpg)

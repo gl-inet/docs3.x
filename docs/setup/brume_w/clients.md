@@ -19,3 +19,4 @@ a speed limitation range window will pop-up, set the speed and click **Apply**.
 
 ![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/client3.png)
 There is an yellow "exclamation mark" besides speed limited client.
+
