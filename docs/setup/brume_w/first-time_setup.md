@@ -8,10 +8,10 @@ Model: GL-MV1000W
 
 ## 1. Power on
 
-Plug the USB Type-C power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
+Plug the USB Type-C power cable into the power port of the router. Make sure you are using a standard **5V/3A** power adapter. Otherwise it may cause malfunction.
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg)
-
+e
 
 *Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
 
