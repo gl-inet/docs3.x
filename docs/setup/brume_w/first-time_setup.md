@@ -29,7 +29,7 @@ Connect your device to the LAN port of the router via Ethernet cable.
 ### Connect via Wi-Fi
 Connect to the WiFi called **GL-MV1000-xxx**. If this is your first time to set up this router, the default WiFi password will be **goodlife**, which is also printed on the bottom of the router. If you previously set up and change the password, please fill in the password that you set up with. You can also connect to the Internet with your WAN port from your modem.
 
-![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/MV1000W_Connect%20wia%20WIFI.png)
+![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/MV1000W_Connect%20wia%20WIFI%282%29.png)
 
 *If this is not your first time to connect this router, the interface will be different.*
 
