@@ -17,7 +17,7 @@ e
 
 ## 2. Connect 
 
-You can only connect to the router via Ethernet cable or USB type-C cable.
+You can connect to the router via Ethernet cable, Wi-Fi or USB type-C cable.
 
 *Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
