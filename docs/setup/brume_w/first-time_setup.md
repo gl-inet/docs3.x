@@ -26,6 +26,13 @@ Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/connect.jpg)
 
+### Connect via Wi-Fi
+Search for the SSID of the router in your device and input the default password: ***goodlife***.
+
+*Note: The SSID was printed on the bottom label of the router with the following formats:*
+
+- **GL-MW1000-XXX**
+
 ### Connect via USB Type-C Cable
 
 Connect your computer to the power port of the router via USB Type-C cable. Keeps your computer connect to the internet and waits for several minutes, it will install the driver automatically.
