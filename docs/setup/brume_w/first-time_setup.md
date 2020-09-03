@@ -31,7 +31,6 @@ Connect to the WiFi called **GL-MV1000-xxx**. If this is your first time to set 
 
 ![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/MV1000W_Connect%20wia%20WIFI%282%29.png)
 
-*If this is not your first time to connect this router, the interface will be different.*
 
 ### Connect via USB Type-C Cable
 
