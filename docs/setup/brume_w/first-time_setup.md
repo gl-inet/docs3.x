@@ -17,7 +17,7 @@ Plug the USB Type-C power cable into the power port of the router. Make sure you
 
 ## 2. Connect 
 
-You can only connect to the router via Ethernet cable or USB type-C cable.
+You can connect to the router via Ethernet cable, Wi-Fi or USB type-C cable.
 
 *Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
@@ -25,6 +25,12 @@ You can only connect to the router via Ethernet cable or USB type-C cable.
 Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/connect.jpg)
+
+### Connect via Wi-Fi
+Connect to the WiFi called **GL-MV1000-xxx**. If this is your first time to set up this router, the default WiFi password will be **goodlife**, which is also printed on the bottom of the router. If you previously set up and change the password, please fill in the password that you set up with. You can also connect to the Internet with your WAN port from your modem.
+
+![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/MV1000W_Connect%20wia%20WIFI%282%29.png)
+
 
 ### Connect via USB Type-C Cable
 
