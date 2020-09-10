@@ -8,12 +8,14 @@ Brume_W is a router with strong performance and stable operation, designed for h
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | Marvell Armada 88F3720, Dual-Core ARM Cortex-A53 @1.0GHz                                               |
 |              Memory / Storage | DDR4 1GB / FLASH 16MB + EMMC 8GB                                                  |
-|             Wireless Protocol | 802.11 b/g/nEMMC                                               |
+|             Wireless Protocol | 802.11 b/g/n                                               |
 |                    Frequency  | 2.4GHz (External 5G AC Wi-Fi dongle supported) |                          
 |                   Wi-Fi Speed | 300Mbps                                    |
 |                 Ethernet Port | 3 x 10/100/1000Mbps (1*WAN, 2*LAN)                             |
 |                          LEDs | Power, WiFi, VPN Status                                                        |
-|                   Power Input | 1x USB3.0 Type-C Power Supply + Data Communication                                                        |
+|                   Power Input | 5V/3A, USB3.0 Type-C Power Supply + Data Communication                                                        |
+|             Power Consumption | <6W (USB external devices exclued)                                                          |
+|                          LEDs | Power, WiFi, VPN Status                                          |
 |           Working Temperature | 0~40°C (32~104°F)                                                          |
 |             Dimension, Weight | 88 * 68 * 24mm, 115g                                          |
 
