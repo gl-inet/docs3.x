@@ -12,7 +12,6 @@ Brume_W is a router with strong performance and stable operation, designed for h
 |                    Frequency  | 2.4GHz (External 5G AC Wi-Fi dongle supported) |                          
 |                   Wi-Fi Speed | 300Mbps                                    |
 |                 Ethernet Port | 3 x 10/100/1000Mbps (1*WAN, 2*LAN)                             |
-|                          LEDs | Power, WiFi, VPN Status                                                        |
 |                   Power Input | 5V/3A, USB3.0 Type-C Power Supply + Data Communication                                                        |
 |             Power Consumption | <6W (USB external devices exclued)                                                          |
 |                          LEDs | Power, WiFi, VPN Status                                          |
