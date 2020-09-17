@@ -12,8 +12,8 @@ Here is a list of supported dongles that we had tested before.
 
 | Driver                                 | Dongle        | Tested | Tested by       | Comments* |
 | -------------------------------------- | ------------- | ------ | --------------- | --------- |
-| RTL8811AU/RTL8821AU                    | AWUS036AC     | Yes    | GL.iNet         |           |
-| RTL8812AU                              | AWUS036ACS    | Yes    | GL.iNet         |           |
+| RTL8811AU/RTL8821AU                    | AWUS036ACS     | Yes    | GL.iNet         |           |
+| RTL8812AU                              | AWUS036AC    | Yes    | GL.iNet         |           |
 
 
 When you insert the dongle, you will see the dongle under "Wireless" and then you could set up as Access Point or repeater.
