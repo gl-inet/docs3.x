@@ -15,7 +15,7 @@ For version R05, execute <b>at+qfopen="../../usr/fota_ip_a/update_report.ur",1</
 
 For version R07, execute <b>at+qfopen="../../data/fota_ip_a/update_report.ur",1</b>
 
-For EP06, execute <b>at+qfopen="../../data/fota_ip_a/update_report.ur",1</b>
+For EP06, execute <b>at+qfopen="../../usr/fota_ip_a/update_report.ur",1</b>
 
 <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/ATT_Network_Fix/attfix2.png"/>
 
