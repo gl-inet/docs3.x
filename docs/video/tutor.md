@@ -2,22 +2,22 @@
 This page is listing the videos related to product tutorials. We will update contents to our official [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel time to time.
 
 ## Step-By-Step Guideline: How To Upgrade To The Latest Firmware
-<iframe width="560" height="315" src="https://youtu.be/yyUjf4EjXmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yyUjf4EjXmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
 ## 4 Common Problems and Solution When Configuring OpenVPN
-<iframe width="560" height="315" src="https://youtu.be/sAb6lyH4pGc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sAb6lyH4pGc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
 ## How to Configure OpenVPN on GL.iNet Routers
-<iframe width="560" height="315" src="https://youtu.be/oSTA9-bBUIg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oSTA9-bBUIg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
 ## GL.iNet Solution: Unable to Access Admin Panel
-<iframe width="560" height="315" src="https://youtu.be/4Xy1l2ImJro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Xy1l2ImJro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
