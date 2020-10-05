@@ -173,14 +173,38 @@ Once you have installed the app you can launch it from that page, and if you wan
 
 ### Android
 
-Most Android devices have file manager which you can use to access the contents of your external storage device. Or you can use **ES file explorer**:
+Most Android devices have file manager tool which maybe can be used to access the files on Network Devices using SMB. Or you can search file explorer app which support SMB on Google Play.
 
-**1)** Open the app and then click `Network`.
+Here I'm going to use **Solid Explorer File Manager** as an example:
 
-![android1](https://static.gl-inet.com/docs/en/3/app/file_sharing/android1.jpg)
+**1)** Open the app.
 
-**2)** Click `Scan` to find your network storage device.
+![android1](https://static.gl-inet.com/docs/en/3/app/file_sharing/android01.jpg)
 
-![android2](https://static.gl-inet.com/docs/en/3/app/file_sharing/android2.jpg)
+**2)** Click the `Plus sign button` on the right bottom of page, then choose `New cloud connection`.
 
-![android3](https://static.gl-inet.com/docs/en/3/app/file_sharing/android3.jpg)
+![android2](https://static.gl-inet.com/docs/en/3/app/file_sharing/android02.jpg)
+
+**3)** Choose `LAN / SMB`.
+
+![android3](https://static.gl-inet.com/docs/en/3/app/file_sharing/android03.jpg)
+
+**4)** Choose the Server, the IP address of your device.
+
+![android4](https://static.gl-inet.com/docs/en/3/app/file_sharing/android04.jpg)
+
+**5)** Choose `Guest`.
+
+![android5](https://static.gl-inet.com/docs/en/3/app/file_sharing/android05.jpg)
+
+**6)** Choose `Yes`.
+
+![android6](https://static.gl-inet.com/docs/en/3/app/file_sharing/android06.jpg)
+
+**7)** Choose `SMB 1`.
+
+![android7](https://static.gl-inet.com/docs/en/3/app/file_sharing/android07.jpg)
+
+**8)** Click `NEXT`.
+
+![android8](https://static.gl-inet.com/docs/en/3/app/file_sharing/android08.jpg)
