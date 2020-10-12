@@ -54,7 +54,7 @@ Auto Setup will try all the possible methods to build a connection. In case Auto
 
 ### Use the QMI protocol
 
-Select device as **/dev/cdc-wdmX** and fill in the correct [APN](modem_faq.md#How-to-get-your-APN).
+Select device as **/dev/cdc-wdmX** and fill in the correct [APN](modem_faq.md#how-to-get-your-apn).
 
 <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/qmi.png"/>
 
@@ -62,7 +62,7 @@ Select device as **/dev/cdc-wdmX** and fill in the correct [APN](modem_faq.md#Ho
 
 ### Use PPPD dial
 
-Select device as **/dev/ttyUSBX** and fill in the correct  [APN](modem_faq.md#How-to-get-your-APN). X is a number, and in general, select the port with the largest value.
+Select device as **/dev/ttyUSBX** and fill in the correct  [APN](modem_faq.md#how-to-get-your-apn). X is a number, and in general, select the port with the largest value.
 
 For **MIFI,E750,X750,X300B**, select **ttyUSB3**.
 
@@ -74,7 +74,7 @@ For **XE300** and **AP1300**, select **ttyUSB4**.
 
 ### Use the QCM protocol
 
-QCM protocol is supported in versions after 3.200. Please select device as **/dev/cdc-wdmX**, fill in the correct  [APN](modem_faq.md#How-to-get-your-APN) settings, and then click More to select protocol as QCM
+QCM protocol is supported in versions after 3.200. Please select device as **/dev/cdc-wdmX**, fill in the correct  [[APN](modem_faq.md#how-to-get-your-apn)) settings, and then click More to select protocol as QCM
 
 <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/qcm.png"/>
 
@@ -86,9 +86,9 @@ If you have successfully set up the 4G router but the data throughput is low, fo
 
 Please note: generally the 4G router cannot beat your smartphone in speed test. This is because the modern smartphone uses a different design which is equipped with much higher grade of modems. For example, Samsung S10 has a Cat 20  modem and iPhone 11 has a Cat 19 modem. They are 6 times faster in specs than a Cat 6 Quectel EP06 modem.
 
-1. Try to use [QMI](modem_faq.md#Use-the-QMI-protocol) or [QCM](modem_faq.md#Use-the-QCM-protocol) protocol instead of using ttyUSB mode. 
+1. Try to use [QMI](modem_faq.md#use-the-qmi-protocol) or [QCM](modem_faq.md#use-the-qcm-protocol) protocol instead of using ttyUSB mode. 
 
-2. Ask your carrier to make sure the  [APN](modem_faq.md#How-to-get-your-APN) Settings are correct. Some carriers use different APNs which may yield different speed. 
+2. Ask your carrier to make sure the  [APN](modem_faq.md#how-to-get-your-apn)Settings are correct. Some carriers use different APNs which may yield different speed. 
 
 3. The signal may not be good. Click Cell Info to check the signal-related parameters, such as RSSI, RSRP, RSRQ,SINR, etc. Please refer to the [wiki](https://wiki.teltonika.lt/view/Mobile_Signal_Strength_Recommendations#4G_.28LTE.29) for parameter range determination. If the device's signal is poor, try moving the device to another location and check that the antenna is properly connected.
 
