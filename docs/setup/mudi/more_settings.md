@@ -79,7 +79,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **Bridge mode**: Briage to a wired network.
 
-![network mode](http://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
+![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
 
 ---
 
