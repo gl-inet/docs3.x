@@ -85,9 +85,11 @@
 <details>
 <summary>Can I hide the SSID of the router?</summary>
 <ol type="1">
-<li>Log in to Advanced Settings (Luci) http://192.168.8.1/cgi-bin/luci.</li>
-<li>Go to <b>Network</b> -> <b>Wireless</b> and then edit the SSID that you want to hide.</li>
-<li>Check <b>Hide ESSID</b> under <b>Interface Configuration</b>.
+<li>Access web Admin Panel via 192.168.8.1.</li>
+<li>Click <b>Wireless</b>, choose the WiFi you want to change, click <b>Modify</b>
+<li>Change SSID Visibility to Hidden</li>
+<p><img src="https://static.gl-inet.com/docs/en/3/troubleshooting/faq/wireless.jpg" /></p>
+</ol>
 </details>
 
 <details>

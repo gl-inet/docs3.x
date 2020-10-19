@@ -74,6 +74,8 @@ Other recommended WireGuard provider:
 <p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/download_wireguard_configuration_files.jpg"/></p>
 <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
 <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
+<p>The config may contain IPv6 content, as GL.iNet routers is not support IPv6 good enough, so please delete the IPv6 content. I have a example show below, the highlight content is the IPv6 content.</p>
+<p><img alt="remove wireguard ipv6 content" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/remove_wireguard_ipv6_content.jpg" /></p>
 </details>
 
 <details>
