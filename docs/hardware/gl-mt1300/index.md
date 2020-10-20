@@ -1,6 +1,6 @@
 # GL-MT1300
 
-MT1300 is a powerfull wireless gateway for travel, apartment and small office. 
+GL-MT1300 is a powerfull wireless gateway for travel, apartment and small office. 
 
 It has a Dual-Core MTK Soc chipset with 880MHz frequency which provides powerful computation. 
 

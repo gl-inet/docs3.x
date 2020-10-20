@@ -60,6 +60,7 @@ pages:
     - GL-MV1000W: 'hardware/mv1000_w/index.md'
     - GL-X1200: 'hardware/x1200/index.md'
     - GL-E750: 'hardware/gl-e750/index.md'
+    - GL-MT1300: 'hardware/gl-mt1300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
     - Mini Router Series:
@@ -204,7 +205,17 @@ pages:
         - VPN: 'setup/cirrus/vpn.md'
         - Applications: 'setup/cirrus/applications.md'
         - More Settings: 'setup/cirrus/more_settings.md'
-        
+    - Beryl (GL-MT1300):
+        - First-time Setup: 'setup/gl-mt1300/first-time_setup.md'
+        - Internet: 'setup/gl-mt1300/internet.md'
+        - Wireless: 'setup/gl-mt1300/wireless.md'
+        - Clients: 'setup/gl-mt1300/clients.md'
+        - Upgrade: 'setup/gl-mt1300/upgrade.md'
+        - Firewall: 'setup/gl-mt1300/firewall.md'
+        - VPN: 'setup/gl-mt1300/vpn.md'
+        - Applications: 'setup/gl-mt1300/applications.md'
+        - More Settings: 'setup/gl-mt1300/more_settings.md'
+
 - Development:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'
