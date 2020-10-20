@@ -15,9 +15,9 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	margin-bottom: 25px;
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
-	grid-template-rows: 20% 20% 20% 20% 20%;
+	grid-template-rows: 16.66% 16.66% 16.66% 16.66% 16.66%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13, .box-14 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13, .box-14, .box-15 {
     float: left;
     width: 95%;
     margin-right: 2%;
@@ -28,7 +28,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     border-style: solid;
     border-color: #ffffff
 }
-	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover, .box-8:hover, .box-9:hover, .box-10:hover, .box-11:hover, .box-12:hover, box-13:hover, .box-14:hover {
+	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover, .box-8:hover, .box-9:hover, .box-10:hover, .box-11:hover, .box-12:hover, .box-13:hover, .box-14:hover, .box-15:hover {
     border-color: #b6bde3 !important;
 }
 	@media only screen and (max-width: 30em) {
@@ -57,62 +57,67 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
-        <div class="box-3">
+		<div class="box-3">
+    		<a href="https://docs.gl-inet.com/en/3/setup/cirrus/first-time_setup/">
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
+            </a>
+    	</div>
+        <div class="box-4">
         	<a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
             </a>
         </div>
-        <div class="box-4">
+        <div class="box-5">
         	<a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
             </a>
         </div>
-    	<div class="box-5">
+    	<div class="box-6">
     		<a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
             </a>
 		</div>
-    	<div class="box-6">
+    	<div class="box-7">
         	<a href="https://docs.gl-inet.com/en/3/setup/vixmini/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
 			</a>
 		</div>
-		<div class="box-7">
+		<div class="box-8">
         	<a href="https://docs.gl-inet.com/en/3/setup/convexa_b/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
 			</a>
 		</div>
-		<div class="box-8">
+		<div class="box-9">
         	<a href="https://docs.gl-inet.com/en/3/setup/convexa_s/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
 			</a>
 		</div>
-		<div class="box-9">
+		<div class="box-10">
         	<a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
 			</a>
 		</div>	
-		<div class="box-10">
+		<div class="box-11">
         	<a href="https://docs.gl-inet.com/en/3/setup/brume/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/setup/brume/docs_icon_mv1000-2.png" width=100%>
 			</a>
 		</div>	
-		<div class="box-11">
+		<div class="box-12">
         	<a href="https://docs.gl-inet.com/en/3/setup/brume_w/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/setup/brume-w/docs_icon_mv1000w.png" width=100%>
 			</a>
 		</div>	
-		<div class="box-12">
+		<div class="box-13">
         	<a href="https://docs.gl-inet.com/en/3/setup/mudi/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
 			</a>
 		</div>
-		<div class="box-13">
+		<div class="box-14">
         	<a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
 			</a>
 		</div>	
-		<div class="box-14">
+		<div class="box-15">
         	<a href="https://docs.gl-inet.com/en/3/setup/cirrus/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
 			</a>
