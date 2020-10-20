@@ -10,7 +10,7 @@ It has a Dual-Core MTK Soc chipset with 880MHz frequency which provides powerful
 
 |                         Model | GL-MT1300                                              |
 | ----------------------------: | :---------------------------------------------------- |
-|                           CPU | MTK MT7621A Dual-Core@880MHz                          |
+|                           CPU | MTK MT7621A, Dual-Core@880MHz                          |
 |                        Memory | DDR3L 256MB                                           |
 |                       Storage | 32MB Nor Flash                                        |
 |                    Interfaces | 1 WAN, 2 LANs 1 USB3.0, 1 Reset Button, 1 TF Card Slot (512GB Max.)                |
@@ -23,7 +23,7 @@ It has a Dual-Core MTK Soc chipset with 880MHz frequency which provides powerful
 |                 Ethernet Port | 10/100/1000M                                          |
 |                   Power Input | 5V/3A Type-C                                          |
 |             Power Consumption | <8W   (to be updated)                                                |
-|             Dimension, Weight | 118mmX84mmX32mm, 184g                                |
+|             Dimension, Weight | 118mmX85mmX30mm, 184g                                |
 
 
 
