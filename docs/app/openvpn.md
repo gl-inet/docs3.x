@@ -387,7 +387,6 @@ Others:
 <p><img alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_01.jpg" /></p>
 <li>Find the Manual setup section, follow the steps to get configuration.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/strong_vpn_setup_02.jpg" /></p>
-
 </ol>
 </details>
 
@@ -428,9 +427,7 @@ according to the server location.</p>
 <details>
 <summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
-
 <ol type="1">
-
 <p>*Information quoted from <a href="https://www.vpnunlimitedapp.com/en/info/manuals/how-to-manually-create-vpn-conf">VPN unlimited official instruction</a></p>
 <p>Start out by logging in to your User Office, press Manage for the VPN Unlimited service, and follow a few simple steps:</p>
 <li>Select a device</li>
@@ -446,9 +443,26 @@ according to the server location.</p>
 <li>Create a configuration</li>
 <p>Press Generate and you will get all the data required to set up a VPN connection.</p>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/KeepSolid3.png" /></p>
-
 </ol>
+</details>
 
+
+<details>
+  <summary>Wevpn</summary>
+  <ol type="1">
+    <li>Access the Members Area to make a custom config using the Config Generator.</li>
+    <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/openvpn/wevpn/wevpn_manual_configuration_generator.jpg"></p>
+    <li>Choose the Protocal to UDP or TCP, the OpenVPN version, and the location. Then to download the configuration. </li>
+    <li>Go to the web Admin Panel, default is http://192.168.8.1, OpenVPN Client --> Add a New OpenVPN Configuration</li>
+    <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/wevpn/openvpn_client.jpg"/></p>
+    <li>It will pop up a dialog.</li>
+    <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/wevpn/new_openvpn_configuration.jpg"/></p>
+    <li>Drag the .ovpn file jsut downloaed to the dialog, it will ask username and password. Input the credentials and click <b>Submit</b>.</li>
+    <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/wevpn/wevpn_username_password.jpg"/></p>
+    <li>Choose the configuration name and click <b>Connect</b>.</li>
+    <p><img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/wevpn/wevpn_connect.jpg"/></p>
+  </ol>
+    <p><a href="https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwiNKs3UUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiS2h0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUyNTAxMTMzLU9wZW5WUE4tU2V0dXAGOwdUOg5zZWFyY2hfaWRJIikxZGViNGYxYi1jNjA5LTQyOGEtOTY1ZC05ZjI1NDlhODY0YjQGOwdGOglyYW5raQY%3D--246327cee00bb00f97a2e72915f09342aea6d83e" target="_blank">Refer link</a></p>
 </details>
 
 ---
