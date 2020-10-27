@@ -154,6 +154,28 @@ Other recommended WireGuard provider:
 
 
 <details>
+<summary>WeVPN</summary>
+<p><a href="https://wevpn.com/" target="_blank">Official Website</a></p>
+<p>1. Access the Members Area to make a custom config using the Config Generator.</p>
+<p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_1.jpg" /></p>
+<p>2. When you select the Wireguard protocol, you will need to select <b>Add device</b> for the region selected.</p>
+<p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_2.jpg" /></p>
+<p>3. Select the Download option. Open it by a text editor, copy the content.</p>
+<p>4. Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_3.png" /></p>
+<p>5. Specify the name of your server and click next.</p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_4.png" /></p>
+<p>6. Paste the configuration text to the Configuration windows. Click <b>Add</b></p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_5.png" /></p>
+<p>7. Connect to the WireGuard server by clicking <b>Connect</b></p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_6.png" /></p>
+<p>8. You will see the upload and download traffic when it is connected successfully.</p>
+<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_7.png" /></p>
+
+<p><a href="https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwgmhcHUUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiTWh0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUxNzM3ODk0LVdpcmVndWFyZC1TZXR1cAY7B1Q6DnNlYXJjaF9pZEkiKTg1MzYyYTliLTFiNjQtNDgxZi1hOTZiLTIzMTE3NzQ4ZGMwMwY7B0Y6CXJhbmtpBg%3D%3D--708754fd43f05b5496036ebe0747c5a6dac84bf3">Refer link</a></p>
+</details>
+
+<details>
 <summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
 <p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, sign in to your <a href="https://my.keepsolid.com/" target="_blank">User Office</a> > select the VPN Unlimited® application > click <b>Manage</b>.</p>
