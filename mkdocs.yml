@@ -230,6 +230,7 @@ pages:
     - DLNA Server: 'app/dlnaserver.md'
     - DDNS: 'app/ddns.md'
     - Cloud: 'app/cloud.md'
+    - NextDNS: 'app/nextdns.md'
     - SMS Forward: 'app/sms_forward.md'
     - LED Customization: 'app/led_customization.md'
     - Set a Captive Portal: 'app/captive_portal.md'
