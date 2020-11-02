@@ -15,9 +15,8 @@ After that, go to sign up to register a new private account on NextDNS.
 ![Signup](https://static.gl-inet.com/docs/en/3/app/nextdns/signup.jpg)
 
 
-##  Setup NextDNS on GL.iNet routers
+## Setup NextDNS on GL.iNet routers
 
-### Setup NextDNS on the Ruter
 Follow the instrcution to setup your NextDNS on GL.iNet routers:
 
 1. Enable DNS over TLS(Cloudflare or NextDNS), then select Next DNS![Setup](https://static.gl-inet.com/docs/en/3/app/nextdns/ndselect.jpg)
