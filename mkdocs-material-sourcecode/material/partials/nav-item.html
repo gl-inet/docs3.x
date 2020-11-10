@@ -31,6 +31,7 @@
       <label id="gl-s10_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="cirrus_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-mt1300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-xe300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
 
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -100,6 +101,10 @@
           if (window.location.href.indexOf("gl-mt1300") != -1) {
             document.getElementById("gl-mt1300_label").innerHTML = ("GL-MT1300");
             document.getElementById("gl-mt1300_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-xe300") != -1) {
+            document.getElementById("gl-xe300_label").innerHTML = ("GL-XE300");
+            document.getElementById("gl-xe300_label").style.display = "block";
           }
       </script>
 
@@ -255,6 +260,16 @@
         <a id="gl-mt1300_vpn" href="../../gl-mt1300/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="gl-mt1300_applications" href="../../gl-mt1300/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="gl-mt1300_more_settings" href="../../gl-mt1300/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="gl-xe300_first-time_setup" href="../../gl-xe300/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-xe300_internet" href="../../gl-xe300/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-xe300_wireless" href="../../gl-xe300/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-xe300_clients" href="../../gl-xe300/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-xe300_upgrade" href="../../gl-xe300/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="gl-xe300_firewall" href="../../gl-xe300/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-xe300_vpn" href="../../gl-xe300/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-xe300_applications" href="../../gl-xe300/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="gl-xe300_more_settings" href="../../gl-xe300/more_settings/" style="display: none;" class="md-nav__link"></a>
         
         <script>
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -578,6 +593,26 @@
             document.getElementById("gl-mt1300_more_settings").style.display = "block";  
           }
 
+          if (window.location.href.indexOf("gl-xe300") != -1) {
+            document.getElementById("gl-xe300_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-xe300_first-time_setup").style.display = "block";
+            document.getElementById("gl-xe300_internet").innerHTML = ("Internet");
+            document.getElementById("gl-xe300_internet").style.display = "block";
+            document.getElementById("gl-xe300_wireless").innerHTML = ("Wireless");
+            document.getElementById("gl-xe300_wireless").style.display = "block";
+            document.getElementById("gl-xe300_clients").innerHTML = ("Clients");
+            document.getElementById("gl-xe300_clients").style.display = "block";
+            document.getElementById("gl-xe300_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("gl-xe300_upgrade").style.display = "block";
+            document.getElementById("gl-xe300_firewall").innerHTML = ("Firewall");
+            document.getElementById("gl-xe300_firewall").style.display = "block";
+            document.getElementById("gl-xe300_vpn").innerHTML = ("VPN");
+            document.getElementById("gl-xe300_vpn").style.display = "block";
+            document.getElementById("gl-xe300_applications").innerHTML = ("Applications");
+            document.getElementById("gl-xe300_applications").style.display = "block";
+            document.getElementById("gl-xe300_more_settings").innerHTML = ("More Settings");
+            document.getElementById("gl-xe300_more_settings").style.display = "block";  
+          }
         </script> 
       </ul>
 

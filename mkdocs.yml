@@ -61,6 +61,7 @@ pages:
     - GL-X1200: 'hardware/x1200/index.md'
     - GL-E750: 'hardware/gl-e750/index.md'
     - GL-MT1300: 'hardware/gl-mt1300/index.md'
+    - GL-XE300: 'hardware/gl-xe300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
 - Setup:
     - Mini Router Series:
@@ -215,6 +216,17 @@ pages:
         - VPN: 'setup/gl-mt1300/vpn.md'
         - Applications: 'setup/gl-mt1300/applications.md'
         - More Settings: 'setup/gl-mt1300/more_settings.md'
+    - Puli (GL-XE300):
+        - First-time Setup: 'setup/gl-xe300/first-time_setup.md'
+        - Internet: 'setup/gl-xe300/internet.md'
+        - Wireless: 'setup/gl-xe300/wireless.md'
+        - Clients: 'setup/gl-xe300/clients.md'
+        - Upgrade: 'setup/gl-xe300/upgrade.md'
+        - Firewall: 'setup/gl-xe300/firewall.md'
+        - VPN: 'setup/gl-xe300/vpn.md'
+        - Applications: 'setup/gl-xe300/applications.md'
+        - More Settings: 'setup/gl-xe300/more_settings.md'
+
 
 - Development:
     - UART Serial: 'dev/serial.md'
