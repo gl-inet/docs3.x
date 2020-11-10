@@ -227,7 +227,6 @@ pages:
         - Applications: 'setup/gl-xe300/applications.md'
         - More Settings: 'setup/gl-xe300/more_settings.md'
 
-
 - Development:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'

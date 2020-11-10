@@ -23,7 +23,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     margin-right: 2%;
     margin-bottom: 5%;
     background-color: #FFFFFF;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,     0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 3px;
     border-style: solid;
     border-color: #ffffff
@@ -34,7 +34,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	@media only screen and (max-width: 30em) {
     	.row-box {
         grid-template-columns: 50% 50%;
-        grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+        grid-template-rows: 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11%;
     	}
 }
 </style>
