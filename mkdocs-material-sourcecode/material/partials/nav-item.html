@@ -28,6 +28,7 @@
       <label id="brume_w_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="mudi_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-x1200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-x300b_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-s10_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="cirrus_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-mt1300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
@@ -89,6 +90,10 @@
           if (window.location.href.indexOf("gl-x1200") != -1) {
             document.getElementById("gl-x1200_label").innerHTML = ("GL-X1200");
             document.getElementById("gl-x1200_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-x300b") != -1) {
+            document.getElementById("gl-x300b_label").innerHTML = ("GL-X300B");
+            document.getElementById("gl-x300b_label").style.display = "block";
           }
           if (window.location.href.indexOf("gl-s10") != -1) {
             document.getElementById("gl-s10_label").innerHTML = ("GL-S10");
@@ -236,6 +241,8 @@
         <a id="mudi_more_settings" href="../../mudi/more_settings/" style="display: none;" class="md-nav__link"></a>
 
         <a id="gl-x1200_first-time_setup" href="../../gl-x1200/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="gl-x300b_first-time_setup" href="../../gl-x300b/first-time_setup/" style="display: none;" class="md-nav__link"></a>
 
         <a id="gl-s10_first-time_setup" href="../../gl-s10/first-time_setup/" style="display: none;" class="md-nav__link"></a>
         <a id="gl-s10_api_manual" href="../../gl-s10/api_manual/" style="display: none;" class="md-nav__link"></a>
@@ -540,6 +547,11 @@
           if (window.location.href.indexOf("gl-x1200") != -1) {
             document.getElementById("gl-x1200_first-time_setup").innerHTML = ("First-time Setup");
             document.getElementById("gl-x1200_first-time_setup").style.display = "block";
+          }
+
+          if (window.location.href.indexOf("gl-x300b") != -1) {
+            document.getElementById("gl-x300b_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-x300b_first-time_setup").style.display = "block";
           }
 
           if (window.location.href.indexOf("gl-s10") != -1) {

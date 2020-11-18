@@ -195,6 +195,8 @@ pages:
         - More Settings: 'setup/brume_w/more_settings.md'
     - Amarok (GL-X1200):
         - First-time Setup: 'setup/gl-x1200/first-time_setup.md'
+    - Collie (GL-X300B):
+        - First-time Setup: 'setup/gl-x300b/first-time_setup.md'
     - GL-S10:
         - First-time Setup: 'setup/gl-s10/first-time_setup.md'
         - API Manual: 'setup/gl-s10/api_manual.md'
