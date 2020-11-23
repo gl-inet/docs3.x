@@ -13,18 +13,23 @@ Collie can also serve as a smart industrial Internet gateway with the functions 
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9531, @650MHz SoC                                         |
 |              Memory / Storage | DDR2 128MB / FLASH 16MB                                      |
-|                    Interfaces | 1 x Power Port, 1 x WAN Ethernet Port, 1 x LAN Ethernet Port, 1 X Standard SIM Card Slot, 1 x Reset Button |
+|                    Interfaces | 1 x Power Port<br>1 x WAN Ethernet Port<br>1 x LAN Ethernet Port<br>1 X Standard SIM Card Slot/br>1 x Reset Button |
 |                Wi-Fi Antennas | 1 x External                                                 |
-|                  LTE Antennas | 1 x IoT Antenna Note: Available on X300B-IOT only            |
-|                  IoT Antennas | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
-|                    IoT Module | Bluetooth or ZigBee (EFR32MG21 SoC) Note: Available on X300B-IOT only        |
-| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
-|                  DIY Features | UART, GPIO, 3.3V & 5V power port                             |
-|              External Antenna | 2 X 2dBi Fixed Antennas                                      |
-|                    PoE Module | No                                                           |
-|                   Power Input | 5V/2A                                                        |
-|             Power Consumption | <6W                                                          |
-|             Dimension, Weight | 100mmX68mmX24mm, 86g                                         |
+|                  LTE Antennas | 1 x External Full-band Antenna (700M~2.7GHz)                 |
+|                  IoT Antennas | 1 x IoT Antenna<br><b>Note: Available on X300B-IOT only</b>  |
+|                    IoT Module | Bluetooth or ZigBee (EFR32MG21 SoC)<br><b>Note: Available on X300B-IOT only</b>        |
+|                         RS485 | RS485 serial port support for <b>X300B-RS485 only.</b><br>4 PIN I/O ports: <br>2 PIN for communication <b>(available on X300B-RS485 only)</b><br>2 PIN for power supply <b>(available on both X300B-RS485 and X300B-IOT)</b>     |
+|                      Watchdog | Support hardware watchdog                                    |
+|                   4G/3G modem | Support CAT M1, CAT 1, CAT 4<br>Modems is different for regions and operators  |
+|                Wi-Fi Protocol | 802.11 b/g/n                                                 |
+|                   Wi-Fi Speed | 2.4GHz (150Mbps)                                             |
+|                 Ethernet Port | 2x 10M / 100M (1WAN, 1LAN)                                   |
+|                          LEDs | Power, Wi-Fi, 4G and WAN                                     |
+|                   Power Supply| 12V/1A DC Power adapter by default<br>Support 9~35V DC input |
+|              Power Consumption| <10W                                                         |
+|          Operating Temperature| -20 ~ 55°C (-4 ~ 131°F)<br><b>Note: Default power adapter operating temperature from 0°C (32°F) to 40°C(104°F)</b> |
+|            Storage Temperature| -30 ~ 70°C (-22 ~ 158°F)                                     |
+|                      Dimension| 104 x 113 x 28mm<br>(Not including SMA and RS485 connector） |
 
 
 
