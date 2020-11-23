@@ -58,6 +58,7 @@ pages:
     - GL-MV1000: 'hardware/mv1000/index.md'
     - GL-MV1000W: 'hardware/mv1000_w/index.md'
     - GL-X1200: 'hardware/x1200/index.md'
+    - GL-X300B: 'hardware/gl-x300b/index.md'
     - GL-AP1300: 'hardware/ap1300/index.md'
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
