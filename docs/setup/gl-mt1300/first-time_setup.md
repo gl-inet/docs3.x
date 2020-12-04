@@ -1,4 +1,5 @@
-# Getting Started with GL.iNet Name to be confirmed
+# Getting Started with GL.iNet Beryl 1300Mbps Wireless Travel Router
+
 
 Model:
 
@@ -12,7 +13,7 @@ GL-MT1300
 
 ##1. Power on 
 
-Plug the Type-CType-C power cable into the power port of the router. Make sure you are using a standard **5V/3A** power adapter. Otherwise it may cause malfunction.
+Plug the Type-C power cable into the power port of the router. Make sure you are using a standard **5V/3A** power adapter. Otherwise it may cause malfunction.
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/mt1300/power-up.jpg)
 
