@@ -44,8 +44,11 @@ Find the available firmwares from the folder according to your device model, and
 
 ### Compile your own firmware
 
-You can compile your own firmware and flash to the router. Please refer to [github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc).
+You can compile your own firmware and flash to the router. Please refer to 
 
+[https://github.com/gl-inet/openwrt](https://github.com/gl-inet/openwrt)
+
+[https://github.com/gl-inet/imagebuilder](https://github.com/gl-inet/imagebuilder)
 
 
 ### Third party firmware

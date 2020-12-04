@@ -2,7 +2,7 @@
 
 Click `UPGRADE` to check any available update and upgrade the firmware.
 
-![firmware](https://static.gl-inet.com/docs/en/3/setup/cirrus/upgrade/upgrade1.png)
+![firmware](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware.jpg)
 
 
 
@@ -12,7 +12,7 @@ Click `UPGRADE` to check any available update and upgrade the firmware.
 
 You can find the current firmware version here. If your router is connected to the Internet, it will check for the newer firmware version available for download.
 
-![firmware](https://static.gl-inet.com/docs/en/3/setup/cirrus/upgrade/upgrade2.png)
+![firmware](https://static.gl-inet.com/docs/en/3/setup/spitz/upgrade/firmware1.jpg)
 
 
 
@@ -31,11 +31,11 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-###Official OpenWrt/LEDE firmware
+### Official OpenWrt/LEDE firmware
 
 You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- Cirrus: [https://dl.gl-inet.com/firmware/ap1300/](https://dl.gl-inet.com/firmware/ap1300/)
+- Puli: [https://dl.gl-inet.com/firmware/xe300/](https://dl.gl-inet.com/firmware/xe300/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 
@@ -49,7 +49,7 @@ Find the available firmwares from the folder according to your device model, and
 
 ### Compile your own firmware
 
-You can compile your own firmware and flash to the router. Please refer to 
+You can compile your own firmware and flash to the router. Please refer to
 
 [https://github.com/gl-inet/openwrt](https://github.com/gl-inet/openwrt)
 
@@ -61,4 +61,4 @@ You can compile your own firmware and flash to the router. Please refer to
 
 You can enable auto upgrade. The router will search for available update and upgrade automatically according to the time that you set.
 
-![firmware](https://static.gl-inet.com/docs/en/3/setup/cirrus/upgrade/upgrade3.png)
+![firmware](https://static.gl-inet.com/docs/en/3/setup/spitz/upgrade/firmware3.jpg)

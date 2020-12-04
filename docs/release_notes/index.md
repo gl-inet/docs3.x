@@ -1,6 +1,7 @@
 # Firmware Releases
 
-
+Firmware 3.105 will have nightly build, you can try and discuss on forum thread below.
+[https://forum.gl-inet.com/t/firmware-3-105-snapshot-update/12887](https://forum.gl-inet.com/t/firmware-3-105-snapshot-update/12887)
 
 | Router Model<br>(Click to check the<br>Release Notes) | Default Release[1] | Pre-release[2] | OpenWrt Only[3] | Tor[4] | DD-WRT |
 | :----------------------------------------------------------- | :-------: | :------------: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |

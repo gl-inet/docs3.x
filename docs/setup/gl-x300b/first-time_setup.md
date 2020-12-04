@@ -1,0 +1,3 @@
+Collie(GL-X300B) is a compact and cost-effective industrial 4G router. Equipped with the external full-band 4G antennas, the aluminum alloy shell and the hardware watchdog, the mobile router ensures stable LTE connectivity in harsh and hazardous environments. Collie can also serve as a smart industrial Internet gateway with the functions of RS485 interface and the optional IoT module for a range of IoT applications including vending machines, charging piles, smart agriculture, metering, and more.
+
+Please read this pdf [User Manual](https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf)

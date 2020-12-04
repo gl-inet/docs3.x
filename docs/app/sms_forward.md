@@ -14,13 +14,13 @@ Starting from firmware version 3.105, users can forward SMS message from router 
 
 **Account**: The email account that you want to set as the sender.
 
-**App Password**: The password for you to sign in your email on devices
+**Password**: The password for you to sign in your email account on devices.
 
-**domain**: Domain of your email
+**smtp**: The smtp address of your email server.
 
-**smtp**: The smtp address of your email server
+**protocol**: Encryption protocol.
 
-**protocol**: Encryption protocol
+**Subject**: Forward email's subjects.
 
 ## Add Forward Targets
 
@@ -30,7 +30,7 @@ You can add the forward targets here. For example, I add an American phone numbe
 
 There have no other settings for forwarding the sms to phone via message except inputting the phone number, but for email you need to do some additional settings.
 
-**Please test first if router could send SMS to other phone, some maynot work in specific environment.**
+**Please test first if router can send SMS to other phones, some maynot work in specific environment.**
 
 ## Setup Email Sender
 
@@ -99,9 +99,11 @@ Both 465 and 587 ports are useable.
 
 Once you setup the sender account, the router will send an email to your email account to make sure the setup has been completed.
 
+**If you didn't receive the mail, please check your account setting and apply again.**
+
 ![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/verification.png)
 
-Then the SMS that router received will be automatically forwarded to the phone numbers and email address that you set.
+Then the SMS that router received will be automatically forwarded to the phone numbers and email address that you set. The mail subject depends on your setting.
 
 ![sms_forward](https://static.gl-inet.com/docs/en/3/app/sms_forward/forward_email.png)
 
