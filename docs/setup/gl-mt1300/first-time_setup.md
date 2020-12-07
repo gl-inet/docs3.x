@@ -33,9 +33,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mt1300/plug.jpg) LAN connection image to be updated
-
-
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mt1300/plug.jpg)
 
 ### Connect via Wi-Fi
 Search for the SSID of the router in your device and input the default password: ***goodlife***.
