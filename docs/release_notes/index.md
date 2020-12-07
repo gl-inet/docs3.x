@@ -25,7 +25,7 @@ Firmware 3.105 will have nightly build, you can try and discuss on forum thread 
 | [GL-E750 (Mudi)](GL-E750.md)| <a href="https://dl.gl-inet.com/firmware/e750/release/" target="_blank">3.100</a>| <a href="https://dl.gl-inet.com/firmware/e750/testing/" target="_blank">3.102</a> |-|-|-|
 | [microuter-N300](microuter-N300.md)| <a href="https://dl.gl-inet.com/firmware/n300/release/" target="_blank">3.102</a>| <a href="https://dl.gl-inet.com/firmware/n300/testing/" target="_blank">3.102</a> |-|-|-|
 | [GL-AP1300](GL-AP1300.md) | <a href="http://dl.gl-inet.com/firmware/ap1300/release/" target="_blank">3.103</a>| <a href="https://dl.gl-inet.com/firmware/ap1300/testing/" target="_blank">3.103</a> |-|-|-|
-| [GL-MT1300(Beryl)](GL-MT1300.md) | <a href="http://dl.gl-inet.com/firmware/mt1300/releases/" target="_blank">3.200</a>| <a href="https://dl.gl-inet.com/firmware/mt1300/testing/" target="_blank">3.200</a> |-|-|-|
+| [GL-MT1300(Beryl)](GL-MT1300.md) | <a href="http://dl.gl-inet.com/firmware/mt1300/release/" target="_blank">3.200</a>| <a href="https://dl.gl-inet.com/firmware/mt1300/testing/" target="_blank">3.200</a> |-|-|-|
 
 *Use the .img file when you upgrade through <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/" target="_blank">Uboot</a>. Otherwise, please use the .tar file.
 
