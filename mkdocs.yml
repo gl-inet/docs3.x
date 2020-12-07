@@ -276,6 +276,7 @@ pages:
     - GL-AR150: 'release_notes/GL-AR150.md'
     - GL-AR300M: 'release_notes/GL-AR300M.md'
     - GL-MT300N-V2: 'release_notes/GL-MT300N-V2.md'
+    - GL-MT1300: 'release_notes/GL-MT1300.md'
     - GL-AR750: 'release_notes/GL-AR750.md'
     - GL-AR750S-Ext: 'release_notes/GL-AR750S-Ext.md'
     - GL-MiFi: 'release_notes/GL-MiFi.md'
