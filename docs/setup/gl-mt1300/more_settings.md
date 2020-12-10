@@ -115,7 +115,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **Router**: Create your own private network. The router will act as NAT, firewall and DHCP server.
 
-**Bridge mode**: Briage to a wired network.
+**Bridge mode**: Bridge to a wired network.
 
 ![network mode](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg)
 

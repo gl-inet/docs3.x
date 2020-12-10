@@ -1,6 +1,6 @@
 # WIRELESS
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button. Also you can enable Guest Wi-Fi(diable default) to provide internet services to your visitors. 
+In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button. Also you can enable Guest Wi-Fi(disable default) to provide internet services to your visitors. 
 
 
 **Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
@@ -9,7 +9,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
 
-**SSID Visiblity**: Show/hide the Wi-Fi SSID.
+**SSID Visibility**: Show/hide the Wi-Fi SSID.
 
 **Wi-Fi Mode**: The protocol of the Wi-Fi. It is suggested to use default settings (2.4GHz is b/g/n, 5GHz is a/n/ac).
 
