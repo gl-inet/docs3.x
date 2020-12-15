@@ -176,6 +176,24 @@ Other recommended WireGuard provider:
 </details>
 
 <details>
+<summary>Windscribe</summary>
+<p><a href="https://windscribe.com/" target="_blank">Official Website</a></p>
+<p>1. Login then access the <a href="https://windscribe.com/getconfig/wireguard">WireGuard Config Generator</a>. Select location and port you'd like to use, then click Download Config.</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_01.jpg" /></p>
+<p>2. Open it by a text editor, copy the content.</p>
+<p>3. Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_02.jpg" /></p>
+<p>4. Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_03.jpg" /></p>
+<p>5. Specify the name of your server and click <b>Add</b>.</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_04.jpg" /></p>
+<p>6. Connect to the WireGuard server by clicking <b>Connect</b></p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_05.jpg" /></p>
+<p>7. You will see the upload and download traffic when it is connected successfully.</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_06.jpg" /></p>
+</details>
+
+<details>
 <summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
 <p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, sign in to your <a href="https://my.keepsolid.com/" target="_blank">User Office</a> > select the VPN Unlimited® application > click <b>Manage</b>.</p>
