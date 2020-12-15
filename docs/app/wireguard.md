@@ -155,7 +155,7 @@ Other recommended WireGuard provider:
 
 <details>
 <summary>WeVPN</summary>
-<p><a href="https://wevpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://www.wevpn.com/aff/glinet" target="_blank">Official Website</a></p>
 <p>1. Access the Members Area to make a custom config using the Config Generator.</p>
 <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_1.jpg" /></p>
 <p>2. When you select the Wireguard protocol, you will need to select <b>Add device</b> for the region selected.</p>
