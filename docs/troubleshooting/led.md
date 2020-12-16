@@ -52,10 +52,6 @@
 - **5GHz Wi-Fi**: Solid white LED that indicates the router is broadcasting 5GHz Wi-Fi. It will flash when there is wireless data transfer
 
 
-
-
-
-
 ## GL-B1300
 
   ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/b1300.jpg)
@@ -65,9 +61,15 @@
 - **Wireless**: Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 
 
+## GL-MT1300
 
+  ![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/mt1300_light.jpg)
 
-
+- **Solid blue light**: Device is powering up.
+- **Solid white light**: Network is connected.
+- **Slowly growing blue light**: Network disconnects/ No cable connection.
+- **Fast flashing blue light**: In reset process.
+- **Slowly flashing blue light**: Upgrading firmware in process.
 
 
 
