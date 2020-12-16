@@ -155,7 +155,7 @@ Other recommended WireGuard provider:
 
 <details>
 <summary>WeVPN</summary>
-<p><a href="https://wevpn.com/" target="_blank">Official Website</a></p>
+<p><a href="https://www.wevpn.com/aff/glinet" target="_blank">Official Website</a></p>
 <p>1. Access the Members Area to make a custom config using the Config Generator.</p>
 <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_1.jpg" /></p>
 <p>2. When you select the Wireguard protocol, you will need to select <b>Add device</b> for the region selected.</p>
@@ -173,6 +173,24 @@ Other recommended WireGuard provider:
 <p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_7.png" /></p>
 
 <p><a href="https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwgmhcHUUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiTWh0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUxNzM3ODk0LVdpcmVndWFyZC1TZXR1cAY7B1Q6DnNlYXJjaF9pZEkiKTg1MzYyYTliLTFiNjQtNDgxZi1hOTZiLTIzMTE3NzQ4ZGMwMwY7B0Y6CXJhbmtpBg%3D%3D--708754fd43f05b5496036ebe0747c5a6dac84bf3">Refer link</a></p>
+</details>
+
+<details>
+<summary>Windscribe</summary>
+<p><a href="https://windscribe.com/" target="_blank">Official Website</a></p>
+<p>1. Login then access the <a href="https://windscribe.com/getconfig/wireguard">WireGuard Config Generator</a>. Select location and port you'd like to use, then click Download Config.</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_01.jpg" /></p>
+<p>2. Open it by a text editor, copy the content.</p>
+<p>3. Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_02.jpg" /></p>
+<p>4. Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_03.jpg" /></p>
+<p>5. Specify the name of your server and click <b>Add</b>.</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_04.jpg" /></p>
+<p>6. Connect to the WireGuard server by clicking <b>Connect</b></p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_05.jpg" /></p>
+<p>7. You will see the upload and download traffic when it is connected successfully.</p>
+<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_06.jpg" /></p>
 </details>
 
 <details>
