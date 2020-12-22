@@ -2,8 +2,6 @@
 
 ## V3.105 - Dec 8, 2020
 
-Firmware file:
-
 Firmware file: [openwrt-ar750-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.105.bin)
 
 **New features:**
