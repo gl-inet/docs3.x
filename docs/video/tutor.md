@@ -1,6 +1,12 @@
 #Tutorials
 This page is listing the videos related to product tutorials. We will update contents to our official [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel time to time.
 
+
+## How to use GL.iNet routers to repeat a Wi-Fi signal?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66aPYddFYws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
 ## Step-By-Step Guideline: How To Upgrade To The Latest Firmware
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yyUjf4EjXmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
