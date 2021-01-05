@@ -237,7 +237,6 @@ pages:
     - SSH to the router: 'app/ssh.md'
     - OpenVPN: 'app/openvpn.md'
     - WireGuard: 'app/wireguard.md'
-    - Shadowsocks: 'app/ss.md'
     - Internet Kill Switch: 'app/internet_kill_switch.md'
     - VPN Policies: 'app/vpn_policies.md'
     - File Sharing: 'app/file_sharing.md'
