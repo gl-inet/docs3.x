@@ -253,6 +253,28 @@ Others:
 </details>
 
 
+<details>
+<summary>FastestVPN</summary>
+<p><a href="https://go.fastestvpn.com/affiliate/pap?a_aid=5ffd2a3e9d687" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>Download FastestVPN Config Files zip folder for OpenVPN TCP and UDP from <a href="https://support.fastestvpn.com/download/openvpn-tcp-udp-config-files/">here</a>. Extract the folder somewhere.</li>
+<li>Go to the web Admin Panel, default is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>, OpenVPN Client --> Add a New OpenVPN Configuration</li>
+<p><img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/fastestvpn/fastestvpn1.png" /></p>
+<li>Go to the <b>Fastestvpn_ovpn</b> folder which you downloaded in step 1. Open <b>TCP</b> or <b>UDP</b> whichever protocol you want to connect to.</li>
+<p>Select your desired server file and drag and drop in GL.iNet setup window, such as UK-UDP.</p>
+<p><b>Note:</b> You can drop multiple .ovpn files.</p>
+<p><img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/fastestvpn/fastestvpn2.png" /></p>
+<li>Enter a description for your VPN such as “FastestVPN-UK. Then enter your FastestVPN username and Password in the respective fields.</li>
+<p>Click on "Submit"</p>
+<p><img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/fastestvpn/fastestvpn3.png" /></p>
+<li>Click <b>Connect</b>, You’ll be connected to FastestVPN shortly.</li>
+<p><img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/fastestvpn/fastestvpn4.png" /></p>
+<p>Click on Disconnect when you want to disconnect the VPN.</p>
+<p><img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/app/openvpn/fastestvpn/fastestvpn5.png" /></p>
+</ol>
+<p><a href="https://support.fastestvpn.com/tutorials/routers/gl-inet/openvpn" target="_blank">Refer link</a></p>
+</details>
+
 
 <details>
 <summary>FinchVPN</summary>
