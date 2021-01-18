@@ -15,7 +15,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	margin-bottom: 25px;
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
-	grid-template-rows: 16.66% 16.66% 16.66% 16.66% 16.66%;
+	grid-template-rows: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
 }
     .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13, .box-14, .box-15 , .box-16, .box-17, .box-18 {
     float: left;
@@ -34,7 +34,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	@media only screen and (max-width: 30em) {
     	.row-box {
         grid-template-columns: 50% 50%;
-        grid-template-rows: 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11%;
+        grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     	}
 }
 </style>
