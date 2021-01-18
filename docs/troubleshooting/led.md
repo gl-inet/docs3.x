@@ -77,7 +77,7 @@
   ![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/b2200_light.jpg)
 
 
-  ### Power Up
+### Power Up
 
 | Status       | Node      | Power Light| Action   | Internet Light    |
 | ------------ | --------- | ---------- | -------- | ----------------- |

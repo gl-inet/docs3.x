@@ -6,7 +6,7 @@ There are total 2 types of connection method that you can use to access the Inte
 
 ![connection method](https://static.gl-inet.com/docs/en/3/setup/Velica/Internet/internet-setting-B2200.png)
 
-**We recommend that you set up the internet by our Mobile App (https://www.gl-inet.com/app/) .**
+**We recommend that you set up the internet by our Mobile App (<a href="https://www.gl-inet.com/app/" target="_blank">https://www.gl-inet.com/app/</a>) .**
 
 You could also setup it through the Admin Panel, the instruction is as below.
 

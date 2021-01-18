@@ -6,7 +6,7 @@ You need at least two of Velica to establish mesh network.
 
 1) Download GL.iNet Mobile app
 
-Please download GL.iNet Mobile app (https://www.gl-inet.com/app/) to establish mesh network.
+Please download GL.iNet Mobile app (<a href="https://www.gl-inet.com/app/" target="_blank">https://www.gl-inet.com/app/</a>) to establish mesh network.
 
 2) Setup Main and Sub node
 

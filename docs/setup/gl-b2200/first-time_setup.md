@@ -12,7 +12,7 @@ GL-B2200
 
 ### Set Up Your B2200 (Velica)
 
-**Please download GL.iNet Mobile app (https://www.gl-inet.com/app/) to set up Velica.**
+**Please download GL.iNet Mobile app (<a href="https://www.gl-inet.com/app/" target="_blank">https://www.gl-inet.com/app/</a>) to set up Velica.**
 
 The GL.iNet Mobile app gives you convenient access to your router’s features anywhere and anytime.
 
