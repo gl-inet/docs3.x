@@ -72,6 +72,51 @@
 - **Slowly flashing blue light**: Upgrading firmware in process.
 
 
+## GL-B2200
+
+  ![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/b2200_light.jpg)
+
+
+  ### Power Up
+
+| Status       | Node      | Power Light| Action   | Internet Light    |
+| ------------ | --------- | ---------- | -------- | ----------------- |
+| Device is powered up       | Main/Sub node      | **Solid white light**      | Plug in cable, internet connected | **Solid white light**                |
+| Device is powered up   | Main/Sub node      | **Solid white light**       | No cable plug in | **OFF**                |
+| Device is powered up     | Main/Sub node      | **Solid white light**          | Plug in cable, internet disconnected | **Solid blue light**                |
+
+
+### Reset
+
+| Mode       | Status      | Node| Action   | Power Light    |
+| ------------ | --------- | ---------- | -------- | ----------------- |
+| Router Mode       | Network Reset      | /      | Press 4s | **Flashing white light**                |
+| Router Mode   | Factory Reset     | /       | Press 8s | **Fast flashing white light**                |
+| Mesh Mode     | Factory Reset      | Main/sub node         | Press 8s | **Fast flashing white light**                |
+
+
+### Upgrade
+
+| Status       | Power Light     | Internet Light|
+| ------------ | --------- | ---------- |
+| Upgrading firmware in process       | **Flashing blue light**      | **Flashing blue light**      | 
+| Upgraded firmware    | **Solid blue light**     |   **1s solid blue light then flashing blue light**    | 
+
+
+### Mesh
+
+| Status       | Node      | Power Light| Action   | Internet Light    |
+| ------------ | --------- | ---------- | -------- | ----------------- |
+| Starting mesh pairing       | Main/Sub node      | **Solid white light**      | / | **Slowly growing blue light**                |
+| Mesh successfully   | Main node      | **Solid white light**       | Plug in cable, internet connected | **Solid white light**                |
+| Mesh successfully     | Main node      | **Solid white light**          | No cable plug in | **OFF**                |
+| Mesh successfully     | Main node      | **Solid white light**          | Plug in cable, internet disconnected | **Solid blue light**                |
+| Mesh successfully     | Sub node      | **Solid white light**          | / | **Solid white light**                |
+| Fail to complete the mesh pairing     | Main node      | **Solid white light**          | Plug in cable, Internet connected | **Solid white light**                |
+| Fail to complete the mesh pairing     | Main node      | **Solid white light**          | No cable plug in | **OFF**                |
+| Fail to complete the mesh pairing     | Main node      | **Solid white light**          | Plug in cable, Internet disconnected | **Solid blue light**                |
+| Fail to complete the mesh pairing     | Sub node      | **Solid white light**          | / | **Slowly growing blue light**                |
+
 
 ## LED Customization
 

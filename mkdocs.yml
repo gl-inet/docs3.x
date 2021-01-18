@@ -60,6 +60,7 @@ pages:
     - GL-X1200: 'hardware/x1200/index.md'
     - GL-X300B: 'hardware/gl-x300b/index.md'
     - GL-AP1300: 'hardware/ap1300/index.md'
+    - GL-B2200: 'hardware/b2200/index.md'
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
     - GL-MT300A: 'hardware/mt300a/index.md'
@@ -229,7 +230,19 @@ pages:
         - Upgrade: 'setup/vixmini/upgrade.md'
         - Applications: 'setup/vixmini/applications.md'
         - More Settings: 'setup/vixmini/more_settings.md'
+    - Velica (GL-B2200):
+        - First-time Setup: 'setup/b2200/first-time_setup.md'
+        - Internet: 'setup/b2200/internet.md'
+        - Wireless: 'setup/b2200/wireless.md'
+        - Mesh: 'setup/b2200/mesh.md'
+        - Clients: 'setup/b2200/clients.md'
+        - Upgrade: 'setup/b2200/upgrade.md'
+        - Firewall: 'setup/b2200/firewall.md'
+        - VPN: 'setup/b2200/vpn.md'
+        - Applications: 'setup/b2200/applications.md'
+        - More Settings: 'setup/b2200/more_settings.md'
 
+        
 - Development:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'

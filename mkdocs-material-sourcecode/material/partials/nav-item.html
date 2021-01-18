@@ -33,7 +33,7 @@
       <label id="cirrus_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-mt1300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-xe300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
-
+      <label id="gl-b2200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
             document.getElementById("mini_router_label").innerHTML = ("Mini Router");
@@ -110,6 +110,10 @@
           if (window.location.href.indexOf("gl-xe300") != -1) {
             document.getElementById("gl-xe300_label").innerHTML = ("GL-XE300");
             document.getElementById("gl-xe300_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-b2200") != -1) {
+            document.getElementById("gl-b2200_label").innerHTML = ("GL-B2200");
+            document.getElementById("gl-b2200_label").style.display = "block";
           }
       </script>
 
@@ -278,7 +282,18 @@
         <a id="gl-xe300_applications" href="../../gl-xe300/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="gl-xe300_more_settings" href="../../gl-xe300/more_settings/" style="display: none;" class="md-nav__link"></a>
         
+        <a id="gl-b2200_first-time_setup" href="../../gl-b2200/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_internet" href="../../gl-b2200/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_wireless" href="../../gl-b2200/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_mesh" href="../../gl-b2200/mesh/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_clients" href="../../gl-b2200/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_upgrade" href="../../gl-b2200/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="gl-b2200_firewall" href="../../gl-b2200/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_vpn" href="../../gl-b2200/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-b2200_applications" href="../../gl-b2200/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="gl-b2200_more_settings" href="../../gl-b2200/more_settings/" style="display: none;" class="md-nav__link"></a>
         <script>
+
           if (window.location.href.indexOf("mini_router") != -1) {
             document.getElementById("mini_router_first-time_setup").innerHTML = ("First-time Setup");
             document.getElementById("mini_router_first-time_setup").style.display = "block";
@@ -624,6 +639,29 @@
             document.getElementById("gl-xe300_applications").style.display = "block";
             document.getElementById("gl-xe300_more_settings").innerHTML = ("More Settings");
             document.getElementById("gl-xe300_more_settings").style.display = "block";  
+          }
+          
+          if (window.location.href.indexOf("gl-b2200") != -1) {
+            document.getElementById("gl-b2200_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-b2200_first-time_setup").style.display = "block";
+            document.getElementById("gl-b2200_internet").innerHTML = ("Internet");
+            document.getElementById("gl-b2200_internet").style.display = "block";
+            document.getElementById("gl-b2200_wireless").innerHTML = ("Wireless");
+            document.getElementById("gl-b2200_wireless").style.display = "block";
+            document.getElementById("gl-b2200_mesh").innerHTML = ("Mesh");
+            document.getElementById("gl-b2200_mesh").style.display = "block";
+            document.getElementById("gl-b2200_clients").innerHTML = ("Clients");
+            document.getElementById("gl-b2200_clients").style.display = "block";
+            document.getElementById("gl-b2200_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("gl-b2200_upgrade").style.display = "block";
+            document.getElementById("gl-b2200_firewall").innerHTML = ("Firewall");
+            document.getElementById("gl-b2200_firewall").style.display = "block";
+            document.getElementById("gl-b2200_vpn").innerHTML = ("VPN");
+            document.getElementById("gl-b2200_vpn").style.display = "block";
+            document.getElementById("gl-b2200_applications").innerHTML = ("Applications");
+            document.getElementById("gl-b2200_applications").style.display = "block";
+            document.getElementById("gl-b2200_more_settings").innerHTML = ("More Settings");
+            document.getElementById("gl-b2200_more_settings").style.display = "block";  
           }
         </script> 
       </ul>
