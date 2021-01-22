@@ -296,6 +296,7 @@ pages:
     - GL-X750: 'release_notes/GL-X750.md'
     - GL-E750: 'release_notes/GL-E750.md'
     - GL-USB150: 'release_notes/GL-USB150.md'
+    - GL-B2200: 'release_notes/GL-B2200.md'
     - GL-B1300: 'release_notes/GL-B1300.md'
     - GL-S1300: 'release_notes/GL-S1300.md'
     - GL-MV1000: 'release_notes/GL-MV1000.md'
