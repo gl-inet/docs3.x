@@ -1,8 +1,5 @@
 # Firmware Releases
 
-Firmware 3.105 will have nightly build, you can try and discuss on forum thread below.
-[https://forum.gl-inet.com/t/firmware-3-105-snapshot-update/12887](https://forum.gl-inet.com/t/firmware-3-105-snapshot-update/12887)
-
 | Router Model<br>(Click to check the<br>Release Notes) | Default Release[1] | Pre-release[2] | OpenWrt Only[3] | Tor[4] | DD-WRT |
 | :----------------------------------------------------------- | :-------: | :------------: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [GL-AR150<br>GL-AR150-PoE<br>GL-AR150-Ext-2<br>GL-AR150-Ext-PoE-2](GL-AR150.md) |     <a href="https://dl.gl-inet.com/firmware/ar150/v1/" target="_blank">3.105</a>     | <a href="https://dl.gl-inet.com/firmware/ar150/testing/" target="_blank">3.105</a> |   <a href="https://dl.gl-inet.com/firmware/ar150/clean/" target="_blank">3.0</a>   |<a href="https://dl.gl-inet.com/firmware/ar150/tor/" target="_blank">2.264</a>|<a href="https://dd-wrt.com/support/other-downloads/?path=betas%2F2018%2F10-19-2018-r37442%2FGL.iNet-AR150%2F" target="_blank">r37442</a>|
