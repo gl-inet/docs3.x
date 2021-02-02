@@ -42,7 +42,7 @@ You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot F
                 <div>(For some old GL-B1300, the leftmost LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times at the same time then they stay on.)</div>
             </li>
         	<li><b>3 times</b> for GL-MT300N, GL-MT300A.</li>
-            <li><b>For GL-MT1300</b>, the LED light 2 times at first, then light 5 times turn to white and stay on.</li>
+            <li><b>For GL-MT1300</b>, the LED is blue at first, flash twice slowly, then light 5 times a bit quick and turn to white and stay on.</li>
             <li><b>No repeat LED flashes signal </b> for GL-MV1000.</li>
             <div>(Power and WAN LEDs will stay on the whole time.)</div>
         </ul>
