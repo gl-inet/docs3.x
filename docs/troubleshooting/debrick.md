@@ -8,10 +8,6 @@ You may have bricked your router if you were doing some DIY projects or flashed 
 
 Please follow the procedures below to access the Uboot Web UI and re-install the firmware.
 
-You can also refer to our video, [How to Recover GL.iNet Mini Router by U-Boot FailSafe](https://docs.gl-inet.com/en/3/video/tutor/#how-to-recover-glinet-mini-router-by-u-boot-failsafe).
-
-
-
 <ol type="1">
     <li><p>
         First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, GL-E750, GL-X1200, please download the .img firmware file. For GL-B1300, GL-S1300, please download the .img firmware. Everyone else, download the .bin firmware file.
