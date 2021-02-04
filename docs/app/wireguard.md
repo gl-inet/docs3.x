@@ -9,45 +9,46 @@ If you are looking for a WireGuard provider, access [this](#wireguard-providers)
 
 ## WireGuard Client 
 
-To set up a WireGuard client, please click `+ Add New Profiles`.
+To set up a WireGuard client, please click `+ Set up WireGuard Manually`.
 
 ![Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC1.png)
 
+### Input the configuration
 
+There are different methods to input the configuration.  
+
+![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/paste_wireguard_config.png)
+
+For AzireVPN and MullvadVPN users, choose the `Providers` tab, for more detail, access [here](#wireguard-providers).
+
+You can paste the configuration on `Configuration` tab, or create from scratch on `Manual Input` tab.
+
+![add a new wireguard config](https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png)
 
 ### Specify the name of your server
 
-Specify the name and then click `Next`.
+Specify a descriptive name and then click `Next`.
 
-![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/name.jpg)
+![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png)
 
+![connect wireguard](https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png)
 
+Choose the server and click `Connect`.
 
-### Input the configurations
+![wireguard connected](https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png)
 
-There are different methods to input the configurations.
-
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations1.jpg)
-
-You can copy the `JSON` or `Plain Text` configurations from your server to `Configuration` or input the settings manually.
-
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/other9.1.png)
-
-After copy the `JSON` or `Plain Text` from your server, you can paste it in the `Configuration` and then click **Add** to finish the WireGuard Client setup.
-
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/wire1.1.PNG)
-
+If will show upload and download traffic when connected.
 
 ### WireGuard Providers
 
-If you are using <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> or <a href="https://mullvad.net/" target="_blank">Mullvad</a>, you can click `Others` and use your **AzireVPN** or **Mullvad** account to set up WireGuard client directly.
+If you are using <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> or <a href="https://mullvad.net/" target="_blank">Mullvad</a>, it has integrated their services.
 
 <details>
 <summary>AzireVPN</summary>
 
 Select <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> as the provider, enter your User Name and Password and then click "Add" finish the WireGuard Client setup.
 
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/Wire2.PNG)
+![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/setup_azirevpn.png)
 
 </details>
 
@@ -55,13 +56,11 @@ Select <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN<
 <summary>Mullvad</summary>
 Select Mullvad as the provider, enter your Account Number and then click "Add" to finish the WireGuard Client setup.
 
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/Wire3.PNG)
+![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/setup_mullvadvpn.png)
 
 </details>
 
-Waiting for the adding.
-
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/Other3.PNG)
+Waiting for the adding. For Mullvad, it will take several minutes, please be patient.
 
 Other recommended WireGuard provider:
 
