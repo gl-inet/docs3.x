@@ -11,13 +11,13 @@ If you are looking for a WireGuard provider, access [this](#wireguard-providers)
 
 To set up a WireGuard client, please click `+ Set up WireGuard Manually`.
 
-![Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC1.png)
+![setup wireguard manually](https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png)
 
 ### Input the configuration
 
-There are different methods to input the configuration.  
+There are different methods to input the configuration.
 
-![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/paste_wireguard_config.png)
+![paste wireguard config](https://static.gl-inet.com/docs/en/3/app/wireguard/paste_wireguard_config.png)
 
 For AzireVPN and MullvadVPN users, choose the `Providers` tab, for more detail, access [here](#wireguard-providers).
 
@@ -29,7 +29,7 @@ You can paste the configuration on `Configuration` tab, or create from scratch o
 
 Specify a descriptive name and then click `Next`.
 
-![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png)
+![config name](https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png)
 
 ![connect wireguard](https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png)
 
@@ -46,49 +46,102 @@ If you are using <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank"
 <details>
 <summary>AzireVPN</summary>
 
-Select <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> as the provider, enter your User Name and Password and then click "Add" finish the WireGuard Client setup.
+Select <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> as the provider, enter your User Name and Password and then click `Next`.
 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/setup_azirevpn.png)
+
+It will take several minutes to get configs, please be patient.
 
 </details>
 
 <details>
 <summary>Mullvad</summary>
+
 Select Mullvad as the provider, enter your Account Number and then click "Add" to finish the WireGuard Client setup.
 
 ![Configuraion](https://static.gl-inet.com/docs/en/3/app/wireguard/setup_mullvadvpn.png)
 
-</details>
+It will take several minutes to get configs, please be patient.
 
-Waiting for the adding. For Mullvad, it will take several minutes, please be patient.
+</details>
 
 Other recommended WireGuard provider:
 
 <details>
 <summary>OVPN</summary>
 <p><a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a></p>
-<p>Login <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">www.ovpn.com</a>, find the menu below to get WireGuard configuration files.</p>
-<p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/get_wireguard_configuration_files.jpg"/></p>
-<p>Click Generate WireGuard keys, choose the server you wanted, then download the config.</p>
-<p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/download_wireguard_configuration_files.jpg"/></p>
-<p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
-<p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
-<p>The config may contain IPv6 content, as GL.iNet routers is not support IPv6 good enough, so please delete the IPv6 content. I have a example show below, the highlight content is the IPv6 content.</p>
-<p><img alt="remove wireguard ipv6 content" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/remove_wireguard_ipv6_content.jpg" /></p>
+<ol type="1">
+<li>
+    <p>Login <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">www.ovpn.com</a>, find the menu below to get WireGuard configuration files.</p>
+    <p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/get_wireguard_configuration_files.jpg"/></p>
+</li>
+<li>
+    <p>Click Generate WireGuard keys, choose the server you wanted, then download the config.</p>
+    <p><img alt="" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/download_wireguard_configuration_files.jpg"/></p>
+</li>
+<li>
+    <p>Open the config by text edit software, copy the content.</p>
+    <p>The config may contain IPv6 content, as GL.iNet routers is not support IPv6 good enough, so please delete the IPv6 content. I have a example show below, the highlight content is the IPv6 content.</p>
+    <p><img alt="remove wireguard ipv6 content" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ovpn/remove_wireguard_ipv6_content.jpg" /></p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+    <p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+</li>
+</ol>
 </details>
 
 <details>
 <summary>SpiderVPN</summary>
 <p><a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">Official Website</a></p>
-<p>Login <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.</p>
-<p>1.</p>
-<p><img alt="get spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_1.jpg" /></p>
-<p>2. download the vpn configuration</p>
-<p><img alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_2.jpg" /></p>
-<p>3. Access the web Admin Panel of your GL.iNet router, click New Profile at WireGuard Client.</p>
-<p><img alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_4.jpg" /></p>
-<p>4. open the configuration you just download from SpiderVPN website, then paste to the new Profile dialog, you need to adjust the format, make sure there is a space on each side of the equals sign.</p>
-<p><img alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_3.jpg" /></p>
+<ol type="1">
+<li>
+    <p>Login <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.</p>
+    <p><img alt="get spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_1.jpg" /></p>
+</li>
+<li>
+    <p>Download the vpn configuration</p>
+    <p><img alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/app/wireguard/spidervpn_config_2.jpg" /></p>
+</li>
+<li>
+    <p>Open the config by text edit software, copy the content.</p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. You need to adjust the format, make sure there is a space on each side of the equals sign. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+</li>
 </details>
 
 <details>
@@ -104,12 +157,30 @@ Other recommended WireGuard provider:
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_download_wireguard_config.jpg" /></p>
 </li>
 <li>
-    <p>Copy & paste the config content to router wireguard client.</p>
-    <p>Open the config by text edit software, copy and paste the content to router wireguard client.</p>
-    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_copy_paste_wireguard_config.jpg" /></p>
-    <p><a href="https://torguard.net/knowledgebase.php?action=displayarticle&id=250" target="_blank">Refer link</a></p>
+    <p>Open the config by text edit software, copy the content.</p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
 </li>
 </ol>
+<p><a href="https://torguard.net/knowledgebase.php?action=displayarticle&id=250" target="_blank">Refer link</a></p>
 </details>
 
 <details id="strongvpn">
@@ -125,9 +196,27 @@ Other recommended WireGuard provider:
     <p><img alt="VPN.AC create wireguard profiles" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_create_wireguard_profiles.jpg" /></p>
 </li>
 <li>
-    <p>Copy & paste the config content to router wireguard client.</p>
-    <p>Extract files, open the config by text edit software, copy and paste the content to router wireguard client.</p>
-    <p><img alt="VPN.AC enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
+    <p>Extract file, open the config by text edit software, copy the content.</p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
 </li>
 </ol>
 </details>
@@ -135,41 +224,77 @@ Other recommended WireGuard provider:
 <details>
 <summary>StrongVPN</summary>
 <p><a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a></p>
-<p>If you are using <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a>, sign in at <a href="https://wg.strongvpn.com" target="_blank">https://wg.strongvpn.com</a></p>
-<p>Select a location from the drop down menu, click GENERATE, open the downloaded text file, and then copy the contents of the file.</p>
-<p><img alt="strongvpn wireguard configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_wireguard_configuration_generator.png" /></p>
-<p>Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_1.png" /></p>
-<p>Specify the name of your server and click next.</p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_2.png" /></p>
-<p>Paste the configuration text to the Configuration windows. Click <b>Add</b></p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_3.png" /></p>
-<p>Connect to the WireGuard server by clicking <b>Connect</b></p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_4.png" /></p>
-<p>You will see the upload and download traffic when it is connected successfully.</p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_5.png" /></p>
+<ol type="1">
+<li>
+    <p>If you are using <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a>, sign in at <a href="https://wg.strongvpn.com" target="_blank">https://wg.strongvpn.com</a></p>
+</li>
+<li>
+    <p>Select a location from the drop down menu, click <b>GENERATE</b>, open the downloaded text file.</p>
+    <p><img alt="strongvpn wireguard configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/strongvpn/strongvpn_wireguard_configuration_generator.png" /></p>
+</li>
+<li>
+    <p>Open the config by text edit software, copy the content.</p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+</li>
+</ol>
 <p><a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">Refer link</a></p>
 </details>
-
 
 <details>
 <summary>WeVPN</summary>
 <p><a href="https://www.wevpn.com/aff/glinet" target="_blank">Official Website</a></p>
-<p>1. Access the Members Area to make a custom config using the Config Generator.</p>
-<p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_1.jpg" /></p>
-<p>2. When you select the Wireguard protocol, you will need to select <b>Add device</b> for the region selected.</p>
-<p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_2.jpg" /></p>
-<p>3. Select the Download option. Open it by a text editor, copy the content.</p>
-<p>4. Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_3.png" /></p>
-<p>5. Specify the name of your server and click next.</p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_4.png" /></p>
-<p>6. Paste the configuration text to the Configuration windows. Click <b>Add</b></p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_5.png" /></p>
-<p>7. Connect to the WireGuard server by clicking <b>Connect</b></p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_6.png" /></p>
-<p>8. You will see the upload and download traffic when it is connected successfully.</p>
-<p><img alt="gl.inet router new wireguard profile" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_7.png" /></p>
+<ol type="1">
+<li>
+    <p>Access the Members Area to make a custom config using the Config Generator.</p>
+    <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_1.jpg" /></p>
+</li>
+<li>
+    <p>When you select the Wireguard protocol, you will need to select <b>Add device</b> for the region selected.</p>
+    <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_2.jpg" /></p>
+</li>
+<li>
+    <p>Select the Download option. Open it by a text editor, copy the content.</p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+</li>
+</ol>
 
 <p><a href="https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwgmhcHUUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiTWh0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUxNzM3ODk0LVdpcmVndWFyZC1TZXR1cAY7B1Q6DnNlYXJjaF9pZEkiKTg1MzYyYTliLTFiNjQtNDgxZi1hOTZiLTIzMTE3NzQ4ZGMwMwY7B0Y6CXJhbmtpBg%3D%3D--708754fd43f05b5496036ebe0747c5a6dac84bf3">Refer link</a></p>
 </details>
@@ -177,67 +302,97 @@ Other recommended WireGuard provider:
 <details>
 <summary>Windscribe</summary>
 <p><a href="https://windscribe.com/" target="_blank">Official Website</a></p>
-<p>1. Login then access the <a href="https://windscribe.com/getconfig/wireguard">WireGuard Config Generator</a>. Select location and port you'd like to use, then click Download Config.</p>
-<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_01.jpg" /></p>
-<p>2. Open it by a text editor, copy the content.</p>
-<p>3. Login web Admin Panel, VPN --> WireGuard Client --> Add New Profiles</p>
-<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_02.jpg" /></p>
-<p>4. Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
-<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_03.jpg" /></p>
-<p>5. Specify the name of your server and click <b>Add</b>.</p>
-<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_04.jpg" /></p>
-<p>6. Connect to the WireGuard server by clicking <b>Connect</b></p>
-<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_05.jpg" /></p>
-<p>7. You will see the upload and download traffic when it is connected successfully.</p>
-<p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_06.jpg" /></p>
+<ol type="1">
+<li>
+    <p>Login then access the <a href="https://windscribe.com/getconfig/wireguard">WireGuard Config Generator</a>. Select location and port you'd like to use, then click Download Config.</p>
+    <p><img alt="windscribe WireGuard Config Generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/windscribe/windscribe_01.jpg" /></p>
+</li>
+<li>
+    <p>Open it by a text editor, copy the content.</p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
+<li>
+    <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+    <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+</li>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+</li>
+</ol>
+
+</ol>
 </details>
 
 <details>
 <summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
-<p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, sign in to your <a href="https://my.keepsolid.com/" target="_blank">User Office</a> > select the VPN Unlimited® application > click <b>Manage</b>.</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/01.jpg" /></p>
+<ol type="1">
+<li>
+    <p>If you are using <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">VPN Unlimited</a>, sign in to your <a href="https://my.keepsolid.com/" target="_blank">User Office</a> > select the VPN Unlimited® application > click <b>Manage</b>.</p>
+    <p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/01.jpg" /></p>
+</li>
+<li>
+    <p>Press the field under <b>Device</b> and click <b>Manually create a new device…</b> > set it’s custom name, for example WireGuard  > choose appropriate location of the <b>Server</b> > select the <b>WireGuard</b>® protocol from the dropdown menu > click <b>Generate</b>. </p>
+    <p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/02.jpg" /></p>
+</li>
+<li>
+    <p>The configuration parameters will then appear below in the text format. You’ll need them for further configuration of your GL.iNet router.</p>
+    <p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/03.jpg" /></p>
+</li>
+<li>
+    <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+<p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+</li>
 
-<p>Press the field under <b>Device</b> and click <b>Manually create a new device…</b> > set it’s custom name, for example WireGuard  > choose appropriate location of the <b>Server</b> > select the <b>WireGuard</b>® protocol from the dropdown menu > click <b>Generate</b>. </p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/02.jpg" /></p>
+<li>
+    <p>The <b>Add a New WireGuard</b>® <b>Client</b> window will appear. In the <b>Configuration</b> tab, paste the details of the manual configuration settings you’ve generated before: </p>
 
-<p>The configuration parameters will then appear below in the text format. You’ll need them for further configuration of your GL.iNet router.</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/03.jpg" /></p>
+    <p>
+    [Interface]</br>
+    PrivateKey = <i>paste the PrivateKey from your User Office</i></br>
+    ListenPort = <i>paste the ListenPort details</i></br>
+    Address = <i>paste Address information</i></br>
+    DNS = <i>paste DNS details from the User Office</i></br>
+    </br>
+    [Peer]</br>
+    PublicKey = <i>paste PublicKey from the User Office</i></br>
+    PresharedKey = <i>paste PresharedKey details</i></br>
+    AllowedIPs = <i>paste AllowedIPs details</i></br>
+    Endpoint = <i>paste Endpoint information</i></br>
+    </p>
+    <p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/add_a_new_wireguard_config.png" /></p>
 
-<p>Login to the web Admin Panel, default is http://192.168.8.1, click VPN > WireGuard® Client.</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/04.jpg" /></p>
+    <p>Once completed, click <b>Add</b>.</p>
+</li>
 
-<p>Click <b>Add New Profiles</b>.</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/05.jpg" /></p>
-
-<p>Specify custom <b>Name</b> of server and click <b>Next</b>.</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/06.jpg" /></p>
-
-<p>The <b>Add a New WireGuard</b>® <b>Client</b> window will appear. In the <b>Configuration</b> tab, paste the details of the manual configuration settings you’ve generated before: </p>
-
-<p>
-[Interface]</br>
-PrivateKey = <i>paste the PrivateKey from your User Office</i></br>
-ListenPort = <i>paste the ListenPort details</i></br>
-Address = <i>paste Address information</i></br>
-DNS = <i>paste DNS details from the User Office</i></br>
-</br>
-[Peer]</br>
-PublicKey = <i>paste PublicKey from the User Office</i></br>
-PresharedKey = <i>paste PresharedKey details</i></br>
-AllowedIPs = <i>paste AllowedIPs details</i></br>
-Endpoint = <i>paste Endpoint information</i></br>
-</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/07.jpg" /></p>
-
-<p>Once completed, click <b>Add</b>.</p>
-
-<p>Click <b>Connect</b> on the <b>WireGuard®</b> <b>Client</b> tab.</p>
-<p><img alt="vpn unlimited setup on gl.inet router" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpnunlimited/08.jpg" /></p>
+<li>
+    <p>Specify the name of your server and click <b>Add</b></p>
+    <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+</li>
+<li>
+    <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+    <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+</li>
+<li>
+    <p>You will see the upload and download traffic when it is connected successfully.</p>
+    <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+</li>
+</ol>
 
 <p><a href="https://www.vpnunlimitedapp.com/help/manuals/wireguard-setup-on-glinet-router" target="_blank">Refer link</a></p>
 </details>
-
 
 <details id="ivpnid">
 <summary>12VPX</summary>
@@ -247,8 +402,27 @@ Endpoint = <i>paste Endpoint information</i></br>
         <p>If you are using <a href="https://12vpx.com/?aff=1174" target="_blank">12VPX</a>, login then access <a href="https://12vpx.com/setup/wireguard" target="_blank">this page</a>, you will see the configs of all servers.
     </li>
     <li>
-        <p>Copy & paste the config content to router wireguard client.</p>
-        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>
+        <p>Copy the wireguard config.</p>
+    </li>
+    <li>
+        <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+    <p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+    </li>
+    <li>
+        <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+        <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+    </li>
+    <li>
+        <p>Specify the name of your server and click <b>Add</b></p>
+        <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+    </li>
+    <li>
+        <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+        <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+    </li>
+    <li>
+        <p>You will see the upload and download traffic when it is connected successfully.</p>
+        <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
     </li>
 </details>
 
@@ -257,18 +431,34 @@ Endpoint = <i>paste Endpoint information</i></br>
 <p><a href="https://www.ivpn.net/" target="_blank">Official Website</a></p>
 <ol type="1">
     <li>
-        <p>If you are using <a href="https://www.ivpn.net/" target="_blank">IVPN</a>, you need to Log in to the Client Area on the IVPN website. <a href="https://www.ivpn.net/clientarea/login" target="_blank">IVPN Client Area</a>, then follow the <a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">WireGuard Setup Guides</a> </p>
-        <p>Skip the step 1, because WireGuard is pre-installed on GL.iNet routers.</p>
-        <p><img alt="IVPN linux steup guide" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_linux_setup_guide.jpg"/></p>
+        <p>If you are using <a href="https://www.ivpn.net/" target="_blank">IVPN</a>, you need to generate the WireGuard config manually. Follow the guide base on your OS.</p>
+        <p><a href="https://www.ivpn.net/setup/windows-10-wireguard/" target="_blank">Windows</a>, <a href="https://www.ivpn.net/setup/macos-wireguard/" target="_blank">macOS</a>, <a href="https://www.ivpn.net/setup/linux-wireguard/" target="_blank">Linux</a></p>
     </li>
     <li>
-        <p>After generate the config.</p>
-        <p><img alt="after generate the config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/ivpn_has_create_profile.jpg" /></p>
-        <p>Copy & paste the config content to router wireguard client.</p>
-        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>        
+        <p>After generated the config, copy it.</p>     
     </li>
-    <p><a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">Refer link</a></p>
+    <li>
+        <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+    <p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+    </li>
+    <li>
+        <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+        <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+    </li>
+    <li>
+        <p>Specify the name of your server and click <b>Add</b></p>
+        <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+    </li>
+    <li>
+        <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+        <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+    </li>
+    <li>
+        <p>You will see the upload and download traffic when it is connected successfully.</p>
+        <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+    </li>
 </ol>
+<p><a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">Refer link</a></p>
 </details>
 
 <details id="nvpn">
@@ -276,15 +466,34 @@ Endpoint = <i>paste Endpoint information</i></br>
 <p><a href="https://anonine.com/" target="_blank">Official Website</a></p>
 <ol type="1">
     <li>
-        <p>Fellow the guide <a href="https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10" target="_blank">here</a> to create the config.</p>
+        <p>Fellow the guide below to generate WireGuard configs.
+        <p><a href="https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10" target="_blank">Windows</a>, <a href="https://help.anonine.com/support/solutions/articles/5000817206-anonine-wireguard-installation-guide-for-macos" target="_blank">macOS</a>, <a href="https://help.anonine.com/support/solutions/articles/5000817191--anonine-wireguard-installation-guide-for-ubuntu-18-04" target="_blank">Ubuntu</a>, <a href="https://help.anonine.com/support/solutions/articles/5000817310--anonine-wireguard-installation-for-android" target="_blank">Android</a>, <a href="https://help.anonine.com/support/solutions/articles/5000823286--anonine-wireguard-installation-for-ios" target="_blank">iOS</a></p>
     </li>
     <li>
-    <p>Copy & paste the config content to router wireguard client.</p>
-        <p><img alt="IVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>  
+        <p>After generated the config, copy it.</p>
+    </li>
+    <li>
+        <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+    <p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+    </li>
+    <li>
+        <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+        <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+    </li>
+    <li>
+        <p>Specify the name of your server and click <b>Add</b></p>
+        <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+    </li>
+    <li>
+        <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+        <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+    </li>
+    <li>
+        <p>You will see the upload and download traffic when it is connected successfully.</p>
+        <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
     </li>
 </ol>
 </details>
-
 
 <details>
 <summary>NVPN</summary>
@@ -294,13 +503,30 @@ Endpoint = <i>paste Endpoint information</i></br>
         <p>Fellow the guide <a href="https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows" target="_blank">here</a> to create the config.</p>
     </li>
     <li>
-        <p>Copy & paste the config content to router wireguard client.</p>
-        <p><img alt="NVPN enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/vpn.ac_copy_paste_wireguard_config.jpg" /></p>  
+        <p>After generated the config, copy it.</p>
+    </li>
+    <li>
+        <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+    <p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+    </li>
+    <li>
+        <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+        <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+    </li>
+    <li>
+        <p>Specify the name of your server and click <b>Add</b></p>
+        <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+    </li>
+    <li>
+        <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+        <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+    </li>
+    <li>
+        <p>You will see the upload and download traffic when it is connected successfully.</p>
+        <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
     </li>
 </ol>
 </details>
-
-
 
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
@@ -317,8 +543,6 @@ Click `Connect`. You will see the upload and download traffic when it is connect
 You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`.
 
 ![1531199972139](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS1.png)
-
-
 
 ### Start a WireGuard server
 
