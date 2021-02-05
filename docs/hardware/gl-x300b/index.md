@@ -21,7 +21,7 @@ Collie can also serve as a smart industrial Internet gateway with the functions 
 |                         RS485 | RS485 serial port support for <b>X300B-RS485 only.</b><br>4 PIN I/O ports: <br>2 PIN for communication <b>(available on X300B-RS485 only)</b><br>2 PIN for power supply <b>(available on both X300B-RS485 and X300B-IOT)</b>     |
 |                      Watchdog | Support hardware watchdog                                    |
 |                   4G/3G modem | Support CAT M1, CAT 1, CAT 4<br>Modems is different for regions and operators  |
-|                Wi-Fi Protocol | 802.11 b/g/n                                                 |
+|                Wi-Fi Protocol | IEEE 802.11b/g/n                                             |
 |                   Wi-Fi Speed | 2.4GHz (150Mbps)                                             |
 |                 Ethernet Port | 2x 10M / 100M (1WAN, 1LAN)                                   |
 |                          LEDs | Power, Wi-Fi, 4G and WAN                                     |

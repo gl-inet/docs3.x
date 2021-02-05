@@ -18,7 +18,7 @@ It is mainly used to replace the wifi card of your PC or work as repeater. It is
 |         Frequency | 2.4GHz                  |
 | Transmission Rate | 150Mbps                 |
 |     Max. Tx Power | 20dBm                   |
-|          Protocol | 802.11 b/g/n            |
+|          Protocol | IEEE 802.11b/g/n        |
 |       Power Input | 5V/1A, USB Power Supply |
 | Power Consumption | <1W                     |
 | Dimension, Weight | 84mmX24mmX11mm, 10g     |

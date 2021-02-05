@@ -17,7 +17,7 @@ The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally
 |                     Frequency | 2.4GHz, 5GHz                                                 |
 |             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
 |                 Max. Tx Power | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
-|                      Protocol | 802.11 b/g/n/ac                                              |
+|                      Protocol | IEEE 802.11 a/b/g/n/ac                                       |
 | External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
 |                  DIY Features | UART, GPIO, 3.3V & 5V power port                             |
 |              External Antenna | 2 X 2dBi Fixed Antennas                                      |

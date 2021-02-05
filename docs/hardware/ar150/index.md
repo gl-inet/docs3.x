@@ -16,7 +16,7 @@ AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 |                     Frequency | 2.4GHz                                                       |
 |             Transmission Rate | 150Mbps                                                      |
 |                 Max. Tx Power | 18dBm                                                        |
-|                      Protocol | 802.11 b/g/n                                                 |
+|                      Protocol | IEEE 802.11b/g/n                                             |
 | External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
 |                Webcam Support | MJPEG, YUV (web cam not support any more from firmware v2.27) |
 |                  DIY Features | UART, GPIO,  3.3V & 5V power port                            |

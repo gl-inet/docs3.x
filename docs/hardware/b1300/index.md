@@ -25,7 +25,7 @@ It has a Mesh button which is used to paire routers. You don't need an APP for t
 |                     Frequency | 2.4GHz / 5GHz                                         |
 |             Transmission Rate | 400Mbps(2.4GHz) + 867Mbps(5GHz)                       |
 |                 Max. Tx Power | 20dBm                                                 |
-|                      Protocol | 802.11 a/b/g/n/ac                                     |
+|                      Protocol | IEEE 802.11a/b/g/n/ac                                 |
 | External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                             |
 |                Webcam Support | No                                                    |
 |                 Ethernet Port | 10/100/1000M                                          |

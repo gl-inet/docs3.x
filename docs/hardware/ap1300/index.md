@@ -16,21 +16,21 @@ You can enable a remote and secure access wherever you are and whenever you want
 
 ## Hardware Specification
 
-|                         Model | GL-AP1300                                              |
+|                         Model | GL-AP1300                                             |
 | ----------------------------: | :---------------------------------------------------- |
-|                           CPU | IPQ4018 Quad-core ARM, @717MHz SoC                 |
+|                           CPU | IPQ4018 Quad-core ARM, @717MHz SoC                    |
 |                        Memory | DDR3L 256MB                                           |
-|                       Storage | FLASH 4MB + 128MB NAND FLASH                                        |
-|                    Interfaces | 1 WAN, 1 LAN, 1 Reset Button |
+|                       Storage | FLASH 4MB + 128MB NAND FLASH                          |
+|                    Interfaces | 1 WAN, 1 LAN, 1 Reset Button                          |
 |                     Frequency | 2.4GHz / 5GHz                                         |
 |             Transmission Rate | 400Mbps(2.4GHz) + 867Mbps(5GHz)                       |
 |                 Max. Tx Power | 20dBm                                                 |
-|                      Protocol | 802.11 a/b/g/n/ac                                     |
-| LEDs | 2 x Single-color LED, for Indicate Power and System                             |
-|                Operating Temperature | -10 ~ 40°C (14 ~ 104°F)                                                    |
+|                      Protocol | IEEE 802.11a/b/g/n/ac                                 |
+|                          LEDs | 2 x Single-color LED, for Indicate Power and System   |
+|         Operating Temperature | -10 ~ 40°C (14 ~ 104°F)                               |
 |                 Ethernet Port | 10/100/1000M                                          |
-|                   Power Input | 12V/2A                                              |
-|             Power Consumption | <10W                                                   |
+|                   Power Input | 12V/2A                                                |
+|             Power Consumption | <10W                                                  |
 |             Dimension, Weight | 200 x 200 x 40mm, 692g                                |
 
 

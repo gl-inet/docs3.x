@@ -8,7 +8,7 @@
 |                 CPU | MTK7628NN, @580MHz SoC            |
 |   Memory / Storeage | DDR2 128MB / FLASH 16MB           |
 |    Internal Antenna | 2.5dBi                            |
-|            Protocol | 802.11 b/g/n                      |
+|            Protocol | IEEE 802.11b/g/n                  |
 |         Wi-Fi Speed | Max.300Mbps                       |
 |            Tx Power | 20dBm (11b)                       |
 |       Ethernet Port | 1 x 10/100M                       |
@@ -18,7 +18,7 @@
 |   Power Consumption | <2.75W                            |
 | Working Temperature | 0~40°C (32~104°F)                 |
 | Storage Temperature | -20~70°C (-4~158°F)               |
-|  Dimension, Weight  | 51mmX51mmX18.5mm, 30g               |
+|  Dimension, Weight  | 51mmX51mmX18.5mm, 30g             |
 
 
 

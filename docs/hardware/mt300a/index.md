@@ -15,7 +15,7 @@ MT300A is a mini router which has a MicroSD card slot inside. Its wifi performan
 |                     Frequency | 2.4GHz                                                       |
 |             Transmission Rate | 300Mbps                                                      |
 |                 Max. Tx Power | 20dBm                                                        |
-|                      Protocol | 802.11 b/g/n                                                 |
+|                      Protocol | IEEE 802.11b/g/n                                             |
 | External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
 |                Webcam Support | MJPEG, YUV (not support from firmware v2.27)                 |
 |                  DIY Features | UART, 3.3V & 5V power port                                   |

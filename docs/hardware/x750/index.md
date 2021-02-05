@@ -12,7 +12,7 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 |        3G/4G Mini PCIe Module | Support CAT4/CAT6 Mini PCIe                                  |
 |               4G LTE Antennas | 2 x detachable external antennas                             |
 |                Wi-Fi Antennas | 2dBi 5G & 2.4G internal antennas                             |
-|                      Protocol | 802.11 b/g/n/ac                                              |
+|                      Protocol | IEEE 802.11a/b/g/n/ac                                        |
 |                   Wi-Fi Speed | 2.4GHz(300Mbps), 5GHz(433Mbps)                               |
 |                      TX power | 2.4GHz: 20dBm (11b) Max, 5GHz: 20dBm (11a) Max               |
 |                RX Sensitivity | -94dBm Max                                                   |
