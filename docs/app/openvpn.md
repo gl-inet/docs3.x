@@ -115,12 +115,12 @@ Recommended:
 <p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
 <ol type="1">
 <li>
-    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and generate the ovpn file from the "Tools" menu. Please select "All", using udp or tcp and select Cipher. Then press <code>Generate Config</code> and the zip file will be downloaded automatically.<img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_generate_ovpn.jpg"/></p>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find <b>Config Generator</b> from the <b>Tools</b> menu. Choose the <b>VPN Server</b> and some other options. Then click <b>Generate Config</b> a config file will be downloaded automatically.</p>
+    <p><img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/3/app/openvpn/torguard/torguard_menu.jpg"/></p>
 </li>
 <li>
-    <p>The username and password for openvpn connection is different from your control panel login. You can change the service username and password in my service credentials. </p>
-    <p><img alt="torguard my service credentials" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_my_service_credentials.jpg"/></p>
-    <p>You can generate a random login username and password.<img alt="Set password" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_set_password.jpg"/></p>
+    <p>The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password below. </p>
+    <p><img alt="torguard vpn username vpn password" src="https://static.gl-inet.com/docs/en/3/app/openvpn/torguard/torguard_vpnusername_vpnpassword.png" /></p>
 </li>
 </ol>
 </details>

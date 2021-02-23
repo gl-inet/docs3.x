@@ -149,7 +149,7 @@ Other recommended WireGuard provider:
 <p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
 <ol type="1">
 <li>
-    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find Config Generator from the "Tools" menu. </p>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find <b>Config Generator</b> from the <b>Tools</b> menu. </p>
     <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard/torguard_menu.jpg" /></p>
 </li>
 <li>
