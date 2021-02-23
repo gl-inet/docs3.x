@@ -149,15 +149,17 @@ Other recommended WireGuard provider:
 <p><a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a></p>
 <ol type="1">
 <li>
-    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find Enable WireGuard Access from the "Tools" menu. </p>
-    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_enable_wireguard_access.png" /></p>
+    <p>If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find Config Generator from the "Tools" menu. </p>
+    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard/torguard_menu.jpg" /></p>
 </li>
 <li>
-    <p>Downlod the config.</p>
-    <p><img alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard_download_wireguard_config.jpg" /></p>
+    <p>On the Config Generator page, choose <b>VPN Tunnel type</b> to WireGuard, select <b>VPN Server</b>, input <b>VPN Username</b> and <b>VPN Password</b>, click <b>Generate Config</b> button, wait a second, you will find the config on <b>Config Output</b> section.</p>
+    <p><img alt="torguard generate wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard/torguard_generate_wireguard_config.png" /></p>
+    <p>You can find the <b>VPN Username</b> and <b>VPN Password</b> below</p>
+    <p><img alt="torguard vpn username vpn password" src="https://static.gl-inet.com/docs/en/3/app/wireguard/torguard/torguard_vpnusername_vpnpassword.png" /></p>
 </li>
 <li>
-    <p>Open the config by text edit software, copy the content.</p>
+    <p>Copy the config content. Please note that the first line is <b># TorGuard WireGuard Config</b>, delete the first line before copy it.</p>
 </li>
 <li>
     <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
