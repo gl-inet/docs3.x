@@ -293,6 +293,7 @@ pages:
     - GL-AR750S-Ext: 'release_notes/GL-AR750S-Ext.md'
     - GL-MiFi: 'release_notes/GL-MiFi.md'
     - GL-XE300: 'release_notes/GL-XE300.md'
+    - GL-X300B: 'release_notes/GL-X300B.md'
     - GL-X750: 'release_notes/GL-X750.md'
     - GL-E750: 'release_notes/GL-E750.md'
     - GL-USB150: 'release_notes/GL-USB150.md'
