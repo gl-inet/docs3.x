@@ -6,7 +6,7 @@ You can connect to EAP (Extensible Authentication Protocol) Wi-Fi network which 
 
 This guide is how to connect an EAP Wi-Fi network via Admin Panel. 
 
-* All models are supported EAP **EXCEPT** GL-MT300N-V2, microuter-N300
+* All models are supported EAP **EXCEPT** GL-MT300N-V2, microuter-N300, GL-MT1300
 
 ---
 ## Connect via Admin Panel
