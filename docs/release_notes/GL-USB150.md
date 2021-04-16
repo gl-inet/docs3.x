@@ -4,50 +4,59 @@
 
 Firmware file: [openwrt-usb150-3.201.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.201-0402.bin)
 
-System：
-Based on openwrt 19.07.7
+**System：**
 
-Security:
-1. Fixed wolfSSL heap buffer overflow in RsaPad_PSS (CVE-2020-36177)
-2. Fixed netifd and odhcp6c routing loop on IPv6 point to point links (CVE-2021-22161)
-3. Fixed dnsmasq multiple vulnerabilities (CVE-2020-25681, CVE-2020-25682, CVE-2020-25683, CVE-2020-25684, CVE-2020-25685, CVE-2020-25686, CVE-2020-25687)
-4. Added times limit to password authentication
+- Based on openwrt 19.07.7
 
-New features:
-1. Supported IPv6 ( Internet, OpenVPN, WireGuard )
-2. Supported WPA3 (AR150,MIFI,AR300M,USB150,AR750,AR750S,X750,E750,X1200,XE300)
-3. Supported deleting offline clients
-4. Added warnings when uploading old version or three-party firmwares
-5. Added 2.4G WIFI and LTE working channel interference automatic avoidance(MIFI,X750,E750,X1200,XE300)
-6. Supported IGMP 
-7. Supported DLNA
+**Security:**
 
-Hardware support:
-1. Supported SPI nand GD5F1GQ5UEYIG
+- Fixed wolfSSL heap buffer overflow in RsaPad_PSS (CVE-2020-36177)
+- Fixed netifd and odhcp6c routing loop on IPv6 point to point links (CVE-2021-22161)
+- Fixed dnsmasq multiple vulnerabilities (CVE-2020-25681, CVE-2020-25682, CVE-2020-25683, CVE-2020-25684, CVE-2020-25685, CVE-2020-25686, CVE-2020-25687)
+- Added times limit to password authentication
 
-Optimization:
-1. Optimized client statistics function
+**New features:**
 
-APP support:
-1. Supported V1.0.5
+- Supported IPv6 ( Internet, OpenVPN, WireGuard )
+- Supported WPA3 (AR150,MIFI,AR300M,USB150,AR750,AR750S,X750,E750,X1200,XE300)
+- Supported deleting offline clients
+- Added warnings when uploading old version or three-party firmwares
+- Added 2.4G WIFI and LTE working channel interference automatic avoidance(MIFI,X750,E750,X1200,XE300)
+- Supported IGMP 
+- Supported DLNA
 
-Cloud support:
-1. Supported Rtty SSH Access
-2. Supported Rtty HTTP Access
-3. Supported Ping tool
-4. Supported Traceroute tool
-5. Supported RS485 tool（X300B)
+**Hardware support:**
 
-Language:
-1. Supported Russian
+- Supported SPI nand GD5F1GQ5UEYIG
 
-Important bugfix:
-1. Fixed speed limit function failure in some models
-2. Fixed tor initialization failure in some models
-3. Fixed the problem that when turn off the AP in MT300N-V2, the repeater won't auto-reconnect.
-4. Fixed the problem that when WireGuard's Allowed IPs are not set with global proxy address, router will be unable to access the internet. 
-5. Fixed the problem that MT1300 can't access internet when using StrongVPN.
-6. Fixed other known issues.
+**Optimization:**
+
+- Optimized client statistics function
+
+**APP support:**
+
+- Supported V1.0.5
+
+**Cloud support:**
+
+- Supported Rtty SSH Access
+- Supported Rtty HTTP Access
+- Supported Ping tool
+- Supported Traceroute tool
+- Supported RS485 tool（X300B)
+
+**Language:**
+
+- Supported Russian
+
+**Important bugfix:**
+
+- Fixed speed limit function failure in some models
+- Fixed tor initialization failure in some models
+- Fixed the problem that when turn off the AP in MT300N-V2, the repeater won't auto-reconnect.
+- Fixed the problem that when WireGuard's Allowed IPs are not set with global proxy address, router will be unable to access the internet. 
+- Fixed the problem that MT1300 can't access internet when using StrongVPN.
+- Fixed other known issues.
 
 ---
 
