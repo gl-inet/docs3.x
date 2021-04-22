@@ -31,7 +31,7 @@ Please follow the procedures below to access the Uboot Web UI and re-install the
         </p>
         <ul>
         	<li><b>6 times</b> for GL-MiFi, and then the LTE light will faintly flash twice.</li>
-            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2, GL-E750 (Mudi).
+            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2, GL-E750 (Mudi), microuter-N300.
             </li>
             <li><b>4 times</b> for GL-S1300, GL-B1300. 
                 <div>The leftmost LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on. </div>
