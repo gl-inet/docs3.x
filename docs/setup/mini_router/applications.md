@@ -39,7 +39,7 @@ For guidance on how to access the contents of the external storage device from y
 
 You can remotely access your router with a url though this function. Example: myRouterDeviceID.glddns.com
 
-In version 3.021 or above it is a default function, is other 3.0 versions you need to install packages using Plug-ins.
+This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
 
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
@@ -55,7 +55,7 @@ For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.
 
 In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
 
-In version 3.021 or above it is a default function, in other 3.0 versions you need to install packages using Plug-ins.
+This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
 

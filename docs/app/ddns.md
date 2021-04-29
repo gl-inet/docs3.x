@@ -1,6 +1,6 @@
 # DDNS
 
-Dynamic Domain Name Service(DDNS) is a service used to map a domain name to the dynamic IP address of a network device.
+Dynamic Domain Name Service (DDNS) is a service used to map a domain name to the dynamic IP address of a network device.
 
 ## Setup
 

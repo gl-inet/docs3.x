@@ -182,7 +182,7 @@ Firmware file:
 - Added IP Address Range in LAN IP page
 - Added connecting hidden SSIDs function
 - Added firmware compile time in upgrade page
-- Added Captival Portal
+- Added Captive Portal
 - Added VPN Policies
 - Added new support modem MC7430
 - Supported batch setup on cloud
