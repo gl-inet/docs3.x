@@ -37,7 +37,7 @@ For guidance on how to access the contents of the external storage device from y
 
 **Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
 
-You can remotely access your router with a url though this function. Example: myrouter.mydomain.net
+You can remotely access your router with a url though this function. Example: myRouterDeviceID.glddns.com
 
 In version 3.021 or above it is a default function, is other 3.0 versions you need to install packages using Plug-ins.
 
