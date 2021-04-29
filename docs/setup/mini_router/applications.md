@@ -28,24 +28,24 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 
 
-For the guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](https://docs.gl-inet.com/en/3/app/file_sharing/).
+For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](https://docs.gl-inet.com/en/3/app/file_sharing/).
 
 
 ---
 
 ## DDNS
 
-**Dynamic Domain Name Service(DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
+**Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
 
-You can remotely access your router by url though this function.
+You can remotely access your router with a url though this function. Example: myrouter.mydomain.net
 
-In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
+In version 3.021 or above it is a default function, is other 3.0 versions you need to install packages using Plug-ins.
 
 
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
 
 
-For the guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
 
 ---
 
@@ -55,7 +55,7 @@ For the guidance on how to set DDNS and access, please refer to [DDNS](https://d
 
 In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
 
-In 3.021 version or above it is a default function, other 3.0 version need to install packages in Plug-ins.
+In version 3.021 or above it is a default function, in other 3.0 versions you need to install packages using Plug-ins.
 
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
 
@@ -66,11 +66,11 @@ For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud
 
 ## Portal
 
-You can set a **captival portal** in our routers, when newly users connect to wifi, they need to access a web page before access the internet.
+You can set a **captive portal** on your router's wifi network, so that when new users connect to wifi, they need to access a web page before they can access the Internet.
 
-Only support 3.022 version or above.
+Only supported in version 3.022 or above.
 
 ![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png)
 
 
-For the setup guidance, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).
+For guidance on how to set this up, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).
