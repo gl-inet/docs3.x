@@ -1,6 +1,9 @@
 #Product Intro
 This page is listing the videos related to product introduction. We have an official [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel.
 
+## Meet Puli (GL-XE300) 4G LTE Portable Wireless IoT Gateway
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4falAJFN9ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Beryl (GL-MT1300) Pocket-Sized Travel Router With Top-Notch Security Features
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q8eCI6h_970" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

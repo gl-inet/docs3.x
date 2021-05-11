@@ -269,6 +269,7 @@ pages:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
     - Customer Review: 'video/review.md'
+    - Unboxing: 'video/unboxing.md'
 - Troubleshooting:
     - LED Indicators: 'troubleshooting/led.md'
     - Repair or Reset: 'troubleshooting/reset.md'
