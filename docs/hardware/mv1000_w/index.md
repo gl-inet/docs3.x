@@ -18,3 +18,6 @@ Brume_W is a router with strong performance and stable operation, designed for h
 |           Working Temperature | 0~40°C (32~104°F)                                            |
 |             Dimension, Weight | 88 * 68 * 24mm, 115g                                         |
 
+## PCB Pinout
+
+![gl-mv1000 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/mv1000/mv1000.png) 

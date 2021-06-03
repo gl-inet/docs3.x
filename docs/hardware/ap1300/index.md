@@ -33,15 +33,9 @@ You can enable a remote and secure access wherever you are and whenever you want
 |             Power Consumption | <10W                                                  |
 |             Dimension, Weight | 200 x 200 x 40mm, 692g                                |
 
+## PCB Pinout
 
+![gl-ap1300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-1.jpg) 
 
-
-
-   
-
-
-
-
-
-
+![gl-ap1300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-2.jpg) 
 

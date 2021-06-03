@@ -21,4 +21,4 @@ Brume is a router with strong performance and stable operation, designed for hig
 
 ## PCB Pinout
 
-![gl-ar750 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/mv1000/mv1000.png) 
+![gl-mv1000 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/mv1000/mv1000.png) 

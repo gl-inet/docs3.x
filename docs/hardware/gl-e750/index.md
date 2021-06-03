@@ -20,3 +20,9 @@
 |         Operating Temperature | 0~35°C (32~95°F)                                             |
 |           Storage Temperature | -20~45°C (-4~113°F)                                          |
 |            Dimension / Weight | 145 x 77.5 x 23.5mm / 285g                                   |
+
+## PCB Pinout
+
+![gl-e750 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-05.jpg)
+
+![gl-e750 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-06.jpg)

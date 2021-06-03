@@ -27,6 +27,9 @@ XE300 also supports OpenVPN, WireGuard and customized DNS server in order to lev
 |           Storage Temperature | -20 ~ 45°C (-4 ~ 113°F)                                    |
 |            Dimension / Weight | 120 x 74 x 28mm / 224g (with battery)                      |
 
+## PCB Pinout
 
+![gl-xe300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-xe300/GL-XE300-PINOUT-0308-1.jpg)
 
+![gl-xe300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-xe300/GL-XE300-PINOUT-0308-2.jpg)
 
