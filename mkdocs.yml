@@ -105,7 +105,6 @@ pages:
     - ルーターにSSH: 'app/ssh.md'
     - OpenVPN: 'app/openvpn.md'
     - WireGuard: 'app/wireguard.md'
-    - Shadowsocks: 'app/ss.md'
     - ファイル共有: 'app/file_sharing.md'
     - DLNAサーバー: 'app/dlna.md'
     - DDNS: 'app/ddns.md'
