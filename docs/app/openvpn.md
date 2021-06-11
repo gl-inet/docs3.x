@@ -295,7 +295,19 @@ Others:
 </ol>
 </details>
 
-
+<details>
+<summary>HideIPVPN</summary>
+<p><a href="https://www.hideipvpn.com/" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>Login your HideIPVPN account.</li>
+<li>Go to Package on the left side, click the your package, make sure it is active.</li>
+<p><img alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/app/openvpn/hideipvpn/package.jpg" /></p>
+<li>On the VPN tab, there is VPN Login Details of username and password, this is for login when OpenVPN connection</li>
+<p><img alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/app/openvpn/hideipvpn/vpn_username_password.jpg" /></p>
+<li>Scroll down to download OpenVPN config files.</li>
+<p><img alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/app/openvpn/hideipvpn/openvpn_config_files.jpg" /></p>
+</ol>
+</details>
 
 <details>
 <summary>HideMyAss</summary>
