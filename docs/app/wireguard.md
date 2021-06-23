@@ -463,6 +463,42 @@ Other recommended WireGuard provider:
 <p><a href="https://www.ivpn.net/setup/gnu-linux-wireguard.html" target="_blank">Refer link</a></p>
 </details>
 
+<details>
+<summary>TRUST.ZONE</summary>
+<p><a href="https://trust.zone/" target="_blank">Official Website</a></p>
+<ol type="1">
+    <li>
+        <p>Access <a href="https://trust.zone/setup">https://trust.zone/setup</a> and login</p>
+    </li>
+    <li>
+        <p>Scroll down to the WireGuard section, choose the port you want, then download a config of specific server or a zip file of all configs</p>
+    </li>
+    <li>
+        <p>Extract and open it by a text editor, copy the content.</p>
+    </li>
+    <li>
+        <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+    <p><img alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/app/wireguard/setup_wireguard_manually.png" /></p>
+    </li>
+    <li>
+        <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+        <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+    </li>
+    <li>
+        <p>Specify the name of your server and click <b>Add</b></p>
+        <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+    </li>
+    <li>
+        <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+        <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+    </li>
+    <li>
+        <p>You will see the upload and download traffic when it is connected successfully.</p>
+        <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+    </li>
+</ol>
+</details>
+
 <details id="nvpn">
 <summary>ANONINE</summary>
 <p><a href="https://anonine.com/" target="_blank">Official Website</a></p>
