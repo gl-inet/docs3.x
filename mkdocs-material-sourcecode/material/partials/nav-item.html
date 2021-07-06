@@ -34,6 +34,8 @@
       <label id="gl-mt1300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-xe300_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
       <label id="gl-b2200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+      <label id="gl-sf1200_label" class="md-nav__title" for="{{ path }}" style="display:none;"></label>
+
       <script>
           if (window.location.href.indexOf("mini_router") != -1) {
             document.getElementById("mini_router_label").innerHTML = ("Mini Router");
@@ -114,6 +116,10 @@
           if (window.location.href.indexOf("gl-b2200") != -1) {
             document.getElementById("gl-b2200_label").innerHTML = ("GL-B2200");
             document.getElementById("gl-b2200_label").style.display = "block";
+          }
+          if (window.location.href.indexOf("gl-sf1200") != -1) {
+            document.getElementById("gl-sf1200_label").innerHTML = ("GL-SF1200");
+            document.getElementById("gl-sf1200_label").style.display = "block";
           }
       </script>
 
@@ -292,6 +298,16 @@
         <a id="gl-b2200_vpn" href="../../gl-b2200/vpn/" style="display: none;" class="md-nav__link"></a>
         <a id="gl-b2200_applications" href="../../gl-b2200/applications/"style="display: none;"  class="md-nav__link"></a>
         <a id="gl-b2200_more_settings" href="../../gl-b2200/more_settings/" style="display: none;" class="md-nav__link"></a>
+
+        <a id="gl-sf1200_first-time_setup" href="../../gl-sf1200/first-time_setup/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-sf1200_internet" href="../../gl-sf1200/internet/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-sf1200_wireless" href="../../gl-sf1200/wireless/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-sf1200_clients" href="../../gl-sf1200/clients/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-sf1200_upgrade" href="../../gl-sf1200/upgrade/" style="display: none;" class="md-nav__link"></a>
+		    <a id="gl-sf1200_firewall" href="../../gl-sf1200/firewall/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-sf1200_vpn" href="../../gl-sf1200/vpn/" style="display: none;" class="md-nav__link"></a>
+        <a id="gl-sf1200_applications" href="../../gl-sf1200/applications/"style="display: none;"  class="md-nav__link"></a>
+        <a id="gl-sf1200_more_settings" href="../../gl-sf1200/more_settings/" style="display: none;" class="md-nav__link"></a>
         <script>
 
           if (window.location.href.indexOf("mini_router") != -1) {
@@ -662,6 +678,27 @@
             document.getElementById("gl-b2200_applications").style.display = "block";
             document.getElementById("gl-b2200_more_settings").innerHTML = ("More Settings");
             document.getElementById("gl-b2200_more_settings").style.display = "block";  
+          }
+
+          if (window.location.href.indexOf("gl-sf1200") != -1) {
+            document.getElementById("gl-sf1200_first-time_setup").innerHTML = ("First-time Setup");
+            document.getElementById("gl-sf1200_first-time_setup").style.display = "block";
+            document.getElementById("gl-sf1200_internet").innerHTML = ("Internet");
+            document.getElementById("gl-sf1200_internet").style.display = "block";
+            document.getElementById("gl-sf1200_wireless").innerHTML = ("Wireless");
+            document.getElementById("gl-sf1200_wireless").style.display = "block";
+            document.getElementById("gl-sf1200_clients").innerHTML = ("Clients");
+            document.getElementById("gl-sf1200_clients").style.display = "block";
+            document.getElementById("gl-sf1200_upgrade").innerHTML = ("Upgrade");
+            document.getElementById("gl-sf1200_upgrade").style.display = "block";
+            document.getElementById("gl-sf1200_firewall").innerHTML = ("Firewall");
+            document.getElementById("gl-sf1200_firewall").style.display = "block";
+            document.getElementById("gl-sf1200_vpn").innerHTML = ("VPN");
+            document.getElementById("gl-sf1200_vpn").style.display = "block";
+            document.getElementById("gl-sf1200_applications").innerHTML = ("Applications");
+            document.getElementById("gl-sf1200_applications").style.display = "block";
+            document.getElementById("gl-sf1200_more_settings").innerHTML = ("More Settings");
+            document.getElementById("gl-sf1200_more_settings").style.display = "block";  
           }
         </script> 
       </ul>

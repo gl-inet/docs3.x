@@ -61,6 +61,7 @@ pages:
     - GL-X300B: 'hardware/gl-x300b/index.md'
     - GL-AP1300: 'hardware/ap1300/index.md'
     - GL-B2200: 'hardware/gl-b2200/index.md'
+    - GL-SF1200: 'hardware/gl-sf1200/index.md'
     - microuter-N300: 'hardware/microuter-n300/index.md'
     - Domino Core: 'hardware/domino-core/index.md'
     - GL-MT300A: 'hardware/mt300a/index.md'
@@ -206,6 +207,16 @@ pages:
         - VPN: 'setup/brume_w/vpn.md'
         - Applications: 'setup/brume_w/applications.md'
         - More Settings: 'setup/brume_w/more_settings.md'
+    - GL-SF1200:
+        - First-time Setup: 'setup/gl-sf1200/first-time_setup.md'
+        - Internet: 'setup/gl-sf1200/internet.md'
+        - Wireless: 'setup/gl-sf1200/wireless.md'
+        - Clients: 'setup/gl-sf1200/clients.md'
+        - Upgrade: 'setup/gl-sf1200/upgrade.md'
+        - Firewall: 'setup/gl-sf1200/firewall.md'
+        - VPN: 'setup/gl-sf1200/vpn.md'
+        - Applications: 'setup/gl-sf1200/applications.md'
+        - More Settings: 'setup/gl-sf1200/more_settings.md'
     - Amarok (GL-X1200):
         - First-time Setup: 'setup/gl-x1200/first-time_setup.md'
     - Collie (GL-X300B):

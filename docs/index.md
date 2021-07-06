@@ -17,7 +17,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 	grid-template-columns: 33% 33% 33%;
 	grid-template-rows: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13, .box-14, .box-15 , .box-16, .box-17, .box-18 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13, .box-14, .box-15 , .box-16, .box-17, .box-18, .box-19 {
     float: left;
     width: 95%;
     margin-right: 2%;
@@ -135,6 +135,11 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 		<div class="box-18">
         	<a href="https://docs.gl-inet.com/en/3/setup/gl-b2200/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
+			</a>
+		</div>
+		<div class="box-19">
+        	<a href="https://docs.gl-inet.com/en/3/setup/gl-sf1200/first-time_setup/">
+				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
 			</a>
 		</div>
 	</div>
