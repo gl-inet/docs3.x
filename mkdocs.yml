@@ -311,6 +311,7 @@ pages:
     - GL-B2200: 'release_notes/GL-B2200.md'
     - GL-B1300: 'release_notes/GL-B1300.md'
     - GL-S1300: 'release_notes/GL-S1300.md'
+    - GL-SF1200: 'release_notes/GL-SF1200.md'
     - GL-MV1000: 'release_notes/GL-MV1000.md'
     - GL-X1200: 'release_notes/GL-X1200.md'
     - GL-AP1300: 'release_notes/GL-AP1300.md'
