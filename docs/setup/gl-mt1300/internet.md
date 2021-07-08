@@ -128,7 +128,7 @@ Here is a list of supported modems that we had tested before.
 | TP-Link MA260                          | 3G    | Yes    | GL.iNet         |           |
 | ZTE M823                               | 4G    | Yes    | Arnas Risqianto |           |
 | ZTE MF190                              | 3G    | Yes    | Arnas Risqianto |           |
-| Huawei E3372                           | 4G    | Yes    | anonymous       |           |
+| Huawei E3372                           | 4G    | Yes    | anonymous       | Host-less |
 | Pantech UML290VW (Verizon)             | 4G    | Yes    | GL.iNet/steven  | QMI       |
 | Pantech UML295 (Verizon)               | 4G    | Yes    | GL.iNet/steven  | Host-less |
 | Novatel USB551L (Verizon)              | 4G    | Yes    | GL.iNet/steven  | QMI       |
