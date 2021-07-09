@@ -310,6 +310,16 @@ Others:
 </details>
 
 <details>
+<summary>Hide.me VPN</summary>
+<p><a href="https://hide.me/?friend=glinet" target="_blank">Official Website</a></p>
+<ol type="1">
+<li>Login your Hide.me account, find the Server Locations on the left side.</li>
+<li>Download the OpenVPN Configuration for Windows.</li>
+<p><img alt="hide.me vpn dashboard" src="https://static.gl-inet.com/docs/en/3/app/openvpn/hideme/hideme_dashboard.jpg" /></p>
+</ol>
+</details>
+
+<details>
 <summary>HideMyAss</summary>
 <p><a href="https://click.hmavpn.com/aff_c?offer_id=1&aff_id=861" target="_blank">Official Website</a></p>
 <a href="https://vpn.hidemyass.com/vpn-config/vpn-configs.zip" target="_blank">Download</a> directly.
