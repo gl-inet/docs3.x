@@ -7,7 +7,7 @@ site_name: GL.iNet Docs
 site_description: Documentation for GL.iNet Productions
 site_author: Shan
 site_url: https://docs.gl-inet.com/en/3/
-google_analytics: ['UA-108265653-1', 'glinet.com']
+google_analytics: ['278896126', 'docs.glinet.com']
 site_dir: '/home/ubuntu/docs-build/en/3/'
 
 # Copyright
