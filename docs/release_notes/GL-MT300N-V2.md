@@ -2,7 +2,9 @@
 
 ## V3.201 - Apr 12, 2021
 
-**Firmware file:** [openwrt-mt300n-v2-3.201.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.201-0402.bin)
+- Firmware file: [openwrt-mt300n-v2-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.201-0402.bin)
+
+    SHA256: 9d09794f994dc4a5b3a511a20d9ff1626f8aae57e6692e5fde243cb2ba15ed5f
 
 **System：**
 
@@ -62,9 +64,9 @@
 
 ## V3.105 - Dec 8, 2020
 
-Firmware file:
+- Firmware file: [openwrt-mt300n-v2-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.105.bin)
 
-**Firmware file:** [openwrt-mt300n-v2-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.105.bin)
+    MD5: 5e87a67985b6f2eaae1995665c1bcf78
 
 **New features:**
 
@@ -117,7 +119,9 @@ Important bug fix:
 
 ## V3.102 - Apr 15, 2020
 
-**Firmware file:** [openwrt-mt300n-v2-3.102.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.102.bin)
+- Firmware file: [openwrt-mt300n-v2-3.102.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.102.bin)
+
+    MD5: 9fdd5882f4215b2344c04d8117222934
 
 **New Features:**
 
@@ -153,7 +157,9 @@ Important bug fix:
 
 ## V3.025 - Aug 13, 2019
 
-Firmware file: [openwrt-mt300n-v2-3.025.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.025.bin)
+- Firmware file: [openwrt-mt300n-v2-3.025.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.025.bin)
+
+    MD5: 036227926450cc58c8d6c4257487db51
 
 **New Feature**:
 
@@ -173,7 +179,9 @@ Firmware file: [openwrt-mt300n-v2-3.025.bin](https://s3.us-east-2.amazonaws.com/
 
 ## V3.012 - Jan 21, 2019
 
-Firmware file: [openwrt-mt300n-v2-3.012.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.012.bin)
+- Firmware file: [openwrt-mt300n-v2-3.012.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.012.bin)
+
+    MD5: f16ef226c5037dd35239d0b4284d78c1
 
 **New Feature:**
 

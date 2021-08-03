@@ -2,7 +2,10 @@
 
 ## V3.201 - Apr 12, 2021
 
-Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/n300/release/openwrt-n300-3.201-0402.bin" target="_blank">openwrt-n300-3.201.bin</a>
+- Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/n300/release/openwrt-n300-3.201-0402.bin" target="_blank">openwrt-n300-3.201-0402.bin</a>
+
+    SHA256: 5d95320f7be5224afc97cab91259e38f951ec987238f347a1fe82bb6e03ff967
+    MD5: 77774dbd0c17864ab4a381574b7f171a
 
 **System：**
 
@@ -62,7 +65,9 @@ Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/
 
 ## V3.102 - May 7, 2020
 
-Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/n300/release/openwrt-n300-3.102.bin" target="_blank">openwrt-n300-3.102.bin</a>
+- Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/n300/release/openwrt-n300-3.102.bin" target="_blank">openwrt-n300-3.102.bin</a>
+
+    MD5: dd3fecf7ef8a341e63267507d3c70f32
 
 **New Features:**
 
@@ -100,4 +105,6 @@ Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/
 
 ## V3.025 - Aug 2, 2019
 
-Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/n300/release/openwrt-n300-3.025.bin" target="_blank">openwrt-n300-3.025.bin</a>
+- Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/n300/release/openwrt-n300-3.025.bin" target="_blank">openwrt-n300-3.025.bin</a>
+
+    MD5: 39aab9331c6930c9d2224da398cd87ad

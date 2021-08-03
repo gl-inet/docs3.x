@@ -2,7 +2,10 @@
 
 ## V3.201 - Apr 12, 2021
 
-Firmware file: [openwrt-ar750-3.201.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.201-0402.bin)
+- Firmware file: [openwrt-ar750-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.201-0402.bin)
+
+    SHA256: 6fbf3dbdc999060f0a78761dea6b863b5dc9d27e553d22d9a96646c27ac429f3
+    MD5: 67eb93d380c4800f95fa8464b464d5a1
 
 **System：**
 
@@ -62,7 +65,9 @@ Firmware file: [openwrt-ar750-3.201.bin](https://s3.us-east-2.amazonaws.com/down
 
 ## V3.105 - Dec 8, 2020
 
-Firmware file: [openwrt-ar750-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.105.bin)
+- Firmware file: [openwrt-ar750-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.105.bin)
+
+    MD5: 214da2c1ddeb6369371b208bacf55d5f
 
 **New features:**
 
@@ -115,7 +120,9 @@ Important bug fix:
 
 ## V3.027 - Oct 16, 2019
 
-Firmware file: [openwrt-ar750-3.027.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.027.bin)
+- Firmware file: [openwrt-ar750-3.027.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.027.bin)
+
+    MD5: 5585bdce4535714dc55b3d6bae3eb058
 
 **New Features:**
 
@@ -139,7 +146,9 @@ Firmware file: [openwrt-ar750-3.027.bin](https://s3.us-east-2.amazonaws.com/down
 
 ## V3.010 - Dec 26, 2018
 
-Firmware file: [gl-ar750-3.010.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.010.bin)
+- Firmware file: [gl-ar750-3.010.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.010.bin)
+
+    MD5: 852a34f053999c961815bf43c3e4a84e
 
 **New Features:**
 

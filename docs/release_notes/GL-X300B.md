@@ -4,6 +4,8 @@
 
 - Firmware file: [openwrt-x300b-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.201-0402.bin)
 
+    SHA256: 0c4335585eeb7838ffed63cb52cbdcad9764ed19ec956eb1997d4405001f2d7f
+
 **System：**
 
 - Based on openwrt 19.07.7
@@ -64,6 +66,6 @@
 
 **This is the first release firmware for GL-300B:**
 
-Firmware file:
+- Firmware file: [openwrt-x300b-3.104.bin](https://dl.gl-inet.com/firmware/x300b/releases/openwrt-x300b-3.104.bin)
 
-- [openwrt-x300b-3.104.bin](https://dl.gl-inet.com/firmware/x300b/releases/openwrt-x300b-3.104.bin)
+    SHA256: d3b5f8e88d808245305b266c4a6ae4c52d08015880a7c424f422b662dcbf7bec

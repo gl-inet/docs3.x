@@ -2,7 +2,9 @@
 
 ## V3.201 - Apr 12, 2021
 
-Firmware file: [openwrt-ar150-3.201.bin](http://download.gl-inet.com.s3.amazonaws.com/firmware/ar150/v1/openwrt-ar150-3.201-0402.bin)
+- Firmware file: [openwrt-ar150-3.201-0402.bin](http://download.gl-inet.com.s3.amazonaws.com/firmware/ar150/v1/openwrt-ar150-3.201-0402.bin)
+
+    SHA256: 6bc52b47f27cc63df699bfc9af7d614723f74c86c7fd5d4865273177034f2dac
 
 **System：**
 
@@ -62,7 +64,9 @@ Firmware file: [openwrt-ar150-3.201.bin](http://download.gl-inet.com.s3.amazonaw
 
 ## V3.105 - Dec 8, 2020
 
-Firmware file: [openwrt-ar150-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.105.bin)
+- Firmware file: [openwrt-ar150-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.105.bin)
+
+    MD5: 6d27346202bfecd698afad3b864d697d
 
 **New features:**
 
@@ -115,7 +119,9 @@ Important bug fix:
 
 ## V3.017 - Mar 11, 2019
 
-Firmware file: [openwrt-ar150-3.017.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.017.bin)
+- Firmware file: [openwrt-ar150-3.017.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar150/v1/openwrt-ar150-3.017.bin)
+
+    MD5: 9df671f917e99e3c9d586e0657df0ab2
 
 **New Features:**
 

@@ -2,7 +2,10 @@
 
 ## V3.201 - Apr 12, 2021
 
-Firmware file: [openwrt-usb150-3.201.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.201-0402.bin)
+- Firmware file: [openwrt-usb150-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.201-0402.bin)
+
+    SHA256: eeaca14d4cdd12097ff85ecc495a934e50fc59d470e7ac9ea7c4be2eed7a308c
+    MD5: deaa6872a241a39b6ce434eca306e146
 
 **System：**
 
@@ -62,9 +65,9 @@ Firmware file: [openwrt-usb150-3.201.bin](https://s3.us-east-2.amazonaws.com/dow
 
 ## V3.105 - Dec 8, 2020
 
-Firmware file:
+- Firmware file: [openwrt-usb150-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.105.bin)
 
-Firmware file: [openwrt-usb150-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.105.bin)
+    MD5: 94101b2a540fafd2d7ba3c9bf6789071
 
 **New features:**
 
@@ -119,7 +122,9 @@ Important bug fix:
 
 <mark>Note: This version cannot use Online Upgrade(automatically upgrade) due to tech issue, </mark> please follow <a href="https://docs.gl-inet.com/en/3/setup/microuter/upgrade/#upload-firmware" target="_blank">the instruction of Local Upgrade</a> manually.
 
-Here is  the local upgrade firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.027.bin" target="_blank">openwrt-usb150-3.027.bin</a>.
+- Here is the local upgrade firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.027.bin" target="_blank">openwrt-usb150-3.027.bin</a>.
+
+    MD5: 29d555fa881b8481ae3eb013ca4baa72
 
 **New Features:**
 
@@ -151,7 +156,9 @@ Here is  the local upgrade firmware file: <a href="https://s3.us-east-2.amazonaw
 
 ## v3.001 - SEP 12, 2018
 
-Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.001.bin" target="_blank">openwrt-usb150-3.001.bin</a>
+- Firmware file: <a href="https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.001.bin" target="_blank">openwrt-usb150-3.001.bin</a>
+
+    MD5: 9158c3787b3582534a019f0525e78ca6
 
 **New Features:**
 
