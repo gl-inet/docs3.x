@@ -6,19 +6,19 @@ Firmware:
 
 **For GL-AR300M, GL-AR300M-Ext**:
 
-- Upgrade through web Admin Panel [openwrt-ar300m-ubi-3.201-0402.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.201-0402.tar)
+- Upgrade through web Admin Panel [openwrt-ar300m-ubi-3.201-0402.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.201-0402.tar)
 
     SHA256: 50cda44a860e0541d221ea88ca82f8f8f0c4864885c788034f19950e988161c5
     MD5: 08e759d56ae1d59a40c990ca66b6bee6
 
-- Upgrade through Uboot [openwrt-ar300m-ubi-3.201-0402.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.201-0402.img)
+- Upgrade through Uboot [openwrt-ar300m-ubi-3.201-0402.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.201-0402.img)
 
     SHA256: 7dff070c2725485231d352b492d99ef37bad1f274c92a32ce27ab417bdffb755
     MD5: 84a2eeb7f86f478d2ea2e540b77d1f3e
 
 **For GL-AR300M16, GL-AR300M16-Ext**:
 
-- Firmware file: [openwrt-ar300m16-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.201-0402.bin)
+- Firmware file: [openwrt-ar300m16-3.201-0402.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.201-0402.bin)
 
     SHA256: 75812594f0577a4f59c8624f123153b9306718de9503917226493addc31c0bd8
     MD5: f5bef4116131db1285109c09225b72cc
@@ -85,17 +85,17 @@ Firmware file:
 
 **For GL-AR300M, GL-AR300M-Ext**:
 
-- Upgrade through web Admin Panel [openwrt-ar300m-ubi-3.105.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.105.tar)
+- Upgrade through web Admin Panel [openwrt-ar300m-ubi-3.105.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.105.tar)
 
     MD5: bb8a19ada429cb0e2a70ccafe0944b2c
 
-- Upgrade through Uboot [openwrt-ar300m-ubi-3.105.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.105.img)
+- Upgrade through Uboot [openwrt-ar300m-ubi-3.105.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.105.img)
 
     MD5: a39f48bcd3b928e3ca5323004eaec262
 
 **For GL-AR300M16, GL-AR300M16-Ext**:
 
-- [openwrt-ar300m16-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.105.bin)
+- [openwrt-ar300m16-3.105.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.105.bin)
 
     MD5: 614a4f9dfe5b9baa10ece35d07e5eac0
 
@@ -152,17 +152,17 @@ Important bug fix:
 
 **For GL-AR300M, GL-AR300M-Ext**:
 
-- Upgrade through web Admin Panel [gl-ar300m-nand-3.104.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.104.tar)
+- Upgrade through web Admin Panel [gl-ar300m-nand-3.104.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.104.tar)
 
     MD5: 8cecf52de9765396b3ef71a84f504a06
 
-- Upgrade through Uboot [openwrt-ar300m-ubi-3.104.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.104.img)
+- Upgrade through Uboot [openwrt-ar300m-ubi-3.104.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.104.img)
 
     MD5: 4bcd39a69150b1d8624876a91b032650
 
 **For GL-AR300M16, GL-AR300M16-Ext**:
 
-- [openwrt-ar300m16-3.104.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.104.bin)
+- [openwrt-ar300m16-3.104.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.104.bin)
 
     MD5: a02897bf241952515eaf56b4588b8488
 
@@ -207,17 +207,17 @@ Firmware file:
 
 **For GL-AR300M, GL-AR300M-Ext**:
 
-- Upgrade through web Admin Panel [gl-ar300m-nand-3.024.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.024.tar)
+- Upgrade through web Admin Panel [gl-ar300m-nand-3.024.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.024.tar)
 
     MD5: d24f10a176acc4f3f839079a8b666055
 
-- Upgrade through Uboot [openwrt-ar300m-ubi-3.024.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.024.img)
+- Upgrade through Uboot [openwrt-ar300m-ubi-3.024.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.024.img)
 
     MD5: bcc19b353bd58e5cc217f1db387d9e74
 
 **For GL-AR300M16, GL-AR300M16-Ext**:
 
-- [openwrt-ar300m16-3.024.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.024.bin)
+- [openwrt-ar300m16-3.024.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.024.bin)
 
     MD5: 3913d837b3ea7a3a22723e226a4fb1ab
 
@@ -248,17 +248,17 @@ Firmware file:
 
 **For GL-AR300M, GL-AR300M-Ext**:
 
-- Upgrade through web Admin Panel [gl-ar300m-nand-3.019.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.019.tar)
+- Upgrade through web Admin Panel [gl-ar300m-nand-3.019.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.019.tar)
 
     MD5: 993808778ade47ab30fc5311a3ae5233
 
-- Upgrade through Uboot [gl-ar300m-ubi-3.019.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.019.img)
+- Upgrade through Uboot [gl-ar300m-ubi-3.019.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.019.img)
 
     MD5: 1267a6102fc0b53feadffa37fe1f3241
 
 **For GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite**: 
 
-- [gl-ar300m16-3.019.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.019.bin)
+- [gl-ar300m16-3.019.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.019.bin)
 
     MD5: 47fa12816fb0a5f85febe80acf0f7844
 

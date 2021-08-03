@@ -2,7 +2,7 @@
 
 ## V3.201 - Apr 12, 2021
 
-- Firmware file: [openwrt-mifi-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.201-0402.bin)
+- Firmware file: [openwrt-mifi-3.201-0402.bin](https://fw.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.201-0402.bin)
 
     SHA256: 74028ab249e18f9d24b20b6242f102292062a55f5f9f16868c4dc2012aa5dafc
     MD5: a8d13147c8a6607b2af3cabd074bc526
@@ -65,7 +65,7 @@
 
 ## V3.105 - Dec 8, 2020
 
-- Firmware file: [openwrt-mifi-3.105.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.105.bin)
+- Firmware file: [openwrt-mifi-3.105.bin](https://fw.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.105.bin)
 
     MD5: 5a9dd61cdd2da167208e1db514b0dc1b
 
@@ -120,7 +120,7 @@ Important bug fix:
 
 ## V3.029 - Jan 02, 2020
 
-- Firmware file:[openwrt-mifi-3.029.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.029.bin)
+- Firmware file:[openwrt-mifi-3.029.bin](https://fw.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.029.bin)
 
     MD5: d9110a7aa16686c69870ba40889ee9ed
 
@@ -130,7 +130,7 @@ Important bug fix:
 
 ## V3.028 - Nov 25,2019
 
-Firmware file:[openwrt-mifi-3.028.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.028.bin)
+Firmware file:[openwrt-mifi-3.028.bin](https://fw.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.028.bin)
 
 **New Features:**
 
@@ -151,7 +151,7 @@ Firmware file:[openwrt-mifi-3.028.bin](https://s3.us-east-2.amazonaws.com/downlo
 
 ## V3.023 - May 16,2019
 
-Firmware file:[openwrt-mifi-3.023.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.023.bin)
+Firmware file:[openwrt-mifi-3.023.bin](https://fw.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.023.bin)
 
 **New Features:**
 

@@ -2,7 +2,7 @@
 
 ## V3.201 - Apr 12, 2021
 
-- Firmware file: [openwrt-x300b-3.201-0402.bin](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.201-0402.bin)
+- Firmware file: [openwrt-x300b-3.201-0402.bin](https://fw.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.201-0402.bin)
 
     SHA256: 0c4335585eeb7838ffed63cb52cbdcad9764ed19ec956eb1997d4405001f2d7f
 

@@ -2,11 +2,11 @@
 
 ## V3.201 - Apr 12, 2021
 
-- Update through Admin Panel: [openwrt-xe300-3.201-0402.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.201-0402.tar)
+- Update through Admin Panel: [openwrt-xe300-3.201-0402.tar](https://fw.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.201-0402.tar)
 
     SHA256: 9307a8728d0f10b3bdf0cc1e12bbbc4b21bfc94e4149221c39dad4cc1a34eb3f
 
-- Update through Uboot: [openwrt-xe300-3.201-0402.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.201-0402.img)
+- Update through Uboot: [openwrt-xe300-3.201-0402.img](https://fw.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.201-0402.img)
 
     SHA256: 7165bd0c088256dcdc35f7826ea85762b6463f6a39bdd8ca13c0cbbb1564a58a
 
@@ -72,10 +72,10 @@
 
 Firmware file:
 
-- Update through Admin Panel: [openwrt-xe300-3.200.tar](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.200.tar)
+- Update through Admin Panel: [openwrt-xe300-3.200.tar](https://fw.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.200.tar)
 
     SHA256: 8219aa5e8e89f3e96313a0fd68743a7802e85b3217655fb494face7442fd1e48
 
-- Update through Uboot: [openwrt-xe300-3.200.img](https://s3.us-east-2.amazonaws.com/download.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.200.img)
+- Update through Uboot: [openwrt-xe300-3.200.img](https://fw.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.200.img)
 
     SHA256: fa44a746600561b920607b2de6e7ec613bc9f5e6e0f172b7dddb5541bd912fb4
