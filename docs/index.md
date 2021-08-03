@@ -166,15 +166,3 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <p>GL-MT300A Mini Smart Router (discontinued): <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300a" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300a</a></p>
 <p>GL-MT300N Mini Smart Router (discontinued): <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2</a></p>
 <p>GL.iNet 6416 Mini Smart Router (discontinued): <a href="https://openwrt.org/toh/hwdata/gl.inet/gl.inet_6416a" target="_blank">https://openwrt.org/toh/hwdata/gl.inet/gl.inet_6416a</a></p>
-
-
-<h3 id="markdown">Markdown</h3>
-<p>Markdown Basics: <a href="https://help.github.com/articles/markdown-basics/">https://help.github.com/articles/markdown-basics/</a></p>
-<p>Markdown Syntax: <a href="http://daringfireball.net/projects/markdown/syntax">http://daringfireball.net/projects/markdown/syntax</a></p>
-<p>Table Generator: <a href="http://www.tablesgenerator.com/markdown_tables">http://www.tablesgenerator.com/markdown_tables</a></p>
-
-
-
-
-
-
