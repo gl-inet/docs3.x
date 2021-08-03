@@ -2,6 +2,10 @@
 This page is listing the videos related to product tutorials. We will update contents to our official [YouTube](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber) Channel time to time.
 
 
+## How to Use UBoot to Debrick Your GL.iNet Router 2021
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EAaaw8nyrnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ## How to SSH to the GL.iNet Routers (Windows Version)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7yVd5UkKJ74" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
