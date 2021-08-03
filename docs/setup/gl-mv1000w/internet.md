@@ -56,33 +56,23 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 
 
-
 ---
 
-## 2) Tethering
+## 2) Repeater
 
-Using a USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
+Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
 
-For host-less modem tethering, plug it into the USB port of the router.
+It works in WISP (Wireless Internet Service Provider) mode by default, which means that the router will create its own subnet and act as a firewall to protect you from the public network.
 
-For iPhone tethering, connect it to the USB port of the router and go to Settings->Personal Hotspot->Allow Others to Join, then click **Trust** to continue when the message pops up in your iPhone.(If the connection is failed please uncheck and check again allow Others to Join)
+In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-For Android phone tethering, connect it to the USB port of the router then check Settings->Personal hotspot->Usb network sharing.
-
-After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
-
-![tethering](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/tethering.jpg)
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp1.jpg)
 
 
 
-### EasyTether
+Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-Some carriers prohibit the sharing of the data so that you may not be able to use tethering. However, you can try [easytethering](/app/tether.md). 
-
-*Note: Easytether is not a free service and we have no affiliation with them.*
-
-
-
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg)
 
 ---
 
@@ -154,23 +144,53 @@ Here is a list of supported modems that we had tested before.
 You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html) for a well supported modem list.
 
 
+---
+
+## 4) Tethering
+
+Using a USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
+
+For host-less modem tethering, plug it into the USB port of the router.
+
+For iPhone tethering, connect it to the USB port of the router and go to Settings->Personal Hotspot->Allow Others to Join, then click **Trust** to continue when the message pops up in your iPhone.
+
+Step1: Switch on Personal Hotspot.
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering2.png)
+
+
+Step2: Click "Trust" to this computer.
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering-1.png)
+
+Step3: Go to your Admin Panel choose "INTERNET" and click "Connect" in the middle of the page.
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/connectbut.png)
+
+Step4: It will show connected signal on the top of your phone screen and your admin panel once you connect successfully.
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering4.png)
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/connteced.png)
+
+If the connection fails, please switch on and switch off your Personal Hotspot in your mobile phone for a few times.
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering3.png)
+
+![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering2.png)
 
 ---
 
-## 4) Repeater
+For Android phone tethering, connect it to the USB port of the router then check Settings->Personal hotspot->Usb network sharing.
 
-Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
+After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 
-It works in WISP (Wireless Internet Service Provider) mode by default, which means that the router will create its own subnet and act as a firewall to protect you from the public network.
-
-In Repeater section, click `Scan` to search for the available wireless networks nearby.
-
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp1.jpg)
+![tethering](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/tethering.jpg)
 
 
 
-Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
+### EasyTether
 
-![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg)
+Some carriers prohibit the sharing of the data so that you may not be able to use tethering. However, you can try [easytethering](/app/tether.md). 
 
-
+*Note: Easytether is not a free service and we have no affiliation with them.*
