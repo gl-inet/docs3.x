@@ -76,7 +76,7 @@ You can find a detailed documentation about `bletool` ***https://github.com/gl-i
 
 ## MQTT
 
-MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.  You can find official document in [mqtt.org](mqtt.org).
+MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.  You can find official document in [mqtt.org](https://mqtt.org).
 
 This guide will give you a step to step guide of how to send message to GL.iNet GoodCloud and AWS.
 
