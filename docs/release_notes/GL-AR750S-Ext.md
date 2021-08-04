@@ -1,6 +1,6 @@
 # GL-AR750S-Ext (Slate) - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Update through web Admin Panel: [gl-ar750s-3.203-0701.tar](https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.203-0701.tar)
 

@@ -1,6 +1,6 @@
 # GL-XE300 (Puli) - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Update through Admin Panel: [openwrt-xe300-3.203-0701.tar](https://fw.gl-inet.com/firmware/xe300/release/openwrt-xe300-3.203-0701.tar)
 

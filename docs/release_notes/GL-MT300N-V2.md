@@ -1,6 +1,6 @@
 # GL-MT300N-V2 - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Firmware file: [openwrt-mt300n-v2-3.203-0701.bin](https://fw.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.203-0701.bin)
 

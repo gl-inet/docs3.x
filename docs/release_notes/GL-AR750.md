@@ -1,6 +1,6 @@
 # GL-AR750 - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Firmware file: [openwrt-ar750-3.203-0701.bin](https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin)
 

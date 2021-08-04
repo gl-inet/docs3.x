@@ -1,6 +1,6 @@
 # GL-X300B (Collie) - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Firmware file: [openwrt-x300b-3.203-0701.bin](https://fw.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.203-0701.bin)
 

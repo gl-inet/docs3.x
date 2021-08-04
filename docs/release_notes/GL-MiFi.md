@@ -1,6 +1,6 @@
 # GL-MiFi - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Firmware file: [openwrt-mifi-3.203-0701.bin](https://fw.gl-inet.com/firmware/mifi/v1/openwrt-mifi-3.203-0701.bin)
 

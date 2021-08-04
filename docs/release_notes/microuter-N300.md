@@ -1,6 +1,6 @@
 # microuter-N300 - Release Notes
 
-## V3.203 - Aug 12, 2021
+## V3.203 - Aug 3, 2021
 
 - Firmware file: <a href="https://fw.gl-inet.com/firmware/n300/release/openwrt-n300-3.203-0701.bin" target="_blank">openwrt-n300-3.203-0701.bin</a>
 
