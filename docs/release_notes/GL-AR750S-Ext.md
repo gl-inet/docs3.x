@@ -1,5 +1,32 @@
 # GL-AR750S-Ext (Slate) - Release Notes
 
+## V3.203 - Aug 12, 2021
+
+- Update through web Admin Panel: [gl-ar750s-3.203-0701.tar](https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.203-0701.tar)
+
+    SHA256: 8dfe7535a8818939342e8bed87e17edd1cd411a4583c95c6f00e51c92937c8aa
+
+- Update through Uboot: [gl-ar750s-3.203-0701.img](https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.203-0701.img)
+
+    SHA256: 1b56b10ca7282994aef5eef2a0412b9c0b8cd2741368789ddb0383fef1d257e6
+
+**OpenWrt Distribution:**
+
+- Based on OpenWrt 19.07.7  (AR150, MIFI, AR300M, USB150, N300, AR750, AR750S, X750, E750, X1200,XE300, MT300N-V2, MT1300, MV1000)
+- Based on QSDK11  (B1300, S1300, AP1300)
+
+**Security fix:**
+
+- mac80211: backport upstream fixes for FragAttacks(CVE-2020-24586, CVE-2020-24587, CVE-2020-24588, CVE-2020-26139, CVE-2020-26140, CVE-2020-26141, CVE-2020-26142, CVE-2020-26143, CVE-2020-26144, CVE-2020-26145, CVE-2020-26146, CVE-2020-26147)
+
+**Important bug fix:**
+
+- Fixed a BUG where the OpenVPN connection status was displayed incorrectly on the E750 LCD
+- Fixed XE300 modem manual settings always being overwritten when reboot 
+- Fixed DNS leakage when using OpenVPN and Wireguard
+
+---
+
 ## V3.201 - Apr 12, 2021
 
 - Update through web Admin Panel: [gl-ar750s-3.201-0402.tar](https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.201-0402.tar)

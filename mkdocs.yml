@@ -252,8 +252,6 @@ pages:
         - Upgrade: 'setup/vixmini/upgrade.md'
         - Applications: 'setup/vixmini/applications.md'
         - More Settings: 'setup/vixmini/more_settings.md'
-
-        
 - Development:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'

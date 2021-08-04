@@ -1,5 +1,28 @@
 # GL-X300B (Collie) - Release Notes
 
+## V3.203 - Aug 12, 2021
+
+- Firmware file: [openwrt-x300b-3.203-0701.bin](https://fw.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.203-0701.bin)
+
+    SHA256: 38e34d65d9e30a26cc82b08e665d1d720957ca898466862f30a6b39f7c77e0f4
+
+**OpenWrt Distribution:**
+
+- Based on OpenWrt 19.07.7  (AR150, MIFI, AR300M, USB150, N300, AR750, AR750S, X750, E750, X1200,XE300, MT300N-V2, MT1300, MV1000)
+- Based on QSDK11  (B1300, S1300, AP1300)
+
+**Security fix:**
+
+- mac80211: backport upstream fixes for FragAttacks(CVE-2020-24586, CVE-2020-24587, CVE-2020-24588, CVE-2020-26139, CVE-2020-26140, CVE-2020-26141, CVE-2020-26142, CVE-2020-26143, CVE-2020-26144, CVE-2020-26145, CVE-2020-26146, CVE-2020-26147)
+
+**Important bug fix:**
+
+- Fixed a BUG where the OpenVPN connection status was displayed incorrectly on the E750 LCD
+- Fixed XE300 modem manual settings always being overwritten when reboot 
+- Fixed DNS leakage when using OpenVPN and Wireguard
+
+---
+
 ## V3.201 - Apr 12, 2021
 
 - Firmware file: [openwrt-x300b-3.201-0402.bin](https://fw.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.201-0402.bin)

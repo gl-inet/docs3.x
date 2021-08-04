@@ -1,5 +1,42 @@
 # GL-AR300M - Release Notes
 
+## V3.203 - Aug 12, 2021
+
+Firmware:
+
+**For GL-AR300M, GL-AR300M-Ext**:
+
+- Upgrade through web Admin Panel [openwrt-ar300m-3.203-0701.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.203-0701.tar)
+
+    SHA256: 368a1d31be7f07d70fae31873bec8738349b820bddba50735cb742b8bd96f3d5
+
+- Upgrade through Uboot [openwrt-ar300m-3.203-0701.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.203-0701.img)
+
+    SHA256: 32f5a27f770157b4daf87f3ecdf92266747df9650b8ca00a101a1144b37d0c9c
+
+**For GL-AR300M16, GL-AR300M16-Ext**:
+
+- Firmware file: [openwrt-ar300m16-3.203-0701.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.203-0701.bin)
+
+    SHA256: 1b062aaf367d4ddd0163266c2e2e6aa16bff2ddfa4f866b9844064cfa26ac5cc
+
+**OpenWrt Distribution:**
+
+- Based on OpenWrt 19.07.7  (AR150, MIFI, AR300M, USB150, N300, AR750, AR750S, X750, E750, X1200,XE300, MT300N-V2, MT1300, MV1000)
+- Based on QSDK11  (B1300, S1300, AP1300)
+
+**Security fix:**
+
+- mac80211: backport upstream fixes for FragAttacks(CVE-2020-24586, CVE-2020-24587, CVE-2020-24588, CVE-2020-26139, CVE-2020-26140, CVE-2020-26141, CVE-2020-26142, CVE-2020-26143, CVE-2020-26144, CVE-2020-26145, CVE-2020-26146, CVE-2020-26147)
+
+**Important bug fix:**
+
+- Fixed a BUG where the OpenVPN connection status was displayed incorrectly on the E750 LCD
+- Fixed XE300 modem manual settings always being overwritten when reboot 
+- Fixed DNS leakage when using OpenVPN and Wireguard
+
+---
+
 ## V3.201 - Apr 12, 2021
 
 Firmware:
