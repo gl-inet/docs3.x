@@ -8,6 +8,6 @@ mkdocs==0.17.4
 mkdocs-material==2.9.2
 Pygments==2.2.0
 pymdown-extensions==4.11
-PyYAML==3.13
+PyYAML==5.4
 six==1.11.0
 tornado==4.5.3
