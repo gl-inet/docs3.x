@@ -5,43 +5,51 @@ edit_uri: ""
 
 site_name: GL.iNet Docs
 site_description: Documentation for GL.iNet Productions
-site_author: Shan
+site_author: GL.iNet
 site_url: https://docs.gl-inet.com/en/3/
-google_analytics: ['UA-108265653-5', 'docs.glinet.com']
 site_dir: '/home/ubuntu/docs-build/en/3/'
 
 # Copyright
 copyright: 'Copyright &copy; 2021 GL Technologies & Microuter Technologies'
 
 theme: 
-  name: 'material'
-  feature:
-    tabs: true
-  custom_dir: 'mkdocs-material-sourcecode/material'
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
 
 # Customization
 extra:
+  analytics:
+    provider: google
+    property: UA-108265653-5
   social:
-    - type: globe
+    - icon: fontawesome/solid/globe
       link: https://www.gl-inet.com
-    - type: github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/gl-inet/
-    - type: facebook
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/gl.inet.wifi/
-    - type: twitter
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/GLiNetWiFi
-    - type: linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/gl-inet.com/
-    - type: youtube
+    - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber
-    - type: pinterest
+    - icon: fontawesome/brands/pinterest
       link: https://www.pinterest.com/glinetWiFi/
 
-pages:
-- Home:
+# Extension theme
+extra_css:
+  - 'stylesheets/extra.css'
+extra_javascript:
+  - 'javascripts/extra.js'
+
+nav:
+  - Home:
     - Home: 'index.md'
     - Services: 'service.md'
-- Hardware:
+  - Hardware:
     - GL-AR150: 'hardware/gl-ar150/index.md'
     - GL-AR300M: 'hardware/gl-ar300m/index.md'
     - GL-MT300N-V2: 'hardware/gl-mt300n-v2/index.md'
@@ -66,196 +74,196 @@ pages:
     - Domino Core: 'hardware/domino-core/index.md'
     - GL-MT300A: 'hardware/gl-mt300a/index.md'
     - GL-MT300N: 'hardware/gl-mt300n/index.md'
-- Setup:
+  - Setup:
     - Mini Router Series:
-        - First-time Setup: 'setup/mini_router/first-time_setup.md'
-        - Internet: 'setup/mini_router/internet.md'
-        - Wireless: 'setup/mini_router/wireless.md'
-        - Clients: 'setup/mini_router/clients.md'
-        - Upgrade: 'setup/mini_router/upgrade.md'
-        - Firewall: 'setup/mini_router/firewall.md'
-        - VPN: 'setup/mini_router/vpn.md'
-        - Applications: 'setup/mini_router/applications.md'
-        - More Settings: 'setup/mini_router/more_settings.md'
+      - First-time Setup: 'setup/mini_router/first-time_setup.md'
+      - Internet: 'setup/mini_router/internet.md'
+      - Wireless: 'setup/mini_router/wireless.md'
+      - Clients: 'setup/mini_router/clients.md'
+      - Upgrade: 'setup/mini_router/upgrade.md'
+      - Firewall: 'setup/mini_router/firewall.md'
+      - VPN: 'setup/mini_router/vpn.md'
+      - Applications: 'setup/mini_router/applications.md'
+      - More Settings: 'setup/mini_router/more_settings.md'
     - Travel AC Router (GL-AR750):
-        - First-time Setup: 'setup/gl-ar750/first-time_setup.md'
-        - Internet: 'setup/gl-ar750/internet.md'
-        - Wireless: 'setup/gl-ar750/wireless.md'
-        - Clients: 'setup/gl-ar750/clients.md'
-        - Upgrade: 'setup/gl-ar750/upgrade.md'
-        - Firewall: 'setup/gl-ar750/firewall.md'
-        - VPN: 'setup/gl-ar750/vpn.md'
-        - Applications: 'setup/gl-ar750/applications.md'
-        - More Settings: 'setup/gl-ar750/more_settings.md'
+      - First-time Setup: 'setup/gl-ar750/first-time_setup.md'
+      - Internet: 'setup/gl-ar750/internet.md'
+      - Wireless: 'setup/gl-ar750/wireless.md'
+      - Clients: 'setup/gl-ar750/clients.md'
+      - Upgrade: 'setup/gl-ar750/upgrade.md'
+      - Firewall: 'setup/gl-ar750/firewall.md'
+      - VPN: 'setup/gl-ar750/vpn.md'
+      - Applications: 'setup/gl-ar750/applications.md'
+      - More Settings: 'setup/gl-ar750/more_settings.md'
     - Slate (GL-AR750S-Ext):
-        - First-time Setup: 'setup/gl-ar750s/first-time_setup.md'
-        - Internet: 'setup/gl-ar750s/internet.md'
-        - Wireless: 'setup/gl-ar750s/wireless.md'
-        - Clients: 'setup/gl-ar750s/clients.md'
-        - Upgrade: 'setup/gl-ar750s/upgrade.md'
-        - Firewall: 'setup/gl-ar750s/firewall.md'
-        - VPN: 'setup/gl-ar750s/vpn.md'
-        - Applications: 'setup/gl-ar750s/applications.md'
-        - More Settings: 'setup/gl-ar750s/more_settings.md'
+      - First-time Setup: 'setup/gl-ar750s/first-time_setup.md'
+      - Internet: 'setup/gl-ar750s/internet.md'
+      - Wireless: 'setup/gl-ar750s/wireless.md'
+      - Clients: 'setup/gl-ar750s/clients.md'
+      - Upgrade: 'setup/gl-ar750s/upgrade.md'
+      - Firewall: 'setup/gl-ar750s/firewall.md'
+      - VPN: 'setup/gl-ar750s/vpn.md'
+      - Applications: 'setup/gl-ar750s/applications.md'
+      - More Settings: 'setup/gl-ar750s/more_settings.md'
     - Beryl (GL-MT1300):
-        - First-time Setup: 'setup/gl-mt1300/first-time_setup.md'
-        - Internet: 'setup/gl-mt1300/internet.md'
-        - Wireless: 'setup/gl-mt1300/wireless.md'
-        - Clients: 'setup/gl-mt1300/clients.md'
-        - Upgrade: 'setup/gl-mt1300/upgrade.md'
-        - Firewall: 'setup/gl-mt1300/firewall.md'
-        - VPN: 'setup/gl-mt1300/vpn.md'
-        - Applications: 'setup/gl-mt1300/applications.md'
-        - More Settings: 'setup/gl-mt1300/more_settings.md'
+      - First-time Setup: 'setup/gl-mt1300/first-time_setup.md'
+      - Internet: 'setup/gl-mt1300/internet.md'
+      - Wireless: 'setup/gl-mt1300/wireless.md'
+      - Clients: 'setup/gl-mt1300/clients.md'
+      - Upgrade: 'setup/gl-mt1300/upgrade.md'
+      - Firewall: 'setup/gl-mt1300/firewall.md'
+      - VPN: 'setup/gl-mt1300/vpn.md'
+      - Applications: 'setup/gl-mt1300/applications.md'
+      - More Settings: 'setup/gl-mt1300/more_settings.md'
     - 4G Smart Router (GL-MiFi):
-        - First-time Setup: 'setup/gl-mifi/first-time_setup.md'
-        - Internet: 'setup/gl-mifi/internet.md'
-        - Wireless: 'setup/gl-mifi/wireless.md'
-        - Clients: 'setup/gl-mifi/clients.md'
-        - Upgrade: 'setup/gl-mifi/upgrade.md'
-        - VPN: 'setup/gl-mifi/vpn.md'
-        - Applications: 'setup/gl-mifi/applications.md'
-        - More Settings: 'setup/gl-mifi/more_settings.md'
+      - First-time Setup: 'setup/gl-mifi/first-time_setup.md'
+      - Internet: 'setup/gl-mifi/internet.md'
+      - Wireless: 'setup/gl-mifi/wireless.md'
+      - Clients: 'setup/gl-mifi/clients.md'
+      - Upgrade: 'setup/gl-mifi/upgrade.md'
+      - VPN: 'setup/gl-mifi/vpn.md'
+      - Applications: 'setup/gl-mifi/applications.md'
+      - More Settings: 'setup/gl-mifi/more_settings.md'
     - Puli (GL-XE300):
-        - First-time Setup: 'setup/gl-xe300/first-time_setup.md'
-        - Internet: 'setup/gl-xe300/internet.md'
-        - Wireless: 'setup/gl-xe300/wireless.md'
-        - Clients: 'setup/gl-xe300/clients.md'
-        - Upgrade: 'setup/gl-xe300/upgrade.md'
-        - Firewall: 'setup/gl-xe300/firewall.md'
-        - VPN: 'setup/gl-xe300/vpn.md'
-        - Applications: 'setup/gl-xe300/applications.md'
-        - More Settings: 'setup/gl-xe300/more_settings.md'
+      - First-time Setup: 'setup/gl-xe300/first-time_setup.md'
+      - Internet: 'setup/gl-xe300/internet.md'
+      - Wireless: 'setup/gl-xe300/wireless.md'
+      - Clients: 'setup/gl-xe300/clients.md'
+      - Upgrade: 'setup/gl-xe300/upgrade.md'
+      - Firewall: 'setup/gl-xe300/firewall.md'
+      - VPN: 'setup/gl-xe300/vpn.md'
+      - Applications: 'setup/gl-xe300/applications.md'
+      - More Settings: 'setup/gl-xe300/more_settings.md'
     - Spitz (GL-X750):
-        - First-time Setup: 'setup/gl-x750/first-time_setup.md'
-        - Internet: 'setup/gl-x750/internet.md'
-        - Wireless: 'setup/gl-x750/wireless.md'
-        - Clients: 'setup/gl-x750/clients.md'
-        - Upgrade: 'setup/gl-x750/upgrade.md'
-        - VPN: 'setup/gl-x750/vpn.md'
-        - Applications: 'setup/gl-x750/applications.md'
-        - More Settings: 'setup/gl-x750/more_settings.md'
+      - First-time Setup: 'setup/gl-x750/first-time_setup.md'
+      - Internet: 'setup/gl-x750/internet.md'
+      - Wireless: 'setup/gl-x750/wireless.md'
+      - Clients: 'setup/gl-x750/clients.md'
+      - Upgrade: 'setup/gl-x750/upgrade.md'
+      - VPN: 'setup/gl-x750/vpn.md'
+      - Applications: 'setup/gl-x750/applications.md'
+      - More Settings: 'setup/gl-x750/more_settings.md'
     - Mudi (GL-E750):
-        - First-time Setup: 'setup/gl-e750/first-time_setup.md'
-        - Internet: 'setup/gl-e750/internet.md'
-        - Wireless: 'setup/gl-e750/wireless.md'
-        - Clients: 'setup/gl-e750/clients.md'
-        - Upgrade: 'setup/gl-e750/upgrade.md'
-        - Firewall: 'setup/gl-e750/firewall.md'
-        - VPN: 'setup/gl-e750/vpn.md'
-        - Applications: 'setup/gl-e750/applications.md'
-        - More Settings: 'setup/gl-e750/more_settings.md'
+      - First-time Setup: 'setup/gl-e750/first-time_setup.md'
+      - Internet: 'setup/gl-e750/internet.md'
+      - Wireless: 'setup/gl-e750/wireless.md'
+      - Clients: 'setup/gl-e750/clients.md'
+      - Upgrade: 'setup/gl-e750/upgrade.md'
+      - Firewall: 'setup/gl-e750/firewall.md'
+      - VPN: 'setup/gl-e750/vpn.md'
+      - Applications: 'setup/gl-e750/applications.md'
+      - More Settings: 'setup/gl-e750/more_settings.md'
     - Microuter (GL-USB150):
-        - First-time Setup: 'setup/gl-usb150/first-time_setup.md'
-        - Internet: 'setup/gl-usb150/internet.md'
-        - Wireless: 'setup/gl-usb150/wireless.md'
-        - Clients: 'setup/gl-usb150/clients.md'
-        - Upgrade: 'setup/gl-usb150/upgrade.md'
-        - VPN: 'setup/gl-usb150/vpn.md'
-        - Applications: 'setup/gl-usb150/applications.md'
-        - More Settings: 'setup/gl-usb150/more_settings.md'
+      - First-time Setup: 'setup/gl-usb150/first-time_setup.md'
+      - Internet: 'setup/gl-usb150/internet.md'
+      - Wireless: 'setup/gl-usb150/wireless.md'
+      - Clients: 'setup/gl-usb150/clients.md'
+      - Upgrade: 'setup/gl-usb150/upgrade.md'
+      - VPN: 'setup/gl-usb150/vpn.md'
+      - Applications: 'setup/gl-usb150/applications.md'
+      - More Settings: 'setup/gl-usb150/more_settings.md'
     - Convexa-B (GL-B1300):
-        - First-time Setup: 'setup/gl-b1300/first-time_setup.md'
-        - Internet: 'setup/gl-b1300/internet.md'
-        - Wireless: 'setup/gl-b1300/wireless.md'
-        - Mesh: 'setup/gl-b1300/mesh.md'
-        - Clients: 'setup/gl-b1300/clients.md'
-        - Upgrade: 'setup/gl-b1300/upgrade.md'
-        - Firewall: 'setup/gl-b1300/firewall.md'
-        - VPN: 'setup/gl-b1300/vpn.md'
-        - Applications: 'setup/gl-b1300/applications.md'
-        - More Settings: 'setup/gl-b1300/more_settings.md'
+      - First-time Setup: 'setup/gl-b1300/first-time_setup.md'
+      - Internet: 'setup/gl-b1300/internet.md'
+      - Wireless: 'setup/gl-b1300/wireless.md'
+      - Mesh: 'setup/gl-b1300/mesh.md'
+      - Clients: 'setup/gl-b1300/clients.md'
+      - Upgrade: 'setup/gl-b1300/upgrade.md'
+      - Firewall: 'setup/gl-b1300/firewall.md'
+      - VPN: 'setup/gl-b1300/vpn.md'
+      - Applications: 'setup/gl-b1300/applications.md'
+      - More Settings: 'setup/gl-b1300/more_settings.md'
     - Convexa-S (GL-S1300):
-        - First-time Setup: 'setup/gl-s1300/first-time_setup.md'
-        - Internet: 'setup/gl-s1300/internet.md'
-        - Wireless: 'setup/gl-s1300/wireless.md'
-        - Mesh: 'setup/gl-s1300/mesh.md'
-        - Clients: 'setup/gl-s1300/clients.md'
-        - Upgrade: 'setup/gl-s1300/upgrade.md'
-        - Firewall: 'setup/gl-s1300/firewall.md'
-        - VPN: 'setup/gl-s1300/vpn.md'
-        - Applications: 'setup/gl-s1300/applications.md'
-        - More Settings: 'setup/gl-s1300/more_settings.md'
+      - First-time Setup: 'setup/gl-s1300/first-time_setup.md'
+      - Internet: 'setup/gl-s1300/internet.md'
+      - Wireless: 'setup/gl-s1300/wireless.md'
+      - Mesh: 'setup/gl-s1300/mesh.md'
+      - Clients: 'setup/gl-s1300/clients.md'
+      - Upgrade: 'setup/gl-s1300/upgrade.md'
+      - Firewall: 'setup/gl-s1300/firewall.md'
+      - VPN: 'setup/gl-s1300/vpn.md'
+      - Applications: 'setup/gl-s1300/applications.md'
+      - More Settings: 'setup/gl-s1300/more_settings.md'
     - Velica (GL-B2200):
-        - First-time Setup: 'setup/gl-b2200/first-time_setup.md'
-        - Internet: 'setup/gl-b2200/internet.md'
-        - Wireless: 'setup/gl-b2200/wireless.md'
-        - Mesh: 'setup/gl-b2200/mesh.md'
-        - Clients: 'setup/gl-b2200/clients.md'
-        - Upgrade: 'setup/gl-b2200/upgrade.md'
-        - Firewall: 'setup/gl-b2200/firewall.md'
-        - VPN: 'setup/gl-b2200/vpn.md'
-        - Applications: 'setup/gl-b2200/applications.md'
-        - More Settings: 'setup/gl-b2200/more_settings.md'
+      - First-time Setup: 'setup/gl-b2200/first-time_setup.md'
+      - Internet: 'setup/gl-b2200/internet.md'
+      - Wireless: 'setup/gl-b2200/wireless.md'
+      - Mesh: 'setup/gl-b2200/mesh.md'
+      - Clients: 'setup/gl-b2200/clients.md'
+      - Upgrade: 'setup/gl-b2200/upgrade.md'
+      - Firewall: 'setup/gl-b2200/firewall.md'
+      - VPN: 'setup/gl-b2200/vpn.md'
+      - Applications: 'setup/gl-b2200/applications.md'
+      - More Settings: 'setup/gl-b2200/more_settings.md'
     - Brume (GL-MV1000):
-        - First-time Setup: 'setup/gl-mv1000/first-time_setup.md'
-        - Internet: 'setup/gl-mv1000/internet.md'
-        - Wireless: 'setup/gl-mv1000/wireless.md'
-        - Clients: 'setup/gl-mv1000/clients.md'
-        - Upgrade: 'setup/gl-mv1000/upgrade.md'
-        - Firewall: 'setup/gl-mv1000/firewall.md'
-        - VPN: 'setup/gl-mv1000/vpn.md'
-        - Applications: 'setup/gl-mv1000/applications.md'
-        - More Settings: 'setup/gl-mv1000/more_settings.md'
+      - First-time Setup: 'setup/gl-mv1000/first-time_setup.md'
+      - Internet: 'setup/gl-mv1000/internet.md'
+      - Wireless: 'setup/gl-mv1000/wireless.md'
+      - Clients: 'setup/gl-mv1000/clients.md'
+      - Upgrade: 'setup/gl-mv1000/upgrade.md'
+      - Firewall: 'setup/gl-mv1000/firewall.md'
+      - VPN: 'setup/gl-mv1000/vpn.md'
+      - Applications: 'setup/gl-mv1000/applications.md'
+      - More Settings: 'setup/gl-mv1000/more_settings.md'
     - Brume-W (GL-MV1000W):
-        - First-time Setup: 'setup/gl-mv1000w/first-time_setup.md'
-        - Internet: 'setup/gl-mv1000w/internet.md'
-        - Wireless: 'setup/gl-mv1000w/wireless.md'
-        - Clients: 'setup/gl-mv1000w/clients.md'
-        - Upgrade: 'setup/gl-mv1000w/upgrade.md'
-        - Firewall: 'setup/gl-mv1000w/firewall.md'
-        - VPN: 'setup/gl-mv1000w/vpn.md'
-        - Applications: 'setup/gl-mv1000w/applications.md'
-        - More Settings: 'setup/gl-mv1000w/more_settings.md'
+      - First-time Setup: 'setup/gl-mv1000w/first-time_setup.md'
+      - Internet: 'setup/gl-mv1000w/internet.md'
+      - Wireless: 'setup/gl-mv1000w/wireless.md'
+      - Clients: 'setup/gl-mv1000w/clients.md'
+      - Upgrade: 'setup/gl-mv1000w/upgrade.md'
+      - Firewall: 'setup/gl-mv1000w/firewall.md'
+      - VPN: 'setup/gl-mv1000w/vpn.md'
+      - Applications: 'setup/gl-mv1000w/applications.md'
+      - More Settings: 'setup/gl-mv1000w/more_settings.md'
     - GL-SF1200:
-        - First-time Setup: 'setup/gl-sf1200/first-time_setup.md'
-        - Internet: 'setup/gl-sf1200/internet.md'
-        - Wireless: 'setup/gl-sf1200/wireless.md'
-        - Clients: 'setup/gl-sf1200/clients.md'
-        - Upgrade: 'setup/gl-sf1200/upgrade.md'
-        - Firewall: 'setup/gl-sf1200/firewall.md'
-        - VPN: 'setup/gl-sf1200/vpn.md'
-        - Applications: 'setup/gl-sf1200/applications.md'
-        - More Settings: 'setup/gl-sf1200/more_settings.md'
+      - First-time Setup: 'setup/gl-sf1200/first-time_setup.md'
+      - Internet: 'setup/gl-sf1200/internet.md'
+      - Wireless: 'setup/gl-sf1200/wireless.md'
+      - Clients: 'setup/gl-sf1200/clients.md'
+      - Upgrade: 'setup/gl-sf1200/upgrade.md'
+      - Firewall: 'setup/gl-sf1200/firewall.md'
+      - VPN: 'setup/gl-sf1200/vpn.md'
+      - Applications: 'setup/gl-sf1200/applications.md'
+      - More Settings: 'setup/gl-sf1200/more_settings.md'
     - Amarok (GL-X1200):
-        - First-time Setup: 'setup/gl-x1200/first-time_setup.md'
+      - First-time Setup: 'setup/gl-x1200/first-time_setup.md'
     - Collie (GL-X300B):
-        - First-time Setup: 'setup/gl-x300b/first-time_setup.md'
+      - First-time Setup: 'setup/gl-x300b/first-time_setup.md'
     - GL-S10:
-        - First-time Setup: 'setup/gl-s10/first-time_setup.md'
-        - API Manual: 'setup/gl-s10/api_manual.md'
-        - Firmware Complilation Guide: 'setup/gl-s10/firmware_compilation_guide.md'
+      - First-time Setup: 'setup/gl-s10/first-time_setup.md'
+      - API Manual: 'setup/gl-s10/api_manual.md'
+      - Firmware Complilation Guide: 'setup/gl-s10/firmware_compilation_guide.md'
     - Cirrus (GL-AP1300/GL-AP1300LTE):
-        - First-time Setup: 'setup/gl-ap1300/first-time_setup.md'
-        - Internet: 'setup/gl-ap1300/internet.md'
-        - Wireless: 'setup/gl-ap1300/wireless.md'
-        - Clients: 'setup/gl-ap1300/clients.md'
-        - Upgrade: 'setup/gl-ap1300/upgrade.md'
-        - Firewall: 'setup/gl-ap1300/firewall.md'
-        - VPN: 'setup/gl-ap1300/vpn.md'
-        - Applications: 'setup/gl-ap1300/applications.md'
-        - More Settings: 'setup/gl-ap1300/more_settings.md'
+      - First-time Setup: 'setup/gl-ap1300/first-time_setup.md'
+      - Internet: 'setup/gl-ap1300/internet.md'
+      - Wireless: 'setup/gl-ap1300/wireless.md'
+      - Clients: 'setup/gl-ap1300/clients.md'
+      - Upgrade: 'setup/gl-ap1300/upgrade.md'
+      - Firewall: 'setup/gl-ap1300/firewall.md'
+      - VPN: 'setup/gl-ap1300/vpn.md'
+      - Applications: 'setup/gl-ap1300/applications.md'
+      - More Settings: 'setup/gl-ap1300/more_settings.md'
     - microuter-N300:
-        - First-time Setup: 'setup/microuter-n300/first-time_setup.md'
-        - Internet: 'setup/microuter-n300/internet.md'
-        - Wireless: 'setup/microuter-n300/wireless.md'
-        - Clients: 'setup/microuter-n300/clients.md'
-        - Upgrade: 'setup/microuter-n300/upgrade.md'
-        - VPN: 'setup/microuter-n300/vpn.md'
-        - Applications: 'setup/microuter-n300/applications.md'
-        - More Settings: 'setup/microuter-n300/more_settings.md'
+      - First-time Setup: 'setup/microuter-n300/first-time_setup.md'
+      - Internet: 'setup/microuter-n300/internet.md'
+      - Wireless: 'setup/microuter-n300/wireless.md'
+      - Clients: 'setup/microuter-n300/clients.md'
+      - Upgrade: 'setup/microuter-n300/upgrade.md'
+      - VPN: 'setup/microuter-n300/vpn.md'
+      - Applications: 'setup/microuter-n300/applications.md'
+      - More Settings: 'setup/microuter-n300/more_settings.md'
     - VIXMINI:
-        - First-time Setup: 'setup/vixmini/first-time_setup.md'
-        - Internet: 'setup/vixmini/internet.md'
-        - Wireless: 'setup/vixmini/wireless.md'
-        - Clients: 'setup/vixmini/clients.md'
-        - Upgrade: 'setup/vixmini/upgrade.md'
-        - Applications: 'setup/vixmini/applications.md'
-        - More Settings: 'setup/vixmini/more_settings.md'
-- Development:
+      - First-time Setup: 'setup/vixmini/first-time_setup.md'
+      - Internet: 'setup/vixmini/internet.md'
+      - Wireless: 'setup/vixmini/wireless.md'
+      - Clients: 'setup/vixmini/clients.md'
+      - Upgrade: 'setup/vixmini/upgrade.md'
+      - Applications: 'setup/vixmini/applications.md'
+      - More Settings: 'setup/vixmini/more_settings.md'
+  - Development:
     - UART Serial: 'dev/serial.md'
     - Advanced Uboot: 'dev/uboot.md'
-- Application:
+  - Application:
     - SSH to the router: 'app/ssh.md'
     - OpenVPN: 'app/openvpn.md'
     - WireGuard: 'app/wireguard.md'
@@ -274,12 +282,12 @@ pages:
     - EasyTether: 'app/tether.md'
     - Tor: 'app/tor.md'
     - Camera: 'app/camera.md'
-- Video:
+  - Video:
     - Product Intro: 'video/product_intro.md'
     - Tutorial: 'video/tutor.md'  
     - Customer Review: 'video/review.md'
     - Unboxing: 'video/unboxing.md'
-- Troubleshooting:
+  - Troubleshooting:
     - LED Indicators: 'troubleshooting/led.md'
     - Repair or Reset: 'troubleshooting/reset.md'
     - Debrick via Uboot: 'troubleshooting/debrick.md'
@@ -292,7 +300,7 @@ pages:
     - GoodCloud issues: 'troubleshooting/goodcloud.md'
     - Modem FAQ: 'troubleshooting/modem_faq.md'
     - FAQs: 'troubleshooting/faq.md'
-- Release Notes:
+  - Release Notes:
     - Firmware Releases: 'release_notes/index.md'
     - GL-AR150: 'release_notes/GL-AR150.md'
     - GL-AR300M: 'release_notes/GL-AR300M.md'
@@ -317,8 +325,3 @@ pages:
     - VIXMINI: 'release_notes/VIXMINI.md'
     - GL-MT300A: 'release_notes/GL-MT300A.md'
     - GL-MT300N: 'release_notes/GL-MT300N.md'
-# Extension theme
-extra_css:
-  - 'stylesheets/extra.css'
-extra_javascript:
-  - 'javascripts/extra.js'
