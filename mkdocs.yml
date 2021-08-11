@@ -8,8 +8,6 @@ site_description: Documentation for GL.iNet Productions
 site_author: GL.iNet
 site_url: https://docs.gl-inet.com/en/3/
 site_dir: /home/ubuntu/docs-build/en/3/
-
-# Copyright
 copyright: Copyright &copy; 2021 GL Technologies & Microuter Technologies
 
 theme: 
@@ -51,12 +49,21 @@ extra:
       link: https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber
     - icon: fontawesome/brands/pinterest
       link: https://www.pinterest.com/glinetWiFi/
+  version:
+    provider: mike
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Japanese
+      link: /jp/
+      lang: ja
 
 # Extension theme
-extra_css:
-  - stylesheets/extra.css
-extra_javascript:
-  - javascripts/extra.js
+# extra_css:
+#   - stylesheets/extra.css
+# extra_javascript:
+#   - javascripts/extra.js
 
 nav:
   - Home:
