@@ -342,7 +342,7 @@ Other recommended WireGuard provider:
     <p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3" target="_blank">Official Website</a></p>
     <ol type="1">
         <li>
-            <p>Login then access the Control panel</p>
+            <p>Login then access the <a href="https://privatevpn.com/control-panel" target="_blank">Control panel</a></p>
             <p><img alt="PrivateVPN Control panel" src="https://static.gl-inet.com/docs/en/3/app/wireguard/privatevpn/privatevpn_wireguard_1.jpg" /></p>
         </li>
         <li>
