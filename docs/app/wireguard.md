@@ -338,6 +338,41 @@ Other recommended WireGuard provider:
 </details>
 
 <details>
+    <summary>PrivateVPN</summary>
+    <p><a href="https://privatevpn.com/" target="_blank">Official Website</a></p>
+    <ol type="1">
+        <li>
+            <p>Login then access the Control panel</p>
+            <p><img alt="PrivateVPN Control panel" src="https://static.gl-inet.com/docs/en/3/app/wireguard/privatevpn/privatevpn_wireguard_1.jpg" /></p>
+        </li>
+        <li>
+            <p>Select a server</p>
+            <p><img alt="select a server" src="https://static.gl-inet.com/docs/en/3/app/wireguard/privatevpn/privatevpn_wireguard_2.jpg" /></p>
+        </li>
+        <li>
+            <p>Click GENERATE CONFIG, then copy the config.</p>
+            <p><img alt="generate config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/privatevpn/privatevpn_wireguard_3.jpg" /></p>
+        </li>
+        <li>
+            <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+            <p><img alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/app/wireguard/add_a_new_wireguard_config.png" /></p>
+        </li>
+        <li>
+            <p>Specify the name of your server and click <b>Add</b></p>
+            <p><img alt="input config name" src="https://static.gl-inet.com/docs/en/3/app/wireguard/input_config_name.png" /></p>
+        </li>
+        <li>
+            <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+            <p><img alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connect.png" /></p>
+        </li>
+        <li>
+            <p>You will see the upload and download traffic when it is connected successfully.</p>
+            <p><img alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png" /></p>
+        </li>
+    </ol>
+</details>
+
+<details>
 <summary>VPN Unlimited(KeepSolid)</summary>
 <p><a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a></p>
 <ol type="1">
