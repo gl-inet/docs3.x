@@ -339,7 +339,7 @@ Other recommended WireGuard provider:
 
 <details>
     <summary>PrivateVPN</summary>
-    <p><a href="https://privatevpn.com/" target="_blank">Official Website</a></p>
+    <p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3" target="_blank">Official Website</a></p>
     <ol type="1">
         <li>
             <p>Login then access the Control panel</p>
