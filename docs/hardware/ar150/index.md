@@ -1,46 +1,47 @@
-# 	GL-AR150 Series
+# 	GL-AR150 シリーズ
 
-AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
-
-
+AR150シリーズはAR150、AR150-Ext、AR150-PoEとAR150-Ext-PoEを含まれています。
 
 
-## Hardware Specification
 
-|                         Model | GL-AR150                                                     |
+
+## ハードウェア 仕様
+
+|                         モデル | GL-AR150                                                     |
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | Atheros 9331 400MHz                                          |
-|                        Memory | DDRII 64MB                                                   |
-|                       Storage | 16MB flash                                                   |
-|                    Interfaces | 1 WAN, 1 LAN, 1 USB2.0, 1 Micro USB (power), 1 Reset Button, UART |
-|                     Frequency | 2.4GHz                                                       |
-|             Transmission Rate | 150Mbps                                                      |
-|                 Max. Tx Power | 18dBm                                                        |
-|                      Protocol | 802.11 b/g/n                                                 |
-| External Drive Format Support | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
-|                Webcam Support | MJPEG, YUV (web cam not support any more from firmware v2.27) |
-|                  DIY Features | UART, GPIO,  3.3V & 5V power port                            |
-|      External Antenna Support | Yes (optional)                                               |
-|            PoE Module Support | Yes (optional)                                               |
-|                   Power Input | 5V/1A                                                        |
-|             Power Consumption | <1.5W                                                        |
-|             Dimension, Weight | 58mmX58mmX25mm, 39g                                          |
+|                        メモリ | DDRII 64MB                                                   |
+|                    ストレージ | 16MB flash                                                   |
+|       　　　  インターフェイス | 1 WAN、1 LAN、1 USB2.0、1 Micro USB (パワー)、1 リセットボタン、UART |
+|                    　 周波数 | 2.4GHz                                                       |
+|            　　　　　 転送速度 | 150Mbps                                                      |
+|                 最大送信電力 | 18dBm                                                        |
+|                   プロトコル | 802.11 b/g/n                                                 
+| 　　外付けドライブフォーマット | FAT32/NTFS/EXT4/EXT3/EXT2                                    |
+|              　  ウェブカメラ | MJPEG、 YUV (ファームウェア v2.27からサポートしません) |
+|               　　   DIY機能 | UART、GPIO、3.3V & 5V パワーポート                            |
+|     　　　　　　 外部アンテナ | あり 選択可能)                                               |
+|         　   PoE モジュール |あり (選択可能)                                              |
+|          　　　         電源 | 5V/1A                                                        |
+|          　　　　　   消費電力 | <1.5W                                                        |
+|         　　　   サイズ、重量 | 58mmX58mmX25mm、39g                                          |
 
 
 
-##PCB Pinout
+##PCB ピンアウト
 
 ![gl-ar150 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg)
 
-## RTC Setting
+## RTC 設定
 
-You can use a RTC (Real-time control) module in GL-AR150 mini router.
+
+GL-AR150 miniルーターでRTC (リアルタイム制御)モジュールを使用することができます。
 
 ![gl-ar150 use RTC module](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/rtc_1200x1200.jpg)
 
-### Install kernel modules
+### カーネルモジュールのインストール
 
-If you use our stock firmware, you can just install using `opkg`
+弊社のファームウェアを使ったら、`opkg`をインストールすればいいです。
 
 ```
 opkg update
@@ -48,40 +49,41 @@ opkg install kmod-i2c-gpio-custom
 opkg install kmod-rtc-sd2068
 ```
 
-If you want to compile your own firmware, choose these packages:
+自分のファームウェアをコンパイルほしいなら、以下のパッケージを選択してください。
 
 ```
 Kernel modules  --->  I2C support  --->  kmod-i2c-gpio-custom
 Kernel modules  --->  Other modules  --->  kmod-rtc-sd2068
 ```
 
-### Software
+### ソフトウェア
 
-The GPIO used for RTC is below:
+RTCで使用しているGPIOは以下の通り：
 
 `SDA` <--> `GPIO1`
+
 `SCL` <--> `GPIO17`
 
-Now you need in insert kernel modules and connect to the module
+カーネルモジュールを挿入して接続する必要があります。
 
 ```
 insmod i2c-gpio-custom.ko bus0=0,1,17
 echo sd2068 0x32 > /sys/bus/i2c/devices/i2c-0/new_device
 ```
 
-To read the time from RTC module
+RTCモジュールから時間を読み出す
 
 ```
 hwclock -r
 ```
 
-To sync the RTC module's time to mini router
+RTCモジュールの時間をマイクロルータに同期します。
 
 ```
 hwclock -s
 ```
 
-To write mini router's time to RTC module
+マイクロルータの時間をRTCモジュールに書き込みます。
 
 ```
 hwclock -w
@@ -91,13 +93,14 @@ hwclock -w
 
 
 
-## PoE Connection
+## PoE 接続
 
-We have a specific PoE module for GL-AR150 mini routers. You can find it in the PoE version of AR150 router.
 
-You can only apply one power supply method at one time, either via PoE (Power over Ethernet) or micro USB Power. The compatible passive or active PoE injector should be 48V 802.3af/at.
+GL-AR150 マイクロルーターの特定PoEモジュールがあります。AR150ルーターのPoEバージョンで捜せます。
 
-PoE only works on the ***WAN Port only***
+一回に一つの電源接続方法しか利用できません。PoE（イーサネット給電）あるいはmicro USB電源を利用します。互換性のある受動的または能動的なPoE入力器は48V 802.3af/atでなければならない。
+
+PoEは***WAN ポート***使用に限ります。
 
 
 
@@ -105,11 +108,11 @@ PoE only works on the ***WAN Port only***
 
 
 
-PoE Setup Sample: 
+PoE セットアップサンプル：
 
-The following PoE injector is widely availabe in the market and it is very affordable. You can put you Ineternet cable in the `Data In` port then connect the `Data & Power Out` port to AR150-PoE's `WAN` port.
+例のPoEはマーケットで広く使われ、価格もとても安いです。インターネットケーブルを`Data In`ポートに挿入して、`Data & Power Out`ポートをAR150 PoEの`WAN`ポートに接続してください。
 
-***For PoE Version Only***
+***PoEバージョン限り***
 
 ![PoE switch and Ethernet cable](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/white_1000x1000_PoE_2.jpg) 
 
