@@ -7,128 +7,181 @@ site_name: GL.iNet Docs
 site_description: Documentation for GL.iNet Productions
 site_author: Shan
 site_url: https://docs.gl-inet.com/
-google_analytics: ['UA-108265653-1', 'glinet.com']
-site_dir: '/home/ubuntu/docs-build/jp/3/'
-
-# Copyright
-copyright: 'Copyright &copy; 2019 GL Technologies & Microuter Technologies'
+site_dir: /home/ubuntu/docs-build/jp/3/
+copyright: 'Copyright &copy; 2021 GL Technologies & Microuter Technologies'
 
 theme: 
-  name: 'material'
-  feature:
-    tabs: true
-  custom_dir: 'mkdocs-material-sourcecode/material'
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   language: 'ja'
 
 # Customization
 extra:
+  analytics:
+    provider: google
+    property: UA-108265653-5
   social:
-    - type: globe
+    - icon: fontawesome/solid/globe
       link: https://www.gl-inet.com
-    - type: github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/gl-inet/
-    - type: facebook
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/gl.inet.wifi/
-    - type: twitter
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/GLiNetWiFi
-    - type: linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/gl-inet.com/
-    - type: youtube
+    - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber
-    - type: pinterest
+    - icon: fontawesome/brands/pinterest
       link: https://www.pinterest.com/glinetWiFi/
+  version:
+    provider: mike
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Japanese
+      link: /jp/
+      lang: ja
 
-pages:
-- ホーム:
-    - ホーム: 'index.md'
-    - サービス: 'service.md'
-- ハードウエア:
-    - GL-MT300N-V2: 'hardware/mt300n-v2/index.md'
-    - GL-AR750S-Ext: 'hardware/ar750s/index.md'
-    - GL-AR750: 'hardware/ar750/index.md'
-    - GL-AR300M: 'hardware/ar300m/index.md'
-- セットアップ:
-    - ナノルーター:
-        - 基本設定: 'setup/mini_router/first-time_setup.md'
-        - ネットワーク: 'setup/mini_router/internet.md'
-        - 無線: 'setup/mini_router/wireless.md'
-        - クライアント: 'setup/mini_router/clients.md'
-        - アップグレード: 'setup/mini_router/upgrade.md'
-        - ファイアウォール: 'setup/mini_router/firewall.md'
-        - VPN: 'setup/mini_router/vpn.md'
-        - アプリケーション: 'setup/mini_router/applications.md'
-        - その他の設定: 'setup/mini_router/more_settings.md'
-    - Slate (GL-AR750S-Ext):
-        - 基本設定: 'setup/slate/first-time_setup.md'
-        - ネットワーク: 'setup/slate/internet.md'
-        - 無線: 'setup/slate/wireless.md'
-        - クライアント: 'setup/slate/clients.md'
-        - アップグレード: 'setup/slate/upgrade.md'
-        - ファイアウォール: 'setup/slate/firewall.md'
-        - VPN: 'setup/slate/vpn.md'
-        - アプリケーション: 'setup/slate/applications.md'
-        - その他の設定: 'setup/slate/more_settings.md'
-    - Creta(GL-AR750):
-        - 基本設定: 'setup/travel_ac_router/first-time_setup.md'
-        - ネットワーク: 'setup/travel_ac_router/internet.md'
-        - 無線: 'setup/travel_ac_router/wireless.md'
-        - クライアント: 'setup/travel_ac_router/clients.md'
-        - アップグレード: 'setup/travel_ac_router/upgrade.md'
-        - ファイアウォール: 'setup/travel_ac_router/firewall.md'
-        - VPN: 'setup/travel_ac_router/vpn.md'
-        - アプリケーション: 'setup/travel_ac_router/applications.md'
-        - その他の設定: 'setup/travel_ac_router/more_settings.md'     
-    - Brume(GL-MV1000):
-        - 基本設定: 'setup/brume/first-time_setup.md'
-        - ネットワーク: 'setup/brume/internet.md'
-        - クライアント: 'setup/brume/clients.md'
-        - アップグレード: 'setup/brume/upgrade.md'
-        - ファイアウォール: 'setup/brume/firewall.md'
-        - VPN: 'setup/brume/vpn.md'
-        - アプリケーション: 'setup/brume/applications.md'
-        - その他の設定: 'setup/brume/more_settings.md'
-    - Convexa-B(GL-B1300):
-        - 基本設定: 'setup/b1300/first-time_setup.md'
-        - ネットワーク: 'setup/b1300/internet.md'
-        - 無線: 'setup/b1300/wireless.md'
-        - メッシュ: 'setup/b1300/mesh.md'
-        - クライアント: 'setup/b1300/clients.md'
-        - アップグレード: 'setup/b1300/upgrade.md'
-        - ファイアウォール: 'setup/b1300/firewall.md'
-        - VPN: 'setup/b1300/vpn.md'
-        - アプリケーション: 'setup/b1300/applications.md'
-        - その他の設定: 'setup/b1300/more_settings.md'
-        
-- 開発:
-    - UART シリアル: 'dev/serial.md'
-- アプリケーション:
-    - ルーターにSSH: 'app/ssh.md'
-    - OpenVPN: 'app/openvpn.md'
-    - WireGuard: 'app/wireguard.md'
-    - Shadowsocks: 'app/ss.md'
-    - ファイル共有: 'app/file_sharing.md'
-    - DLNAサーバー: 'app/dlna.md'
-    - DDNS: 'app/ddns.md'
-    - クラウドサービス: 'app/cloud.md'
-- ビデオ:
-    - 製品紹介: 'video/product_intro.md'
-    - チュートリアル: 'video/tutor.md'  
-    - 顧客レビュー: 'video/review.md'
-- 問題解決:
-    - LED 指標: 'troubleshooting/led.md'
-    - 修復/リセット: 'troubleshooting/reset.md'
-    - ファームウェアを再インストール: 'troubleshooting/debrick.md'
-    - WANポートをLANに: 'troubleshooting/chang_wan_to_lan.md'
-    - キャプティブポータル: 'troubleshooting/captive_portal.md'
-    - よくある質問: 'troubleshooting/FAQ.md'
-- リリースノート:
-    - ファームウェア リリース: 'release_notes/index.md'
-    - GL-MT300N-V2: 'release_notes/GL-MT300N-V2.md'
-    - GL-AR750S-Ext(Slate): 'release_notes/GL-AR750S-Ext.md'
-    - GL-AR750(Creta): 'release_notes/GL-AR750.md'
-    - GL-AR300M: 'release_notes/GL-AR300M.md'
-# Extension theme
 extra_css:
-  - 'stylesheets/extra.css'
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css
+  # we can use the cdn or files
+  # - stylesheets/photoswipe.min.css
+  # - stylesheets/default-skin.min.css
 extra_javascript:
-  - 'javascripts/extra.js'
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js
+  # we can use the cdn or files
+  # - javascripts/photoswipe.min.js
+  # - javascripts/photoswipe-ui-default.min.js
+  - javascripts/extra.js
+
+nav:
+  - ホーム:
+    - ホーム: index.md
+    - サービス: service.md
+  - ハードウエア:
+    - GL-AR300M: hardware/gl-ar300m/index.md
+    - GL-MT300N-V2: hardware/gl-mt300n-v2/index.md
+    - GL-AR750: hardware/gl-ar750/index.md
+    - GL-AR750S: hardware/gl-ar750s/index.md
+    - GL-MT1300: hardware/gl-mt1300/index.md
+    - GL-B2200: hardware/gl-b2200/index.md
+  - セットアップ:
+    - ナノルーター:
+      - 基本設定: setup/mini_router/first-time_setup.md
+      - ネットワーク: setup/mini_router/internet.md
+      - 無線: setup/mini_router/wireless.md
+      - クライアント: setup/mini_router/clients.md
+      - アップグレード: setup/mini_router/upgrade.md
+      - ファイアウォール: setup/mini_router/firewall.md
+      - VPN: setup/mini_router/vpn.md
+      - アプリケーション: setup/mini_router/applications.md
+      - その他の設定: setup/mini_router/more_settings.md
+    - GL-AR750(Creta):
+      - 基本設定: setup/gl-ar750/first-time_setup.md
+      - ネットワーク: setup/gl-ar750/internet.md
+      - 無線: setup/gl-ar750/wireless.md
+      - クライアント: setup/gl-ar750/clients.md
+      - アップグレード: setup/gl-ar750/upgrade.md
+      - ファイアウォール: setup/gl-ar750/firewall.md
+      - VPN: setup/gl-ar750/vpn.md
+      - アプリケーション: setup/gl-ar750/applications.md
+      - その他の設定: setup/gl-ar750/more_settings.md
+    - GL-AR750S-EXT(Slate):
+      - 基本設定: setup/gl-ar750s/first-time_setup.md
+      - ネットワーク: setup/gl-ar750s/internet.md
+      - 無線: setup/gl-ar750s/wireless.md
+      - クライアント: setup/gl-ar750s/clients.md
+      - アップグレード: setup/gl-ar750s/upgrade.md
+      - ファイアウォール: setup/gl-ar750s/firewall.md
+      - VPN: setup/gl-ar750s/vpn.md
+      - アプリケーション: setup/gl-ar750s/applications.md
+      - その他の設定: setup/gl-ar750s/more_settings.md
+    - GL-MT1300(Beryl):
+      - 基本設定: setup/gl-mt1300/first-time_setup.md
+      - ネットワーク: setup/gl-mt1300/internet.md
+      - 無線: setup/gl-mt1300/wireless.md
+      - クライアント: setup/gl-mt1300/clients.md
+      - アップグレード: setup/gl-mt1300/upgrade.md
+      - ファイアウォール: setup/gl-mt1300/firewall.md
+      - VPN: setup/gl-mt1300/vpn.md
+      - アプリケーション: setup/gl-mt1300/applications.md
+      - その他の設定: setup/gl-mt1300/more_settings.md
+    - GL-MV1000(Brume):
+      - 基本設定: setup/gl-mv1000/first-time_setup.md
+      - ネットワーク: setup/gl-mv1000/internet.md
+      - クライアント: setup/gl-mv1000/clients.md
+      - アップグレード: setup/gl-mv1000/upgrade.md
+      - ファイアウォール: setup/gl-mv1000/firewall.md
+      - VPN: setup/gl-mv1000/vpn.md
+      - アプリケーション: setup/gl-mv1000/applications.md
+      - その他の設定: setup/gl-mv1000/more_settings.md
+    - GL-B1300(Convexa-B):
+      - 基本設定: setup/gl-b1300/first-time_setup.md
+      - ネットワーク: setup/gl-b1300/internet.md
+      - 無線: setup/gl-b1300/wireless.md
+      - メッシュ: setup/gl-b1300/mesh.md
+      - クライアント: setup/gl-b1300/clients.md
+      - アップグレード: setup/gl-b1300/upgrade.md
+      - ファイアウォール: setup/gl-b1300/firewall.md
+      - VPN: setup/gl-b1300/vpn.md
+      - アプリケーション: setup/gl-b1300/applications.md
+      - その他の設定: setup/gl-b1300/more_settings.md
+    - GL-B2200(Velica):
+      - 基本設定: setup/gl-b2200/first-time_setup.md
+      - ネットワーク: setup/gl-b2200/internet.md
+      - 無線: setup/gl-b2200/wireless.md
+      - メッシュ: setup/gl-b2200/mesh.md
+      - クライアント: setup/gl-b2200/clients.md
+      - アップグレード: setup/gl-b2200/upgrade.md
+      - ファイアウォール: setup/gl-b2200/firewall.md
+      - VPN: setup/gl-b2200/vpn.md
+      - アプリケーション: setup/gl-b2200/applications.md
+      - その他の設定: setup/gl-b2200/more_settings.md
+  - 開発:
+    - UART シリアル: dev/serial.md
+  - アプリケーション:
+    - ルーターにSSH: app/ssh.md
+    - OpenVPN: app/openvpn.md
+    - WireGuard: app/wireguard.md
+    - ファイル共有: app/file_sharing.md
+    - DLNAサーバー: app/dlna.md
+    - DDNS: app/ddns.md
+    - クラウドサービス: app/cloud.md
+  - ビデオ:
+    - 製品紹介: video/product_intro.md
+    - チュートリアル: video/tutor.md  
+    - 顧客レビュー: video/review.md
+  - 問題解決:
+    - LED 指標: troubleshooting/led.md
+    - 修復/リセット: troubleshooting/reset.md
+    - ファームウェアを再インストール: troubleshooting/debrick.md
+    - WANポートをLANに: troubleshooting/chang_wan_to_lan.md
+    - キャプティブポータル: troubleshooting/captive_portal.md
+    - よくある質問: troubleshooting/FAQ.md
+  - リリースノート:
+    - ファームウェア リリース: release_notes/index.md
+    - GL-MT300N-V2: release_notes/GL-MT300N-V2.md
+    - GL-AR750S-Ext(Slate): release_notes/GL-AR750S-Ext.md
+    - GL-AR750(Creta): release_notes/GL-AR750.md
+    - GL-AR300M: release_notes/GL-AR300M.md

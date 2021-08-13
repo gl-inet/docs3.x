@@ -14,7 +14,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 	margin-bottom: 25px;
 	display: grid;
 	grid-template-columns: 33% 33% 33%;
-	grid-template-rows: 50% 50%;
+	grid-template-rows: 33% 33% 33%;
 }
     .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
     float: left;
@@ -33,7 +33,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 	@media only screen and (max-width: 30em) {
     	.row-box {
         grid-template-columns: 50% 50%;
-        grid-template-rows: 33% 33% 33%;
+        grid-template-rows: 25% 25% 25% 25%;
     	}
 }
 </style>
@@ -47,27 +47,38 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
             </a>
         </div>
 		<div class="box-1">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/slate/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-ar750s/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/travel_ac_router/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-ar750/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
             </a>
     	</div>
 		<div class="box-3">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/brume/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-mv1000/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
             </a>
 		</div>
 		<div class="box-4">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/b1300/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-b1300/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
             </a>
 		</div>
+		<div class="box-5">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-mt1300/first-time_setup/">
+            	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
+            </a>
+    	</div>
+		<div class="box-6">
+        	<a href="https://docs.gl-inet.com/jp/3/setup/gl-b2200/first-time_setup/">
+				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
+			</a>
+		</div>
 	</div>
 </div>
+
 <br>
 <h2 id="official-support">オフィシャルサポート</h2>
 <p>弊社は、製品を使用するときあなたのあらゆる技術的問題を解決するために全力を尽くします。<a href="https://forum.gl-inet.com/">ディスカッション</a>フォーラムでは、あなたのアイデアを他のユーザーと共有するためのコミュニティを構築しました。そして、弊社は<a href="https://www.facebook.com/gl.inet.wifi/">Facebook</a>、<a href="https://twitter.com/GLiNetWiFi">Twitter</a>でサポートが提供します。あなたが弊社に働きかけてほしいと思うの本当に深い技術的な質問があるならば、<a href=mailto:support@gl-inet.com>support@gl-inet.com</a>に問題を電子メールで送ってください。</p>
@@ -87,13 +98,3 @@ GL.iNet チーム</p>
 <p>GL-MT300N-V2 ナノスマートルーター: TBA</p>
 <p>GL-MT300N ナノスマートルーター: TBA</p>
 <p>GL.iNet 6416 ナノスマートルーター: TBA</p>
-<h3 id="markdown">Markdown</h3>
-<p>Markdown ウェブサイト: <a href="https://help.github.com/articles/markdown-basics/">https://help.github.com/articles/markdown-basics/</a></p>
-<p>Markdown 構文: <a href="http://daringfireball.net/projects/markdown/syntax">http://daringfireball.net/projects/markdown/syntax</a></p>
-<p>テーブルジェネレータ: <a href="http://www.tablesgenerator.com/markdown_tables">http://www.tablesgenerator.com/markdown_tables</a></p>
-
-
-
-
-
-
