@@ -161,6 +161,16 @@ nav:
       - VPN: setup/gl-b2200/vpn.md
       - アプリケーション: setup/gl-b2200/applications.md
       - その他の設定: setup/gl-b2200/more_settings.md
+    - GL-XE300(Puli):
+      - 基本設定: setup/gl-xe300/first-time_setup.md
+      - ネットワーク: setup/gl-xe300/internet.md
+      - 無線: setup/gl-xe300/wireless.md
+      - クライアント: setup/gl-xe300/clients.md
+      - アップグレード: setup/gl-xe300/upgrade.md
+      - ファイアウォール: setup/gl-xe300/firewall.md
+      - VPN: setup/gl-xe300/vpn.md
+      - アプリケーション: setup/gl-xe300/applications.md
+      - その他の設定: setup/gl-xe300/more_settings.md
   - 開発:
     - UART シリアル: dev/serial.md
   - アプリケーション:

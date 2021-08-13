@@ -16,18 +16,18 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 	grid-template-columns: 33% 33% 33%;
 	grid-template-rows: 33% 33% 33%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7 {
     float: left;
     width: 95%;
     margin-right: 2%;
     margin-bottom: 5%;
     background-color: #FFFFFF;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,     0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 3px;
     border-style: solid;
     border-color: #ffffff
 }
-	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover {
+	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover {
     border-color: #b6bde3 !important;
 }
 	@media only screen and (max-width: 30em) {
@@ -74,6 +74,11 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 		<div class="box-6">
         	<a href="https://docs.gl-inet.com/jp/3/setup/gl-b2200/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
+			</a>
+		</div>
+		<div class="box-7">
+        	<a href="https://docs.gl-inet.com/jp/3/setup/gl-xe300/first-time_setup/">
+				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
 			</a>
 		</div>
 	</div>
