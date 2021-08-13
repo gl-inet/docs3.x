@@ -84,8 +84,11 @@ nav:
     - GL-MT300N-V2: hardware/gl-mt300n-v2/index.md
     - GL-AR750: hardware/gl-ar750/index.md
     - GL-AR750S: hardware/gl-ar750s/index.md
+    - GL-XE300: hardware/gl-xe300/index.md
     - GL-MT1300: hardware/gl-mt1300/index.md
+    - GL-MV1000: hardware/gl-mv1000/index.md
     - GL-B2200: hardware/gl-b2200/index.md
+    - microuter-N300: hardware/microuter-n300/index.md
   - セットアップ:
     - ナノルーター:
       - 基本設定: setup/mini_router/first-time_setup.md
