@@ -42,37 +42,37 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 <div class="row1">
 	<div class="row-box">
         <div class="box-0">
-            <a href="../setup/mini_router/first-time_setup/">
+            <a href="https://docs.gl-inet.com/jp/3/setup/mini_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/jp/3/home/mini.png" width=100%>
             </a>
         </div>
 		<div class="box-1">
-    		<a href="../setup/gl-ar750s/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-ar750s/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">
-    		<a href="../setup/gl-ar750/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-ar750/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
             </a>
     	</div>
 		<div class="box-3">
-    		<a href="../setup/gl-mv1000/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-mv1000/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
             </a>
 		</div>
 		<div class="box-4">
-    		<a href="../setup/gl-b1300/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-b1300/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
             </a>
 		</div>
 		<div class="box-5">
-    		<a href="../setup/gl-mt1300/first-time_setup/">
+    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-mt1300/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
             </a>
     	</div>
 		<div class="box-6">
-        	<a href="../setup/gl-b2200/first-time_setup/">
+        	<a href="https://docs.gl-inet.com/jp/3/setup/gl-b2200/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
 			</a>
 		</div>
