@@ -1,12 +1,8 @@
 #  GL-MT300N Mini Smart Router
 
-
-
 MT300N was the best selling router due to its performance and prices. It was replaced by MT300N-V2.
 
 This model didn't has a external antenna version.
-
-
 
 ## Hardware Specification
 
@@ -30,20 +26,8 @@ This model didn't has a external antenna version.
 |             Dimension, Weight | 58mmX58mmX25mm, 39g                                       |
 
 
-
 ## PCB Pinout
 
 MT300N has options to support PoE.
 
 ![gl-mt300n pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/mt300n/src/mt300n-pcb-marking.jpg) 
-
-  
-
-   
-
-
-
-
-
-
-

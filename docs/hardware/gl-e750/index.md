@@ -23,6 +23,18 @@
 
 ## PCB Pinout
 
-![gl-e750 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-05.jpg)
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-05.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-05.jpg" itemprop="thumbnail" alt="gl-e750 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
-![gl-e750 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-06.jpg)
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-06.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/gl-e750/GL-E750-PINOUT-06.jpg" itemprop="thumbnail" alt="gl-e750 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

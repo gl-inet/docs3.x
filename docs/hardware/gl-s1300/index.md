@@ -2,8 +2,6 @@
 
 Home WiFi Mesh System 
 
-
-
 S1300 is a powerful home WiFi system. Powered by the newest Qualcomm WiFi SON technology, it provides the best WiFi performances.
 
 S1300 has Quad-core CPU which provides very powerful computation. 
@@ -11,8 +9,6 @@ S1300 has Quad-core CPU which provides very powerful computation.
 It has 16MB Nor flash and 8GB EMMC which provide enough spaces for your customzied firmware.
 
 It has a Mesh button which is used to paire routers. You don't need an APP for the mesh router any more.
-
-
 
 ## Hardware Specification
 
@@ -33,10 +29,12 @@ It has a Mesh button which is used to paire routers. You don't need an APP for t
 |             Power Consumption | <7W                                                   |
 |             Dimension, Weight | 117mmX117mmX35mm, 240g                                |
 
-
-
 ## PCB Pinout
 
-![gl-s1300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/s1300/S1300.png) 
-
-   
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/s1300/S1300.png" itemprop="contentUrl" data-size="2290x1937">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/s1300/S1300.png" itemprop="thumbnail" alt="gl-s1300 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

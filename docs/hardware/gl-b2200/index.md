@@ -22,11 +22,20 @@ Fast, stable and secure home Wi-Fi with no more dead zones. Velica enabling comp
 |           Storage Temperature | -20 ~ 70°C (-4~158°F)                                 |
 |            Dimension / Weight | 151 x 66.5 x 190.5mm, 530g                            |
 
-
-
-
 ## PCB Pinout
 
-![gl-b2200 pcb pinout](https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg)
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="thumbnail" alt="gl-b2200 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
-![gl-b2200 pcb pinout](https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_2.jpg)
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_2.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_2.jpg" itemprop="thumbnail" alt="gl-b2200 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

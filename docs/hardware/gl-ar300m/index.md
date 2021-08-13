@@ -47,8 +47,13 @@ It has several sub-models:
 
 ## PCB Pinout
 
-![gl-ar300m pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg)
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1654">
+      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ar300m pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
 **Note: I2C is not working in some early version of the router.**
 

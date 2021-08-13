@@ -1,7 +1,5 @@
 # 	GL-MiFi
 
-
-
 GL-MiFi is an innovative 4G LTE router which separate based band and CPU. By doing this  the carrier cannot issue command and control your devices. When using vpn it secures all your devices while travelling. 
 
 It has 5000mAh Li-Pol battery inside which works up to 10 hours in 4G mode.
@@ -9,8 +7,6 @@ It has 5000mAh Li-Pol battery inside which works up to 10 hours in 4G mode.
 It has 20+ GPIO exposed and it is a great IoT box. 
 
 Please choose the correct 4G module for your region.
-
-
 
 ##  Hardware Specification
 
@@ -33,23 +29,16 @@ Please choose the correct 4G module for your region.
 |             Power Consumption | <3W                                                          |
 |             Dimension, Weight | 105mmX72mmX27mm, 170g                                        |
 
-
-
 ## PCB Pinout
 
-![gl-mifi pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/mifi/mifi.png)
-
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/mifi/mifi.png" itemprop="contentUrl" data-size="2265x2087">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/mifi/mifi.png" itemprop="thumbnail" alt="gl-mifi pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
 ##  PCIe Modem Module List
 
 ![gl-mifi PCIe Modem Module list](https://static.gl-inet.com/docs/en/2.x/hardware/mifi/src/MiFi-PCIeModem_info.jpg)
-
-
-
-
-
-
-
-
-

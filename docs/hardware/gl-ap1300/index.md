@@ -2,8 +2,6 @@
 
 Enterprise Wireless Networks Access Point
 
-
-
 Cirrus ceiling wireless access point is an elite business-class level gateway with MU-MIMO Wi-Fi solution. 
 
 PoE power supply and Watchdog timer built-in function are implemented in order to fulfill most enterprise-level user cases.
@@ -11,8 +9,6 @@ PoE power supply and Watchdog timer built-in function are implemented in order t
 With well-developed Goodcloud management system, managing the device is very easy and convenient. 
 
 You can enable a remote and secure access wherever you are and whenever you want.
-
-
 
 ## Hardware Specification
 
@@ -35,7 +31,18 @@ You can enable a remote and secure access wherever you are and whenever you want
 
 ## PCB Pinout
 
-![gl-ap1300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-1.jpg) 
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-1.jpg" itemprop="contentUrl" data-size="6000x4000">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ap1300 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
-![gl-ap1300 pcb pinout](https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-2.jpg) 
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-2.jpg" itemprop="contentUrl" data-size="6000x4000">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-2.jpg" itemprop="thumbnail" alt="gl-ap1300 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

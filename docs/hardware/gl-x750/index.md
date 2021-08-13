@@ -4,7 +4,7 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 
 ## Hardware Specification
 
-|                         Model | GL-X 750                                                     |
+|                         Model | GL-X750                                                     |
 | ----------------------------: | :----------------------------------------------------------- |
 |                     Interface | 1 x WAN Ethernet port <br> 1 x LAN Ethernet port <br> 5 x LEDs <br> 1 x USB 2.0 port <br> 1 x micro SIM card slot <br> 1 x MicroSD card slot |
 |                           CPU | QCA9531@650MHz                                               |
@@ -27,7 +27,12 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 |           Storage Temperature | -20~70°C (-4~158°F)                                          |
 |            Dimension / Weight | 115 x 74 x 22mm / 86g                                        |
 
-
 ## PCB Pinout
 
-![pinout](https://static.gl-inet.com/docs/en/3/hardware/spitz/x750.png) 
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/spitz/x750.png" itemprop="contentUrl" data-size="695x685">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/spitz/x750.png" itemprop="thumbnail" alt="gl-x750 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

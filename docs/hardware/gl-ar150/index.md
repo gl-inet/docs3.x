@@ -2,9 +2,6 @@
 
 AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 
-
-
-
 ## Hardware Specification
 
 |                         Model | GL-AR150                                                     |
@@ -30,13 +27,25 @@ AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 
 ## PCB Pinout
 
-![gl-ar150 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg)
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg" itemprop="contentUrl" data-size="960x720">
+      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg" itemprop="thumbnail" alt="gl-ar150 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
 ## RTC Setting
 
 You can use a RTC (Real-time control) module in GL-AR150 mini router.
 
-![gl-ar150 use RTC module](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/rtc_1200x1200.jpg)
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/rtc_1200x1200.jpg" itemprop="contentUrl" data-size="786x478">
+      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/rtc_1200x1200.jpg" itemprop="thumbnail" alt="gl-ar150 use RTC module" loading="lazy" />
+    </a>
+  </figure>
+</div>
 
 ### Install kernel modules
 

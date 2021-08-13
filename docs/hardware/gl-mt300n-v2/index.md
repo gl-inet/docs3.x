@@ -2,16 +2,12 @@
 
 The best selling mini router.
 
-
-
 MT300N-V2 is an upgraded version of MT300N. The differences include:
 
 * RAM is doubled to 128MB 
 * WiFi performance is improved using MTK proprietary driver. This driver doesn't support monitoring mode. But it support layer 2 bridging for all kinds of AP, which is not the case of opensource drivers.
 * Opensource wifi drivers also work but it has some bugs and cause kernel panic. This problem was never solved by the community.  
 * No PoE options.
-
-
 
 ##  Hardware Specification
 
@@ -34,19 +30,14 @@ MT300N-V2 is an upgraded version of MT300N. The differences include:
 |             Power Consumption | <2.75W                                                    |
 |             Dimension, Weight | 58mmX58mmX25mm, 39g                                       |
 
-
-
 ## PCB Pinout
 
 The pins on the left side can be actually used for Ethernet port or EMMC. They cannot be used as GPIO.
 
-![gl-mt300n-v2 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg)
-
-   
-
-
-
-
-
-
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1654">
+      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg" itemprop="thumbnail" alt="gl-mt300n-v2 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

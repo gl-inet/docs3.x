@@ -6,8 +6,6 @@ GL-USB150 is also named as Microuter. It is the smallest travel router ever. It 
 
 It is mainly used to replace the wifi card of your PC or work as repeater. It is a firewall, separating your PC from public wifi networks.
 
-
-
 ## Hardware Specification
 
 |             Model | GL-USB150               |
@@ -23,17 +21,13 @@ It is mainly used to replace the wifi card of your PC or work as repeater. It is
 | Power Consumption | <1W                     |
 | Dimension, Weight | 84mmX24mmX11mm, 10g     |
 
-
-
 ## PCB Pinout
 
-![gl-usb150 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/usb150/src/GL-USB150-PINOUT-1.jpg)
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/usb150/src/GL-USB150-PINOUT-1.jpg" itemprop="contentUrl" data-size="2000x1500">
+      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/usb150/src/GL-USB150-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-usb150 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
    
-
-
-
-
-
-
-

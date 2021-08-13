@@ -1,14 +1,10 @@
 #  GL-AR750 Travel AC Router
 
-
-
 The first dual-band AC travel router. We added one more Ethernet port (totally 3) so that it fit better for fixed usage scenario as well. It has a MicroSD (TF) slot which increase your storage space up to 128GB.
 
 It has PoE options which is the best choice for affordable wifi coverage.
 
 The 2.4G antenna is on the PCB and don't have a uFL connector. While the 5G antenna has uFL connector.
-
-
 
 ## Hardware Specification
 
@@ -31,15 +27,12 @@ The 2.4G antenna is on the PCB and don't have a uFL connector. While the 5G ante
 |             Power Consumption | <6W                                                          |
 |             Dimension, Weight | 88mmX68mmX24mm, 66g                                          |
 
-
-
 ## PCB Pinout
 
-![gl-ar750 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar750/src/AR750-V1.0-PINOUT-1.jpg) 
-
-
-
-
-
-
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar750/src/AR750-V1.0-PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1653">
+      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar750/src/AR750-V1.0-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ar750 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

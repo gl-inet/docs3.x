@@ -1,10 +1,6 @@
 #  GL-AR750S Gigabit AC Travel Router
 
-
-
 The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally 3) to Gigabit ports so that it get faster speed in your travel. We also added 128MB Nand Flash to provide dual flash for more storage and faster operation speed. It has a MicroSD (TF) slot which increase your storage space up to 128GB. 
-
-
 
 ## Hardware Specification
 
@@ -26,15 +22,12 @@ The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally
 |             Power Consumption | <6W                                                          |
 |             Dimension, Weight | 100mmX68mmX24mm, 86g                                         |
 
-
-
 ## PCB Pinout
 
-![GL-AR750S PINOUT](https://static.gl-inet.com/docs/en/3/hardware/ar750s/AR750S-V1.0-PINOUT-01.jpg)
-
-
-
-
-
-
-
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/hardware/ar750s/AR750S-V1.0-PINOUT-01.jpg" itemprop="contentUrl" data-size="1126x1066">
+      <img src="https://static.gl-inet.com/docs/en/3/hardware/ar750s/AR750S-V1.0-PINOUT-01.jpg" itemprop="thumbnail" alt="GL-AR750S pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>
