@@ -1,0 +1,34 @@
+/* for home page product cards */
+.gl-product-row {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px !important;
+  display: block;
+  margin: 0px;
+}
+.gl-product-row-box {
+  float: left;	width: 100%;
+  margin-bottom: 25px;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+}
+.gl-product-card {
+  float: left;
+  width: 95%;
+  margin-right: 2%;
+  margin-bottom: 5%;
+  background-color: #FFFFFF;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 3px;
+  border-style: solid;
+  border-color: #ffffff
+}
+.gl-product-card:hover {
+  border-color: #b6bde3 !important;
+}
+@media only screen and (max-width: 30em) {
+	.gl-product-row-box {
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  }
+}

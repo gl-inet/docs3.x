@@ -66,6 +66,7 @@ extra_css:
   # we can use the cdn or files
   # - stylesheets/photoswipe.min.css
   # - stylesheets/default-skin.min.css
+  - stylesheets/extra.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js
@@ -73,6 +74,9 @@ extra_javascript:
   # - javascripts/photoswipe.min.js
   # - javascripts/photoswipe-ui-default.min.js
   - javascripts/extra.js
+
+markdown_extensions:
+  - attr_list
 
 nav:
   - Home:
