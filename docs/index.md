@@ -1,8 +1,10 @@
-# Welcome to GL.iNet Documentation
+# Welcome to GL.iNet Docs
 
 GL.iNet is devoted to make hardware working easily with open-sourced software. This docs site is intended to advise newcomers to how open sourced software works on our hardware. As the product evolves, this docs site will be updated from time to time.
 
 ## First time setup
+
+### Mini router
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -11,6 +13,28 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" width=100%>
       </a>
     </div>
+	<div class="gl-product-card">
+	  <a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
+	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
+	  </a>
+    </div>
+	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
+      </a>
+  	</div>
+	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/vixmini/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
+  	  </a>
+  	</div>
+  </div>
+</div>
+
+### Travel router
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
     <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/travel_ac_router/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
@@ -26,24 +50,80 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
       </a>
     </div>
+  	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/mudi/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
+  	  </a>
+  	</div>
+  </div>
+</div>
+
+### 4G LTE router gateway
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
-      </a>
-    </div>
-    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/cirrus/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
+  	  </a>
+  	</div>
+	<div class="gl-product-card">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
+  	  </a>
+  	</div>
+	<div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
-    <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/microuter/first-time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
-      </a>
+	<div class="gl-product-card">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/  L-X300B-User-Manuel-Version-20201117.pdf">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
+  	  </a>
   	</div>
-    <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/vixmini/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
+	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+  	  </a>
+  	</div>
+	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/first-time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
+      </a>
+    </div>
+  </div>
+</div>
+
+### IoT gateway
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
+  	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/convexa_s/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
+  	  </a>
+  	</div>
+	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/spitz/first-time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
+      </a>
+    </div>
+	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+  	  </a>
+  	</div>
+  </div>
+</div>
+
+### Home Wi-Fi
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
+  	<div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/gl-b2200/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
@@ -52,15 +132,39 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/convexa_s/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
+      <a href="https://docs.gl-inet.com/en/3/setup/gl-sf1200/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
   	  </a>
   	</div>
-  	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
+  </div>
+</div>
+
+### Enterprise
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/cirrus/first-time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
   	  </a>
-  	</div>	
+  	</div>
+	<div class="gl-product-card">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
+  	  </a>
+  	</div>
+	<div class="gl-product-card">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/  L-X300B-User-Manuel-Version-20201117.pdf">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
+  	  </a>
+  	</div>
+  </div>
+</div>
+
+### Edge computing
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
   	<div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/brume/first-time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/setup/brume/docs_icon_mv1000-2.png" width=100%>
@@ -71,41 +175,6 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	    <img src="https://static.gl-inet.com/docs/en/3/setup/brume-w/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
-  	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/mudi/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
-  	  </a>
-  	</div>
-  	<div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
-  	  </a>
-  	</div>
-  	<div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/  L-X300B-User-Manuel-Version-20201117.pdf">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
-  	  </a>
-  	</div>
-  	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/cirrus/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
-  	  </a>
-  	</div>	
-  	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
-  	  </a>
-  	</div>
-  	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-b2200/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
-  	  </a>
-  	</div>
-  	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-sf1200/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
-  	  </a>
-  	</div>
   </div>
 </div>
 
@@ -185,6 +254,16 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 </details>
 
 [For more FAQ](https://docs.gl-inet.com/en/3/troubleshooting/faq/)
+
+## Tools
+
+* [Mobile App](https://www.gl-inet.com/app/){target="_blank}, for control GL.iNet routers locally or via cloud in your phone.
+* [GoodCloud](https://www.goodcloud.xyz){target="_blank}, the cloud platform website for GL.iNet routers.
+* [AstroRelay](https://www.astrorelay.com){target="_blank}, a secure reverse proxy solution.
+
+## Firmware APIs
+
+* [GL.iNet router firmware API](https://dev.gl-inet.com){target="_blank}
 
 ## Official Support
 

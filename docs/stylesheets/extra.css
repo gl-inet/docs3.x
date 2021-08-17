@@ -6,11 +6,11 @@
   margin: 0px;
 }
 .gl-product-row-box {
-  float: left;	width: 100%;
+  float: left;
+  width: 100%;
   margin-bottom: 25px;
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
 }
 .gl-product-card {
   float: left;
@@ -29,6 +29,5 @@
 @media only screen and (max-width: 30em) {
 	.gl-product-row-box {
     grid-template-columns: 50% 50%;
-    grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
   }
 }
