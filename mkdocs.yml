@@ -82,31 +82,31 @@ nav:
   - Home:
     - Home: index.md
     - Services: service.md
-  - Hardware:
-    - GL-AR150: hardware/gl-ar150/index.md
-    - GL-AR300M: hardware/gl-ar300m/index.md
-    - GL-MT300N-V2: hardware/gl-mt300n-v2/index.md
-    - GL-AR750: hardware/gl-ar750/index.md
-    - GL-AR750S: hardware/gl-ar750s/index.md
-    - GL-MT1300: hardware/gl-mt1300/index.md
-    - GL-MiFi: hardware/gl-mifi/index.md
-    - GL-XE300: hardware/gl-xe300/index.md
-    - GL-X750: hardware/gl-x750/index.md
-    - GL-E750: hardware/gl-e750/index.md
-    - GL-USB150: hardware/gl-usb150/index.md
-    - GL-B1300: hardware/gl-b1300/index.md
-    - GL-S1300: hardware/gl-s1300/index.md
-    - GL-MV1000: hardware/gl-mv1000/index.md
-    - GL-MV1000W: hardware/gl-mv1000w/index.md
-    - GL-X1200: hardware/gl-x1200/index.md
-    - GL-X300B: hardware/gl-x300b/index.md
-    - GL-AP1300: hardware/gl-ap1300/index.md
-    - GL-B2200: hardware/gl-b2200/index.md
-    - GL-SF1200: hardware/gl-sf1200/index.md
-    - microuter-N300: hardware/microuter-n300/index.md
-    - Domino Core: hardware/domino-core/index.md
-    - GL-MT300A: hardware/gl-mt300a/index.md
-    - GL-MT300N: hardware/gl-mt300n/index.md
+  - Specification:
+    - GL-AR150: specification/gl-ar150/index.md
+    - GL-AR300M: specification/gl-ar300m/index.md
+    - GL-MT300N-V2: specification/gl-mt300n-v2/index.md
+    - GL-AR750: specification/gl-ar750/index.md
+    - GL-AR750S: specification/gl-ar750s/index.md
+    - GL-MT1300: specification/gl-mt1300/index.md
+    - GL-MiFi: specification/gl-mifi/index.md
+    - GL-XE300: specification/gl-xe300/index.md
+    - GL-X750: specification/gl-x750/index.md
+    - GL-E750: specification/gl-e750/index.md
+    - GL-USB150: specification/gl-usb150/index.md
+    - GL-B1300: specification/gl-b1300/index.md
+    - GL-S1300: specification/gl-s1300/index.md
+    - GL-MV1000: specification/gl-mv1000/index.md
+    - GL-MV1000W: specification/gl-mv1000w/index.md
+    - GL-X1200: specification/gl-x1200/index.md
+    - GL-X300B: specification/gl-x300b/index.md
+    - GL-AP1300: specification/gl-ap1300/index.md
+    - GL-B2200: specification/gl-b2200/index.md
+    - GL-SF1200: specification/gl-sf1200/index.md
+    - microuter-N300: specification/microuter-n300/index.md
+    - Domino Core: specification/domino-core/index.md
+    - GL-MT300A: specification/gl-mt300a/index.md
+    - GL-MT300N: specification/gl-mt300n/index.md
   - Setup:
     - Mini Router Series:
       - First-time Setup: setup/mini_router/first-time_setup.md
@@ -293,9 +293,6 @@ nav:
       - Upgrade: setup/vixmini/upgrade.md
       - Applications: setup/vixmini/applications.md
       - More Settings: setup/vixmini/more_settings.md
-  - Development:
-    - UART Serial: dev/serial.md
-    - Advanced Uboot: dev/uboot.md
   - Application:
     - SSH to the router: app/ssh.md
     - OpenVPN: app/openvpn.md
@@ -315,6 +312,9 @@ nav:
     - EasyTether: app/tether.md
     - Tor: app/tor.md
     - Camera: app/camera.md
+  - Development:
+    - UART Serial: dev/serial.md
+    - Advanced Uboot: dev/uboot.md
   - Video:
     - Product Intro: video/product_intro.md
     - Tutorial: video/tutor.md  
