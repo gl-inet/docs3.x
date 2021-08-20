@@ -13,20 +13,20 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" width=100%>
       </a>
     </div>
-	<div class="gl-product-card">
-	  <a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
-	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
-	  </a>
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
+      </a>
     </div>
-	<div class="gl-product-card">
+    <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-usb150/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
       </a>
   	</div>
-	<div class="gl-product-card">
+    <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/vixmini/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
-  	  </a>
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
+      </a>
   	</div>
   </div>
 </div>
@@ -67,27 +67,27 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-x750/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-mifi/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
       </a>
@@ -104,12 +104,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-x750/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
@@ -148,12 +148,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
@@ -226,7 +226,9 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   <ol type="1">
     <li>Access the admin panel via 192.168.8.1</li>
     <li>Go to <b>MORE SETTINGS</b> -> <b>Network mode</b>.</li>
-    <li>Change the network mode to <b>Access Point</b>, <b>Extender</b> or <b>WDS</b>.</li>
+    <li>
+      Change the network mode to <b>Access Point</b>, <b>Extender</b> or <b>WDS</b>.
+    </li>
     <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg">
   </ol>
 </details>
@@ -248,7 +250,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     </li>
     <li>
       <p>Click <b>Yes</b> to confirm.</p>
-        <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg"/>
+      <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg"/>
     </li>
   </ol>
 </details>
