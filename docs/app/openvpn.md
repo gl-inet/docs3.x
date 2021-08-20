@@ -151,12 +151,12 @@ Recommended:
 
 <details>
 <summary>ExpressVPN</summary>
-<p><a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank">Official Website</a></p>
+<p><a href="https://www.xvbelink.com/?a_fid=glinet" rel="sponsored" target="_blank">Official Website</a></p>
 
-<p>*Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download">Expressvpn official instruction</a></p>
+<p>*Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download" rel="sponsored">Expressvpn official instruction</a></p>
 <ol type="1">
 
-<li>Log in to your <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank">ExpressVPN</a> account.</li>
+<li>Log in to your <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank" rel="sponsored">ExpressVPN</a> account.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN1.jpg" /></p>
 <li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
 <p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN2.png" /></p>
