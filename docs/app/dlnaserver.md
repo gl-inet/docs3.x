@@ -1,10 +1,11 @@
 # DLNA SERVER
+
 Some of GL.iNet routers support DLNA Server, but this is not a default function. You need to install a little plug-ins to make it workable. 
 
-Supporting List:
-GL-AR750S-Ext, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi and GL-X750
+Support models: GL-AR750S-Ext, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi and GL-X750
 
 ## Install Plug-ins 
+
 Go to **APPLICATIONS**, then **Plug-ins**.
 Install two apps:
 
@@ -16,6 +17,7 @@ Install two apps:
 ![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/dlna2.png)
 
 ## Use the DLNA server in GL.iNet Routers
+
 After Installation of two applications, you can now use your GL.iNet router as as DLNA server. 
 
 1. Make suer you already has a TF card inserted into the card slot before you power up your router. *Hot-plug* is not supported on GL.iNET routers. 
@@ -27,10 +29,11 @@ Take Windows as example:
 
 In Windows Media Player: 
 ![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/dlnaserver1.png)
+
 In Windows File Explorer -> Network
 ![](https://static.gl-inet.com/docs/en/3/app/dlnaserver/dlnaserver2.png)
 
-IOS: Install VLC or UPNP Extreme in App Store:
+iOS: Install VLC or UPNP Extreme in App Store:
 
 You can easily find the OpenWrt DLNA Sever in UPNP:
 UPNP Extreme and VLC Installation | UPNP Setup
@@ -46,8 +49,6 @@ Step 1 | Step 2
 - | - 
 ![alt](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios3.PNG) | ![alt](https://static.gl-inet.com/docs/en/3/app/dlnaserver/ios4.PNG)
 
-
-
 Also other devices can easily find the OpenWrt DLNA Server easily.
 
-Enjoy your media DLNA Server by GL.iNET routers. 
+Enjoy your media DLNA Server by GL.iNET routers.

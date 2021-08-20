@@ -1,8 +1,8 @@
 # SMS Forward
 
-Starting from firmware version 3.105, users can forward SMS message from router to phone or email.
+Since version 3.105, users can forward SMS message from router to phone or email.
 
-Note: This feature only work on GL.iNet 4G models with original 4G LTE module, not support with other modules or any other USB modules. Currently support GL-MiFi, GL-X750 (Spitz), GL-X1200 (Amarok), GL-XE300 (Puli), GL-X300B (Collie). 
+Note: This feature only works on GL.iNet 4G models with original 4G LTE module, not support with other modules or any other USB modules. Currently support GL-MiFi, GL-X750 (Spitz), GL-X1200 (Amarok), GL-XE300 (Puli), GL-X300B (Collie). 
 
 Please follow this guide to complete the settings.
 

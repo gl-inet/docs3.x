@@ -83,6 +83,7 @@ nav:
     - Home: index.md
     - Services: service.md
   - Specification:
+    - Overview: specification/index.md
     - GL-AR150: specification/gl-ar150/index.md
     - GL-AR300M: specification/gl-ar300m/index.md
     - GL-MT300N-V2: specification/gl-mt300n-v2/index.md
@@ -108,6 +109,7 @@ nav:
     - GL-MT300A: specification/gl-mt300a/index.md
     - GL-MT300N: specification/gl-mt300n/index.md
   - Setup:
+    - Overview: setup/index.md
     - Mini Router Series:
       - First-time Setup: setup/mini_router/first-time_setup.md
       - Internet: setup/mini_router/internet.md
@@ -293,8 +295,10 @@ nav:
       - Upgrade: setup/vixmini/upgrade.md
       - Applications: setup/vixmini/applications.md
       - More Settings: setup/vixmini/more_settings.md
-  - Application:
+  - Tutorial:
+    - Overview: app/index.md
     - SSH to the router: app/ssh.md
+    - Copy files to router: app/scp.md
     - OpenVPN: app/openvpn.md
     - WireGuard: app/wireguard.md
     - Internet Kill Switch: app/internet_kill_switch.md
@@ -306,7 +310,7 @@ nav:
     - NextDNS: app/nextdns.md
     - SMS Forward: app/sms_forward.md
     - LED Customization: app/led_customization.md
-    - Set a Captive Portal: app/captive_portal.md
+    - Captive Portal: app/captive_portal.md
     - BLE MQTT Bridge: app/ble2mqtt.md
     - qDslrDashboard: app/qdslrdashboard.md
     - EasyTether: app/tether.md
@@ -316,11 +320,13 @@ nav:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
   - Video:
+    - Overview: video/index.md
     - Product Intro: video/product_intro.md
     - Tutorial: video/tutor.md  
     - Customer Review: video/review.md
     - Unboxing: video/unboxing.md
   - Troubleshooting:
+    - Overview: troubleshooting/index.md
     - LED Indicators: troubleshooting/led.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md

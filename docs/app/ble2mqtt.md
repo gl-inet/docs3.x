@@ -4,9 +4,7 @@
 
 Bluetooth Low Energy (BLE) is widely used for smart home, wearable and IoT sensors. This guide provide a simple but useful tool that send your BLE data to MQTT servers, which is the underling mechanism for popular IoT solution. 
 
-In this guide we will introduce two GL.iNet BLE gateway, `GL-X750 Spitz`	and `GL-S1300 convexa S` which has built-in BLE modules and how to use them to forward your BLE data to the cloud based on MQTT protocol, including GL.iNet `GoodCloud` and `AWS IoT`. 
-
-
+In this guide we will introduce two GL.iNet BLE gateway, `GL-X750 Spitz`	and `GL-S1300 Convexa-S` which has optional built-in BLE modules and how to use them to forward your BLE data to the cloud based on MQTT protocol. This take GL.iNet [GoodCloud](https://www.goodcloud.xyz){target="_blank} and [AWS IoT](https://aws.amazon.com/iot/){target="_blank} as example.
 
 ## Hardware Required
 
@@ -21,13 +19,13 @@ Both GL-X750 and GL-S1300 comes with a Silicon BLE 5.0 module with the following
 | Storage               | RAM:32KB/ Flash:256KB                                       |
 | Tx Power              | 19 dBm                                                      |
 | Antenna               | On-board antenna (external antenna IPEX reserved)           |
-| Internal Interface    | 17*GPIO (could be configured to UART、SPI、JTAG、I2C, etc.) |
+| Internal Interface    | 17*GPIO (could be configured to UART、SPI、JTAG、I2C, etc.)  |
 | Module Interface Type | Stamp interface/Pin interface                               |
 | Supply Voltage        | 3.3 V                                                       |
 | Power Consumption     | support low power consumption, standby power＜50uW          |
 | Module Dimenstion     | 25mm*20mm                                                   |
-| Operation Temperature | 0℃~75℃                                                      |
-| Storage Temperature   | -40℃~85℃                                                    |
+| Operation Temperature | 0℃~75℃                                                     |
+| Storage Temperature   | -40℃~85℃                                                   |
 | Operating Humidity    | 10%~90%                                                     |
 
 You must use the gateway with BLE devices.
@@ -109,8 +107,6 @@ config service 'cloud'
 
 ```
 
-
-
 **Forward data to GoodCloud**
 
 To forward data to GoodCloud, you can use simple shell script. 
@@ -132,8 +128,6 @@ Login the [GoodCloud](https://www.goodcloud.xyz)，find the registered device in
 ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-device.png)
 
 ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-log.jpg)
-
-
 
 ### Send Data to AWS IoT
 
@@ -167,13 +161,11 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
 
   Most web browsers save downloaded files into a Downloads directory. You will copy these files to a different directory when you run the sample applications. Choose **Activate** to activate the X.509 certificate, and then choose **Attach a policy**.
 
-
 ![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image005.png)
 
 The **RSA 2048 bit key: Amazon Root CA1** download web page:
 
 ![	](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image007.png)
-
 
 
 6) Active your thing
@@ -185,8 +177,6 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 ####2. Attach Policy
 
 1) After you register your thing, you will need to create and attach a new **policy** to the **certificate**.![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image009.png)
-
-
 
 2) Enter a Name for the policy,such as x750_policy, then **Advance mode**
 
@@ -219,7 +209,6 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image012.png)
 
 
-
 5) On the left side, Secure --> Certificates, Select the certificate you just created, Actions
 --> Attach policy
 
@@ -228,8 +217,6 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 6) Chose the policy you created(x750_policy) and choose **Attach**.
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image014.png)
-
-
 
 ####3. Config GL.iNet devices to connect to AWS IoT
 
@@ -341,8 +328,6 @@ You can find your AWT IoT endpoints at **Interact**.
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image020.png)
 
-
-
 **5) Connect your devices to AWS IoT Cloud**
 
 Start connect to AWS Cloud
@@ -393,8 +378,6 @@ Or **Publish topic to your router a message**:
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image024.png)
 
-
-
 A message published by AWS IoT Cloud will be received on your router in few seconds. 
 
 ```shell
@@ -402,8 +385,6 @@ logread
 ```
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image025.png)
-
-
 
 ## Application and Demo 
 
@@ -436,4 +417,3 @@ ubus call mqtt pub "$data"
 rm /tmp/blesniffer.log
 done
 ```
-

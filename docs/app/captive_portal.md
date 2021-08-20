@@ -41,6 +41,3 @@ After you had change the page, it need to disable Portal and enable Portal again
 Follow the steps below to disable Captive Portal.
 
 ![turn off captive portal](https://static.gl-inet.com/docs/en/3/app/captive_portal/turn-off-captive-portal.png)
-
-
-

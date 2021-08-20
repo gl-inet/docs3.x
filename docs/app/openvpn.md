@@ -1,9 +1,8 @@
 # OpenVPN
 
-GL.iNet routers have pre-installed OpenVPN server and client. 
+OpenVPN is an open-source VPN protocol that makes use of virtual private network (VPN) techniques to establish safe site-to-site or point-to-point connections. 
 
-
----
+GL.iNet routers have pre-installed OpenVPN Client and Server.
 
 ## OpenVPN Client
 
@@ -13,8 +12,6 @@ Click `+ Add a New VPN Configuration` to upload the configuration file.
 
 ![client](https://static.gl-inet.com/docs/en/3/app/openvpn/src/client.jpg)
 
-
-
 ### 1) Upload your OpenVPN configuration file
 
 Simply drag and drop your file to the pop up windows. It can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
@@ -23,15 +20,11 @@ Be careful that some .ovpn files use separated ca, cert, crl files. These files 
 
 ![Upload](https://static.gl-inet.com/docs/en/3/app/openvpn/src/upload.jpg)
 
-
-
 ### 2) Enter Description, Username and Password
 
 Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter your username and password.
 
 ![add](https://static.gl-inet.com/docs/en/3/app/openvpn/src/add.jpg)
-
-
 
 ### 3) Connect to the OpenVPN server
 
@@ -39,13 +32,9 @@ You can now click `Connect` to start the OpenVPN connection.
 
 ![connect](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connect.jpg)
 
-
-
 Once connected, you should find your IP address, data received/sent.
 
 ![connected](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connected.jpg)
-
-
 
 ### 4) Manage configuration files
 
@@ -54,8 +43,6 @@ Click `Management` to check the list of configuration files. You can modify the 
 If your configuration file is a zip/tar.gz file which includes multiple ovpn files, you can choose an individual .ovpn file that you would like to connect in **Server**.
 
 ![management](https://static.gl-inet.com/docs/en/3/app/openvpn/src/management.jpg)
-
-
 
 ## Get your configuration file
 

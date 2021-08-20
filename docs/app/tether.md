@@ -1,13 +1,11 @@
 # EasyTether 
 This article is about how to tether your phone to your router by using EasyTether.
 
-
-
 ## Intro
 
 There is several reasons you need to share your smartphone's data  to your router:
 
-1. Carriers tries to give you a plan with plenty of data but actually you don't need that much.
+1. Carriers give you a plan with plenty of data but actually you don't need that much.
 2. 4G speed is quite fast and it beats your home Internet speed. You can use the data for your laptop.
 3. Using your phone as a hotspot directly is easy, but you cannot connect too many devices.
 
@@ -15,43 +13,37 @@ It is very easy to share your data to GL.iNet mini router using router's control
 
 We will use Android OS and GL mini router to demonstrate the procedure.
 
-
-
 ---
 
 ## Stuff you need
 
 ### Equipment
 
-1)     Samsung Galaxy S6 with Android OS
+1. Samsung Galaxy S6 with Android OS
 
-2)     GL-AR150 mini router (Other models are also OK)
+2. GL-AR150 mini router (Other models are also OK)
 
-3)     4G sim card
-
-
+3. 4G SIM card
 
 ### Software
 
-1)     WinSCP ([https://winscp.net/eng/download.php](https://winscp.net/eng/download.php))
+1. WinSCP ([https://winscp.net/eng/download.php](https://winscp.net/eng/download.php))
 
-![WinSCP](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q4.png)
+    ![WinSCP](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q4.png)
 
-2)     PuTTY ([https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html))
+2. PuTTY ([https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html))
 
-![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q3.png)
+    ![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q3.png)
 
-3)     EasyTether driver openssl ([http://www.mobile-stream.com/easytether/drivers.html](http://www.mobile-stream.com/easytether/drivers.html))
+3. EasyTether driver openssl ([http://www.mobile-stream.com/easytether/drivers.html](http://www.mobile-stream.com/easytether/drivers.html))
 
-![EasyTether Driver](https://static.gl-inet.com/docs/en/3/app/tether/easytether_openwrt18.06.png)
+    ![EasyTether Driver](https://static.gl-inet.com/docs/en/3/app/tether/easytether_openwrt18.06.png)
 
-         *Note: For MT300N-V2, please choose LEDE.*
+    *Note: For MT300N-V2, please choose LEDE.*
 
-![LEDE for MT300N-V2](https://static.gl-inet.com/docs/en/2.x/app/src/tether/14.jpg)
+    ![LEDE for MT300N-V2](https://static.gl-inet.com/docs/en/2.x/app/src/tether/14.jpg)
 
-4)     EasyTether Android App (Search in Google Play Store)
-
-
+4. EasyTether Android App (Search in Google Play Store)
 
 ---
 
@@ -63,39 +55,27 @@ We will use Android OS and GL mini router to demonstrate the procedure.
 
 Enter 192.168.8.1 in your browser and get into the router web interface. Set the password which will be used for OpenWRT later. Next, update your router to the latest firmware.
 
-
-
 #### *2) Transfer IPK driver package to the router*
 
 ***i.*** Find out the chip of your model (for example Atheros 9531, MediaTek MT7620N, etc) from the website. It is because you have to choose the IPK driver package in the EasyTether driver file base on the chip of your router. (For GL router, you can find the information on our website: www.gl-inet.com, and we will also indicate the position of the IPK driver file for our mini router in section iv.):
 
 ![Chip model](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q5.png)
 
-
-
 ***ii.*** Extract the EasyTether driver file. Open WinSCP, choose SCP as the file protocol and enter the information as the figure shown below:
 
 ![WinSCP login](https://static.gl-inet.com/docs/en/2.x/app/src/tether/1.jpg)
-
-
 
 You can see the following screen once your connection has been established (left-hand side: Your PC, right-hand side: Your router):
 
 ![Screen](https://static.gl-inet.com/docs/en/2.x/app/src/tether/2.png)
 
-
-
 ***iii.*** Go to the main folder by clicking this button.
 
- ![Folder](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q1.png)
-
-
+![Folder](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q1.png)
 
 You will see the directory tree of the router:
 
 ![Directory tree](https://static.gl-inet.com/docs/en/2.x/app/src/tether/3.png)
-
-
 
 ***iv.*** On the left-hand side (Your PC), find the IPK file of your router in EasyTether driver file you have extracted before. On the right-hand side (Your router), open the tmp folder. Lastly, right click the IPK file and choose upload:
 
@@ -105,23 +85,17 @@ You will see the directory tree of the router:
 
 ![Upload1](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q11.png)
 
-
-
 #### *3) Use SSH to install EasyTether driver*
 
 ***i.*** Open PuTTY, enter the IP of your router and other information as the figure shown below, then click Open:
 
 ![Putty](https://static.gl-inet.com/docs/en/2.x/app/src/tether/4.png)
 
-
-
 ***ii.*** Login by using your username and password of the router (username: root; password: same as the one you need for entering the web interface):
 
 *Note: The password you entered will not be showed on the screen.*
 
 ![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/5.png)
-
-
 
 ***iii.*** You can now update the OpenWRT modules (internet connection required) by typing:
 
@@ -131,21 +105,15 @@ Hit enter and then it will update automatically.
 
 *Note: You can skip the update and do it after you have finished tethering.*
 
-
-
 ***iv.*** Install the driver by typing the following command and then hit enter:
 
 `opkg install /tmp/filename.ipk`
 
 *Note: The filename is the file you uploaded in Procedure A)2.ii.*
 
-
-
 ***v.*** Type in the following command and hit enter:
 
 `easytether-usb`
-
-
 
 ***vi.*** Copy the following command to Putty:
 
@@ -160,13 +128,9 @@ EOF
 
 *Note:  To paste it into Putty, just right click the black screen and then hit enter.*
 
-
-
 ***vii.*** Type in the following command to reboot your router or unplug the power cable of your router. Afterward, plug in the power cable to turn on the router.
 
 `reboot -f`
-
-
 
 ### Preparing your smart phone
 
@@ -176,13 +140,9 @@ EOF
 
 ![Build number](https://static.gl-inet.com/docs/en/2.x/app/src/tether/XXXXXXX.jpg)
 
-
-
 ***ii.*** Go to Setting -> Developer Options, turn on the Developer Options and also the USB debugging.
 
 ![Developer Options](https://static.gl-inet.com/docs/en/2.x/app/src/tether/XXXX.jpg)
-
-
 
 #### *2) Start tethering*
 
@@ -190,26 +150,19 @@ EOF
 
 ![EasyTether App](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165645.jpg)
 
-
-
 ***ii.*** Connect your phone to the router via USB cable. Hit OK to allow the USB debugging.
 
 ![Connect](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165701.jpg)
 
-
-
 ***iii.*** Your connection has been established.
 
 ![Connection finished](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165709.jpg)
-
-
 
 You can now connect your device to the router and access the Internet. However, if you are using the lite version of EasyTether app, you will not able to access the website with https like: https://www.youtube.com since this type of secure communication is being blocked by the lite version.
 
 ## Advanced Configuration
 
 If you are using your WAN ethernet port to connect to the internet, it may be tedious to ssh into your router when you want to switch between EasyTether and ethernet. This section will show you how to set your router up so you can use either one without needing to ssh into the router and reconfigure the interfaces.
-
 
 ***i.*** Create the EasyTether interface
 
@@ -250,7 +203,6 @@ config zone
         option network 'wan wan6 wwan easytether'
 ```
 
-
 ## Enabling auto-connect
 
 This will enable the router to automatically estabilish an easytether connection.
@@ -281,7 +233,6 @@ EOF
 ## Interface priority
 
 It can be useful to use EasyTether as a fallback connection in the event your main source of internet goes down. This section shows you how to set interface priorities.
-
 
 ***i.*** SSH into your router with Putty and run the the following commands:
 
