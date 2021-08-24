@@ -297,11 +297,13 @@ nav:
       - Applications: setup/vixmini/applications.md
       - More Settings: setup/vixmini/more_settings.md
   - Tutorials:
-    # - Overview: tutorials/index.md
+    - Overview: tutorials/index.md
     - SSH to the router: tutorials/ssh.md
     - Copy files to router: tutorials/scp.md
-    - OpenVPN: tutorials/openvpn.md
-    - WireGuard: tutorials/wireguard.md
+    - OpenVPN Client: tutorials/openvpn_client.md
+    - OpenVPN Server: tutorials/openvpn_server.md
+    - WireGuard Client: tutorials/wireguard_client.md
+    - WireGuard Server: tutorials/wireguard_server.md
     - Internet Kill Switch: tutorials/internet_kill_switch.md
     - VPN Policies: tutorials/vpn_policies.md
     - File Sharing: tutorials/file_sharing.md
@@ -309,6 +311,7 @@ nav:
     - DDNS: tutorials/ddns.md
     - Cloud: tutorials/cloud.md
     - NextDNS: tutorials/nextdns.md
+    - Mobile app: tutorials/mobile_app.md
     - SMS Forward: tutorials/sms_forward.md
     - LED Customization: tutorials/led_customization.md
     - Captive Portal: tutorials/captive_portal.md
