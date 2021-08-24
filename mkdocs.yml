@@ -296,27 +296,27 @@ nav:
       - Upgrade: setup/vixmini/upgrade.md
       - Applications: setup/vixmini/applications.md
       - More Settings: setup/vixmini/more_settings.md
-  - Tutorial:
-    # - Overview: app/index.md
-    - SSH to the router: app/ssh.md
-    - Copy files to router: app/scp.md
-    - OpenVPN: app/openvpn.md
-    - WireGuard: app/wireguard.md
-    - Internet Kill Switch: app/internet_kill_switch.md
-    - VPN Policies: app/vpn_policies.md
-    - File Sharing: app/file_sharing.md
-    - DLNA Server: app/dlnaserver.md
-    - DDNS: app/ddns.md
-    - Cloud: app/cloud.md
-    - NextDNS: app/nextdns.md
-    - SMS Forward: app/sms_forward.md
-    - LED Customization: app/led_customization.md
-    - Captive Portal: app/captive_portal.md
-    - BLE MQTT Bridge: app/ble2mqtt.md
-    - qDslrDashboard: app/qdslrdashboard.md
-    - EasyTether: app/tether.md
-    - Tor: app/tor.md
-    - Camera: app/camera.md
+  - Tutorials:
+    # - Overview: tutorials/index.md
+    - SSH to the router: tutorials/ssh.md
+    - Copy files to router: tutorials/scp.md
+    - OpenVPN: tutorials/openvpn.md
+    - WireGuard: tutorials/wireguard.md
+    - Internet Kill Switch: tutorials/internet_kill_switch.md
+    - VPN Policies: tutorials/vpn_policies.md
+    - File Sharing: tutorials/file_sharing.md
+    - DLNA Server: tutorials/dlnaserver.md
+    - DDNS: tutorials/ddns.md
+    - Cloud: tutorials/cloud.md
+    - NextDNS: tutorials/nextdns.md
+    - SMS Forward: tutorials/sms_forward.md
+    - LED Customization: tutorials/led_customization.md
+    - Captive Portal: tutorials/captive_portal.md
+    - BLE MQTT Bridge: tutorials/ble2mqtt.md
+    - qDslrDashboard: tutorials/qdslrdashboard.md
+    - EasyTether: tutorials/tether.md
+    - Tor: tutorials/tor.md
+    - Camera: tutorials/camera.md
   - Development:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
