@@ -65,7 +65,7 @@
   <div class="gl-product-row-box">
     <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/specification/gl-ap1300/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
 	<div class="gl-product-card">
@@ -146,7 +146,7 @@
   <div class="gl-product-row-box">
     <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/specification/gl-ap1300/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
 	<div class="gl-product-card">
@@ -168,12 +168,12 @@
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/specification/gl-mv1000/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/brume/docs_icon_mv1000-2.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/specification/gl-mv1000w/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/brume-w/docs_icon_mv1000w.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
   </div>
@@ -184,13 +184,13 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ar150/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
+      <a href="https://docs.gl-inet.com/en/3/specification/gl-mt300a/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300a.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ar300m/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar300m.png" width=100%>
+      <a href="https://docs.gl-inet.com/en/3/specification/gl-mt300n/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n.png" width=100%>
       </a>
     </div>
   </div>

@@ -64,7 +64,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   <div class="gl-product-row-box">
     <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-ap1300/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
@@ -145,7 +145,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   <div class="gl-product-row-box">
     <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-ap1300/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/cirrus/docs_icon_ap1300.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
@@ -167,12 +167,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-mv1000/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/brume/docs_icon_mv1000-2.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/3/setup/gl-mv1000w/first-time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/setup/brume-w/docs_icon_mv1000w.png" width=100%>
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
   </div>
