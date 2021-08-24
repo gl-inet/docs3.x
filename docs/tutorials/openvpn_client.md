@@ -6,7 +6,7 @@ GL.iNet routers have pre-installed OpenVPN Client and Server.
 
 ## OpenVPN Client
 
-OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](openvpn.md#get-your-configuration-file).
+OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](openvpn_client.md#get-your-configuration-file).
 
 Click `+ Add a New VPN Configuration` to upload the configuration file.
 
