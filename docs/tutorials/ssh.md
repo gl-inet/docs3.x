@@ -6,13 +6,21 @@ Secure Shell (SSH) is a cryptographic network protocol for operating network ser
 
 ## For Windows User
 
-### 1. Download PuTTY
+There are many tools, like Windows PowerShell, PuTTY, Bitvise.
+
+### Using Bitvise
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7yVd5UkKJ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Using PuTTY
+
+#### 1. Download PuTTY
 
 Go to the following webpage to download the latest PuTTY version:
 
 [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-### 2. Install PuTTY
+#### 2. Install PuTTY
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-1.png) 
 
@@ -22,7 +30,7 @@ Go to the following webpage to download the latest PuTTY version:
 
 ![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-4.png) 
 
-### 3. Launch PuTTY 
+#### 3. Launch PuTTY 
 
 Click **PuTTY** in Start Menu 
 

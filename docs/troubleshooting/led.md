@@ -1,7 +1,5 @@
 # LED Status Indication
 
-
-
 ## Mini Router
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg)
@@ -10,21 +8,12 @@
 - **Wireless**:  Solid Red LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 - **Configurable**: Can be customized by the user.
 
-
-
-
-
-
 ## GL-USB150 Microuter
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/microuter.jpg)
 
 - **Power**: Solid green LED that indicates the router is powered up.
 - **Hotspot**:  Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
-
-
-
-
 
 
 ## GL-MiFi 4G Smart Router
@@ -37,10 +26,6 @@
 - **LAN**: This router is connected to client through LAN cable
 - **WI-Fi**: Solid LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 - **3G/4G**: This router is connected to the 3G/4G LTE network. It will blink when the device has data transmission from 3G/4G LTE network
-
-
-
-
 
 
 ## GL-AR750 
@@ -120,12 +105,10 @@
 
 ## LED Customization
 
-To configure the LED of GL.iNet routers, please login to Luci by clicking **Advanced settings** at the bottom-left corner of the web admin page. 
+To configure the LED of GL.iNet routers, please login to Luci by clicking **Advanced settings** at the bottom-left corner of the web Admin Panel. 
 
 ![](https://static.gl-inet.com/docs/en/3/troubleshooting/ledadvanced.png)
 
 ![](https://static.gl-inet.com/docs/en/3/setup/slate/more_settings/advanced.jpg)
 
 Then please choose **System** > **LED Configuration**.
-
-
