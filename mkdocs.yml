@@ -296,7 +296,7 @@ nav:
       - Applications: setup/vixmini/applications.md
       - More Settings: setup/vixmini/more_settings.md
   - Tutorial:
-    - Overview: app/index.md
+    # - Overview: app/index.md
     - SSH to the router: app/ssh.md
     - Copy files to router: app/scp.md
     - OpenVPN: app/openvpn.md
@@ -320,13 +320,13 @@ nav:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
   - Video:
-    - Overview: video/index.md
+    # - Overview: video/index.md
     - Product Intro: video/product_intro.md
     - Tutorial: video/tutor.md  
     - Customer Review: video/review.md
     - Unboxing: video/unboxing.md
   - Troubleshooting:
-    - Overview: troubleshooting/index.md
+    # - Overview: troubleshooting/index.md
     - LED Indicators: troubleshooting/led.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md
