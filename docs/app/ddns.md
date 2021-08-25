@@ -38,7 +38,7 @@ GoodCloudはファームウェア3.010以上しかサポートしません。
 
 `nslookup xx5007c.glddns.com 8.8.8.8`
 
-![nslookup](https://static.gl-inet.com/docs/en/3/app/ddns/nslookup.png)
+![nslookup](https://static.gl-inet.com/docs/en/3/tutorials/ddns/nslookup.png)
 
 ## 4) HTTP リモートアクセス
 

@@ -166,16 +166,16 @@ OpenVPNセットアップについて質問があったら、[support@gl-inet.co
 <ol type="1">
 
 <li>Login your CyberGhost VPN online account.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/001.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/001.png" /></p>
 <li>Click My Devices -> Add a new device.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/002.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/002.png" /></p>
 <li>Choose other and click Create new credentials.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/003.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/003.png" /></p>
 <li>Choose Router.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/004.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/004.png" /></p>
 <li>Input the name of the device and enable any feature that you need. Next, choose the Protocol, Country, Server group. You should also be able to find the Username and Password which you have to input when you are uploading the configuration file to the router. Finally, click Download Configuration.</li>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/mydevices_052.png" /></p>
-<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/app/openvpn/Cyberghost/mydevices_055.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/mydevices_052.png" /></p>
+<p><img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/mydevices_055.png" /></p>
 
 </ol>
 </details>

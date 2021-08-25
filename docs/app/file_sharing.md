@@ -58,7 +58,7 @@ GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記�
 
 **2)** Windowsエクスプローラを開くと、フォルダディレクトリに**ネットワーク**があります。 ルーターをダブルクリックしてその内容にアクセスします。
 
-![Network](https://static.gl-inet.com/docs/en/3/app/file_sharing/network.jpg)
+![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/network.jpg)
 
 デバイスが発見されていない場合で、ルーターのipアドレスを入力し、共有ファイルが見つけます。
 
@@ -81,19 +81,19 @@ GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記�
 
 **1)** `+`をクリックして、`Windows`接続を作ります。
 
-![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios11.jpg)
+![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios11.jpg)
 
 
 
-![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios12.jpg)
+![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios12.jpg)
 
 **2)** ルーターの「IP address」を入力します。「User Name」がrootです、そして「Password」が管理者パネルをアクセスするときのパスワードです。最後に、`Save`をクリックします。
 
-![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios13.jpg)
+![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios13.jpg)
 
 **3)** 作った接続をクリックして、ファイルにアクセスします。
 
-![IOS1](https://static.gl-inet.com/docs/en/3/app/file_sharing/ios14.jpg)
+![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios14.jpg)
 
 
 
@@ -102,10 +102,10 @@ GL.iNetルーターをUSBメモリ、マイクロSDカードなどの外部記�
 大部分のAndroidデバイスは外部ストレージデバイスのファイルにアクセスできるのファイルマネージャーがあります。**ES file explorer**を使うこともできます。
 **1)** appを開いて、`Network`をクリックします。
 
-![android1](https://static.gl-inet.com/docs/en/3/app/file_sharing/android1.jpg)
+![android1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android1.jpg)
 
 **2)** `Scan`をクリックして、あなたのネットワークストレージデバイスを見つける。
 
-![android2](https://static.gl-inet.com/docs/en/3/app/file_sharing/android2.jpg)
+![android2](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android2.jpg)
 
-![android3](https://static.gl-inet.com/docs/en/3/app/file_sharing/android3.jpg)
+![android3](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android3.jpg)
