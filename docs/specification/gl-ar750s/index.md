@@ -26,8 +26,8 @@ The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/hardware/ar750s/AR750S-V1.0-PINOUT-01.jpg" itemprop="contentUrl" data-size="1126x1066">
-      <img src="https://static.gl-inet.com/docs/en/3/hardware/ar750s/AR750S-V1.0-PINOUT-01.jpg" itemprop="thumbnail" alt="GL-AR750S pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/en/3/specification/ar750s/AR750S-V1.0-PINOUT-01.jpg" itemprop="contentUrl" data-size="1126x1066">
+      <img src="https://static.gl-inet.com/docs/en/3/specification/ar750s/AR750S-V1.0-PINOUT-01.jpg" itemprop="thumbnail" alt="GL-AR750S pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

@@ -33,16 +33,16 @@ You can enable a remote and secure access wherever you are and whenever you want
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-1.jpg" itemprop="contentUrl" data-size="6000x4000">
-      <img src="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ap1300 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-ap1300/GL-AP1300-PINOUT-1.jpg" itemprop="contentUrl" data-size="6000x4000">
+      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-ap1300/GL-AP1300-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ap1300 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-2.jpg" itemprop="contentUrl" data-size="6000x4000">
-      <img src="https://static.gl-inet.com/docs/en/3/hardware/gl-ap1300/GL-AP1300-PINOUT-2.jpg" itemprop="thumbnail" alt="gl-ap1300 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-ap1300/GL-AP1300-PINOUT-2.jpg" itemprop="contentUrl" data-size="6000x4000">
+      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-ap1300/GL-AP1300-PINOUT-2.jpg" itemprop="thumbnail" alt="gl-ap1300 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

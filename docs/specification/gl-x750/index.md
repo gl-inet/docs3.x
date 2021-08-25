@@ -31,8 +31,8 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/hardware/spitz/x750.png" itemprop="contentUrl" data-size="695x685">
-      <img src="https://static.gl-inet.com/docs/en/3/hardware/spitz/x750.png" itemprop="thumbnail" alt="gl-x750 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/en/3/specification/spitz/x750.png" itemprop="contentUrl" data-size="695x685">
+      <img src="https://static.gl-inet.com/docs/en/3/specification/spitz/x750.png" itemprop="thumbnail" alt="gl-x750 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>
