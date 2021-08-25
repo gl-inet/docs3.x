@@ -59,7 +59,6 @@ By using 128MB NAND flash, space is not a problem and the writing speed is impro
 
 By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the wifi speed on a mini router.
 
-
 ## Performance
 
 By adding a fast NAND flash, you can feel how the performance is improved compared to a NOR flash router.
@@ -69,7 +68,6 @@ The performance comparision between AR300M (NAND) with AR150 is below:
 ![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg)
 
 It only takes 6 seconds to upload and process 250 ovpn files. When installing packages to the router, it takes no more than 20% for the time spent than using NOR flash, including the time to download resource from the Internet. So everything just happends in seconds.
-
 
 ## Building Firmware
 
@@ -117,13 +115,13 @@ There is two file for NAND firmware. The `xxx-ubi.img` is used for first time wr
 
 ## Using Firmware
 
-The firmware has exactly the same UI as our other mini routers. To determine you are using NOR flash or NAND flash, please check the available space from the UI.
+The firmware has exactly the same UI as our other mini routers. To determine you are using NOR flash or NAND flash, please check the available space from the `APPLICATIONS -> Plug-ins` page.
 
 ### Control which firmware you are booting into
 
 There are two methods to control which firmware you can boot.
 
-####Method 1: set boot count
+#### Method 1: set boot count
 
 The router will always try to boot into the NAND firmware. But if it fails for 3 times it will try to boot into the NOR firmware. If you want to boot into the NOR firmware, you can tell the router that it failed to boot for 3 times already by setting the uboot env. To do so, you can use the following command in a SSH terminal.
 
@@ -135,22 +133,25 @@ $ reboot
 
 **You need to do this each time** if you want to boot into NOR firmware, no matter you which firmware you are using. Otherwise after the firmware boot, it will reset `bootcount` variable and next boot will always try to boot the NAND firmware.
 
-####Method 2: using the switch
+#### Method 2: using the switch
 
 **This is only valid in the new uboot (from Mar 2017).**
 
 First ssh to the router and set uboot env `boot_dev`
+
 ```
 $ fw_printenv
 $ fw_setenv boot_dev on
 $ reboot
 ```
+
 Then when the router boot, the router will choose which firmware to boot using the hardware switch.
 
 1. Left side (near the reset button) --> NAND flash
 2. Right side  --> NOR flash
 
 To disable using the switch to choose firmware function, clear `boot_dev` variable.
+
 ```
 $ fw_printenv
 $ fw_setenv boot_dev
@@ -163,22 +164,23 @@ If you brick your router and it cannot boot, you can try to save it using uboot.
 
 ### Using uboot web UI
 
-Follow [this guide](/troubleshooting/reset.md) for a general instruction to get access of uboot web UI.
+Follow [this guide](https://docs.gl-inet.com/en/3/troubleshooting/debrick/) for a general instruction to get access of uboot web UI.
 
-Here is a video guide for entering AR300M uboot failsafe. 
+Here is a video guide for entering AR300M uboot failsafe.
+
 <iframe width="480" height="270" src="https://www.youtube.com/embed/-x0RllKkzIc" frameborder="0" allowfullscreen></iframe>
 
 In some early version of AR300M, the uboot boot very slowly. So be patient when you press and hold the reset button. The LEDs will start to flash around 5 seconds.
 
-There is a bug in AR300M uboot and in some computers the connection will always reset when you upload firmware. Check [this post](https://forum.gl-inet.com/t/bricked-ar300m-how-to-restore/) to find the discussion. You can either try chaning the MTU or just try another computer.
+There is a bug in AR300M uboot and in some computers the connection will always reset when you upload firmware. Check [this post](https://forum.gl-inet.com/t/bricked-ar300m-how-to-restore/1659){target="_blank} to find the discussion. You can either try chaning the MTU or just try another computer.
 
 **Note**: If you have an older version of uboot, the webUI will only be able to flash NAND flash. This is fixed in newer versions.
 
 **Note**: When flash NAND firmware, only use the firmware with `.img` in the name, not the one with `.rar` in the name.
 
-The following figure is the web ui of the `new` uboot.
+The following figure is the web UI of the `new` uboot.
 
-![AR300M uboot webui](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/uboot-ar300m.png)
+![AR300M uboot web ui](https://static.gl-inet.com/docs/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg)
 
 ### Using uboot console
 
@@ -187,5 +189,3 @@ If you want to use uboot console, you need to open the case and solder the seria
 Then you need to set up a tftp server.
 
 in uboot console, the command to flash NOR flash is `run lf` to flash NAND firmware is `run nlf`
-
-
