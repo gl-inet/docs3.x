@@ -121,7 +121,7 @@ nav:
       - VPN: setup/mini_router/vpn.md
       - Applications: setup/mini_router/applications.md
       - More Settings: setup/mini_router/more_settings.md
-    - Travel AC Router (GL-AR750):
+    - Creta (GL-AR750):
       - First-time Setup: setup/gl-ar750/first-time_setup.md
       - Internet: setup/gl-ar750/internet.md
       - Wireless: setup/gl-ar750/wireless.md
@@ -326,7 +326,6 @@ nav:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
   - Video:
-    # - Overview: video/index.md
     - Product Intro: video/product_intro.md
     - Tutorial: video/tutor.md  
     - Customer Review: video/review.md
