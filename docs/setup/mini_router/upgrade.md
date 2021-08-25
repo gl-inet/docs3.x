@@ -30,7 +30,7 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-###Official OpenWrt/LEDE firmware
+### Official OpenWrt/LEDE firmware
 
 You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
@@ -47,9 +47,9 @@ Find the available firmwares from the folder according to your device model, and
 
 **testing**: Beta version of GL.iNet OpenWrt/LEDE firmware.
 
-**nand *(AR300M only)***: Firmware for the 128MB Nand flash of GL-AR300M and GL-AR300M-Ext.
+**nand *(AR300M only)***: Firmware for the 128MB NAND flash of GL-AR300M and GL-AR300M-Ext.
 
-*Note: The firmware files inside the **Nand** folder are for **GL-AR300M** and **GL-AR300M-Ext** only since these two models have 128MB Nand flash. You have to upload by using the .tar file. The .img file can only be used in Uboot.* 
+*Note: The firmware files inside the **nand** folder are for **GL-AR300M** and **GL-AR300M-Ext** only since these two models have 128MB NAND flash. You have to upload by using the .tar file. The .img file can only be used in Uboot.* 
 
 
 

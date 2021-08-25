@@ -8,7 +8,7 @@ GL-SF1200 is a powerful home WiFi router. Powered by the newest SF19A2890 dual-c
 
 GL-S1200 has Dual-core CPU which provides multi-task processing. 
 
-It has a 16MB Nor flash which provide enough spaces for your customzied firmware.
+It has a 16MB NOR flash which provide enough spaces for your customzied firmware.
 
 
 
@@ -18,7 +18,7 @@ It has a 16MB Nor flash which provide enough spaces for your customzied firmware
 | ----------------------------: | :---------------------------------------------------- |
 |                           CPU | SF19A2890, Dual-core MIPS, 800MHz                     |
 |                        Memory | DDR2 128MB                                            |
-|                       Storage | 16MB Nor Flash                                        |
+|                       Storage | 16MB NOR Flash                                        |
 |                    Interfaces | 1 WAN, 2 LANs, 1 Reset Button                         |
 |                     Frequency | 2.4GHz / 5GHz                                         |
 |             Transmission Rate | 300Mbps(2.4GHz) + 867Mbps(5GHz)                       |

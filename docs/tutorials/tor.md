@@ -29,14 +29,14 @@ We have several version of Tor firmware and here is the summary.
 
 We have upgrade Tor firmware for the following models to v2.264 on 2017-11-24.
 
-`AR150, AR300M, AR300M Nand, MT300N, MT300A, MT300N-V2 `
+`AR150, AR300M, AR300M NAND, MT300N, MT300A, MT300N-V2 `
 
 Now Tor firmware is generally by imagebuilder and you will be able to install from standard GLi software repositories using opkg. The source code is on [github](https://github.com/gl-inet/openwrt-files) now.
 
 To modify and compile the Tor firmware by yourself, please refer to the following imagebuilders.
 
 * [imagebuilder for AR150, AR300M, MiFi, 6416](https://github.com/gl-inet/imagebuilder-cc-ar71xx) based on OpenWrt CC 1505
-* [imagebuilder for AR300M Nand](https://github.com/gl-inet/imagebuilder-cc-ar71xx-nand) based on OpenWrt CC 1505
+* [imagebuilder for AR300M NAND](https://github.com/gl-inet/imagebuilder-cc-ar71xx-nand) based on OpenWrt CC 1505
 * [imagebuilder for MT300N, MT300A](https://github.com/gl-inet/imagebuilder-cc-ramips) based on OpenWrt CC 1505
 * [imagebuilder for MT300N-V2](https://github.com/gl-inet/imagebuilder-lede-ramips) based on LEDE 17.01.4
 
@@ -72,7 +72,7 @@ You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/fir
 | GL.iNet6416 | [https://dl.gl-inet.com/firmware/6416/tor/](https://dl.gl-inet.com/firmware/6416/tor/) | 1.3            |                                          |
 | AR150       | [https://dl.gl-inet.com/firmware/ar150/tor/](https://dl.gl-inet.com/firmware/ar150/tor/) | 2.264          |                                          |
 | AR300M      | [https://dl.gl-inet.com/firmware/ar300m/nand/tor/](https://dl.gl-inet.com/firmware/ar300m/nand/tor) | 2.264          | .rar is for web upgrade .img is for uboot upgrade |
-| AR300M-Nor  | [https://dl.gl-inet.com/firmware/ar300m/tor/](https://dl.gl-inet.com/firmware/ar300m/tor/) | 2.264          |                                          |
+| AR300M-NOR  | [https://dl.gl-inet.com/firmware/ar300m/tor/](https://dl.gl-inet.com/firmware/ar300m/tor/) | 2.264          |                                          |
 | MT300N      | [https://dl.gl-inet.com/firmware/mt300n/tor/](https://dl.gl-inet.com/firmware/mt300n/tor/) | 2.264          |                                          |
 | MT300A      | [https://dl.gl-inet.com/firmware/mt300a/tor/](https://dl.gl-inet.com/firmware/mt300a/tor/) | 2.264          |                                          |
 | GL-MiFi     | [https://dl.gl-inet.com/firmware/ar150/tor/](https://dl.gl-inet.com/firmware/ar150/tor/) | 1.3            | MiFi don't have a Tor firmware itself. Use AR150 1.3 instead |

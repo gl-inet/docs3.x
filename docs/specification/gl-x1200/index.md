@@ -8,7 +8,7 @@ GL-X1200 is a powerful, stableoperation, and a high-performanceproduct designed 
 | ------------------------------: | :----------------------------------------------------------- |
 |                             CPU | Qualcomm QCA9563, @755MHz                                    |
 |                   Wi-Fi Chipset | Qualcomm QCA9563 (2.4G) + Qualcomm QCA9886 (5G)              |
-|                           Flash | 16MB Nor-FLASH <br> 128MB NAND-FLASH                         |
+|                           Flash | 16MB NOR-FLASH <br> 128MB NAND-FLASH                         |
 |                             RAM | 128MB DDR2                                                   |
 |          3G/4G Mini PCIe Module | Support 2x 4G LTE CAT4(CAT6 is optional) <br> 2x Standard SIM card slot, e-SIM is optional |
 |                     4G Antennas | Maximum 4x external full-band antenna(700M ~ 2.7GHz)         |

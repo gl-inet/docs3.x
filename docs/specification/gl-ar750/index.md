@@ -12,7 +12,7 @@ The 2.4G antenna is on the PCB and don't have a uFL connector. While the 5G ante
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9531 650MHz                                               |
 |                        Memory | DDRII 128MB                                                  |
-|                       Storage | 16MB Nor Flash                                               |
+|                       Storage | 16MB NOR Flash                                               |
 |                    Interfaces | 1 WAN (100Mbps), 2 LANs (100Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, UART, TF Card Slot (128GB Max.) |
 |                     Frequency | 2.4GHz, 5GHz                                                 |
 |             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |

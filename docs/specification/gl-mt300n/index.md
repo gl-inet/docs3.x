@@ -10,7 +10,7 @@ This model didn't has a external antenna version.
 | ----------------------------: | :-------------------------------------------------------- |
 |                           CPU | MTK 7620NN 580MHz                                         |
 |                        Memory | DDRI 64MB                                                 |
-|                       Storage | 16MB Nor Flash                                            |
+|                       Storage | 16MB NOR Flash                                            |
 |                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button |
 |                     Frequency | 2.4GHz                                                    |
 |             Transmission Rate | 300Mbps                                                   |

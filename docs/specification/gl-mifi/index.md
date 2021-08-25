@@ -14,7 +14,7 @@ Please choose the correct 4G module for your region.
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | Atheros AR9331, @400MHz                                      |
 |                        Memory | DDRII 64MB                                                   |
-|                       Storage | 16MB Nor Flash                                               |
+|                       Storage | 16MB NOR Flash                                               |
 |                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), Micro SIM Card Slot, TF Card Slot(128Gb Max.), 1 Reset Button, 1 On/Off Switch |
 |                     Frequency | 2.4GHz                                                       |
 |             Transmission Rate | 300Mbps                                                      |

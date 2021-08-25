@@ -8,7 +8,7 @@ MT300A is a mini router which has a MicroSD card slot inside. Its wifi performan
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | MTK 7620A 580MHz                                             |
 |                        Memory | DDRII 128MB                                                  |
-|                       Storage | 16MB Nor Flash                                               |
+|                       Storage | 16MB NOR Flash                                               |
 |                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button, TF Card Slot (128Gb Max. integrated on board) |
 |                     Frequency | 2.4GHz                                                       |
 |             Transmission Rate | 300Mbps                                                      |
