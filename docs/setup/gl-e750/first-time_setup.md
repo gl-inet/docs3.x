@@ -1,14 +1,10 @@
 # Getting Started with GL.iNet Mudi
 
-Model:
-
-GL-E750
+Model: GL-E750
 
 ![router](https://static.gl-inet.com/docs/en/3/setup/mudi/first-time_setup/E750_interface.png)
 
 ---
-
-
 
 ## 1. Insert a MicroSD Card and a SIM Card into Mudi
 

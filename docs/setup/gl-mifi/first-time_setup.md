@@ -10,7 +10,7 @@ GL-MiFi-A, GL-MiFi-V, GL-MiFi-AU, GL-MiFi-CE
 
 
 
-##1. Power on 
+## 1. Power on 
 
 For GL-MiFi with built-in battery, press the power button to turn on the device. 
 

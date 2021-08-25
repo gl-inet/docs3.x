@@ -8,6 +8,14 @@ Build by [mkdocs](https://www.mkdocs.org/) 1.2.2, with theme [mkdocs-material](h
 
 Please view the docs online at https://docs.gl-inet.com/ 
 
+## Guide
+
+Each page use markdown, please check out this basic syntax of markdown [here](https://www.markdownguide.org/basic-syntax/).
+
+If you wanna a link to open in new tab, add `{target="_blank}` at the end of link block.
+
+If the size of image is too big, please use the PhotoSwipe, check out [here](#about-plugin-photoswipe).
+
 ## About plugin PhotoSwipe
 
 Using the v4 version, v5 version looks better, but need to load js module. Don't know how to work it out in mkdocs.

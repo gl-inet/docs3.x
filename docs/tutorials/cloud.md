@@ -4,42 +4,44 @@
 ## Introduction
 GL.iNet GoodCloud cloud management service provide an easy and simple way to remotely access and manage routers.
 
-#### Check live router status
-- Live online offline status check
-- Live RAM and Load Average check
-- LTE Signal
-- Email alarm about online offline status update
+* Check live router status
+    - Live online offline status check
+    - Live RAM and Load Average check
+    - LTE Signal
+    - Email alarm about online offline status update
 
-#### Set up routers remotely
-- Set up routers (e.g. SSID and Key) remotely
+* Set up routers remotely
+    - Set up routers (e.g. SSID and Key) remotely
+    - Remote SSH
+    - Remote access Admin Panel
 
-#### Monitoring clients on routers remotely
-- Check who is on your network
-- Realtime traffic monitoring and block clients
-- Email alarm about new client and block
+* Monitoring clients on routers remotely
+    - Check who is on your network
+    - Realtime traffic monitoring and block clients
+    - Email alarm about new client and block
 
-#### Operate routers in batch
-- Set up config templates and configure routers in batch
-- Reboot or upgrade routers in batch
+* Operate routers in batch
+    - Set up config templates and configure routers in batch
+    - Reboot or upgrade routers in batch
 
-#### Manage routers in groups
-- Divide devices in different groups
-- Manage devices in one page
+* Manage routers in groups
+    - Divide devices in different groups
+    - Manage devices in one page
 
-#### Site to Site
-- Virtual Office: extend your office network to other offices
-- Business Travel: remote access office's OA, CRM, MySQL systems
-- Smart Home: remote access IP camera, NAS and other devices at home
+* Site to Site
+    - Virtual Office: extend your office network to other offices
+    - Business Travel: remote access office's OA, CRM, MySQL systems
+    - Smart Home: remote access IP camera, NAS and other devices at home
 
 ## Setup
 
-GoodCloud only support firmware v3.021 and above right now, we recommend to upgrade to the latest testing version(Pre-release) for better cloud experience.
+GoodCloud only support firmware v3.021 and above right now.
 
-This document is based on the latest testing firmware.
+There is a video tutorial about bind to GoodCloud, please check out [here](#video-tutorial).
 
 ### Download firmware file
 
-Choose the Pre-release column of this url <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">https://docs.gl-inet.com/en/3/release_notes/</a>
+Access [this url](https://docs.gl-inet.com/en/3/release_notes/){target=_blank} to download the firmware file.
 
 For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud by "Auto discover". ( about <a href="#add-device">Add device</a> )
 
@@ -419,3 +421,9 @@ To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow 
 ![after disable cloud](https://static.gl-inet.com/goodcloud/docs/after-disable-cloud.png)
 
 After disable Cloud, the interface is like above.
+
+## Video Tutorial
+
+Bind GL.iNet Routers to GoodCloud
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvJQZphSO1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -12,7 +12,7 @@ Click `INTERNET` to create an Internet connection.
 
 ---
 
-##1) Cable
+## 1) Cable
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 

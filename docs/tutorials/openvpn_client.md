@@ -4,9 +4,11 @@ OpenVPN is an open-source VPN protocol that makes use of virtual private network
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
-## OpenVPN Client
+## Setup OpenVPN Client
 
-OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](openvpn_client.md#get-your-configuration-file).
+There is a video tutorial as ExpressVPN as example, please check out [here](#video-tutorial).
+
+OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](#get-your-configuration-file).
 
 Click `+ Add a New VPN Configuration` to upload the configuration file.
 
@@ -19,6 +21,8 @@ Simply drag and drop your file to the pop up windows. It can be a single .ovpn f
 Be careful that some .ovpn files use separated ca, cert, crl files. These files must be zipped together with the .ovpn file before upload.
 
 ![Upload](https://static.gl-inet.com/docs/en/3/app/openvpn/src/upload.jpg)
+
+You may encouter some problems, like not enough space, invalid file, authorization failed, all other VPN services must be stopped first, please check out [here](#video-tutorial).
 
 ### Enter Description, Username and Password
 
@@ -35,6 +39,8 @@ You can now click `Connect` to start the OpenVPN connection.
 Once connected, you should find your IP address, data received/sent.
 
 ![connected](https://static.gl-inet.com/docs/en/3/app/openvpn/src/connected.jpg)
+
+Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
 ### Manage configuration files
 
@@ -729,3 +735,13 @@ Others:
       <a href="https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwiNKs3UUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiS2h0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUyNTAxMTMzLU9wZW5WUE4tU2V0dXAGOwdUOg5zZWFyY2hfaWRJIikxZGViNGYxYi1jNjA5LTQyOGEtOTY1ZC05ZjI1NDlhODY0YjQGOwdGOglyYW5raQY%3D--246327cee00bb00f97a2e72915f09342aea6d83e" target="_blank">Refer link</a>
     </p>
 </details>
+
+## Video tutorial
+
+These video tutorial as ExpressVPN as example to setup OpenVPN Client.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oSTA9-bBUIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+4 Common Problems and Solution When Configuring OpenVPN
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sAb6lyH4pGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

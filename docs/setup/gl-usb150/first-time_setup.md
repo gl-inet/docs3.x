@@ -10,7 +10,7 @@ GL-USB150
 
 ---
 
-##1. Power on 
+## 1. Power on 
 
 Microuter can be powered up with a computer, power bank, or any power adapter with USB port. Simply plug it into the USB port of your device or adapter. However, please disable the internal Wi-Fi if you are using laptop.
 

@@ -10,7 +10,7 @@ GL-XE300-C4, GL-XE300-C6
 
 
 
-##1. Power on 
+## 1. Power on 
 
 For GL-Puli with built-in battery, press the power button to turn on the device. 
 

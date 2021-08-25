@@ -8,7 +8,7 @@ microuter-N300
 
 ---
 
-##1. Power on 
+## 1. Power on 
 
 Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard 5V/1A power adapter. Otherwise it may cause malfunction.
 

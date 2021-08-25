@@ -10,7 +10,7 @@ GL-S1300
 
 ---
 
-##1. Power on 
+## 1. Power on 
 
 Plug the power cable into the power port of the router.
 

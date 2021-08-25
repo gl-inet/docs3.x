@@ -4,11 +4,11 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-o
 
 GL.iNet routers have pre-installed WireGuard server and client.
 
-If you are looking for a WireGuard provider, check out [this](#wireguard-providers) directly.
-
 ---
 
-## WireGuard Server
+## Setup WireGuard Server
+
+There is a video tutorial, please check out [here](#video-tutorial).
 
 You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`.
 
@@ -19,6 +19,8 @@ You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`
 You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
 
 ![Sever Configuration](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS2.png)
+
+Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
 ### Add a new client
 
@@ -69,3 +71,9 @@ list subnet '192.168.xxx.0/24'
 ```
 
 **Save and Exit**
+
+## Video Tutorial
+
+How to Set Up an WireGuard Server on GL.iNet Routers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPQba8jcZ_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

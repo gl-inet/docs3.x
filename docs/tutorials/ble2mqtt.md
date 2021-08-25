@@ -133,7 +133,7 @@ Login the [GoodCloud](https://www.goodcloud.xyz)，find the registered device in
 
 Amazon AWS IoT is a good choice for business applications. AWS seems to have good security and privacy protection. Here we will give an example of how to send your data to AWS IoT platform. It is a little complicated but still OK for IT specialist. 
 
-####1. Setting up your AWS IoT environment 
+#### 1. Setting up your AWS IoT environment 
 
 1) On the **Welcome to the AWS IoT Console** page, in the navigation pane, choose **Manage->Things** , then **Register a thing**. 
 
@@ -174,7 +174,7 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image008.png)
 
-####2. Attach Policy
+#### 2. Attach Policy
 
 1) After you register your thing, you will need to create and attach a new **policy** to the **certificate**.![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image009.png)
 
@@ -218,7 +218,7 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 
 ![](https://static.gl-inet.com./docs/en/3/app/BLE_bridge/image014.png)
 
-####3. Config GL.iNet devices to connect to AWS IoT
+#### 3. Config GL.iNet devices to connect to AWS IoT
 
 **1) Upload your certificate to the router** 
 

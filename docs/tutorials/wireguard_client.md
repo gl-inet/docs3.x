@@ -8,7 +8,9 @@ If you are looking for a WireGuard provider, check out [this](#wireguard-provide
 
 ---
 
-## WireGuard Client 
+## Setup WireGuard Client 
+
+There is a video tutorial, please check out [here](#video-tutorial).
 
 To set up a WireGuard client, please click `+ Set up WireGuard Manually`.
 
@@ -39,6 +41,8 @@ Choose the server and click `Connect`.
 ![wireguard connected](https://static.gl-inet.com/docs/en/3/app/wireguard/wireguard_connected.png)
 
 If will show upload and download traffic when connected.
+
+Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
 ### WireGuard Providers
 
@@ -701,3 +705,9 @@ Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:suppor
 Click `Connect`. You will see the upload and download traffic when it is connected successfully.
 
 ![1531206410246](https://static.gl-inet.com/docs/en/3/app/wireguard/WGC5.png)
+
+## Video Tutorial
+
+How to Set Up an WireGuard Client on GL.iNet Routers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oTrche1jprQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

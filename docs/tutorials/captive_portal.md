@@ -4,7 +4,7 @@ A captive portal is a web page accessed with a web browser that is displayed to 
 
 Captive portal feature need firmware version is equal or greater than v3.022, please visit <a href="https://docs.gl-inet.com/en/3/release_notes/">this</a> to download latest firmware and upgrade.
 
-##1. Turn on Captive Portal
+## 1. Turn on Captive Portal
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 

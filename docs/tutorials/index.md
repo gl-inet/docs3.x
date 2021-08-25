@@ -6,6 +6,8 @@ hide:
 
 # Tutorials
 
+* [What is Repeater?](https://docs.gl-inet.com/en/3/tutorials/repeater/). To use GL.iNet routers to connect to a public Wi-Fi, hotel Wi-Fi, bridge the Wi-Fi connection, extend Wi-Fi coverage, product a wired connection, protect your private data.
+* [How to upgrade to the latest firmware?](https://docs.gl-inet.com/en/3/tutorials/firmware_upgrade/)
 * [How to SSH to router](https://docs.gl-inet.com/en/3/tutorials/ssh/).
 * [How to transfer files to router](https://docs.gl-inet.com/en/3/tutorials/scp/).
 * [Setup OpenVPN Client](https://docs.gl-inet.com/en/3/tutorials/openvpn_client/).

@@ -4,12 +4,11 @@ OpenVPN is an open-source VPN protocol that makes use of virtual private network
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
-## OpenVPN Server
+## Setup OpenVPN Server
 
 You can set up an OpenVPN server on GL.iNet router. Click `+ Generate a configuration file`.
 
 ![server](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server.jpg)
-
 
 
 ### Server configuration
@@ -18,7 +17,7 @@ There are preset OpenVPN server configurations. You can also click `Modify` to c
 
 ![ server configuration](https://static.gl-inet.com/docs/en/3/app/openvpn/src/server_settings.jpg)
 
-
+Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
 ### Export OpenVPN configuration file
 

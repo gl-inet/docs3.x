@@ -10,7 +10,7 @@ GL-X750
 
 
 
-##1. Power on 
+## 1. Power on 
 
 Plug the power cable into the power port of the router. Make sure you are using a standard **12V/1.5A** power adapter. Otherwise it may cause malfunction.
 
