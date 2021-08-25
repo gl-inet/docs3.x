@@ -67,15 +67,15 @@ At this point it is expected that your router works, and can connect to the inte
  - Login to your router and navigate to Applications -> Plug-ins
  - Click "update" in the top right:
 
-    ![Update](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr1.png)
+    ![Update](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr1.png)
 
  - Search for and install "ddserver"
 
-    ![Install](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr2.png)
+    ![Install](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr2.png)
 
  - To check if the installation was successful, go to the following url: [http://192.168.8.1/cgi-bin/luci/admin/system/startup](http://192.168.8.1/cgi-bin/luci/admin/system/startup). If you have changed the default ip of your router, use that in the link above instead. Login and in the list, find ddserver and make sure it says "enabled" as bellow:
 
-    ![Running](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr3.png)
+    ![Running](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr3.png)
 
  - Installation done, follow the usage guide bellow for some examples how to control your camera :)
 
@@ -88,28 +88,28 @@ This process might vary a little for the other clients, but should be just as st
  - Connect your device, in my case an Android phone, to your GL-iNet router over wifi.
  - Turn on and connect your camera using the right usb cable from your camera, to your router. My camera uses a Mini USB cable.
 
-    ![Camera](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr4.jpg)
+    ![Camera](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr4.jpg)
 
  - Open the client on your device, in this case Android, and tap and hold the button bellow to pop up the connection dialog:
 
-    ![Connect](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr5.png)
+    ![Connect](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr5.png)
 
  - Enter the IP of your router. You only have to do this 1 time, next time just tap the connection button to connect.
 Notice i am not using the default router IP since i have changed it:
 
-    ![IP](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr6.png)
+    ![IP](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr6.png)
 
  - You will see the connection info like bellow while connecting:
 
-    ![Connecting](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr7.png)
+    ![Connecting](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr7.png)
 
  - Once the connection is made, you will see this screen:
 
-    ![Main Screen](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr8.png)
+    ![Main Screen](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr8.png)
 
  - If your camera supports Liveview, you can press the "Lv" button to get a live view from the camera:
 
-    ![Live View](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr9.png)
+    ![Live View](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr9.png)
 
 ### Example Usage
 
@@ -118,8 +118,8 @@ Follow the official manual for guides on how to use all the features here:
 
 The following photos were taken using custom exposure bracketing, with 11 photos:
 
-![Custom Bracket](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr10.png)
+![Custom Bracket](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr10.png)
 
 And the HDR result after merging them:
 
-![HDR Result](https://static.gl-inet.com/docs/en/3/app/qdslrdashboard/qdslr11.jpg)
+![HDR Result](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr11.jpg)

@@ -27,7 +27,7 @@ Please refer to the links below for the detailed setup instruction:
 
 
 
-![Main Page](https://static.gl-inet.com/docs/en/3/app/internet_kill_switch/Internet%20kill%20switch.png)
+![Main Page](https://static.gl-inet.com/docs/en/3/tutorials/internet_kill_switch/Internet%20kill%20switch.png)
 
 
 
@@ -52,4 +52,4 @@ Please refer to the links below for the detailed setup instruction:
 - [**Tor**](https://docs.gl-inet.com/en/3/app/tor/)
 
 
-![Tor](https://static.gl-inet.com/docs/en/3/app/tor/tor_interface.png)
+![Tor](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png)

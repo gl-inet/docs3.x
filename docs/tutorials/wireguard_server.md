@@ -12,13 +12,13 @@ There is a video tutorial, please check out [here](#video-tutorial).
 
 You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`.
 
-![1531199972139](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS1.png)
+![1531199972139](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS1.png)
 
 ### Start a WireGuard server
 
 You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
 
-![Sever Configuration](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS2.png)
+![Sever Configuration](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS2.png)
 
 Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
@@ -28,21 +28,21 @@ You have to add a new user and apply the configurations when you are connecting 
 
 Click `Management` tab and then `Create a New User`. 
 
-![Add Client](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS3.png)
+![Add Client](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS3.png)
 
 Specify the **Name** of the new client and then click `Add`.
 
-![Name](https://static.gl-inet.com/docs/en/3/app/wireguard/WGS4.png)
+![Name](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS4.png)
 
 ### Get the configuration details for your client
 
 You can now check the list of the clients you added. You can `Delete` any unwanted client. Please click `Configurations` to find the configuration details which you need to use when you are setting up WireGuard client. We provide QRcode, Plain Text and JSON configurations currently.
 
-![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/configurations.jpg)
+![Configurations](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/configurations.jpg)
 
 If you are using another GL.iNet router as a client, please copy the **JSON** configuration and paste it directly when you are setting up WireGuard client.
 
-![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/json.jpg)
+![Configurations](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/json.jpg)
 
 ## WireGuard App Support
 

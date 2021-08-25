@@ -4,7 +4,7 @@ Using Tor in OpenWrt and GLi Routers
 
 Tor feature is builded in from V3.100, please upgrade.
 
-![tor interface](https://static.gl-inet.com/docs/en/3/app/tor/tor_interface.png)
+![tor interface](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png)
 
 If you don't want to upgrade, please read below.
 

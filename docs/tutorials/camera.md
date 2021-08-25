@@ -16,7 +16,7 @@ The following routers with USB 2.0 port should be able to support USB Webcams:
 * GL-MIFI
 * GL-X750
 
-![](https://static.gl-inet.com/docs/en/3/app/camera/camera_compatible_model.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/camera/camera_compatible_model.png)
 
 The current router firmware version 3.0 does not contain USB Webcam control interface. You need to install plug-ins and make it workable in Luci. 
 
@@ -29,21 +29,21 @@ Go to **APPLICATIONS**, then **Plug-ins**, install two plugins
 1. luci-app-mjpg-streamer
 2. kmod-video-uvc
 
-![](https://static.gl-inet.com/docs/en/3/app/camera/1.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/camera/1.png)
 
 After Installation of two applications, click **MORE SETTINGS - Advanced**, enter your router login password on the login page.
 
-![](https://static.gl-inet.com/docs/en/3/app/camera/2.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/camera/2.png)
 
-![](https://static.gl-inet.com/docs/en/3/app/camera/3.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/camera/3.png)
 
 Click **Service**-**MJPG-steamer**, tick **Enabled** and then click **Save&Apply**.
 
 ***mjpg streamer is a streaming application for Linux-UVC compatible webcams***
 
-![](https://static.gl-inet.com/docs/en/3/app/camera/4.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/camera/4.png)
 
-![](https://static.gl-inet.com/docs/en/3/app/camera/5.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/camera/5.png)
 
 Open a new page in browser, enter the IP address of your router and port number that you specified, for example, enter 192.168.8.1:8080”. 
 

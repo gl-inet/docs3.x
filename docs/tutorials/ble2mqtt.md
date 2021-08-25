@@ -125,9 +125,9 @@ root@GL-S1300:~#
 
 Login the [GoodCloud](https://www.goodcloud.xyz)，find the registered device in "device list", click the device name and you will find your message in timeline.
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-device.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/find-device.png)
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/find-log.jpg)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/find-log.jpg)
 
 ### Send Data to AWS IoT
 
@@ -137,19 +137,19 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
 
 1) On the **Welcome to the AWS IoT Console** page, in the navigation pane, choose **Manage->Things** , then **Register a thing**. 
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image001.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/image001.png)
 
 2) On the **Creating AWS IoT things** page, choose **Create a single thing**.
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image002.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/image002.png)
 
 3) On the **Create a thing** page, in the **Name** field, type a name for your thing, such as **x750**. Choose **Next**.
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image003.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/image003.png)
 
 4) On the **Add a certificate for your thing** page, choose **Create certificate**. This generates an X.509 certificate and key pair.
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image004.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/image004.png)
 
 5) On the **Certificate created!** page, download your public and private keys, certificate, and root certificate authority (CA):
 
@@ -161,11 +161,11 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
 
   Most web browsers save downloaded files into a Downloads directory. You will copy these files to a different directory when you run the sample applications. Choose **Activate** to activate the X.509 certificate, and then choose **Attach a policy**.
 
-![](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image005.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/image005.png)
 
 The **RSA 2048 bit key: Amazon Root CA1** download web page:
 
-![	](https://static.gl-inet.com/docs/en/3/app/BLE_bridge/image007.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/BLE_bridge/image007.png)
 
 
 6) Active your thing
