@@ -11,7 +11,7 @@ Fast, stable and secure home Wi-Fi with no more dead zones. Velica enabling comp
 |                           CPU | IPQ4019 Quad-core ARM, @717MHz SoC                    |
 |              Memory / Storage | DDR3L 512MB / FLASH 16MB NOR FLASH + EMMC 8GB         |
 |                      Antennas | Internal                                              |
-|                    Interfaces | 1 x WAN Ethernet port, 1 x LAN Ethernet port, 2 x LED, 1 x Type-C port for power input |
+|                    Interfaces | 1 x WAN Ethernet port<br>1 x LAN Ethernet port<br>2 x LED<br>1 x Type-C port for power input |
 |                     Protocol  | IEEE 802.11a/b/g/n/ac                                 |
 |                   Wi-Fi Speed | 400Mbps (2.4GHz), 2x867Mbps(5GHz)                     |
 |                 Max. Tx Power | 23dBm                                                 |
