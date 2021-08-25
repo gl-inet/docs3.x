@@ -62,7 +62,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 ## Button Settings
 
-Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client.
+Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off WireGuard/OpenVPN client.
 
 ![button settings](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/button_settings.jpg)
 

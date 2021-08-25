@@ -44,7 +44,7 @@ If you are using another GL.iNet router as a client, please copy the **JSON** co
 
 ![Configurations](https://static.gl-inet.com/docs/en/3/app/wireguard/json.jpg)
 
-## Wireguard App Support
+## WireGuard App Support
 
 You can also use WireGuard App on other devices with various OS
 

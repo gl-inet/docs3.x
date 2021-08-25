@@ -42,7 +42,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 ## Button Settings
 
-Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off Wireguard/OpenVPN client or Power saving mode.
+Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off WireGuard/OpenVPN client or Power saving mode.
 
 ![button settings](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/button_setting.png)
 

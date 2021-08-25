@@ -22,59 +22,21 @@ Firmware:
 
 **OpenWrt Distribution:**
 
-- Based on OpenWrt 19.07.7  (AR150, MIFI, AR300M, USB150, N300, AR750, AR750S, X750, E750, X1200,XE300, MT300N-V2, MT1300, MV1000)
-- Based on QSDK11  (B1300, S1300, AP1300)
-
-**Security fix:**
-
-- mac80211: backport upstream fixes for FragAttacks(CVE-2020-24586, CVE-2020-24587, CVE-2020-24588, CVE-2020-26139, CVE-2020-26140, CVE-2020-26141, CVE-2020-26142, CVE-2020-26143, CVE-2020-26144, CVE-2020-26145, CVE-2020-26146, CVE-2020-26147)
-
-**Important bug fix:**
-
-- Fixed a BUG where the OpenVPN connection status was displayed incorrectly on the E750 LCD
-- Fixed XE300 modem manual settings always being overwritten when reboot 
-- Fixed DNS leakage when using OpenVPN and Wireguard
-
----
-
-## V3.201 - Apr 12, 2021
-
-Firmware:
-
-**For GL-AR300M, GL-AR300M-Ext**:
-
-- Upgrade through web Admin Panel [openwrt-ar300m-ubi-3.201-0402.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.201-0402.tar)
-
-    SHA256: 50cda44a860e0541d221ea88ca82f8f8f0c4864885c788034f19950e988161c5
-    MD5: 08e759d56ae1d59a40c990ca66b6bee6
-
-- Upgrade through Uboot [openwrt-ar300m-ubi-3.201-0402.img](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-3.201-0402.img)
-
-    SHA256: 7dff070c2725485231d352b492d99ef37bad1f274c92a32ce27ab417bdffb755
-    MD5: 84a2eeb7f86f478d2ea2e540b77d1f3e
-
-**For GL-AR300M16, GL-AR300M16-Ext**:
-
-- Firmware file: [openwrt-ar300m16-3.201-0402.bin](https://fw.gl-inet.com/firmware/ar300m/v1/openwrt-ar300m16-3.201-0402.bin)
-
-    SHA256: 75812594f0577a4f59c8624f123153b9306718de9503917226493addc31c0bd8
-    MD5: f5bef4116131db1285109c09225b72cc
-
-**System：**
-
-- Based on openwrt 19.07.7
+- Based on OpenWrt 19.07.7  (AR150,MIFI,AR300M,USB150,N300,AR750,AR750S,X750,E750,X1200,- XE300,MT300N-V2,MT1300,MV1000)
+- Based on QSDK11  (B1300,S1300,AP1300)
 
 **Security:**
 
 - Fixed wolfSSL heap buffer overflow in RsaPad_PSS (CVE-2020-36177)
 - Fixed netifd and odhcp6c routing loop on IPv6 point to point links (CVE-2021-22161)
 - Fixed dnsmasq multiple vulnerabilities (CVE-2020-25681, CVE-2020-25682, CVE-2020-25683, CVE-2020-25684, CVE-2020-25685, CVE-2020-25686, CVE-2020-25687)
+- Fixed mac80211 FragAttacks(CVE-2020-24586,CVE-2020-24587,CVE-2020-24588,CVE-2020-26139,CVE-2020-26140,CVE-2020-26141,CVE-2020-26142,CVE-2020-26143,CVE-2020-26144,CVE-2020-26145,CVE-2020-26146,CVE-2020-26147)
 - Added times limit to password authentication
 
 **New features:**
 
 - Supported IPv6 ( Internet, OpenVPN, WireGuard )
-- Supported WPA3 (AR150,MIFI,AR300M,USB150,AR750,AR750S,X750,E750,X1200,XE300)
+- Supported WPA3 (AR150,MIFI,AR300M,USB150,N300,AR750,AR750S,X750,E750,X1200,XE300)
 - Supported deleting offline clients
 - Added warnings when uploading old version or three-party firmwares
 - Added 2.4G WIFI and LTE working channel interference automatic avoidance(MIFI,X750,E750,X1200,XE300)
@@ -91,7 +53,7 @@ Firmware:
 
 **APP support:**
 
-- Supported V1.0.5
+- Supported GL.iNet App
 
 **Cloud support:**
 
@@ -105,13 +67,16 @@ Firmware:
 
 - Supported Russian
 
-**Important bugfix:**
+**Important bug fix:**
 
 - Fixed speed limit function failure in some models
 - Fixed tor initialization failure in some models
 - Fixed the problem that when turn off the AP in MT300N-V2, the repeater won't auto-reconnect.
 - Fixed the problem that when WireGuard's Allowed IPs are not set with global proxy address, router will be unable to access the internet. 
 - Fixed the problem that MT1300 can't access internet when using StrongVPN.
+- Fixed a BUG where the OpenVPN connection status was displayed incorrectly on the E750 LCD
+- Fixed XE300 modem manual settings always being overwritten when reboot 
+- Fixed DNS leakage when using OpenVPN and WireGuard
 - Fixed other known issues.
 
 ---
@@ -144,7 +109,7 @@ Firmware file:
 - File sharing supported closing LAN sharing and supports shared folder selection
 - OpenVPN server supported CHACHA20-POLY1305 encryption
 - OpenVPN server supported Authentication option setting
-- Wireguard server supported local network access switch
+- WireGuard server supported local network access switch
 - The modem supported QCM protocol, SMS forwarding, adding Auth, Proto, TTL, and other configuration options (MIFI, X750, E750, X1200)
 - Supported MCU setting (E750)
 - Supported AdGuardHome (S1300)
@@ -169,8 +134,8 @@ Language:
 UI:
 
 - Added VPN status indicator icon to the navigation page
-- Added quick navigation to Wireguard client commercial configuration
-- Removed the import method with JSON format in Wireguard client 
+- Added quick navigation to WireGuard client commercial configuration
+- Removed the import method with JSON format in WireGuard client 
 
 Important bug fix:
 
@@ -178,8 +143,8 @@ Important bug fix:
 - Fixed MV1000 memory leak problem
 - Fixed tethering problem with iOS14 system
 - Fixed the problem that port 53 is exposed to the WAN after opening Override DNS Settings for All Clients
-- Fixed the problem that the client of the router cannot access the address of the Wireguard server when using Wireguard client
-- Fixed the problem that the Wireguard client AllowedIPs parameter does not take effect
+- Fixed the problem that the client of the router cannot access the address of the WireGuard server when using WireGuard client
+- Fixed the problem that the WireGuard client AllowedIPs parameter does not take effect
 - Fixed the problem that Mullvad WireGuard needs to manually modify the MTU to 1380
 - Fixed the X1200 dual-module IP exchange problem
 - Fixed the problem that some websites cannot be opened after using VPN policy (AR750S, X1200)
@@ -223,7 +188,7 @@ Important bug fix:
 **Improvements:**
 
 - Removed gl-autoupkg(auto reinstall ipk function), change from keep installed packages to keep installed packages list. Auto upgrade and cloud upgrade will save this list by default, users can choose the package they want to keep via admin panel.
-- Optimized Wireguard auto-reconnect function.
+- Optimized WireGuard auto-reconnect function.
 - Optimized the vpn conflict testing.
 - Optimized the port forwarding function.
 

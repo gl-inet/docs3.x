@@ -365,7 +365,7 @@ Other recommended WireGuard provider:
       <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_1.jpg" /></p>
     </li>
     <li>
-      <p>When you select the Wireguard protocol, you will need to select <b>Add device</b> for the region selected.</p>
+      <p>When you select the WireGuard protocol, you will need to select <b>Add device</b> for the region selected.</p>
       <p><img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/app/wireguard/wevpn/wevpn_2.jpg" /></p>
     </li>
     <li>

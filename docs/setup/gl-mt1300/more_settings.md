@@ -101,7 +101,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 ## Button Settings
 
-Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off _**Wireguard/OpenVPN client**_ or _**Tor**_.
+Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off _**WireGuard/OpenVPN client**_ or _**Tor**_.
 
 ![button settings](https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/button_settings.jpg)
 
