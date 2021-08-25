@@ -1,4 +1,4 @@
-# GL-AX1800 Flint
+# GL-AX1800 (Flint)
 
 Secure and Ultra Fast Wi-Fi 6 Wireless Router for Home or Office
 

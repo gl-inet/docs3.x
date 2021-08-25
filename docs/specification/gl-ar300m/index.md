@@ -1,8 +1,6 @@
-#  GL-AR300M Series
+#  GL-AR300M Series (Shadow)
 
 Best Mini Router Ever
-
-
 
 AR300M is the our best mini router. It is small and powerful.
 
@@ -28,7 +26,7 @@ It has several sub-models:
 |                           CPU | QCA9531 650MHz                                               |
 |                        Memory | DDRII 128MB                                                  |
 |                       Storage | 16MB NOR, 128 MB NAND (Optional)                             |
-|                    Interfaces | 1 WAN, 1 LAN, 1 USB2.0, 1 Micro USB (power), 1 Reset Button, PCIe, UART |
+|                    Interfaces | 1 WAN<br>1 LAN<br>1 USB2.0<br>1 Micro USB (power)<br>1 Reset Button<br>PCIe<br>UART |
 |                     Frequency | 2.4GHz                                                       |
 |             Transmission Rate | 300Mbps                                                      |
 |                 Max. Tx Power | 20dBm                                                        |

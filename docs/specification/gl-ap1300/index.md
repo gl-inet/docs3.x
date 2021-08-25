@@ -1,4 +1,4 @@
-# GL-AP1300
+# GL-AP1300 (Cirrus)
 
 Enterprise Wireless Networks Access Point
 

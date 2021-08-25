@@ -1,4 +1,4 @@
-# GL-MT1300
+# GL-MT1300 (Beryl)
 
 GL-MT1300 is a powerfull wireless gateway for travel, apartment and small office. 
 
@@ -13,7 +13,7 @@ It has a Dual-Core MTK Soc chipset with 880MHz frequency which provides powerful
 |                           CPU | MTK MT7621A, Dual-Core@880MHz                         |
 |                        Memory | DDR3L 256MB                                           |
 |                       Storage | 32MB NOR Flash                                        |
-|                    Interfaces | 1 WAN, 2 LANs 1 USB3.0, 1 Reset Button, 1 TF Card Slot (512GB Max.)                |
+|                    Interfaces | 1 WAN<br>2 LANs 1 USB3.0<br>1 Reset Button<br>1 TF Card Slot (512GB Max.)                |
 |                     Frequency | 2.4GHz / 5GHz                                         |
 |             Transmission Rate | 400Mbps(2.4GHz) + 867Mbps(5GHz)                       |
 |                 Max. Tx Power | 20dBm                                                 |

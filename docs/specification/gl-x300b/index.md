@@ -1,4 +1,4 @@
-#  GL-X300B
+#  GL-X300B (Collie)
 
 GL-X300B (Collie) is a compact and cost-effective industrial 3G/4G wireless router. 
 Collie has X300B-RS485 version and X300B-IOT version (BLE or Zigbee).

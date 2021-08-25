@@ -4,7 +4,7 @@
 
 |               Model | microuter-N300                    |
 | ------------------: | :-------------------------------- |
-|           Interface | 1 x WAN/LAN Ethernet port, 1 x LED, 1 Reset Button |
+|           Interface | 1 x WAN/LAN Ethernet port<br>1 x LED<br>1 Reset Button |
 |                 CPU | MTK7628NN, @580MHz SoC            |
 |   Memory / Storeage | DDR2 128MB / FLASH 16MB           |
 |    Internal Antenna | 2.5dBi                            |
@@ -19,16 +19,3 @@
 | Working Temperature | 0~40°C (32~104°F)                 |
 | Storage Temperature | -20~70°C (-4~158°F)               |
 |  Dimension, Weight  | 51mmX51mmX18.5mm, 30g             |
-
-
-
-
-
-   
-
-
-
-
-
-
-

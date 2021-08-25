@@ -1,4 +1,4 @@
-# GL-E750 Mudi
+# GL-E750 (Mudi)
 
 4G LTE Privacy Router for Road Warriors
 

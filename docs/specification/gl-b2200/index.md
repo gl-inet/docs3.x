@@ -1,4 +1,4 @@
-# GL-B2200
+# GL-B2200 (Velica)
 
 GL-B2200 offers the safest and most customisable Wi-Fi experience for your home.
 

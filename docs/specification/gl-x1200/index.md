@@ -1,4 +1,4 @@
-#  GL-X1200
+#  GL-X1200 (Amarok)
 
 GL-X1200 is a powerful, stableoperation, and a high-performanceproduct designed to meet the needs of industrial users through 4G/3G signal forInternet access. Because of its open source platform-based features, it can also be used as an integrated platform for extensions such as developers, makers, and IOT integration development.
 

@@ -1,4 +1,4 @@
-# GL-XE300
+# GL-XE300 (Puli)
 
 GL-XE300 is a new designed 4G Router, providing 2.4G WiFi access, with built-in large capacity
 rechargeable battery, which is applicable for portable 4G access. I

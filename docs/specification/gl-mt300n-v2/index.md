@@ -1,4 +1,4 @@
-# 	GL-MT300N-V2
+# GL-MT300N-V2 (Mango)
 
 The best selling mini router.
 
@@ -16,7 +16,7 @@ MT300N-V2 is an upgraded version of MT300N. The differences include:
 |                           CPU | MTK 7628NN 580MHz                                         |
 |                        Memory | DDRII 128MB                                               |
 |                       Storage | 16MB NOR Flash                                            |
-|                    Interfaces | 1 WAN, 1LAN 1 USB2.0, 1 Micro USB (power), 1 Reset Button |
+|                    Interfaces | 1 WAN<br>1LAN 1 USB2.0<br>1 Micro USB (power)<br>1 Reset Button |
 |                     Frequency | 2.4GHz                                                    |
 |             Transmission Rate | 300Mbps                                                   |
 |                 Max. Tx Power | 20dBm                                                     |

@@ -1,4 +1,4 @@
-# GL-B1300 Home AC Router
+# GL-B1300 Home AC Router (Convexa-B)
 
 Home WiFi Mesh System 
 
@@ -17,7 +17,7 @@ It has a Mesh button which is used to paire routers. You don't need an APP for t
 |                           CPU | Atheros IPQ4028, Quad-core ARM,717MHz                 |
 |                        Memory | DDR3L 256MB                                           |
 |                       Storage | 32MB NOR Flash                                        |
-|                    Interfaces | 1 WAN, 2 LANs 1 USB3.0, 1 Reset Button, 1 Mesh Button |
+|                    Interfaces | 1 WAN<br>2 LANs 1 USB3.0<br>1 Reset Button<br>1 Mesh Button |
 |                     Frequency | 2.4GHz / 5GHz                                         |
 |             Transmission Rate | 400Mbps(2.4GHz) + 867Mbps(5GHz)                       |
 |                 Max. Tx Power | 20dBm                                                 |

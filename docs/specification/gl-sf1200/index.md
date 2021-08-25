@@ -2,15 +2,11 @@
 
 Home 1200Mbps AC WiFi Router
 
-
-
 GL-SF1200 is a powerful home WiFi router. Powered by the newest SF19A2890 dual-core MIPS chipset. 
 
 GL-S1200 has Dual-core CPU which provides multi-task processing. 
 
 It has a 16MB NOR flash which provide enough spaces for your customzied firmware.
-
-
 
 ## Hardware Specification
 
@@ -28,15 +24,3 @@ It has a 16MB NOR flash which provide enough spaces for your customzied firmware
 |                   Power Input | 12V/1A                                                |
 |             Power Consumption | <7W                                                   |
 |             Dimension, Weight | 210mmX145mmX28mm, 296g                                |
-
-
-
-
-   
-
-
-
-
-
-
-

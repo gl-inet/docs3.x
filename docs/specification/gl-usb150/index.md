@@ -1,4 +1,4 @@
-# GL-USB150 Microuter
+# GL-USB150 (Microuter)
 
 The smallest travel router ever.
 

@@ -1,4 +1,4 @@
-#  GL-AR750S Gigabit AC Travel Router
+#  GL-AR750S Gigabit AC Travel Router (Slate)
 
 The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally 3) to Gigabit ports so that it get faster speed in your travel. We also added 128MB  Flash to provide dual flash for more storage and faster operation speed. It has a MicroSD (TF) slot which increase your storage space up to 128GB. 
 
@@ -9,7 +9,7 @@ The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally
 |                           CPU | QCA9563, @775MHz SoC                                         |
 |                        Memory | DDRII 128MB                                                  |
 |                       Storage | Dual Flash 16MB NOR + 128MB                              |
-|                    Interfaces | 1 WAN (1000Mbps), 2 LANs (1000Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, TF Card Slot (128GB Max.) |
+|                    Interfaces | 1 WAN (1000Mbps)<br>2 LANs (1000Mbps)<br>1 USB2.0<br>1 Micro USB (power)<br>1 Reset Button<br>TF Card Slot (128GB Max.) |
 |                     Frequency | 2.4GHz, 5GHz                                                 |
 |             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
 |                 Max. Tx Power | 20dBm (2.4GHz)/20dBm(5GHz)                                   |

@@ -1,4 +1,4 @@
-#  GL-AR750 Travel AC Router
+# GL-AR750 (Creta)
 
 The first dual-band AC travel router. We added one more Ethernet port (totally 3) so that it fit better for fixed usage scenario as well. It has a MicroSD (TF) slot which increase your storage space up to 128GB.
 
@@ -13,7 +13,7 @@ The 2.4G antenna is on the PCB and don't have a uFL connector. While the 5G ante
 |                           CPU | QCA9531 650MHz                                               |
 |                        Memory | DDRII 128MB                                                  |
 |                       Storage | 16MB NOR Flash                                               |
-|                    Interfaces | 1 WAN (100Mbps), 2 LANs (100Mbps), 1 USB2.0, 1 Micro USB (power), 1 Reset Button, UART, TF Card Slot (128GB Max.) |
+|                    Interfaces | 1 WAN (100Mbps)<br>2 LANs (100Mbps)<br>1 USB2.0<br>1 Micro USB (power)<br>1 Reset Button<br>UART<br>TF Card Slot (128GB Max.) |
 |                     Frequency | 2.4GHz, 5GHz                                                 |
 |             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
 |                 Max. Tx Power | 20dBm (2.4GHz)/20dBm(5GHz)                                   |
