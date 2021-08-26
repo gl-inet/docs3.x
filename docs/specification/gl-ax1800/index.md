@@ -4,7 +4,7 @@ Secure and Ultra Fast Wi-Fi 6 Wireless Router for Home or Office
 
 ## Hardware Specification
 
-|                         Model | GL-B2200                                              |
+|                         Model | GL-AX18000                                            |
 | ----------------------------: | :---------------------------------------------------- |
 |                           CPU | IPQ6000 1.2G Quad-core Processor                      |
 |              Memory / Storage | DDR3L 512MB / NAND-FLASH 128MB                        |
