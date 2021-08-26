@@ -2,9 +2,9 @@
 
 ## V3.203 - Aug 3, 2021
 
-- Firmware file: <a href="https://fw.gl-inet.com/firmware/n300/release/openwrt-n300-3.203-0701.bin" target="_blank">openwrt-n300-3.203-0701.bin</a>
+- Firmware file: <a href="https://fw.gl-inet.com/firmware/n300/release/openwrt-n300-3.203-0805.bin" target="_blank">openwrt-n300-3.203-0805.bin</a>
 
-    SHA256: 6dbbb4e27621e479281e59055bc6d43b9f6ff2ae16b643564802f871d706cd85
+    SHA256: 8f05b21a6b6626f8587621aff6d065db88b511ef9f1e261d46e3a1d750d282b0
 
 **OpenWrt Distribution:**
 

@@ -308,11 +308,11 @@ Firmware file:
 
 Firmware file:
 
-- Update through Admin Panel: <a href="https://fw.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.007.tar" target="_blank">gl-ar750s-3.007.tar</a>
+- Update through Admin Panel: <a href="https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.007.tar" target="_blank">openwrt-ar750s-3.007.tar</a>
 
     MD5: e676a562ca36999c6575d1b8a936c40c
 
-- Update through Uboot: <a href="https://fw.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.007.img" target="_blank">gl-ar750s-3.007.img</a>
+- Update through Uboot: <a href="https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.007.img" target="_blank">openwrt-ar750s-3.007.img</a>
 
     MD5: 5f8ee11d912517eec9c05457fb949ce5
 
@@ -337,11 +337,11 @@ Firmware file:
 
 Firmware file:
 
-- Update through Admin Panel: <a href="https://fw.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.003.tar" target="_blank">gl-ar750s-3.003.tar</a>
+- Update through Admin Panel: <a href="https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.003.tar" target="_blank">openwrt-ar750s-3.003.tar</a>
 
     MD5: 7cb93efd5d0fb352dbe21892ea6281b5
 
-- Update through Uboot: <a href="https://fw.gl-inet.com/firmware/ar750s/release/gl-ar750s-3.003.img" target="_blank">gl-ar750s-3.003.img</a>
+- Update through Uboot: <a href="https://fw.gl-inet.com/firmware/ar750s/release/openwrt-ar750s-3.003.img" target="_blank">openwrt-ar750s-3.003.img</a>
 
     MD5: 10dff3bbd441c53be6b48076300c8e2e
 

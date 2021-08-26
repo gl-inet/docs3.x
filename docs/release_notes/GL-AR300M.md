@@ -87,7 +87,7 @@ Firmware file:
 
 **For GL-AR300M, GL-AR300M-Ext**:
 
-- Upgrade through web Admin Panel [openwrt-ar300m-ubi-3.105.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-ubi-3.105.tar)
+- Upgrade through web Admin Panel [openwrt-ar300m-nand-3.105.tar](https://fw.gl-inet.com/firmware/ar300m/nand/v1/openwrt-ar300m-nand-3.105.tar)
 
     MD5: bb8a19ada429cb0e2a70ccafe0944b2c
 
