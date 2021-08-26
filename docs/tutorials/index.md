@@ -12,7 +12,7 @@ hide:
 * [How to transfer files to router](https://docs.gl-inet.com/en/3/tutorials/scp/).
 * [Setup OpenVPN Client](https://docs.gl-inet.com/en/3/tutorials/openvpn_client/).
 * [Setup OpenVPN Server](https://docs.gl-inet.com/en/3/tutorials/openvpn_server/).
-* [OpenVPN Bridge](https://docs.gl-inet.com/en/3/tutorials/openvpn_bridge/).
+* [Setup OpenVPN Bridge](https://docs.gl-inet.com/en/3/tutorials/openvpn_bridge/).
 * [Setup WireGuard Client](https://docs.gl-inet.com/en/3/tutorials/wireguard_client/).
 * [Setup WireGuard Server](https://docs.gl-inet.com/en/3/tutorials/wireguard_server/).
 * [Internet Kill Switch](https://docs.gl-inet.com/en/3/tutorials/internet_kill_switch/). To let all data go through VPN.
