@@ -1,5 +1,7 @@
 # GL.iNet documentation
 
+This repository is the source code for documentation of GL.iNet routers firmware 3.x
+
 ## Environment 
 
 Build by [mkdocs](https://www.mkdocs.org/) 1.2.2, with theme [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) 7.2.2
