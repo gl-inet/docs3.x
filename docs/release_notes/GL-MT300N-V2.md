@@ -196,7 +196,7 @@ Important bug fix:
 
 ## V3.011 - Jan 4, 2019
 
-Firmware file: [gl-mt300n-v2-3.011.bin](https://fw.gl-inet.com/firmware/mt300n-v2/v1/gl-mt300n-v2-3.011.bin)
+Firmware file: [openwrt-mt300n-v2-3.011.bin](https://fw.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.011.bin)
 
 **New Features:**
 
