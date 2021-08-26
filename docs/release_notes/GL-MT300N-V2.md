@@ -2,9 +2,9 @@
 
 ## V3.203 - Aug 3, 2021
 
-- Firmware file: [openwrt-mt300n-v2-3.203-0701.bin](https://fw.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.203-0701.bin)
+- Firmware file: [openwrt-mt300n-v2-3.203-0805.bin](https://fw.gl-inet.com/firmware/mt300n-v2/v1/openwrt-mt300n-v2-3.203-0805.bin)
 
-    SHA256: f071bce3cf6bdc9b3bd30b6c7749661dafc1a73c4b964c0b7ca547fba196eaa7
+    SHA256: 111faa8e4b19a6de97495c9d89a38e4afaec07ac3be4dd6acc3ec7a94bbd4745
 
 **OpenWrt Distribution:**
 
