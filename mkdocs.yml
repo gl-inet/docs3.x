@@ -16,6 +16,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - toc.integrate
   palette:
     - scheme: default
       primary: white
