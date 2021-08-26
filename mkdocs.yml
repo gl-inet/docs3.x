@@ -306,6 +306,7 @@ nav:
     - Copy files to Router: tutorials/scp.md
     - OpenVPN Client: tutorials/openvpn_client.md
     - OpenVPN Server: tutorials/openvpn_server.md
+    - OpenVPN Bridge: tutorials/openvpn_bridge.md
     - WireGuard Client: tutorials/wireguard_client.md
     - WireGuard Server: tutorials/wireguard_server.md
     - Internet Kill Switch: tutorials/internet_kill_switch.md
