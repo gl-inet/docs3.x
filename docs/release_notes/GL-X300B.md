@@ -71,6 +71,6 @@
 
 **This is the first release firmware for GL-300B:**
 
-- Firmware file: [openwrt-x300b-3.104.bin](https://dl.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.104.bin)
+- Firmware file: [openwrt-x300b-3.104.bin](https://fw.gl-inet.com/firmware/x300b/release/openwrt-x300b-3.104.bin)
 
     SHA256: d3b5f8e88d808245305b266c4a6ae4c52d08015880a7c424f422b662dcbf7bec
