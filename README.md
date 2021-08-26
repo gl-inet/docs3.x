@@ -39,3 +39,13 @@ Reference:
 [https://photoswipe.com/documentation/getting-started.html](https://photoswipe.com/documentation/getting-started.html)
 
 [https://codepen.io/dimsemenov/pen/ZYbPJM](https://codepen.io/dimsemenov/pen/ZYbPJM)
+
+## About versoning
+
+There is a plugin named `mike` is for versoning, it need to deploy with Github Page, but I don't use Github Page, I just copy the file structure like `mike` does. Please check out [mkdocs-material-example-versioning](https://github.com/squidfunk/mkdocs-material-example-versioning), and switch to `gh-pages` branch.
+
+Reference:
+
+[Setting up versioning](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/)
+
+[https://squidfunk.github.io/mkdocs-material-example-versioning/](https://squidfunk.github.io/mkdocs-material-example-versioning/)
