@@ -30,11 +30,11 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-###Official OpenWrt/LEDE firmware
+### Official OpenWrt/LEDE firmware
 
 You can download the official firmware from our <a href="https://dl.gl-inet.com/firmware/" target="_blank">website</a>. 
 
-- GL-B2200: <a href="https://dl.gl-inet.com/firmware/b2200/release/" target="_blank">https://dl.gl-inet.com/firmware/b2200/release/</a>
+- GL-B2200: <a href="https://dl.gl-inet.com/firmware/b2200/" target="_blank">https://dl.gl-inet.com/firmware/b2200/</a>
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 

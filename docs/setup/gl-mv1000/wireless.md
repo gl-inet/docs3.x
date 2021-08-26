@@ -6,7 +6,7 @@
 Starting from firmware version 3.100, users could add Wi-Fi to MV1000.
 
 Please download the latest firmware from the links here :
-- [**Firmware**](https://dl.gl-inet.com/firmware/mv1000/testing/)
+- [**Firmware**](https://dl.gl-inet.com/firmware/mv1000/v1/)
 
 Here is a list of supported dongles that we had tested before. 
 

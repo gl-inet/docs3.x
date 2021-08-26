@@ -30,11 +30,10 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-###Official OpenWrt/LEDE firmware
+### Official OpenWrt/LEDE firmware
 
 You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- GL-AR750: [https://dl.gl-inet.com/firmware/ar750/](https://dl.gl-inet.com/firmware/ar750/)
 - GL-AR750S (Slate): [https://dl.gl-inet.com/firmware/ar750s/](https://dl.gl-inet.com/firmware/ar750s/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:

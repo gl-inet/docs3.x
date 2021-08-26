@@ -31,7 +31,7 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-###Official OpenWrt/LEDE firmware
+### Official OpenWrt/LEDE firmware
 
 You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
@@ -44,8 +44,6 @@ Find the available firmwares from the folder according to your device model, and
 **clean**: Clean versions of OpenWrt/LEDE firmware with Luci admin page only.
 
 **testing**: Beta version of GL.iNet OpenWrt/LEDE firmware.
-
-
 
 ### Compile your own firmware
 

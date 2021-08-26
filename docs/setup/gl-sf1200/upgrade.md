@@ -30,11 +30,11 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-###Official OpenWrt/LEDE firmware
+### Official OpenWrt/LEDE firmware
 
-Only the testing version of 3.x firmware is available for GL-B1300 currently. You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
+You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- GL-SF1200: [https://dl.gl-inet.com/firmware/sf1200/testing/](https://dl.gl-inet.com/firmware/sf1200/testing/)
+- GL-SF1200: [https://dl.gl-inet.com/firmware/sf1200/](https://dl.gl-inet.com/firmware/sf1200/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 
