@@ -17,6 +17,7 @@ hide:
 * [Setup WireGuard Server](wireguard_server).
 * [Internet Kill Switch](internet_kill_switch). To let all data go through VPN.
 * [How to change WAN port to LAN port](change_wan_to_lan.md)
+* [LED Indicators](led.md)
 * [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
 * [File Sharing](file_sharing). Manage files in MicroSD Card, USB Stick and USB Hard Drive that connected to router.
 * [Setup DLNA Midia Server to share Multimedia over a home network](dlnaserver).
