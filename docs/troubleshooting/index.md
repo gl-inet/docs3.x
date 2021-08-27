@@ -1,1 +1,8 @@
-troubleshooting
+---
+hide:
+  - navigation
+  - toc
+---
+
+# Troubleshooting
+

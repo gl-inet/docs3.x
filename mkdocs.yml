@@ -82,7 +82,7 @@ markdown_extensions:
 
 nav:
   - Home:
-    - Home: index.md
+    - Overview: index.md
     - Services: service.md
   - Specification:
     - Overview: specification/index.md
@@ -310,6 +310,7 @@ nav:
     - WireGuard Client: tutorials/wireguard_client.md
     - WireGuard Server: tutorials/wireguard_server.md
     - Internet Kill Switch: tutorials/internet_kill_switch.md
+    - Change WAN to LAN: tutorials/change_wan_to_lan.md
     - VPN Policies: tutorials/vpn_policies.md
     - File Sharing: tutorials/file_sharing.md
     - DLNA Server: tutorials/dlnaserver.md
@@ -338,7 +339,6 @@ nav:
     - LED Indicators: troubleshooting/led.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md
-    - Change WAN to LAN: troubleshooting/chang_wan_to_lan.md
     - Captive Portal: troubleshooting/captive_portal.md
     - Repeat Failure: troubleshooting/repeat_failure.md
     - Access Web Panel: troubleshooting/access_web_panel.md
