@@ -79,6 +79,7 @@ extra_javascript:
 
 markdown_extensions:
   - attr_list
+  - pymdownx.tabbed
 
 nav:
   - Home:
@@ -302,6 +303,7 @@ nav:
     - Overview: tutorials/index.md
     - Repeater: tutorials/repeater.md
     - Firmware Upgrade: tutorials/firmware_upgrade.md
+    - Check Firmware Version: tutorials/check_firmware_version.md
     - SSH to the Router: tutorials/ssh.md
     - Copy files to Router: tutorials/scp.md
     - OpenVPN Client: tutorials/openvpn_client.md
@@ -329,7 +331,7 @@ nav:
     - Tor: tutorials/tor.md
     - Camera: tutorials/camera.md
   - Troubleshooting:
-    # - Overview: troubleshooting/index.md
+    - Overview: troubleshooting/index.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md
     - Repeat Failure: troubleshooting/repeat_failure.md

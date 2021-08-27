@@ -8,6 +8,7 @@ hide:
 
 * [What is Repeater?](repeater) To repeat a Wi-Fi signal.
 * [How to upgrade to the latest firmware?](firmware_upgrade)
+* [How to check the firmware version of the router?](check_firmware_version)
 * [How to SSH to router](ssh).
 * [How to transfer files to router](scp).
 * [Setup OpenVPN Client](openvpn_client).
@@ -16,24 +17,24 @@ hide:
 * [Setup WireGuard Client](wireguard_client).
 * [Setup WireGuard Server](wireguard_server).
 * [Internet Kill Switch](internet_kill_switch). To let all data go through VPN.
-* [How to change WAN port to LAN port](change_wan_to_lan.md)
-* [LED Indicators](led.md)
+* [How to change WAN port to LAN port](change_wan_to_lan)
+* [LED Indicators](led)
 * [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
 * [File Sharing](file_sharing). Manage files in MicroSD Card, USB Stick and USB Hard Drive that connected to router.
 * [Setup DLNA Midia Server to share Multimedia over a home network](dlnaserver).
 * [DDNS](ddns). Overcome the issues related to Dynamic IP Addresses.
 * [Connect Cloud](cloud), to manage your routers remotely.
 * [Setup NextDNS](nextdns), which is the new firewall for the modern Internet.
-* [SMS Forward](sms_forward.md), to forward SMS message to phone or email.
-* [GL.iNet Mobile App](mobile_app.md)
-* [Setup LED Customization](led_customization.md)
-* [Setup a Captive Portal](captive_portal.md)
-* [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal.md).
-* [BLE MQTT Bridge](ble2mqtt.md), forward bluetooth data to cloud platform.
-* [To control Your DSLR Camera Wirelessly](qdslrdashboard.md).
-* [EasyTether](tether.md), share your Internet connection on your Android phone with router.
-* [Tor, for browse privately](tor.md).
-* [Connect USB web camera to routers](camera.md).
+* [SMS Forward](sms_forward), to forward SMS message to phone or email.
+* [GL.iNet Mobile App](mobile_app)
+* [Setup LED Customization](led_customization)
+* [Setup a Captive Portal](captive_portal)
+* [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal).
+* [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.
+* [To control Your DSLR Camera Wirelessly](qdslrdashboard).
+* [EasyTether](tether), share your Internet connection on your Android phone with router.
+* [Tor, for browse privately](tor).
+* [Connect USB web camera to routers](camera).
 
 ---
 

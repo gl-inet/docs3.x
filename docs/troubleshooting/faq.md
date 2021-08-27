@@ -20,18 +20,6 @@
 </details>
 
 <details>
-  <summary>How to check the firmware version of the router?</summary>
-  <ol type="1">
-    <li>Access web Admin Panel via 192.168.8.1.</li>
-    <li>Click <b>Upgrade</b> and check <b>Current Version</b>
-      <p>
-        <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware.jpg" />
-      </p>
-    </li>
-  </ol>
-</details>
-
-<details>
   <summary>How to create a separated subnet from the main network?</summary>
   <p>
     GL.iNet routers will create a 192.168.8.1/24 subnet by default.
