@@ -340,7 +340,6 @@ nav:
     - LED Indicators: troubleshooting/led.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md
-    - Captive Portal: troubleshooting/captive_portal.md
     - Repeat Failure: troubleshooting/repeat_failure.md
     - Access Web Panel: troubleshooting/access_web_panel.md
     - Extensible Authentication Protocol: troubleshooting/eap.md
