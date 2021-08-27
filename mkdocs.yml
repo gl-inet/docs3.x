@@ -320,7 +320,8 @@ nav:
     - Mobile App: tutorials/mobile_app.md
     - SMS Forward: tutorials/sms_forward.md
     - LED Customization: tutorials/led_customization.md
-    - Captive Portal: tutorials/captive_portal.md
+    - Setup Captive Portal: tutorials/captive_portal.md
+    - Connect to Captive Portal: tutorials/connect_to_a_hotspot_with_captive_portal.md
     - BLE MQTT Bridge: tutorials/ble2mqtt.md
     - qDslrDashboard: tutorials/qdslrdashboard.md
     - EasyTether: tutorials/tether.md
