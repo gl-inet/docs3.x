@@ -12,11 +12,26 @@ Please view the docs online at https://docs.gl-inet.com/
 
 ## Guide
 
+### Markdown syntax
+
 Each page use markdown, please check out this basic syntax of markdown [here](https://www.markdownguide.org/basic-syntax/).
+
+### Open in new tab
 
 If you wanna a link to open in new tab, add `{target="_blank}` at the end of link block.
 
+### Image lightbox
+
 If the size of image is too big, please use the PhotoSwipe, check out [here](#about-plugin-photoswipe).
+
+### Image captions
+
+```html
+<figure>
+  <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+  <figcaption>Image caption</figcaption>
+</figure>
+```
 
 ## About plugin PhotoSwipe
 
