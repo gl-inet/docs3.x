@@ -328,14 +328,6 @@ nav:
     - EasyTether: tutorials/tether.md
     - Tor: tutorials/tor.md
     - Camera: tutorials/camera.md
-  - Development:
-    - UART Serial: dev/serial.md
-    - Advanced Uboot: dev/uboot.md
-  - Video:
-    - Product Intro: video/product_intro.md
-    - Tutorial: video/tutor.md  
-    - Customer Review: video/review.md
-    - Unboxing: video/unboxing.md
   - Troubleshooting:
     # - Overview: troubleshooting/index.md
     - Repair or Reset: troubleshooting/reset.md
@@ -371,3 +363,11 @@ nav:
     - VIXMINI: release_notes/VIXMINI.md
     - GL-MT300A: release_notes/GL-MT300A.md
     - GL-MT300N: release_notes/GL-MT300N.md
+  - Development:
+    - UART Serial: dev/serial.md
+    - Advanced Uboot: dev/uboot.md
+  - Video:
+    - Product Intro: video/product_intro.md
+    - Tutorial: video/tutor.md  
+    - Customer Review: video/review.md
+    - Unboxing: video/unboxing.md
