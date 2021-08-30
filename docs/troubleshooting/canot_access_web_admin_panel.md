@@ -14,8 +14,6 @@ If connected by Wi-Fi, make sure the SSID is correct.
 
 Then follow the steps below to check the router's IP address.
 
-
-
 === "Windows 7"
 
     Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings

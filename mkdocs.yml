@@ -332,10 +332,10 @@ nav:
     - Camera: tutorials/camera.md
   - Troubleshooting:
     - Overview: troubleshooting/index.md
+    - Can't access Admin Panel: troubleshooting/canot_access_web_admin_panel.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md
     - Repeat Failure: troubleshooting/repeat_failure.md
-    - Access Web Panel: troubleshooting/access_web_panel.md
     - Extensible Authentication Protocol: troubleshooting/eap.md
     - GoodCloud issues: troubleshooting/goodcloud.md
     - Modem FAQ: troubleshooting/modem_faq.md

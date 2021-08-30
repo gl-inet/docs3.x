@@ -8,7 +8,7 @@ hide:
 
 ## General
 
-* [Why can't I access the router through 192.168.8.1?]()
+* [Why can't I access the router through 192.168.8.1?](canot_access_web_admin_panel)
 * [How to repair network or reset to factory setting?](reset)
 * [What should I do if my router is bricked?](debrick)
 * [What shoul I do if repeater failur?](repeat_failure)
