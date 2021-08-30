@@ -9,15 +9,15 @@ hide:
 * [What is Repeater?](repeater) To repeat a Wi-Fi signal.
 * [How to upgrade to the latest firmware?](firmware_upgrade)
 * [How to check the firmware version of the router?](check_firmware_version)
-* [How to SSH to router](ssh).
-* [How to transfer files to router](scp).
+* [How to SSH to router?](ssh).
+* [How to transfer files to router?](scp).
 * [Setup OpenVPN Client](openvpn_client).
 * [Setup OpenVPN Server](openvpn_server).
 * [Setup OpenVPN Bridge](openvpn_bridge).
 * [Setup WireGuard Client](wireguard_client).
 * [Setup WireGuard Server](wireguard_server).
 * [Internet Kill Switch](internet_kill_switch). To let all data go through VPN.
-* [How to change WAN port to LAN port](change_wan_to_lan)
+* [How to change WAN port to LAN port?](change_wan_to_lan)
 * [LED Indicators](led)
 * [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
 * [File Sharing](file_sharing). Manage files in MicroSD Card, USB Stick and USB Hard Drive that connected to router.
