@@ -3,23 +3,6 @@
 ## General
 
 <details>
-  <summary>Why can't I access the router through 192.168.8.1?</summary>
-  <p>
-    Please check <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">setup</a> to make sure you have connected to the router properly. Then, use <b>Chrome</b> or <b>Edge</b> or <b>Firefox</b> to visit 192.168.8.1. Don't use Internet Explorer. Or try using incognito mode.
-  </p>
-  <p>
-    If the problem still exists, <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a>
-  </p>
-</details>
-
-<details>
-  <summary>What should I do if my router is bricked?</summary>
-  <p>
-    Please re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a>
-  </p>
-</details>
-
-<details>
   <summary>How to create a separated subnet from the main network?</summary>
   <p>
     GL.iNet routers will create a 192.168.8.1/24 subnet by default.
@@ -38,28 +21,6 @@
     <li>Go to <b>MORE SETTINGS</b> -> <b>Network mode</b>.</li>
     <li>Change the network mode to <b>Access Point</b>, <b>Extender</b> or <b>WDS</b>.</li>
     <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg">
-  </ol>
-</details>
-
-<details>
-  <summary>Can I use the WAN port as LAN?</summary>
-  <p>Yes</p>
-  <ol type="1">
-    <li>
-      <p>Leave the WAN port of the router unconnected.</p>
-    </li>
-    <li>
-      <p>Connect your device to the router and access the web Admin Panel.</p>
-        <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet.jpg"/>
-    </li>
-    <li>
-      <p>Go to <b>Internet</b>, click <b>Use as LAN</b> under the Cable section.</p>
-      <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/cable.jpg"/>
-    </li>
-    <li>
-      <p>Click <b>Yes</b> to confirm.</p>
-        <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg"/>
-    </li>
   </ol>
 </details>
 
