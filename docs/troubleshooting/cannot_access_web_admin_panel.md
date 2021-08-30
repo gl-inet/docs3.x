@@ -29,7 +29,7 @@ Then follow the steps below to check the router's IP address.
     
     The IP address of router is the `IPv4 DNS Server`
     
-    ![property of network on windows 7](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/property_of_network_win7.jpg)
+    ![property of network on windows 7](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/property_of_network_win7.jpg)
 
 === "Windows 10"
 
@@ -37,7 +37,7 @@ Then follow the steps below to check the router's IP address.
 
     The IP address of router is the `IPv4 DNS servers`
 
-    ![property of network on windows 10](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/property_of_network_win10.jpg)
+    ![property of network on windows 10](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/property_of_network_win10.jpg)
 
 === "Mac OS"
 
@@ -45,18 +45,18 @@ Then follow the steps below to check the router's IP address.
 
     2. In the left column, click on the network connection. For an Ethernet connection, the router IP address will be shown.
 
-    ![router ip of ethernet on mac os](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/router_ip_of_ethernet_on_mac_os.jpg)
+    ![router ip of ethernet on mac os](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/router_ip_of_ethernet_on_mac_os.jpg)
 
     For a Wi-Fi connection, click the "Advanced..." button, and then the "TCP/IP" tab on the top of the windows. The router IP address will be shown.
 
-    ![router ip of wifi on mac os](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/router_ip_of_wifi_on_mac_os.jpg)
+    ![router ip of wifi on mac os](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/router_ip_of_wifi_on_mac_os.jpg)
 
 === "iOS"
 
     1. Settings -> Wi-Fi
     2. Tap the information icon(blue i, in a circle) of current connected Wi-Fi. The router IP address will be shown.
 
-    ![router ip address on iphone](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/router_ip_address_on_iphone.jpg)
+    ![router ip address on iphone](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/router_ip_address_on_iphone.jpg)
 
 === "Android"
 
