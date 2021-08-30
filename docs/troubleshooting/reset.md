@@ -1,6 +1,6 @@
 # How to Repair / Reset
 
-All GL.iNet Routers have reset button, you can use them to repair your network or reset your routers to factory defult. If you can neither access the web-based setup page nor the router, you can press the `reset` button:
+All GL.iNet Routers have reset button, you can use it to repair your network or reset your router to factory defult. If you can neither access the web-based setup page nor the router, you can press the `reset` button:
 
 ## Repair network
 
@@ -9,6 +9,8 @@ Press and hold the reset button for **4 seconds** then release to repair your ne
 ## Reset to factory
 
 Press and hold the reset button for **10 seconds** then release to reset the router to factory settings. All user data will be cleared.
+
+*Note: If factory reset is not working. You might need to follow the [Uboot tutorial](debrick.md) to debrick your router.*
 
 ### Mini Routers
 
@@ -41,5 +43,3 @@ Press and hold the reset button for **10 seconds** then release to reset the rou
 ### GL-E750 Mudi OpenWrt Router
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/e750.png)
-
-*Note: If factory reset is not working. You might need to follow the [Uboot tutorial](debrick.md) to debrick your router.*
