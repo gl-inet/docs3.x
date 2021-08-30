@@ -7,6 +7,7 @@ hide:
 # Tutorials
 
 * [What is Repeater?](repeater) To repeat a Wi-Fi signal.
+* [Can I set up the router as a bridge so that it works like I am connecting to my main router directly?](setup_the_router_as_a_bridge)
 * [How to upgrade to the latest firmware?](firmware_upgrade)
 * [How to check the firmware version of the router?](check_firmware_version)
 * [How to SSH to router?](ssh).

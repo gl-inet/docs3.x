@@ -9,21 +9,6 @@
   </p>
 </details>
 
-<details>
-  <summary>
-    Can I set up the router as a bridge so that it works like I am connecting to my main router directly?
-  </summary>
-  <p>
-    Yes, GL.iNet routers work in router mode by default, which will create a separated subnet for you. However, you can change its network mode so that it can behave like an extender without DHCP.
-  </p>
-  <ol type="1">
-    <li>Access the admin panel via 192.168.8.1</li>
-    <li>Go to <b>MORE SETTINGS</b> -> <b>Network mode</b>.</li>
-    <li>Change the network mode to <b>Access Point</b>, <b>Extender</b> or <b>WDS</b>.</li>
-    <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg">
-  </ol>
-</details>
-
 ## Wi-Fi
 
 <details>

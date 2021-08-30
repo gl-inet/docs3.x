@@ -302,6 +302,7 @@ nav:
   - Tutorials:
     - Overview: tutorials/index.md
     - Repeater: tutorials/repeater.md
+    - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
     - Firmware Upgrade: tutorials/firmware_upgrade.md
     - Check Firmware Version: tutorials/check_firmware_version.md
     - SSH to the Router: tutorials/ssh.md
