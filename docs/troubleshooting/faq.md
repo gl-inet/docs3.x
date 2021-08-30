@@ -17,11 +17,6 @@
 </details>
 
 <details>
-<summary>Why can't I find the default SSID of the router on my device?</summary>
-<p>Please  <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot</a></p>
-</details>
-
-<details>
 <summary>How to turn off the Wi-Fi of the router?</summary>
 <ol type="1">
 <li>Access web Admin Panel via 192.168.8.1.</li>
