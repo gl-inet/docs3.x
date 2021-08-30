@@ -17,15 +17,6 @@
 </details>
 
 <details>
-<summary>How to turn off the Wi-Fi of the router?</summary>
-<ol type="1">
-<li>Access web Admin Panel via 192.168.8.1.</li>
-<li>Click <b>Wireless</b> and turn the <b>ON/OFF</b> button to Off</li>
-<p><img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/wireless/status.jpg" /></p>
-</ol>
-</details>
-
-<details>
 <summary>Can I hide the SSID of the router?</summary>
 <ol type="1">
 <li>Access web Admin Panel via 192.168.8.1.</li>
