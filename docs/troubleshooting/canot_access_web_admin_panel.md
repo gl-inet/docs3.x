@@ -1,6 +1,6 @@
 # Can't Access Web Admin Panel
 
-Sometimes you may be unable to access 192.168.8.1 to login web Admin Panel, please follow the guide below to solve this problem.
+Sometimes you may be unable to access 192.168.8.1 to login web Admin Panel, please follow the guide below to solve this problem. 192.168.8.1 is the default IP address of the router, as well as for access web Admin Panel, you may have changed this IP.
 
 ---
 
@@ -20,33 +20,25 @@ Then follow the steps below to check the router's IP address.
 
     Right click the network -> Status -> Details
     
-    the IP address of router is the `IPv4 DNS Server`
+    The IP address of router is the `IPv4 DNS Server`
     
-    ![property of network](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/property_of_network_win7.png)
+    ![property of network on windows 7](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/property_of_network_win7.jpg)
 
 === "Windows 10"
 
     Settings -> Network & Internet -> Status, Click the Properties of Ethernet or Wi-Fi
 
-    the IP address of router is the `IPv4 DNS servers`
+    The IP address of router is the `IPv4 DNS servers`
 
-    ![property of network](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/property_of_network_win10.jpg)
+    ![property of network on windows 10](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/property_of_network_win10.jpg)
 
 === "Mac OS"
 
     Coming soon
 
-*Your IP address results determine the next step.*
+## Access the router's IP address
 
-### Your IP address is incorrect
-
-If the IP address is incorrect, check your connection again.
-
-1. Try [Reset](reset) to back to factory default.
-2. If the reset doesn't work, you can try [Debrick via uboot](debrick).
-
-### Your IP address is correct
-
-1. Make sure you are using Chrome/Firefox, then try to access 192.168.8.1 again.
-2. In order to avoid problems caused by the cache, click **Ctrl + Shift + n** in Chrome to enter the incognito mode. Then try to access 192.168.8.1 again.
-   ![access web admin panel via browser incognito mode](https://static.gl-inet.com/docs/en/3/troubleshooting/canot_access_web_panel/2.png)
+1. Make sure you are using Chrome/Edge/Safari, then try to access your IP address again.
+2. In order to avoid problems caused by the browser cache and extension, please open the incognito window. Then try to access the IP address of router again.
+3. Try [Reset](../reset) to back to factory default.
+4. If the reset doesn't work, you can try [Debrick via uboot](../debrick).
