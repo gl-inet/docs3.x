@@ -17,16 +17,6 @@
 </details>
 
 <details>
-<summary>Can I hide the SSID of the router?</summary>
-<ol type="1">
-<li>Access web Admin Panel via 192.168.8.1.</li>
-<li>Click <b>Wireless</b>, choose the WiFi you want to change, click <b>Modify</b>
-<li>Change SSID Visibility to Hidden</li>
-<p><img src="https://static.gl-inet.com/docs/en/3/troubleshooting/faq/wireless.jpg" /></p>
-</ol>
-</details>
-
-<details>
 <summary>Can I set up multiple SSIDs on the router?</summary>
 <ol type="1">
 <li>Go to <b>Luci</b> (http://192.168.8.1/cgi-bin/luci) -> <b>Network</b> -> <b>Wireless</b>.</li>
