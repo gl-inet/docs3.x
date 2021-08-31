@@ -303,6 +303,7 @@ nav:
     - Overview: tutorials/index.md
     - Repeater: tutorials/repeater.md
     - Turn off Wi-Fi: tutorials/turn_off_wifi.md
+    - Produce a wired connection: tutorials/produce_a_wired_connection.md
     - Hide SSID: tutorials/hide_ssid.md
     - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
     - Firmware Upgrade: tutorials/firmware_upgrade.md

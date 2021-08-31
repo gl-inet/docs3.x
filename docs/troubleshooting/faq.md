@@ -30,12 +30,6 @@
 </details>
 
 <details>
-<summary>My device can only be connected through Ethernet cable.  Can I use this router to connect my device to a wireless network?</summary>
-<p>Yes, please connect your device to the LAN port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#2-repeater">repeater</a>.</p>
-<p><i>Note:<li>For Microuter, if your device has USB port, connect Microuter to it and check if Microuter can create a USB to Ethernet connection. Then set up repeater.</li><li>For GL-AR300M-Lite, since it has only one WAN port, you can only do that after you have connected to it wirelessly and changed its WAN port to LAN port.</li></i></p>
-</details>
-
-<details>
 <summary>Can I connect to an existing Wi-Fi network (i.e. public Wi-Fi or hotel Wi-Fi) and then create my own Wi-Fi network? </summary>
 <p>Yes, our routers will boardcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
 </details>
