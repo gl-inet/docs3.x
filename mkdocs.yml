@@ -86,7 +86,7 @@ nav:
     - Overview: index.md
     - Services: service.md
   - Specification:
-    - Overview: specification/index.md
+    - Model Category: specification/index.md
     - GL-AR150: specification/gl-ar150/index.md
     - GL-AR300M: specification/gl-ar300m/index.md
     - GL-MT300N-V2: specification/gl-mt300n-v2/index.md
@@ -113,7 +113,7 @@ nav:
     - GL-MT300A: specification/gl-mt300a/index.md
     - GL-MT300N: specification/gl-mt300n/index.md
   - Setup:
-    - Overview: setup/index.md
+    - Model Category: setup/index.md
     - Mini Router Series:
       - First-time Setup: setup/mini_router/first-time_setup.md
       - Internet: setup/mini_router/internet.md
