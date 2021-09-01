@@ -8,7 +8,9 @@ You may have bricked your router if you were doing some DIY projects or flashed 
 
 Please follow the procedures below to access the Uboot Web UI and re-install the firmware.
 
-You can also refer to our video, [How to Use UBoot to Debrick Your GL.iNet Router 2021](https://docs.gl-inet.com/en/3/video/tutor/#how-to-use-uboot-to-debrick-your-glinet-router-2021).
+You can also refer to video tutorial below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EAaaw8nyrnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <ol type="1">
     <li><p>
