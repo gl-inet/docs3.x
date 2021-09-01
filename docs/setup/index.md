@@ -5,7 +5,7 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">
+      <a href="mini_router/first-time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" width=100%>
       </a>
     </div>
