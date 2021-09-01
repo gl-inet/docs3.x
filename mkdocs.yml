@@ -304,6 +304,7 @@ nav:
     - Repeater: tutorials/repeater.md
     - Turn off Wi-Fi: tutorials/turn_off_wifi.md
     - Produce a wired connection: tutorials/produce_a_wired_connection.md
+    - Connect to an existing wifi: tutorials/connect_to_an_existing_wifi.md
     - Hide SSID: tutorials/hide_ssid.md
     - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
     - Firmware Upgrade: tutorials/firmware_upgrade.md
