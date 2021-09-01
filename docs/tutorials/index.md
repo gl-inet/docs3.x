@@ -16,6 +16,7 @@ hide:
 * [What is Repeater?](repeater) To repeat a Wi-Fi signal.
 * [Can I set up the router as a bridge so that it works like I am connecting to my main router directly?](setup_the_router_as_a_bridge)
 * [My device can only be connected through Ethernet cable. Can I use this router to connect my device to a wireless network?](produce_a_wired_connection)
+* [Can I connect to an existing Wi-Fi network (i.e. public Wi-Fi or hotel Wi-Fi) and then create my own Wi-Fi network?](connect_to_an_existing_wifi)
 * [How to turn off the Wi-Fi of the router?](turn_off_wifi)
 * [Can I hide the SSID of the router?](hide_ssid)
 * [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal).

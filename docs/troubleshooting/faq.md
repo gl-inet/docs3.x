@@ -30,11 +30,6 @@
 </details>
 
 <details>
-<summary>Can I connect to an existing Wi-Fi network (i.e. public Wi-Fi or hotel Wi-Fi) and then create my own Wi-Fi network? </summary>
-<p>Yes, our routers will boardcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
-</details>
-
-<details>
 <summary>Why there is no captive portal page for me to enter my authentication information when I connect to a public hotspot?</summary>
 <p>Please follow the instructions below to disable the DNS rebind protection.</p>
 <ol type="1">
