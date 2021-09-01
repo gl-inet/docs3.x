@@ -17,19 +17,6 @@
 </details>
 
 <details>
-<summary>Can I set up multiple SSIDs on the router?</summary>
-<ol type="1">
-<li>Go to <b>Luci</b> (http://192.168.8.1/cgi-bin/luci) -> <b>Network</b> -> <b>Wireless</b>.</li>
-<li>Click <b>Add</b> to create a new wireless interface.</li>
-<li>In <b>Interface Configuration</b>, you can input your own SSID. Please choose <i>Access Point (WDS)</i> <b>Mode</b> and tick <i>lan</i> for the <b>Network</b>.</li>
-<li>Move to <b>Wireless Security</b> to configure the Encryption.</li>
-<li>Click <b>Save & Apply</b> and then reboot your router.</li>
-<p><i>Note: In the Advanced Settings of Interface Configuration, you can leave it blank. If you want to give it a name such as wlan0, please use different names for different wireless interfaces.</i></p>
-<p><i>Note: The name of the interface can be changed in the Advanced Settings of Interface Configuration, you can leave it blank. If you want to give it a name such as wlan0, please use different names for different wireless interfaces.</i></p>
-</ol>
-</details>
-
-<details>
 <summary>Why there is no captive portal page for me to enter my authentication information when I connect to a public hotspot?</summary>
 <p>Please follow the instructions below to disable the DNS rebind protection.</p>
 <ol type="1">
