@@ -87,26 +87,26 @@ nav:
     - Services: service.md
   - Specification:
     - Model Category: specification/index.md
-    - GL-AR150: specification/gl-ar150/index.md
-    - GL-AR300M: specification/gl-ar300m/index.md
-    - GL-MT300N-V2: specification/gl-mt300n-v2/index.md
-    - GL-AR750: specification/gl-ar750/index.md
-    - GL-AR750S: specification/gl-ar750s/index.md
-    - GL-MT1300: specification/gl-mt1300/index.md
-    - GL-AX1800: specification/gl-ax1800/index.md
+    - GL-AR150 (White): specification/gl-ar150/index.md
+    - GL-AR300M (Shadow): specification/gl-ar300m/index.md
+    - GL-MT300N-V2 (Mango): specification/gl-mt300n-v2/index.md
+    - GL-AR750 (Creta): specification/gl-ar750/index.md
+    - GL-AR750S (Slate): specification/gl-ar750s/index.md
+    - GL-MT1300 (Beryl): specification/gl-mt1300/index.md
+    - GL-AX1800 (Flint): specification/gl-ax1800/index.md
     - GL-MiFi: specification/gl-mifi/index.md
-    - GL-XE300: specification/gl-xe300/index.md
-    - GL-X750: specification/gl-x750/index.md
-    - GL-E750: specification/gl-e750/index.md
-    - GL-USB150: specification/gl-usb150/index.md
-    - GL-B1300: specification/gl-b1300/index.md
-    - GL-S1300: specification/gl-s1300/index.md
-    - GL-MV1000: specification/gl-mv1000/index.md
-    - GL-MV1000W: specification/gl-mv1000w/index.md
-    - GL-X1200: specification/gl-x1200/index.md
-    - GL-X300B: specification/gl-x300b/index.md
-    - GL-AP1300: specification/gl-ap1300/index.md
-    - GL-B2200: specification/gl-b2200/index.md
+    - GL-XE300 (Puli): specification/gl-xe300/index.md
+    - GL-X750 (Spitz): specification/gl-x750/index.md
+    - GL-E750 (Mudi): specification/gl-e750/index.md
+    - GL-USB150 (Microuter): specification/gl-usb150/index.md
+    - GL-B1300 (Convexa-B): specification/gl-b1300/index.md
+    - GL-S1300 (Convexa-S): specification/gl-s1300/index.md
+    - GL-MV1000 (Brume): specification/gl-mv1000/index.md
+    - GL-MV1000W (Brume-W): specification/gl-mv1000w/index.md
+    - GL-X1200 (Amarok): specification/gl-x1200/index.md
+    - GL-X300B (Collie): specification/gl-x300b/index.md
+    - GL-AP1300 (Cirrus): specification/gl-ap1300/index.md
+    - GL-B2200 (Velica): specification/gl-b2200/index.md
     - GL-SF1200: specification/gl-sf1200/index.md
     - microuter-N300: specification/microuter-n300/index.md
     - Domino Core: specification/domino-core/index.md
@@ -348,25 +348,25 @@ nav:
     - FAQs: troubleshooting/faq.md
   - Release Notes:
     - Firmware Releases: release_notes/index.md
-    - GL-AR150: release_notes/GL-AR150.md
-    - GL-AR300M: release_notes/GL-AR300M.md
-    - GL-MT300N-V2: release_notes/GL-MT300N-V2.md
-    - GL-MT1300: release_notes/GL-MT1300.md
-    - GL-AR750: release_notes/GL-AR750.md
-    - GL-AR750S-Ext: release_notes/GL-AR750S-Ext.md
+    - GL-AR150 (White): release_notes/GL-AR150.md
+    - GL-AR300M (Shadow): release_notes/GL-AR300M.md
+    - GL-MT300N-V2 (Mango): release_notes/GL-MT300N-V2.md
+    - GL-MT1300 (Beryl): release_notes/GL-MT1300.md
+    - GL-AR750 (Creta): release_notes/GL-AR750.md
+    - GL-AR750S-EXT (Slate): release_notes/GL-AR750S-Ext.md
     - GL-MiFi: release_notes/GL-MiFi.md
-    - GL-XE300: release_notes/GL-XE300.md
-    - GL-X300B: release_notes/GL-X300B.md
-    - GL-X750: release_notes/GL-X750.md
-    - GL-E750: release_notes/GL-E750.md
-    - GL-USB150: release_notes/GL-USB150.md
-    - GL-B2200: release_notes/GL-B2200.md
-    - GL-B1300: release_notes/GL-B1300.md
-    - GL-S1300: release_notes/GL-S1300.md
+    - GL-XE300 (Puli): release_notes/GL-XE300.md
+    - GL-X300B (Collie): release_notes/GL-X300B.md
+    - GL-X750 (Spitz): release_notes/GL-X750.md
+    - GL-E750 (Mudi): release_notes/GL-E750.md
+    - GL-USB150 (Microuter): release_notes/GL-USB150.md
+    - GL-B2200 (Velica): release_notes/GL-B2200.md
+    - GL-B1300 (Convexa-B): release_notes/GL-B1300.md
+    - GL-S1300 (Convexa-S): release_notes/GL-S1300.md
     - GL-SF1200: release_notes/GL-SF1200.md
-    - GL-MV1000: release_notes/GL-MV1000.md
-    - GL-X1200: release_notes/GL-X1200.md
-    - GL-AP1300: release_notes/GL-AP1300.md
+    - GL-MV1000 (Brume): release_notes/GL-MV1000.md
+    - GL-X1200 (Amarok): release_notes/GL-X1200.md
+    - GL-AP1300 (Cirrus): release_notes/GL-AP1300.md
     - microuter-N300: release_notes/microuter-N300.md
     - VIXMINI: release_notes/VIXMINI.md
     - GL-MT300A: release_notes/GL-MT300A.md
