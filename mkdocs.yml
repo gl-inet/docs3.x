@@ -374,8 +374,3 @@ nav:
   - Development:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
-  - Video:
-    - Product Intro: video/product_intro.md
-    - Tutorial: video/tutor.md  
-    - Customer Review: video/review.md
-    - Unboxing: video/unboxing.md
