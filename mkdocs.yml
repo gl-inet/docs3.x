@@ -124,7 +124,7 @@ nav:
       - VPN: setup/mini_router/vpn.md
       - Applications: setup/mini_router/applications.md
       - More Settings: setup/mini_router/more_settings.md
-    - Creta (GL-AR750):
+    - GL-AR750 (Creta):
       - First-time Setup: setup/gl-ar750/first-time_setup.md
       - Internet: setup/gl-ar750/internet.md
       - Wireless: setup/gl-ar750/wireless.md
@@ -134,7 +134,7 @@ nav:
       - VPN: setup/gl-ar750/vpn.md
       - Applications: setup/gl-ar750/applications.md
       - More Settings: setup/gl-ar750/more_settings.md
-    - Slate (GL-AR750S-Ext):
+    - GL-AR750S-EXT (Slate):
       - First-time Setup: setup/gl-ar750s/first-time_setup.md
       - Internet: setup/gl-ar750s/internet.md
       - Wireless: setup/gl-ar750s/wireless.md
@@ -144,7 +144,7 @@ nav:
       - VPN: setup/gl-ar750s/vpn.md
       - Applications: setup/gl-ar750s/applications.md
       - More Settings: setup/gl-ar750s/more_settings.md
-    - Beryl (GL-MT1300):
+    - GL-MT1300 (Beryl):
       - First-time Setup: setup/gl-mt1300/first-time_setup.md
       - Internet: setup/gl-mt1300/internet.md
       - Wireless: setup/gl-mt1300/wireless.md
@@ -154,7 +154,7 @@ nav:
       - VPN: setup/gl-mt1300/vpn.md
       - Applications: setup/gl-mt1300/applications.md
       - More Settings: setup/gl-mt1300/more_settings.md
-    - 4G Smart Router (GL-MiFi):
+    - GL-MiFi:
       - First-time Setup: setup/gl-mifi/first-time_setup.md
       - Internet: setup/gl-mifi/internet.md
       - Wireless: setup/gl-mifi/wireless.md
@@ -163,7 +163,7 @@ nav:
       - VPN: setup/gl-mifi/vpn.md
       - Applications: setup/gl-mifi/applications.md
       - More Settings: setup/gl-mifi/more_settings.md
-    - Puli (GL-XE300):
+    - GL-XE300 (Puli):
       - First-time Setup: setup/gl-xe300/first-time_setup.md
       - Internet: setup/gl-xe300/internet.md
       - Wireless: setup/gl-xe300/wireless.md
@@ -173,7 +173,7 @@ nav:
       - VPN: setup/gl-xe300/vpn.md
       - Applications: setup/gl-xe300/applications.md
       - More Settings: setup/gl-xe300/more_settings.md
-    - Spitz (GL-X750):
+    - GL-X750 (Spitz):
       - First-time Setup: setup/gl-x750/first-time_setup.md
       - Internet: setup/gl-x750/internet.md
       - Wireless: setup/gl-x750/wireless.md
@@ -182,7 +182,7 @@ nav:
       - VPN: setup/gl-x750/vpn.md
       - Applications: setup/gl-x750/applications.md
       - More Settings: setup/gl-x750/more_settings.md
-    - Mudi (GL-E750):
+    - GL-E750 (Mudi):
       - First-time Setup: setup/gl-e750/first-time_setup.md
       - Internet: setup/gl-e750/internet.md
       - Wireless: setup/gl-e750/wireless.md
@@ -192,7 +192,7 @@ nav:
       - VPN: setup/gl-e750/vpn.md
       - Applications: setup/gl-e750/applications.md
       - More Settings: setup/gl-e750/more_settings.md
-    - Microuter (GL-USB150):
+    - GL-USB150 (Microuter):
       - First-time Setup: setup/gl-usb150/first-time_setup.md
       - Internet: setup/gl-usb150/internet.md
       - Wireless: setup/gl-usb150/wireless.md
@@ -201,7 +201,7 @@ nav:
       - VPN: setup/gl-usb150/vpn.md
       - Applications: setup/gl-usb150/applications.md
       - More Settings: setup/gl-usb150/more_settings.md
-    - Convexa-B (GL-B1300):
+    - GL-B1300 (Convexa-B):
       - First-time Setup: setup/gl-b1300/first-time_setup.md
       - Internet: setup/gl-b1300/internet.md
       - Wireless: setup/gl-b1300/wireless.md
@@ -212,7 +212,7 @@ nav:
       - VPN: setup/gl-b1300/vpn.md
       - Applications: setup/gl-b1300/applications.md
       - More Settings: setup/gl-b1300/more_settings.md
-    - Convexa-S (GL-S1300):
+    - GL-S1300 (Convexa-S):
       - First-time Setup: setup/gl-s1300/first-time_setup.md
       - Internet: setup/gl-s1300/internet.md
       - Wireless: setup/gl-s1300/wireless.md
@@ -223,7 +223,7 @@ nav:
       - VPN: setup/gl-s1300/vpn.md
       - Applications: setup/gl-s1300/applications.md
       - More Settings: setup/gl-s1300/more_settings.md
-    - Velica (GL-B2200):
+    - GL-B2200 (Velica):
       - First-time Setup: setup/gl-b2200/first-time_setup.md
       - Internet: setup/gl-b2200/internet.md
       - Wireless: setup/gl-b2200/wireless.md
@@ -234,7 +234,7 @@ nav:
       - VPN: setup/gl-b2200/vpn.md
       - Applications: setup/gl-b2200/applications.md
       - More Settings: setup/gl-b2200/more_settings.md
-    - Brume (GL-MV1000):
+    - GL-MV1000 (Brume):
       - First-time Setup: setup/gl-mv1000/first-time_setup.md
       - Internet: setup/gl-mv1000/internet.md
       - Wireless: setup/gl-mv1000/wireless.md
@@ -244,7 +244,7 @@ nav:
       - VPN: setup/gl-mv1000/vpn.md
       - Applications: setup/gl-mv1000/applications.md
       - More Settings: setup/gl-mv1000/more_settings.md
-    - Brume-W (GL-MV1000W):
+    - GL-MV1000W (Brume-W):
       - First-time Setup: setup/gl-mv1000w/first-time_setup.md
       - Internet: setup/gl-mv1000w/internet.md
       - Wireless: setup/gl-mv1000w/wireless.md
@@ -264,15 +264,15 @@ nav:
       - VPN: setup/gl-sf1200/vpn.md
       - Applications: setup/gl-sf1200/applications.md
       - More Settings: setup/gl-sf1200/more_settings.md
-    - Amarok (GL-X1200):
+    - GL-X1200 (Amarok):
       - First-time Setup: setup/gl-x1200/first-time_setup.md
-    - Collie (GL-X300B):
+    - GL-X300B (Collie):
       - First-time Setup: setup/gl-x300b/first-time_setup.md
     - GL-S10:
       - First-time Setup: setup/gl-s10/first-time_setup.md
       - API Manual: setup/gl-s10/api_manual.md
       - Firmware Complilation Guide: setup/gl-s10/firmware_compilation_guide.md
-    - Cirrus (GL-AP1300/GL-AP1300LTE):
+    - GL-AP1300/GL-AP1300LTE (Cirrus):
       - First-time Setup: setup/gl-ap1300/first-time_setup.md
       - Internet: setup/gl-ap1300/internet.md
       - Wireless: setup/gl-ap1300/wireless.md
