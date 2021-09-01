@@ -6,38 +6,55 @@ hide:
 
 # Tutorials
 
+## General
+
+* [How to upgrade to the latest firmware?](firmware_upgrade)
+* [How to check the firmware version of the router?](check_firmware_version)
+
+## Internet Connection
+
 * [What is Repeater?](repeater) To repeat a Wi-Fi signal.
 * [Can I set up the router as a bridge so that it works like I am connecting to my main router directly?](setup_the_router_as_a_bridge)
 * [My device can only be connected through Ethernet cable. Can I use this router to connect my device to a wireless network?](produce_a_wired_connection)
 * [How to turn off the Wi-Fi of the router?](turn_off_wifi)
 * [Can I hide the SSID of the router?](hide_ssid)
-* [How to upgrade to the latest firmware?](firmware_upgrade)
-* [How to check the firmware version of the router?](check_firmware_version)
-* [How to SSH to router?](ssh)
-* [How to transfer files to router?](scp)
+* [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal).
+* [Setup a Captive Portal](captive_portal)
+* [EasyTether](tether), share your Internet connection on your Android phone with router.
+
+## VPN
+
 * [Setup OpenVPN Client](openvpn_client).
 * [Setup OpenVPN Server](openvpn_server).
 * [Setup OpenVPN Bridge](openvpn_bridge).
 * [Setup WireGuard Client](wireguard_client).
 * [Setup WireGuard Server](wireguard_server).
 * [Internet Kill Switch](internet_kill_switch). To let all data go through VPN.
+* [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
+
+## Privacy
+
+* [Setup NextDNS](nextdns), which is the new firewall for the modern Internet.
+* [Tor, for browse privately](tor).
+
+## 4G
+
+* [SMS Forward](sms_forward), to forward SMS message to phone or email.
+
+## Others
+
 * [How to change WAN port to LAN port?](change_wan_to_lan)
 * [LED Indicators](led)
-* [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
 * [File Sharing](file_sharing). Manage files in MicroSD Card, USB Stick and USB Hard Drive that connected to router.
 * [Setup DLNA Midia Server to share Multimedia over a home network](dlnaserver).
 * [DDNS](ddns). Overcome the issues related to Dynamic IP Addresses.
 * [Connect Cloud](cloud), to manage your routers remotely.
-* [Setup NextDNS](nextdns), which is the new firewall for the modern Internet.
-* [SMS Forward](sms_forward), to forward SMS message to phone or email.
+* [How to SSH to router?](ssh)
+* [How to transfer files to router?](scp)
 * [GL.iNet Mobile App](mobile_app)
 * [Setup LED Customization](led_customization)
-* [Setup a Captive Portal](captive_portal)
-* [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal).
 * [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.
 * [To control Your DSLR Camera Wirelessly](qdslrdashboard).
-* [EasyTether](tether), share your Internet connection on your Android phone with router.
-* [Tor, for browse privately](tor).
 * [Connect USB web camera to routers](camera).
 
 ---
