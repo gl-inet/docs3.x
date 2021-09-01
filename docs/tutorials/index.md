@@ -70,8 +70,8 @@ hide:
 
 * [Connect to cloudflare’s free WARP pseudo VPN service using built-in wireguard client](https://forum.gl-inet.com/t/guide-connect-to-cloudflares-free-warp-pseudo-vpn-service-using-built-in-wireguard-client/10508){target="_blank}
 
-* [Adding Wi-Fi to MV1000 Brume](https://forum.gl-inet.com/t/adding-wi-fi-to-mv1000-brume/9610/49){target="_blank}
+* [Adding Wi-Fi to MV1000 Brume](https://forum.gl-inet.com/t/adding-wi-fi-to-mv1000-brume/9610){target="_blank}
 
 * [X750 Spitz is there a way to lock to band?](https://forum.gl-inet.com/t/x750-spitz-is-there-a-way-to-lock-to-band/5687){target="_blank}
 
-* [How to add IPSEC/L2TP support?](https://forum.gl-inet.com/t/how-to-add-ipsec-l2tp-support/1637/52){target="_blank}
+* [How to add IPSEC/L2TP support?](https://forum.gl-inet.com/t/how-to-add-ipsec-l2tp-support/1637){target="_blank}
