@@ -11,7 +11,7 @@ The following routers with USB 2.0 port should be able to support USB Webcams:
 * GL-AR300M 
 * GL-MT-300N-V2
 * GL-AR750
-* GL-AR750S
+* GL-AR750S-EXT
 * GL-MV1000
 * GL-MIFI
 * GL-X750

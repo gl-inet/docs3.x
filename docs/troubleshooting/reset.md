@@ -32,7 +32,7 @@ Press and hold the reset button for **10 seconds** then release to reset the rou
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/mv1000.png)
 
-### GL-AR750S-Ext Travel AC Router
+### GL-AR750S-EXT Travel AC Router
 
 ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/factoryreset/ar750s.png)
 

@@ -1,4 +1,5 @@
 # NextDNS
+
 If you are using GL.iNet routers, you will find that DNS over TLS from Cloudflare has been added in the Admin Pannel(GL WebUI, not Luci). 
 Some of our fans also want to use NextDNS on GL.iNet routers. As we are planning to add NextDNS in our firmware from version 3.200. This is the instruction on how to setup a NextDNS on GL.iNet routers under version 3.200.
 
@@ -6,7 +7,7 @@ Some of our fans also want to use NextDNS on GL.iNet routers. As we are planning
 
 
 Supporting List:
-GL-AR750S-Ext, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi, GL-E750, and GL-X750. 
+GL-AR750S-EXT, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi, GL-E750, and GL-X750. 
 
 ## Register NextDNS Account 
 Go to [NextDNS](https://nextdns.io/?from=amdj8sqt), then click**mynextdns.io**.

@@ -279,7 +279,7 @@ We try our best to solve your every technical problem when you use our products.
 
 * [GL-X750 4G LTE Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-x750){target="_blank}
 
-* [GL-AR750S Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750s){target="_blank}
+* [GL-AR750S-EXT Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750s){target="_blank}
 
 * [GL-AR750 Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750){target="_blank}
 

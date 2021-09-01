@@ -1,6 +1,6 @@
 # Getting Started with GL.iNet Slate
 
-Model: GL-AR750S-Ext
+Model: GL-AR750S-EXT
 
 ![router](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/router.jpg)
 
@@ -64,6 +64,6 @@ After the initial setup, you will enter the web Admin Panel of the router. It al
 
 ## Video Tutorial
 
-Initial setup for Slate(GL-AR750S-Ext) Dual-band Wireless Travel Router
+Initial setup for Slate(GL-AR750S-EXT) Dual-band Wireless Travel Router
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpN3ZXDBzi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

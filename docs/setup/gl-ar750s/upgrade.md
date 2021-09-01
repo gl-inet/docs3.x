@@ -34,7 +34,7 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
 
-- GL-AR750S (Slate): [https://dl.gl-inet.com/firmware/ar750s/](https://dl.gl-inet.com/firmware/ar750s/)
+- GL-AR750S-EXT (Slate): [https://dl.gl-inet.com/firmware/ar750s/](https://dl.gl-inet.com/firmware/ar750s/)
 
 Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
 

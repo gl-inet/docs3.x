@@ -2,7 +2,7 @@
 
 Some of GL.iNet routers support DLNA Server, but this is not a default function. You need to install a little plug-ins to make it workable. 
 
-Support models: GL-AR750S-Ext, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi and GL-X750
+Support models: GL-AR750S-EXT, GL-AR750, GL-MT300N-V2, GL-AR300M series, GL-AR150 series, GL-MiFi and GL-X750
 
 ## Install Plug-ins 
 
