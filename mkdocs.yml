@@ -12,6 +12,7 @@ copyright: Copyright &copy; 2021 GL Technologies & Microuter Technologies
 
 theme: 
   name: material
+  logo: images/favicon.png
   custom_dir: overrides
   features:
     - navigation.tabs
