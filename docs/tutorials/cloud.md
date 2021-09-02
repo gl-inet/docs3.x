@@ -46,7 +46,7 @@ For GL-USB150, it can use GoodCloud too, but it only can be binded to GoodCloud 
 
 ### Local upgrade
 
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+Open a web browser (we recommend Chrome) and to access router web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
 At the left side, UPGRADE -> Local Upgrade, select the firmware file you download, you can turn off "Keep Settings" for more stable, click "Install" button. It takes several minutes to install.
 
@@ -54,9 +54,9 @@ If you want to learn more about upgrade, please scroll top -> Setup -> Choose th
 
 ![learn more about upgrade](https://static.gl-inet.com/goodcloud/docs/learn_more_about_upgrade.png)
 
-### Enable Cloud Manage on router Web Admin Panel
+### Enable Cloud Manage on router web Admin Panel
 
-Open a web browser (we recommend Chrome) and to access router Web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+Open a web browser (we recommend Chrome) and to access router web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
 ![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png){class="glboxshadow"}
 
@@ -72,7 +72,7 @@ If you have any difficulty with sign up, please send email to <a href="mailto:ad
 
 ### Select region
 
-At the first time when you sign in, it will pop up a dialog to let you select the region, select the region that your device selected Data Server on the Web Admin Panel (<a href="enable-cloud-mangement">Step 1.2</a>).
+At the first time when you sign in, it will pop up a dialog to let you select the region, select the region that your device selected Data Server on the web Admin Panel (<a href="enable-cloud-mangement">Step 1.2</a>).
 
 You can change the region on the top right corner at anytime.
 
@@ -133,9 +133,9 @@ For some new models, DDNS has been changed to Device ID on the back of router.
 
 "Bulk import" is for user who have a great number of devices to add. By "Bulk import" you can import many devices by a Microsoft excel file.
 
-### Binded info on router Web Admin Panel
+### Binded info on router web Admin Panel
 
-After you seccessfully add router to GoodCloud, go back to router Web Admin Panel, 
+After you seccessfully add router to GoodCloud, go back to router web Admin Panel, 
 
 APPLICATION -> Remote Access -> Cloud Management, 
 
@@ -413,7 +413,7 @@ At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, Op
 
 ## Disable
 
-To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
+To stop GoodCloud service, turn it off on router web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
 ![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png){class="glboxshadow"}
 

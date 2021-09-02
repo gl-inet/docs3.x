@@ -66,7 +66,7 @@ If not, expand the 'Ports (COM & LPT)' category and select 'USB Serial Device'.
 8. If everything is working correctly, the Duo will appear as 'USB Ethernet/RNDIS Gadget' under 'Network adapters'
 ![Connection-win-8](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-8.png){class="glboxshadow"}
 
-## 3. Access the Web Admin Panel
+## 3. Access the web Admin Panel
 
 Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel.
 

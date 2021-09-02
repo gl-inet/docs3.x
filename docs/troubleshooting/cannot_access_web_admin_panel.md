@@ -1,4 +1,4 @@
-# Can't Access Web Admin Panel
+# Can't access web Admin Panel
 
 Sometimes you may be unable to access 192.168.8.1 to login web Admin Panel, there maybe several reasons.
 

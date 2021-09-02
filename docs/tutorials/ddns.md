@@ -12,7 +12,7 @@ Open this website to download the latest firmware <a href="https://docs.gl-inet.
 
 ### Local upgrade
 
-Open a web browser (we recommend Chrome) to access router Web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
+Open a web browser (we recommend Chrome) to access router web Admin Panel(default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
 At the left side, UPGRADE -> Local Upgrade, select the firmware file you have downloaded, you can turn off "Keep Settings" for a clean install and more stable, click "Install" button. It takes several minutes to install.
 

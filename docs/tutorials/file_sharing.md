@@ -118,7 +118,7 @@ If you are using Windows 10, you also need to enable SMB 1.0.
 
 ![confirm_connect_to_server](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/confirm_connect_to_server.png){class="glboxshadow"}
 
-**4)** Input username and password, they are the same when you login Web Admin Panel.
+**4)** Input username and password, they are the same when you login web Admin Panel.
 
 ![input_server_username_password](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/input_server_username_password.png){class="glboxshadow"}
 

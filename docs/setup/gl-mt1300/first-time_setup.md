@@ -36,7 +36,7 @@ Search for the SSID of the router in your device and input the default password:
 - **GL-MT1300-XXX**
 - **GL-MT1300-XXX-5G**
 
-## 3. Access the Web Admin Panel
+## 3. Access the web Admin Panel
 
 Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel.
 
