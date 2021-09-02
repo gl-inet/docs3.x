@@ -4,9 +4,7 @@ You can use GL.iNet routers with external storage device such as USB stick, Micr
 
 ---
 
-
-
-##Router settings
+## Router settings
 
 The contents of the external storage device are shared to LAN but not WAN and they are unwritable by default. Please click on your router model below to check how to change the file sharing settings of the router. 
 
@@ -15,34 +13,31 @@ The contents of the external storage device are shared to LAN but not WAN and th
 
 | Router Model | USB Stick | USB Hard Drive | MicroSD Card |
 | :----------- | :-------: | :---: | :---: |
-| [GL-MT300N-V2](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) |     √     |    √ | - |
-| [GL-AR150 Series](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) | √ | √ | - |
-| [GL-AR300M Series](https://docs.gl-inet.com/en/3/setup/mini_router/applications/#file-sharing) | √ | √ | - |
+| [GL-MT300N-V2 (Mango)](../../setup/mini_router/applications/#file-sharing) |     √     |    √ | - |
+| [GL-AR150 Series](../../setup/mini_router/applications/#file-sharing) | √ | √ | - |
+| [GL-AR300M Series](../../setup/mini_router/applications/#file-sharing) | √ | √ | - |
 | GL-USB150 | - | - | - |
-| [GL-MiFi](https://docs.gl-inet.com/en/3/setup/4g_smart_router/applications/#file-sharing) | √ | √ | √ |
-| [GL-AR750](https://docs.gl-inet.com/en/3/setup/travel_ac_router/applications/#file-sharing) | √ | √ | √ |
-| [GL-AR750S-EXT (Slate)](https://docs.gl-inet.com/en/3/setup/slate/applications/#file-sharing) | √ | √ | √ |
-| [GL-B1300 (Convexa B)](https://docs.gl-inet.com/en/3/setup/convexa_b/applications/#file-sharing) | √ | √ | - |
-| [GL-S1300 (Convexa S)](https://docs.gl-inet.com/en/3/setup/convexa_s/applications/#file-sharing) | √ | √ | - |
-| [GL-X750 (Spitz)](https://docs.gl-inet.com/en/3/setup/spitz/applications/#file-sharing) | √ | √ | √ |
-| [GL-E750 (Mudi)](https://docs.gl-inet.com/en/3/setup/mudi/applications/#file-sharing) | √ | √ | √ |
-| [GL-MV1000 (Brume)](https://docs.gl-inet.com/en/3/setup/brume/applications/#file-sharing) | √ | √ | √ |
+| [GL-MiFi](../../setup/gl-mifi/applications/#file-sharing) | √ | √ | √ |
+| [GL-AR750 (Creta)](../../setup/gl-ar750/applications/#file-sharing) | √ | √ | √ |
+| [GL-AR750S-EXT (Slate)](../../setup/gl-ar750s/applications/#file-sharing) | √ | √ | √ |
+| [GL-B1300 (Convexa-B)](../../setup/gl-b1300/applications/#file-sharing) | √ | √ | - |
+| [GL-S1300 (Convexa-S)](../../setup/gl-s1300/applications/#file-sharing) | √ | √ | - |
+| [GL-X750 (Spitz)](../../setup/gl-x750/applications/#file-sharing) | √ | √ | √ |
+| [GL-E750 (Mudi)](../../setup/gl-e750/applications/#file-sharing) | √ | √ | √ |
+| [GL-MV1000 (Brume)](../../setup/gl-mv1000/applications/#file-sharing) | √ | √ | √ |
 | microuter-N300 | - | - | - |
 
 *Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
 
 ---
 
-
-
-##Access the storage device
+## Access the storage device
 
 You can access the contents of the external storage device from your computer or smart phone. Please check the following guidance for the using of file sharing among different operating systems.
 
 ### General Notes
 
 You may be able to access the share via `\\192.168.8.1\` or `smb://192.168.8.1/` or with `GL-modelXXX` instead of `192.168.8.1` (eg `\\GL-AR750S\`)  in your system's file explorer. Since sharing is enabled to the LAN by default (this includes both wired AND wireless clients) and maps a "bad user" to Guest, then even if they don't supply a username and password or an invalid one, ANYONE connected to your router can access the files in the share in Read-Only mode. If you enable Writable mode this applies to both Guests AND the default `root` user. If you enable write access, anybody can create or delete files and folders, if you disable write access, not even the `root` user can delete them via SMB (they can through the CLI though). We can hope that in a future revision there is a simple user management and that a named user (or `root`) can read and/or write while Guests are limited by the `Writable` or a `Public Write` flag on a share (and having multiple shares would be great as well).
-
 
 ### Windows
 
