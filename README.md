@@ -33,6 +33,12 @@ If the size of image is too big, please use the PhotoSwipe, check out [here](#ab
 </figure>
 ```
 
+### Use relative path to link internal content
+
+```
+[easytethering](../../../tutorials/tether)
+```
+
 ## About plugin PhotoSwipe
 
 Using the v4 version, v5 version looks better, but need to load js module. Don't know how to work it out in mkdocs.
