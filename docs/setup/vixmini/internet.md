@@ -16,7 +16,7 @@ Click `INTERNET` to create an Internet connection.
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
-Before plugging the Ethernet cable into the Ethernet port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](internet#2-repeater).
+Before plugging the Ethernet cable into the Ethernet port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater).
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/cable.jpg){class="glboxshadow"}
 

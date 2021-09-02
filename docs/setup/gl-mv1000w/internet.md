@@ -14,7 +14,7 @@ Click `INTERNET` to create an Internet connection.
 
 ---
 
-## 1) Cable
+## 1 Cable
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
@@ -58,7 +58,7 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ---
 
-## 2) Repeater
+## 2 Repeater
 
 Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
 
@@ -76,7 +76,7 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ---
 
-## 3) USB 3G/4G Modem
+## 3 USB 3G/4G Modem
 
 You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem  Plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
 
@@ -146,7 +146,7 @@ You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsand
 
 ---
 
-## 4) Tethering
+## 4 Tethering
 
 Using a USB cable to share network from your smartphone to the router is called Tethering. Host-less modem works in Tethering during the setup of the modem as well.
 
