@@ -105,15 +105,15 @@ sudo service tftpd-hpa restart
 
 Download service edition of tftpd from http://tftpd32.jounin.net/tftpd32_download.html, then install it.
 
-![tftp install](https://static.gl-inet.com/docs/en/2.x/dev/src/tftpd-install.png) 
+![tftp install](https://static.gl-inet.com/docs/en/2.x/dev/src/tftpd-install.png){class="glboxshadow"} 
 
 Turn off windows firewall, which is the main reason causing tftpd failed to connect.
 
-![tftp install](https://static.gl-inet.com/docs/en/2.x/dev/src/firewall.png) 
+![tftp install](https://static.gl-inet.com/docs/en/2.x/dev/src/firewall.png){class="glboxshadow"} 
 
 Run tftpd64_SE Admin, choose your tftpd root (in this example D:\tftp), choose the "Server interface" 192.168.1.2 When clients are connecting to this server, you can see them in the status window.
 
-![tftp install](https://static.gl-inet.com/docs/en/2.x/dev/src/tftpd-status.png) 
+![tftp install](https://static.gl-inet.com/docs/en/2.x/dev/src/tftpd-status.png){class="glboxshadow"} 
 
 Compiling uboot
 ---------------
@@ -227,7 +227,7 @@ reset
 
 Uboot has a webUI so that you can save your device without entering uboot console.
 
-![Uboot Web UI](https://static.gl-inet.com/docs/en/2.x/dev/src/uboot_failsafe.png)
+![Uboot Web UI](https://static.gl-inet.com/docs/en/2.x/dev/src/uboot_failsafe.png){class="glboxshadow"}
 
 Check [this section](/troubleshooting/debrick.md)  for how to enter uboot web UI using the reset button.
 

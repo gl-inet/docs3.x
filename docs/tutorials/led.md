@@ -2,7 +2,7 @@
 
 ## Mini Router
 
-![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg)
+![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg){class="glboxshadow"}
 
 - **Power**: Solid green LED that indicates the router is powered up.
 - **Wireless**:  Solid Red LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
@@ -10,15 +10,15 @@
 
 ## GL-USB150 Microuter
 
-![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/microuter.jpg)
+![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/microuter.jpg){class="glboxshadow"}
 
 - **Power**: Solid green LED that indicates the router is powered up.
 - **Hotspot**:  Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 
 
-## GL-MiFi 4G Smart Router
+## GL-MiFi
 
-  ![mini LED](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mifi.jpg)
+![mini LED](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mifi.jpg){class="glboxshadow"}
 
 - **Battery**: Indicate the battery, it will blink when the device is charging until fully charged.
 - **Power**: This router is powered on
@@ -30,7 +30,7 @@
 
 ## GL-AR750 
 
-  ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/ar750.jpg)
+![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/ar750.jpg){class="glboxshadow"}
 
 - **Power**: Solid white LED that indicates the router is powered up.
 - **2.4GHz Wi-Fi**: Solid white LED that indicates the router is broadcasting 2.4GHz Wi-Fi. It will flash when there is wireless data transfer
@@ -39,7 +39,7 @@
 
 ## GL-B1300
 
-  ![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/b1300.jpg)
+![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/b1300.jpg){class="glboxshadow"}
 
 - **Power**: Solid green LED that indicates the router is powered up.
 - **Mesh**: Flash green LED indicates that the router is pairing with another router. It will turn solid green when the Mesh network has been created.
@@ -48,7 +48,7 @@
 
 ## GL-MT1300
 
-  ![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/mt1300_light.jpg)
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/mt1300_light.jpg){class="glboxshadow"}
 
 - **Solid blue light**: Device is powering up.
 - **Solid white light**: Network is connected.
@@ -59,7 +59,7 @@
 
 ## GL-B2200
 
-  ![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/b2200_light.jpg)
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/led/b2200_light.jpg){class="glboxshadow"}
 
 
 ### Power Up
@@ -107,8 +107,8 @@
 
 To configure the LED of GL.iNet routers, please login to Luci by clicking **Advanced settings** at the bottom-left corner of the web Admin Panel. 
 
-![](https://static.gl-inet.com/docs/en/3/troubleshooting/ledadvanced.png)
+![](https://static.gl-inet.com/docs/en/3/troubleshooting/ledadvanced.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/setup/slate/more_settings/advanced.jpg)
+![](https://static.gl-inet.com/docs/en/3/setup/slate/more_settings/advanced.jpg){class="glboxshadow"}
 
 Then please choose **System** > **LED Configuration**.

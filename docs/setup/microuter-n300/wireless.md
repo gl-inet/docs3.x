@@ -14,10 +14,10 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/wireless/status.png)
+![wireless](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/wireless/status.png){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![modify wifi](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/wireless/setting.png)
+![modify wifi](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/wireless/setting.png){class="glboxshadow"}

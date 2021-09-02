@@ -1,4 +1,5 @@
 # EasyTether 
+
 This article is about how to tether your phone to your router by using EasyTether.
 
 ## Intro
@@ -29,19 +30,19 @@ We will use Android OS and GL mini router to demonstrate the procedure.
 
 1. WinSCP ([https://winscp.net/eng/download.php](https://winscp.net/eng/download.php))
 
-    ![WinSCP](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q4.png)
+    ![WinSCP](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q4.png){class="glboxshadow"}
 
 2. PuTTY ([https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html))
 
-    ![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q3.png)
+    ![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q3.png){class="glboxshadow"}
 
 3. EasyTether driver openssl ([http://www.mobile-stream.com/easytether/drivers.html](http://www.mobile-stream.com/easytether/drivers.html))
 
-    ![EasyTether Driver](https://static.gl-inet.com/docs/en/3/tutorials/tether/easytether_openwrt18.06.png)
+    ![EasyTether Driver](https://static.gl-inet.com/docs/en/3/tutorials/tether/easytether_openwrt18.06.png){class="glboxshadow"}
 
     *Note: For MT300N-V2, please choose LEDE.*
 
-    ![LEDE for MT300N-V2](https://static.gl-inet.com/docs/en/2.x/app/src/tether/14.jpg)
+    ![LEDE for MT300N-V2](https://static.gl-inet.com/docs/en/2.x/app/src/tether/14.jpg){class="glboxshadow"}
 
 4. EasyTether Android App (Search in Google Play Store)
 
@@ -59,23 +60,23 @@ Enter 192.168.8.1 in your browser and get into the router web interface. Set the
 
 ***i.*** Find out the chip of your model (for example Atheros 9531, MediaTek MT7620N, etc) from the website. It is because you have to choose the IPK driver package in the EasyTether driver file base on the chip of your router. (For GL router, you can find the information on our website: www.gl-inet.com, and we will also indicate the position of the IPK driver file for our mini router in section iv.):
 
-![Chip model](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q5.png)
+![Chip model](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q5.png){class="glboxshadow"}
 
 ***ii.*** Extract the EasyTether driver file. Open WinSCP, choose SCP as the file protocol and enter the information as the figure shown below:
 
-![WinSCP login](https://static.gl-inet.com/docs/en/2.x/app/src/tether/1.jpg)
+![WinSCP login](https://static.gl-inet.com/docs/en/2.x/app/src/tether/1.jpg){class="glboxshadow"}
 
 You can see the following screen once your connection has been established (left-hand side: Your PC, right-hand side: Your router):
 
-![Screen](https://static.gl-inet.com/docs/en/2.x/app/src/tether/2.png)
+![Screen](https://static.gl-inet.com/docs/en/2.x/app/src/tether/2.png){class="glboxshadow"}
 
 ***iii.*** Go to the main folder by clicking this button.
 
-![Folder](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q1.png)
+![Folder](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q1.png){class="glboxshadow"}
 
 You will see the directory tree of the router:
 
-![Directory tree](https://static.gl-inet.com/docs/en/2.x/app/src/tether/3.png)
+![Directory tree](https://static.gl-inet.com/docs/en/2.x/app/src/tether/3.png){class="glboxshadow"}
 
 ***iv.*** On the left-hand side (Your PC), find the IPK file of your router in EasyTether driver file you have extracted before. On the right-hand side (Your router), open the tmp folder. Lastly, right click the IPK file and choose upload:
 
@@ -83,19 +84,19 @@ You will see the directory tree of the router:
 *MT300N & MT300A: \15.05.1\ramips\mt7620\ easytether-usb-openssl_0.8.7-1_ramips_24kec.ipk*
 *AR150 & AR300M: \15.05.1\ar71xx\generic\easytether-usb-openssl_0.8.7-1_ar71xx.ipk*
 
-![Upload1](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q11.png)
+![Upload1](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Q11.png){class="glboxshadow"}
 
 #### *3) Use SSH to install EasyTether driver*
 
 ***i.*** Open PuTTY, enter the IP of your router and other information as the figure shown below, then click Open:
 
-![Putty](https://static.gl-inet.com/docs/en/2.x/app/src/tether/4.png)
+![Putty](https://static.gl-inet.com/docs/en/2.x/app/src/tether/4.png){class="glboxshadow"}
 
 ***ii.*** Login by using your username and password of the router (username: root; password: same as the one you need for entering the web interface):
 
 *Note: The password you entered will not be showed on the screen.*
 
-![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/5.png)
+![PuTTY](https://static.gl-inet.com/docs/en/2.x/app/src/tether/5.png){class="glboxshadow"}
 
 ***iii.*** You can now update the OpenWRT modules (internet connection required) by typing:
 
@@ -138,25 +139,25 @@ EOF
 
 ***i.*** Go to Setting -> About Device -> Software info. Hitting the build number several times and it will announce that you have turn on the Developer Options.
 
-![Build number](https://static.gl-inet.com/docs/en/2.x/app/src/tether/XXXXXXX.jpg)
+![Build number](https://static.gl-inet.com/docs/en/2.x/app/src/tether/XXXXXXX.jpg){class="glboxshadow"}
 
 ***ii.*** Go to Setting -> Developer Options, turn on the Developer Options and also the USB debugging.
 
-![Developer Options](https://static.gl-inet.com/docs/en/2.x/app/src/tether/XXXX.jpg)
+![Developer Options](https://static.gl-inet.com/docs/en/2.x/app/src/tether/XXXX.jpg){class="glboxshadow"}
 
 #### *2) Start tethering*
 
 ***i.*** Open EasyTether App, tick the USB button, it will show “waiting for connection from the host”. 
 
-![EasyTether App](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165645.jpg)
+![EasyTether App](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165645.jpg){class="glboxshadow"}
 
 ***ii.*** Connect your phone to the router via USB cable. Hit OK to allow the USB debugging.
 
-![Connect](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165701.jpg)
+![Connect](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165701.jpg){class="glboxshadow"}
 
 ***iii.*** Your connection has been established.
 
-![Connection finished](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165709.jpg)
+![Connection finished](https://static.gl-inet.com/docs/en/2.x/app/src/tether/Screenshot_20170614-165709.jpg){class="glboxshadow"}
 
 You can now connect your device to the router and access the Internet. However, if you are using the lite version of EasyTether app, you will not able to access the website with https like: https://www.youtube.com since this type of secure communication is being blocked by the lite version.
 

@@ -22,7 +22,7 @@ With SCP, you can copy a file or directory:
 
         Run WinSCP, choose `SCP` as the protocol. If you didn't change the IP of the router it should be `192.168.8.1`. Please use your actual IP of the router. Port number should be `22`. Please `root` as the username and input your password. Then click `Login` button.
 
-        ![winscp login](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp1.jpg)
+        ![winscp login](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/winscp1.jpg){class="glboxshadow"}
 
         After login, you have full control of the router.
 

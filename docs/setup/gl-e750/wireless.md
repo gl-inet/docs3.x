@@ -14,10 +14,10 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/mudi/wireless/wifi.png)
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/mudi/wireless/wifi.png){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/mudi/wireless/wireless.png)
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/mudi/wireless/wireless.png){class="glboxshadow"}

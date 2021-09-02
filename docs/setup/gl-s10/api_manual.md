@@ -8,7 +8,7 @@
 
 GL-S10 is a BLE-WiFi gateway aimming to provide a simple method conversing Bluetooth Low Energy to WiFi. It supports GAP and GATT, can act as GATT server or GATT client. WiFi is used in STA mode, connect the superior router to access to the network. Also it can connect to network through Ethernet. It has a built-in standard MQTT client which could connect to any standard MQTT server.  Using MQTT, it can forward BLE messages to the cloud and on the other hand forward messages from cloud to the connected BLE device through BLE notify.  
 
-![gl-s10 use case](https://static.gl-inet.com/docs/en/3/setup/gl-s10/gl-s10-use-case.jpg)
+![gl-s10 use case](https://static.gl-inet.com/docs/en/3/setup/gl-s10/gl-s10-use-case.jpg){class="glboxshadow"}
 
 ## Instructions
 GL-S10 provide a BLE instructions set. Send commands and messages by writting GATT characteriscs , and get responses or messages from BLE notification.  

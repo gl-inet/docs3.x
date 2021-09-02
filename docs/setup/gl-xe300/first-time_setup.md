@@ -4,7 +4,7 @@ Models:
 
 GL-XE300-C4, GL-XE300-C6
 
-![router](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/router.jpg)
+![router](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/router.jpg){class="glboxshadow"}
 
 ---
 
@@ -18,7 +18,7 @@ You can also plug the Micro USB-C power cable into the power port of the router 
 
 Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/power1.jpg){class="glboxshadow"}
 
 
 
@@ -37,7 +37,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/connect.jpg){class="glboxshadow"}
 
 
 
@@ -60,7 +60,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** and **日本語**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/Language%20Setting.png)
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/Language%20Setting.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -69,7 +69,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 ### 2) Admin Password Setting
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
 
-![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/password.jpg)
+![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/password.jpg){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
@@ -78,4 +78,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/Admin%20Panel.png)
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/Puli/First-time%20Setup/Admin%20Panel.png){class="glboxshadow"}

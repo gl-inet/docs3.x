@@ -6,9 +6,9 @@ Note: This feature only works on GL.iNet 4G models with original 4G LTE module, 
 
 Please follow this guide to complete the settings.
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/4G_page.png)
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/4G_page.png){class="glboxshadow"}
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/setting.png)
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/setting.png){class="glboxshadow"}
 
 ## Settings 
 
@@ -30,7 +30,7 @@ Please follow this guide to complete the settings.
 
 You can add the forward targets here. For example, I add an American phone number and a Gmail address. The "+" could be omitted but remember to add the country code. Use "|" to divide the targets.
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/add.png)
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/add.png){class="glboxshadow"}
 
 There have no other settings for forwarding the sms to phone via message except inputting the phone number, but for email you need to do some additional settings.
 
@@ -105,10 +105,8 @@ Once you setup the sender account, the router will send an email to your email a
 
 **If you didn't receive the mail, please check your account setting and apply again.**
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/verification.png)
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/verification.png){class="glboxshadow"}
 
 Then the SMS that router received will be automatically forwarded to the phone numbers and email address that you set. The mail subject depends on your setting.
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/forward_email.png)
-
----
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/forward_email.png){class="glboxshadow"}

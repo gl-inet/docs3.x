@@ -2,7 +2,7 @@
 
 Starting from firmware version 3.022, users can define VPN routing policies. For example, it is possible to use VPN for a specific website/IP while maintaining a normal Internet traffic without VPN for others.
 
-![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/policies.jpg)
+![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/policies.jpg){class="glboxshadow"}
 
 ## Settings
 
@@ -14,7 +14,7 @@ Starting from firmware version 3.022, users can define VPN routing policies. For
 
 **Please Choose Policy**: The item can be either **Domain/IP** (e.g. gl-inet.com / 192.168.1.1 / 192.168.1.0/24) or **Mac address** (24:F0:94:5C:8E:F9).
 
-![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/settings.jpg)
+![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/settings.jpg){class="glboxshadow"}
 
 ## Add VPN policy
 
@@ -22,11 +22,11 @@ You can only configure either **Only allow the following use VPN** or **Do not u
 
 For example, if we want to route only the traffic of `netflix.com` through VPN, we need to choose Policy **Domain/IP**, choose Rule **Only allow the following use VPN**, input *netflix.com* and click `Apply`.
 
-![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/use_vpn.jpg)
+![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/use_vpn.jpg){class="glboxshadow"}
 
 However, if we want to route all traffic through VPN except `netflix.com`, we need to choose Policy **Domain/IP**, choose Rule **Do not use VPN for the following**, input *netflix.com* and click `Apply`.
 
-![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/dont_use_vpn.jpg)
+![policies](https://static.gl-inet.com/docs/en/3/tutorials/policies/dont_use_vpn.jpg){class="glboxshadow"}
 
 ## Clear DNS cache
 

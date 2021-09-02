@@ -12,9 +12,9 @@ Install two apps:
 1. luci-app-minidlna
 2. miniDLNA
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlna1.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlna1.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlna2.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlna2.png){class="glboxshadow"}
 
 ## Use the DLNA server in GL.iNet Routers
 
@@ -28,17 +28,17 @@ After Installation of two applications, you can now use your GL.iNet router as a
 Take Windows as example: 
 
 In Windows Media Player: 
-![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlnaserver1.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlnaserver1.png){class="glboxshadow"}
 
 In Windows File Explorer -> Network
-![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlnaserver2.png)
+![](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/dlnaserver2.png){class="glboxshadow"}
 
 iOS: Install VLC or UPNP Extreme in App Store:
 
 You can easily find the OpenWrt DLNA Sever in UPNP:
 UPNP Extreme and VLC Installation | UPNP Setup
 - | - 
-![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios1.PNG) | ![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios2.PNG)
+![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios1.PNG){class="glboxshadow"} | ![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios2.PNG){class="glboxshadow"}
 
 VLC Setup: 
 
@@ -47,7 +47,7 @@ Step 1： Click the **Traffic Cones** Logo on the left top, select Local Network
 Step 2: You can find the OpenWrt DLNA Server easily in Local Network.
 Step 1 | Step 2
 - | - 
-![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios3.PNG) | ![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios4.PNG)
+![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios3.PNG){class="glboxshadow"} | ![alt](https://static.gl-inet.com/docs/en/3/tutorials/dlnaserver/ios4.PNG){class="glboxshadow"}
 
 Also other devices can easily find the OpenWrt DLNA Server easily.
 

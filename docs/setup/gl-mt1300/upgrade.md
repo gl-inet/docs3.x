@@ -2,7 +2,7 @@
 
 Click `UPGRADE` to check any available update and upgrade the firmware.
 
-![online upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware1.jpg)
+![online upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware1.jpg){class="glboxshadow"}
 
 
 
@@ -12,7 +12,7 @@ Click `UPGRADE` to check any available update and upgrade the firmware.
 
 You can find the current firmware version here. If your router is connected to the Internet, it will check for the newer firmware version available for download.
 
-![online upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware1.jpg)
+![online upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware1.jpg){class="glboxshadow"}
 
 
 
@@ -26,7 +26,7 @@ You can find the current firmware version here. If your router is connected to t
 
 Click `Local Upgrade` to upload a firmware file to the router. Simply drag and drop your firmware file to the area indicated.
 
-![upload firmware](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware2.jpg)
+![upload firmware](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware2.jpg){class="glboxshadow"}
 
 
 
@@ -63,4 +63,4 @@ You can compile your own firmware and flash to the router. Please refer to
 
 You can enable auto upgrade. The router will search for available update and upgrade automatically according to the time that you set.
 
-![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware3.jpg)
+![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/slate/upgrade/firmware3.jpg){class="glboxshadow"}

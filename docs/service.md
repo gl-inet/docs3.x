@@ -4,7 +4,7 @@ Services
 
 We provide hardware services. The ideas is illustrated here:
 
-![Service for Makers](https://static.gl-inet.com/docs/en/2.x/src/services_20180716.png)
+![Service for Makers](https://static.gl-inet.com/docs/en/2.x/src/services_20180716.png){class="glboxshadow"}
 
 Due to limited resources, we now only provide such service based on Domino and Mini routers.
 
@@ -21,5 +21,3 @@ If you want to make hardware based on our products, here is what we suggested:
 * Reuse existing hardware as possible as you can. Focus on software.
 * Know your detailed requirements, e.g. size of your product, interfaces. Not just an idea.
 * Prepare for some money to invest.
-
-

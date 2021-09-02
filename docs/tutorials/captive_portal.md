@@ -12,7 +12,7 @@ The Captive Portal is only worked on Guest Wi-Fi. Please enable your guest WiFi.
 
 At the left sidebar, APPLICATIONS -> Portal, follow the steps below to enable Captive Portal.
 
-![turn on captive portal](https://static.gl-inet.com/docs/en/3/tutorials/captive_portal/turn-on-captive-portal.png)
+![turn on captive portal](https://static.gl-inet.com/docs/en/3/tutorials/captive_portal/turn-on-captive-portal.png){class="glboxshadow"}
 
 1) Turn on captive portal. 
 
@@ -26,9 +26,9 @@ For desktop client, please use browser to access a http(not https) website, e.g.
 
 Below is the Portal on iPhone, click the "GET CONNECTED" button to access the internet. On Android and desktop platform, it's a similar interface.
 
-![portal on iPhone](https://static.gl-inet.com/docs/en/3/tutorials/captive_portal/portal-on-ios.png)
+![portal on iPhone](https://static.gl-inet.com/docs/en/3/tutorials/captive_portal/portal-on-ios.png){class="glboxshadow"}
 
-##2. Change the default page
+## 2. Change the default page
 
 The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access <a href="https://docs.gl-inet.com/en/3/app/ssh/" target="_blank">this</a>. You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a> or other sites.
 
@@ -36,8 +36,8 @@ If you want to change the picture on the default page, just replace the image on
 
 After you had change the page, it need to disable Portal and enable Portal again to reload the modified default page.
 
-##3. Disable Captive Portal
+## 3. Disable Captive Portal
 
 Follow the steps below to disable Captive Portal.
 
-![turn off captive portal](https://static.gl-inet.com/docs/en/3/tutorials/captive_portal/turn-off-captive-portal.png)
+![turn off captive portal](https://static.gl-inet.com/docs/en/3/tutorials/captive_portal/turn-off-captive-portal.png){class="glboxshadow"}

@@ -14,10 +14,10 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/wireless/status.jpg)
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/wireless/status.jpg){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/wireless/setting.jpg)
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/wireless/setting.jpg){class="glboxshadow"}

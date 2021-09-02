@@ -21,9 +21,9 @@ When you insert the dongle, you will see the dongle under "Wireless" and then yo
 
 MV1000:
 
-![MV1000](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless6.png)
+![MV1000](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless6.png){class="glboxshadow"}
 
 
 Click `Modify` to change the settings of the wireless network.
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless4.png)
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless4.png){class="glboxshadow"}
 

@@ -1,4 +1,3 @@
-
 # GL.iNet GoodCloud
 
 ## Introduction
@@ -59,7 +58,7 @@ If you want to learn more about upgrade, please scroll top -> Setup -> Choose th
 
 Open a web browser (we recommend Chrome) and to access router Web Admin Panel (default url is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>).
 
-![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png)
+![enable-cloud-management](https://static.gl-inet.com/goodcloud/docs/enable-cloud-management.png){class="glboxshadow"}
 
 Follow the steps above, to enable cloud management feature, choose the Data Server which is nearest your devices located. There are three Data Server, 'Global', 'America' and 'Europe'.  If your devices are neither in America nor in Europe, just select 'Global'. Global Data Server is at Japan.
 
@@ -77,7 +76,7 @@ At the first time when you sign in, it will pop up a dialog to let you select th
 
 You can change the region on the top right corner at anytime.
 
-![select region button](https://static.gl-inet.com/goodcloud/docs/select-region-button2.png)
+![select region button](https://static.gl-inet.com/goodcloud/docs/select-region-button2.png){class="glboxshadow"}
 
 ### Add a new group 
 
@@ -85,7 +84,7 @@ On the left side -> Groups List -> Add group.
 
 Follow the steps below to add a new group.
 
-![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png)
+![add group](https://static.gl-inet.com/goodcloud/docs/add-group.png){class="glboxshadow"}
 
 Set the group name, company, description and location.
 
@@ -99,7 +98,7 @@ On the left side -> Devices List -> Add Device. There are three methods to bind 
 
 Follow the steps below to add your device.
 
-![add device](https://static.gl-inet.com/goodcloud/docs/add-device.png)
+![add device](https://static.gl-inet.com/goodcloud/docs/add-device.png){class="glboxshadow"}
 
 If the router and PC(which opened goodcloud.xyz page) are at the same public IPï¼Œit will be automatically discovered, and can be found when click "Device" list. DDNS or Device ID can be found on the back of your router.
 
@@ -114,7 +113,7 @@ If the router and PC(which opened goodcloud.xyz page) are at the same public IPï
 
 Click "Refresh" to force auto discover devices again.
 
-![auto discover](https://static.gl-inet.com/goodcloud/docs/auto-discover.png)
+![auto discover](https://static.gl-inet.com/goodcloud/docs/auto-discover.png){class="glboxshadow"}
 
 #### Manually add
 
@@ -124,11 +123,11 @@ If it can't discover automatically, try "Manually add". All information that nee
     router is really original and valid. DDNS feature and the Cloud feature are 
     separate things.
 
-![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device.png)
+![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device.png){class="glboxshadow"}
 
 For some new models, DDNS has been changed to Device ID on the back of router.
 
-![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device-device-id.png)
+![manually add device](https://static.gl-inet.com/goodcloud/docs/manually-add-device-device-id.png){class="glboxshadow"}
 
 #### Bulk import
 
@@ -142,13 +141,13 @@ APPLICATION -> Remote Access -> Cloud Management,
 
 press 'F5' to refresh this page, It will display the binded GoodCloud username, hover the username it will show the corresponding GoodCloud email account.
 
-![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png)
+![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/goodcloud-binded.png){class="glboxshadow"}
 
 Click 'View Logs' will show api call logs by GoodCloud.
 
 ### Unbind router
 
-![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/unbind.png)
+![goodcloud-binded](https://static.gl-inet.com/goodcloud/docs/unbind.png){class="glboxshadow"}
 
 If you want to unbind router, click Unbind button.
 
@@ -160,7 +159,7 @@ If you have any difficulties, please send email to <a href="mailto:admin@goodclo
 
 Sign in [Goodcloud](https://www.goodcloud.xyz), check at left side -> Device List
 
-![device list table](https://static.gl-inet.com/goodcloud/docs/device_list_table.png)
+![device list table](https://static.gl-inet.com/goodcloud/docs/device_list_table.png){class="glboxshadow"}
 
 there is icon at the first column of this table, 
 
@@ -170,7 +169,7 @@ there is icon at the first column of this table,
 
  ![deactovate icon](https://static.gl-inet.com/goodcloud/docs/deactivate_icon.png) means this device is deactivated, it has never connected to GoodCloud before.
 
-![column selector](https://static.gl-inet.com/goodcloud/docs/column_selector.png)
+![column selector](https://static.gl-inet.com/goodcloud/docs/column_selector.png){class="glboxshadow"}
 
 Select the column you want to display.
 
@@ -188,41 +187,41 @@ Only available for 4G devices, e.g. GL-MiFi, GL-X750
 
 Toggle the column on Device List page.
 
-![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal.png)
+![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal.png){class="glboxshadow"}
 
 It will show Signal strength, Type, and relavant parameters.
 
-![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal_2.png)
+![device LTE signal](https://static.gl-inet.com/goodcloud/docs/lte_signal_2.png){class="glboxshadow"}
 
 ### Device detail info
 
 At left side -> Device List, click the name of a online device, it will open a page to manage this device of WiFi, Clients and view router info, memory usage, up time, load average and log.
 
-![to device detail page](https://static.gl-inet.com/goodcloud/docs/to_device_detail.png)
+![to device detail page](https://static.gl-inet.com/goodcloud/docs/to_device_detail.png){class="glboxshadow"}
 
 #### Device info
 
-![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-device-info.png)
+![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-device-info.png){class="glboxshadow"}
 
 #### WiFi
 
-![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-wifi.png)
+![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-wifi.png){class="glboxshadow"}
 
 Modify all WiFi settings.
 
 #### Router status
 
-![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-router-status.png)
+![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-router-status.png){class="glboxshadow"}
 
 #### Client list
 
-![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png)
+![device info](https://static.gl-inet.com/goodcloud/docs/edit-device-client-list.png){class="glboxshadow"}
 
 #### Timeline
 
 Timeline tab display the activities of router, and messages uploaded by the router's associated IoT device.
 
-![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png)
+![device timeline](https://static.gl-inet.com/goodcloud/docs/timeline.png){class="glboxshadow"}
 
 ### Set email alarm
 
@@ -230,11 +229,11 @@ You can set email alarm when a device is online, offline, and new client connect
 
 At left side -> Setting -> Alarm Setting, create alarm rules
 
-![create alarm rules](https://static.gl-inet.com/goodcloud/docs/create-alarm-rules.png)
+![create alarm rules](https://static.gl-inet.com/goodcloud/docs/create-alarm-rules.png){class="glboxshadow"}
 
 Then set the email you want to receive notification. To ensure you get email successful, please add admin@goodcloud.xyz to your email address book.
 
-![alarm rules](https://static.gl-inet.com/goodcloud/docs/alarm-rules.png)
+![alarm rules](https://static.gl-inet.com/goodcloud/docs/alarm-rules.png){class="glboxshadow"}
 
 ## Site to Site
 
@@ -262,7 +261,7 @@ One of the loations has a public static(or dynamic) ip, and two or more GL-iNet 
 
 2.  Follow the steps below to create a Site to Site network.
 
-![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-01.png)
+![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-01.png){class="glboxshadow"}
 
 Default port is 51830, if you want to use another port, find the Advanced option at the lower left corner.
 
@@ -270,13 +269,13 @@ Due to the device's performance, each Site to Site network can have up to 10 dev
 
 After you had chosen the devices, click Continue.
 
-![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-02.png)
+![create a site to site network](https://static.gl-inet.com/goodcloud/docs/create-s2s-02.png){class="glboxshadow"}
 
 Then, it will test each device if it can be set as the Main Node of Site to Site.
 
 We suggest that the router with strong performance and best network speed to be the Main Node.
 
-![testing eacg device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-01.png)
+![testing eacg device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-01.png){class="glboxshadow"}
 
 If none of the devices can be used as the Main Node, make sure that:
 
@@ -286,21 +285,21 @@ If none of the devices can be used as the Main Node, make sure that:
 
 You can also change port and try again.
 
-![testing each device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-02.png)
+![testing each device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-02.png){class="glboxshadow"}
 
 If there are more than one device can be set as the Main Node, you need to choose one to continue.
 
-![testing each device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-03.png)
+![testing each device](https://static.gl-inet.com/goodcloud/docs/testing-s2s-03.png){class="glboxshadow"}
 
 If there is only one device can be set as the Main Node, it will go to the Site to Site detail page directly.
 
 The network is stopped by default, check the LAN IP, if it is OK then you need to click Start button, otherwise click Setting to change LAN IP.
 
-![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-00.png)
+![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-00.png){class="glboxshadow"}
 
 Wait a few minutes, the node's connect status will display as lines. Solid line means connected, dashed line means disconnected.
 
-![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-01.png)
+![detail s2s](https://static.gl-inet.com/goodcloud/docs/detail-s2s-01.png){class="glboxshadow"}
 
 ### Testing the Site to Site connection
 
@@ -314,19 +313,19 @@ For example, my PC connect to Node 1 device, and then I use browser to access Ma
 
 You can change each device's LAN IP and routes.
 
-![LAN IP and routes](https://static.gl-inet.com/goodcloud/docs/lanip-routes-s2s.png)
+![LAN IP and routes](https://static.gl-inet.com/goodcloud/docs/lanip-routes-s2s.png){class="glboxshadow"}
 
 By default, each node can access other's LAN, based on security, we recommend only open the corresponding service IPs.
 
 E.g. There is a Server A(172.30.97.100) in Node 1's subnet, if you want other Site to Site nodes  only can access Node 1's Service A, you can set it like below:
 
-![LAN IP and routes](https://static.gl-inet.com/goodcloud/docs/lanip-routes-s2s-02.png)
+![LAN IP and routes](https://static.gl-inet.com/goodcloud/docs/lanip-routes-s2s-02.png){class="glboxshadow"}
 
 You can add node's parent routes too.
 
 Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to change the IP of tunnel subnet. Click 'IP Address Range'.
 
-![Tunnel IP Address Range](https://static.gl-inet.com/goodcloud/docs/tunnel-ip-address-range-s2s.png)
+![Tunnel IP Address Range](https://static.gl-inet.com/goodcloud/docs/tunnel-ip-address-range-s2s.png){class="glboxshadow"}
 
 ## Batch Setting
 
@@ -346,13 +345,13 @@ The left side of image below is correct. If your interface is like the right sid
 
 Check the configuration that needs to be modified and input value.
   
-![Add Configuration](https://static.gl-inet.com/goodcloud/docs/add_configuration.png)
+![Add Configuration](https://static.gl-inet.com/goodcloud/docs/add_configuration.png){class="glboxshadow"}
 
 The checked configuration is required, and only the configuration that conforms to the rule can be filled out. After the configuration is delivered, it does not take effect immediately. The configuration takes effect and the device needs to be restarted. You can check the Restart now option in the lower right corner of the above figure. After the configuration is completed, the device will restart immediately.
 
 Preview the configuration and confirm the delivery.
 
-![Preview Configuration](https://static.gl-inet.com/goodcloud/docs/preview_configuration.png)
+![Preview Configuration](https://static.gl-inet.com/goodcloud/docs/preview_configuration.png){class="glboxshadow"}
 
 Unchecked **Restart now** option will prompt.
 
@@ -362,7 +361,7 @@ Unchecked **Restart now** option will prompt.
 
 Select the devices you want to configure.
 
-![mutiple configuration](https://static.gl-inet.com/goodcloud/docs/mutiple_configuration.png)
+![mutiple configuration](https://static.gl-inet.com/goodcloud/docs/mutiple_configuration.png){class="glboxshadow"}
 
 Other operations are the same as when operating a single device.
 
@@ -370,7 +369,7 @@ Other operations are the same as when operating a single device.
 
 Other Batch Operations: Move to other group, upgrade, restart, delete.
 
-![Task](https://static.gl-inet.com/goodcloud/docs/task.png)
+![Task](https://static.gl-inet.com/goodcloud/docs/task.png){class="glboxshadow"}
 
 ## Template Management
 
@@ -382,11 +381,11 @@ Save frequently used configurations as templates and quickly apply them when you
 
 Check the configuration that needs to be modified and input value.
 
-![Add Template](https://static.gl-inet.com/goodcloud/docs/add_template.png)
+![Add Template](https://static.gl-inet.com/goodcloud/docs/add_template.png){class="glboxshadow"}
 
 Give the template a name and description.
 
-![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png)
+![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png){class="glboxshadow"}
 
 ## Task List
 
@@ -394,11 +393,11 @@ At task list page, it shows the execution result of the configuration template.
 
     PS: This feature is only available to business users.
 
-![Task list](https://static.gl-inet.com/goodcloud/docs/task_list.png)
+![Task list](https://static.gl-inet.com/goodcloud/docs/task_list.png){class="glboxshadow"}
 
 You can view the execution result of each device and configuration.
 
-![Task list detail info](https://static.gl-inet.com/goodcloud/docs/task_list_detail_info.png)
+![Task list detail info](https://static.gl-inet.com/goodcloud/docs/task_list_detail_info.png){class="glboxshadow"}
 
 ## BLE MQTT Bridge
 
@@ -410,15 +409,15 @@ If you enable GoodCloud feature on router and also use it as VPN client, there i
 
 At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, OpenVPN, Shadowsocks), this bring a problem that if you VPN is configured incorrectly, GoodCloud will not work properly. In order to ensure the normal use of GoodCloud, we suggest you to follow the steps below to enable VPN Policies and disable "Use VPN for all process on the router". After you've done these steps, GoodCloud precess will not use VPN.
 
-![disable use vpn for all process on the router](https://static.gl-inet.com/goodcloud/docs/disable-use-vpn-for-all-process-on-the-router.png)
+![disable use vpn for all process on the router](https://static.gl-inet.com/goodcloud/docs/disable-use-vpn-for-all-process-on-the-router.png){class="glboxshadow"}
 
 ## Disable
 
 To stop GoodCloud service, turn it off on router Web Admin Panel. Please follow the steps below. No action needed on the GoodCloud website.
 
-![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png)
+![disable cloud](https://static.gl-inet.com/goodcloud/docs/disable-cloud.png){class="glboxshadow"}
 
-![after disable cloud](https://static.gl-inet.com/goodcloud/docs/after-disable-cloud.png)
+![after disable cloud](https://static.gl-inet.com/goodcloud/docs/after-disable-cloud.png){class="glboxshadow"}
 
 After disable Cloud, the interface is like above.
 

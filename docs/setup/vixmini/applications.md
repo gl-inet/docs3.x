@@ -8,4 +8,4 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/vixmini/applications/plug-ins.jpg)
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/vixmini/applications/plug-ins.jpg){class="glboxshadow"}

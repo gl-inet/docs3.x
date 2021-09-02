@@ -18,10 +18,10 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is Max (20dBm).
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/wireless.jpg)
+![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/wireless.jpg){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/wireless_modify.jpg)
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/wireless_modify.jpg){class="glboxshadow"}

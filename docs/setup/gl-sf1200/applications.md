@@ -8,7 +8,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/plugins.jpg)
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/plugins.jpg){class="glboxshadow"}
 
 
 ---
@@ -20,7 +20,7 @@ In our website, you can remotely check your router status, change the password, 
 
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
+![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
 
 
 For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
@@ -37,7 +37,7 @@ You can remotely access your router with a url though this function. Example: my
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/ddns.jpg)
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/ddns.jpg){class="glboxshadow"}
 
 
 For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).

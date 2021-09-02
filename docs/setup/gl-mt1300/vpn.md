@@ -12,7 +12,7 @@ Please refer to the links below for the detailed setup instruction:
 
 
 
-![client](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/client.png)
+![client](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/client.png){class="glboxshadow"}
 
 
 ---
@@ -27,7 +27,7 @@ Please refer to the links below for the detailed setup instruction:
 
 
 
-![Main Page](https://static.gl-inet.com/docs/en/3/tutorials/internet_kill_switch/Internet%20kill%20switch.png)
+![Main Page](https://static.gl-inet.com/docs/en/3/tutorials/internet_kill_switch/Internet%20kill%20switch.png){class="glboxshadow"}
 
 
 
@@ -39,7 +39,7 @@ Please refer to the links below for the detailed setup instruction:
 
 - [**VPN Policies**](https://docs.gl-inet.com/en/3/app/vpn_policies/)
 
-![policies](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/policies.png)
+![policies](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/policies.png){class="glboxshadow"}
 
 
 ---
@@ -52,4 +52,4 @@ Please refer to the links below for the detailed setup instruction:
 - [**Tor**](https://docs.gl-inet.com/en/3/app/tor/)
 
 
-![Tor](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png)
+![Tor](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png){class="glboxshadow"}

@@ -6,7 +6,7 @@ Connections
 
 Serial pins are the most used pins for DIY users. You can connect to a <a href="http://www.ebay.com/itm/PL-2303-USB-to-UART-TTL-adapter-/321407483336">USB UART</a> adapter as in the picture.
 
-![UART](https://static.gl-inet.com/docs/en/2.x/dev/src/uart_serial.jpg)
+![UART](https://static.gl-inet.com/docs/en/2.x/dev/src/uart_serial.jpg){class="glboxshadow"}
 
 Linux (ubuntu)/MAC
 ------------
@@ -54,17 +54,17 @@ When connecting the USB UART adapter to your computer, you may need to install d
 
 Now you will be able to find the serial COM port (in this example: `COM3`) in device manger.
 
-![Com](https://static.gl-inet.com/docs/en/2.x/dev/src/find-serial-port.jpg)
+![Com](https://static.gl-inet.com/docs/en/2.x/dev/src/find-serial-port.jpg){class="glboxshadow"}
 
 Install a terminal software. <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">putty</a> is recommended. You need to set COM port `COM4`, speed `115200` and connection type `Serial`. Click "Open".
 
 
-![Putty](https://static.gl-inet.com/docs/en/2.x/dev/src/putty.png)
+![Putty](https://static.gl-inet.com/docs/en/2.x/dev/src/putty.png){class="glboxshadow"}
 
 You will be displayed a black window. If you turn on your device now, you will see the console output of the box.
 
 
-![Putty](https://static.gl-inet.com/docs/en/2.x/dev/src/putty1.png)
+![Putty](https://static.gl-inet.com/docs/en/2.x/dev/src/putty1.png){class="glboxshadow"}
 
 Dual Serial connection on Domino Pi
 -------------------------------

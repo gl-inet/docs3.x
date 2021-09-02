@@ -22,16 +22,16 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/mt1300/wireless.jpg)
+![wireless](https://static.gl-inet.com/docs/en/3/setup/mt1300/wireless.jpg){class="glboxshadow"}
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/mt1300/Wireless_modify.jpg)
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/mt1300/Wireless_modify.jpg){class="glboxshadow"}
 
 **Guest WiFi**: 
 
 You can switch on/off _**Guest WiFi**_ in _**Wireless**_, the _**Guest WiFi**_ will create a different subnet to your visitors to prevent any un-authority visiting to your other devices in the network.
 
-![guestwifi](https://static.gl-inet.com/docs/en/3/setup/mt1300/wireless_guest.jpg)
+![guestwifi](https://static.gl-inet.com/docs/en/3/setup/mt1300/wireless_guest.jpg){class="glboxshadow"}
 

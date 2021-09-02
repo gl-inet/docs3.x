@@ -53,11 +53,11 @@ Before compile the application, get into your project folder *(here is `ble_ibea
 In the configuration inteface, you just need to change three point as follow.  
 Firstly, click `Serial flasher config`.
 
-![espressif iot development framework configuration](https://static.gl-inet.com/docs/en/3/setup/gl-s10/espressif_iot_development_framework_configuration.jpg)
+![espressif iot development framework configuration](https://static.gl-inet.com/docs/en/3/setup/gl-s10/espressif_iot_development_framework_configuration.jpg){class="glboxshadow"}
 
 Then modify the three point marked by red line.
 
-![espressif iot development framework configuration serial flasher config](https://static.gl-inet.com/docs/en/3/setup/gl-s10/espressif_iot_development_framework_configuration_serial_flasher_config.jpg)
+![espressif iot development framework configuration serial flasher config](https://static.gl-inet.com/docs/en/3/setup/gl-s10/espressif_iot_development_framework_configuration_serial_flasher_config.jpg){class="glboxshadow"}
 
 Set `Default serial port` to the port name show in your PC, typically is `/dev/ttyUSB0`.
 Set `Serial flasher config --->Flash SPI speed` to `80MHz`.
@@ -66,22 +66,22 @@ Set `Serial flasher config --->Flash size` to `4MB`.
 **2. Build**
 In your project folder, using command `make all`. It will compile and build the firmware. When finished sucessfully, it will show information like this.
 
-![compile and build firmware](https://static.gl-inet.com/docs/en/3/setup/gl-s10/compile_and_build_firmware.jpg)
+![compile and build firmware](https://static.gl-inet.com/docs/en/3/setup/gl-s10/compile_and_build_firmware.jpg){class="glboxshadow"}
 
 **3. Flash**
 GL-S10 using UART to flash the firmware, and also using this UART to output the system log.
 Connect the UART in S10 to the PC by a USB-UART converter. The PC will find a new usb device like `/dev/ttyUSB0`. It is the name you should write in the `Default serial port`.   
 Yellow marked is the UART port in S10. From left to right is GND/RX/TX. Red marked is flash button.
 
-![gl-s10 pcb](https://static.gl-inet.com/docs/en/3/setup/gl-s10/gl-s10-PCB.jpg)
+![gl-s10 pcb](https://static.gl-inet.com/docs/en/3/setup/gl-s10/gl-s10-PCB.jpg){class="glboxshadow"}
 
 After connect S10 UART to the PC, using command `make flash` or `make flash monitor` to flash the firmware. When shows like that, it means the PC is waiting S10 to get into "download mode".
 
-![wait flash](https://static.gl-inet.com/docs/en/3/setup/gl-s10/wait_flash.jpg)
+![wait flash](https://static.gl-inet.com/docs/en/3/setup/gl-s10/wait_flash.jpg){class="glboxshadow"}
 
 How to get into "download mode", do in this way. Unplug the S10 power, press the flash button(do not release) and then plug in the power. When it shows like that,
 
-![flash](https://static.gl-inet.com/docs/en/3/setup/gl-s10/flash.jpg)
+![flash](https://static.gl-inet.com/docs/en/3/setup/gl-s10/flash.jpg){class="glboxshadow"}
 
 means flash starts sucessfully, then you can release the flash button and wait for the flash finished.
 When flash has been finished, restart the GL-S10.
@@ -89,8 +89,8 @@ When flash has been finished, restart the GL-S10.
 ## Result 
 If you have connect the S10 UART to the PC, using command `make monitor`, it will print all the system log like that. *(here shows the iBeacon data it recieved)*
 
-![system log result](https://static.gl-inet.com/docs/en/3/setup/gl-s10/system_log_result.png)
+![system log result](https://static.gl-inet.com/docs/en/3/setup/gl-s10/system_log_result.png){class="glboxshadow"}
 
 In the MQTT broker, You can get the messages published by S10 like that.
 
-![messages published result](https://static.gl-inet.com/docs/en/3/setup/gl-s10/messages_published_result.png)
+![messages published result](https://static.gl-inet.com/docs/en/3/setup/gl-s10/messages_published_result.png){class="glboxshadow"}

@@ -7,7 +7,7 @@
 In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button.
 
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless1.png)
+![wireless](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless1.png){class="glboxshadow"}
 
 
 **Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
@@ -26,7 +26,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless7.png)
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless7.png){class="glboxshadow"}
 
 Click `Modify` to change the settings of the wireless network.
 
@@ -53,9 +53,9 @@ When you insert the dongle, you will see the dongle under "Wireless" and then yo
 
 MV1000W:
 
-![MV1000W](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless5.png)
+![MV1000W](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless5.png){class="glboxshadow"}
 
 
 Click `Modify` to change the settings of the wireless network.
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless4.png)
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/brume/Wireless/Wireless4.png){class="glboxshadow"}
 

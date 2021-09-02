@@ -6,7 +6,7 @@
 
 Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/admin_password.jpg)
+![admin password](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/admin_password.jpg){class="glboxshadow"}
 
 
 
@@ -16,7 +16,7 @@ Change the password of the web Admin Panel, which must be at least 5 characters 
 
 LAN IP is the IP address that you use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/lan_ip.jpg)
+![lan ip](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/lan_ip.jpg){class="glboxshadow"}
 
 
 
@@ -26,7 +26,7 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/time_zone.jpg)
+![time zone](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/time_zone.jpg){class="glboxshadow"}
 
 
 
@@ -36,7 +36,7 @@ The time of the router's activities will be recorded according to the router tim
 
 Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
 
-![mac clone](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/mac_clone.jpg)
+![mac clone](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/mac_clone.jpg){class="glboxshadow"}
 
 
 
@@ -54,7 +54,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/dnsserver.jpg)
+![custom dns server](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/dnsserver.jpg){class="glboxshadow"}
 
 
 ---
@@ -72,7 +72,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 **Extender**: Extend the Wi-Fi coverage of an existing wireless network.
 
 
-![network mode](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/networkmode.jpg)
+![network mode](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/networkmode.jpg){class="glboxshadow"}
 
 
 
@@ -82,7 +82,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 Revert the router to factory default settings. All your settings, applications and data will be erased.
 
-![revert firmware](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/revert_firmware.jpg)
+![revert firmware](https://static.gl-inet.com/docs/en/3/setup/convexa_b/more_settings/revert_firmware.jpg){class="glboxshadow"}
 
 
 
@@ -92,16 +92,16 @@ Revert the router to factory default settings. All your settings, applications a
 
 Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/luci.jpg)
+![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/luci.jpg){class="glboxshadow"}
 
 Click **install Luci**, you will get the succefully installed. 
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/lucisuccess.jpg)
+![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/lucisuccess.jpg){class="glboxshadow"}
 
 
 Click **Close**, then click the link of Luci, you will get the Luci webUI
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/Luci_login.jpg)
+![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/Luci_login.jpg){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*
 

@@ -4,7 +4,7 @@ Model:
 
 microuter-N300
 
-![router](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/router.jpg)
+![router](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/router.jpg){class="glboxshadow"}
 
 ---
 
@@ -12,7 +12,7 @@ microuter-N300
 
 Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard 5V/1A power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/power.jpg)
+![Power on](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/power.jpg){class="glboxshadow"}
 
 ## 2. Connect 
 
@@ -44,7 +44,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano**, **日本語**.
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/welcome.png)
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/welcome.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -53,7 +53,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 ### 2) Admin Password Setting
 There is no default password for this Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
 
-![password](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/password.png)
+![password](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
@@ -62,4 +62,4 @@ There is no default password for this Admin Panel. You have to set your own pass
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/main_ui.png)
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/main_ui.png){class="glboxshadow"}

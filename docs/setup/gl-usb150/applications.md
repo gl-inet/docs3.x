@@ -8,7 +8,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.png)
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.png){class="glboxshadow"}
 
 
 
@@ -23,7 +23,7 @@ You can remotely access your router with a url though this function. Example: my
 In version 3.021 or above it is a default function, in other 3.0 version you need to install packages using Plug-ins.
 
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png)
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png){class="glboxshadow"}
 
 
 For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
@@ -38,7 +38,7 @@ In our website, you can remotely check your router status, change the password, 
 
 In version 3.021 or above it is a default function, in other 3.0 version you need to install packages using Plug-ins.
 
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png)
+![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
 
 
 For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
@@ -51,7 +51,7 @@ You can set a **captive portal** on our router's wifi network, so that when new 
 
 Only supported in version 3.022 or above.
 
-![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png)
+![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png){class="glboxshadow"}
 
 
 For guidance on how to set this up, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).

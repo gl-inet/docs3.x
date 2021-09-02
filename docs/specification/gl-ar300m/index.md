@@ -65,7 +65,7 @@ By adding a fast NAND flash, you can feel how the performance is improved compar
 
 The performance comparision between AR300M (NAND) with AR150 is below:
 
-![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg)
+![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg){class="glboxshadow"}
 
 It only takes 6 seconds to upload and process 250 ovpn files. When installing packages to the router, it takes no more than 20% for the time spent than using NOR flash, including the time to download resource from the Internet. So everything just happends in seconds.
 
@@ -95,13 +95,13 @@ $ make
 
 If you want to build the firmware for NOR flash, choose `GL-AR300M` as the target.
 
-![AR300M generic](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m.jpg)
+![AR300M generic](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m.jpg){class="glboxshadow"}
 
 ### Build the NAND firmware for NAND flash
 
 If you want to build the firmware for nand flash, first choose subtarget `Generic devices with NAND flash` then choose `GL-AR300M NAND` as the target.
 
-![AR300M NAND](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m-nand.jpg)
+![AR300M NAND](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m-nand.jpg){class="glboxshadow"}
 
 The make process will takes around 1 hour for the first time because it needs to download a lot of data from t he Internet. After compiling finished, you will find the following firmware files in `bin/ar71xx/`
 
@@ -180,7 +180,7 @@ There is a bug in AR300M uboot and in some computers the connection will always 
 
 The following figure is the web UI of the `new` uboot.
 
-![AR300M uboot web ui](https://static.gl-inet.com/docs/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg)
+![AR300M uboot web ui](https://static.gl-inet.com/docs/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg){class="glboxshadow"}
 
 ### Using uboot console
 
