@@ -25,7 +25,7 @@ In version 3.021 or above it is a default function, in other 3.0 version you nee
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/applications/ddns.jpg){class="glboxshadow"}
 
 
-For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
 ---
 
@@ -38,4 +38,4 @@ In our website, you can remotely check your router status, change the password, 
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/applications/cloud.png){class="glboxshadow"}
 
 
-For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+For the details, please refer to [Cloud](../../../tutorials/cloud/).

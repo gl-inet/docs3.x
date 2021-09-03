@@ -124,7 +124,7 @@ Important bug fix:
 
 ## V3.027 - Sep 19, 2019
 
-<mark>Note: This version cannot use Online Upgrade(automatically upgrade) due to tech issue, </mark> please follow <a href="https://docs.gl-inet.com/en/3/setup/microuter/upgrade/#upload-firmware" target="_blank">the instruction of Local Upgrade</a> manually.
+<mark>Note: This version cannot use Online Upgrade(automatically upgrade) due to tech issue, </mark> please follow <a href="../../setup/gl-usb150/upgrade/#upload-firmware" target="_blank">the instruction of Local Upgrade</a> manually.
 
 - Here is the local upgrade firmware file: <a href="https://fw.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.027.bin" target="_blank">openwrt-usb150-3.027.bin</a>.
 

@@ -28,7 +28,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 
 
-For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](https://docs.gl-inet.com/en/3/app/file_sharing/).
+For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](../../../tutorials/file_sharing/).
 
 
 ---
@@ -45,7 +45,7 @@ This is a default function for version 3.021 or above. Older versions require ma
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/brume/applications/ddns.png){class="glboxshadow"}
 
 
-For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
 ---
 
@@ -60,6 +60,6 @@ This is a default function for version 3.021 or above. Older versions require ma
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
 
 
-For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+For the details, please refer to [Cloud](../../../tutorials/cloud/).
 
 ---

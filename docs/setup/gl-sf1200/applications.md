@@ -23,7 +23,7 @@ This is a default function for version 3.021 or above. Older versions require ma
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
 
 
-For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+For the details, please refer to [Cloud](../../../tutorials/cloud/).
 
 
 ---
@@ -40,6 +40,6 @@ This is a default function for version 3.021 or above. Older versions require ma
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/ddns.jpg){class="glboxshadow"}
 
 
-For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
 ---

@@ -29,7 +29,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 
 
-For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](https://docs.gl-inet.com/en/3/app/file_sharing/).
+For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](../../../tutorials/file_sharing/).
 
 
 ---
@@ -48,7 +48,7 @@ This is a default function for version 3.021 or above. Older versions require ma
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
 
 
-For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+For the details, please refer to [Cloud](../../../tutorials/cloud/).
 
 ### DDNS
 
@@ -62,7 +62,7 @@ This is a default function for version 3.021 or above. Older versions require ma
 ![Remote Access](https://static.gl-inet.com/docs/en/3/setup/mt1300/Remote_Access.jpg){class="glboxshadow"}
 
 
-For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
 ---
 
@@ -75,7 +75,7 @@ Only supported in version 3.022 or above.
 ![Portal](https://static.gl-inet.com/docs/en/3/setup/mt1300/Captive_Portal.jpg){class="glboxshadow"}
 
 
-For guidance on how to set this up, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).
+For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).
 
 
 ## IGMP Snooping

@@ -26,7 +26,7 @@ In version 3.021 or above it is a default function, in other 3.0 version you nee
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png){class="glboxshadow"}
 
 
-For guidance on how to set DDNS and access, please refer to [DDNS](https://docs.gl-inet.com/en/3/app/ddns/).
+For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
 ---
 
@@ -41,7 +41,7 @@ In version 3.021 or above it is a default function, in other 3.0 version you nee
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
 
 
-For the details, please refer to [Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
+For the details, please refer to [Cloud](../../../tutorials/cloud/).
 
 ---
 
@@ -54,4 +54,4 @@ Only supported in version 3.022 or above.
 ![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png){class="glboxshadow"}
 
 
-For guidance on how to set this up, please refer to [Set a Captive portal](https://docs.gl-inet.com/en/3/app/captive_portal).
+For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).

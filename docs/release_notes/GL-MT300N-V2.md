@@ -204,8 +204,8 @@ Firmware file: [openwrt-mt300n-v2-3.011.bin](https://fw.gl-inet.com/firmware/mt3
 - Adopted new user-interface.
 - WireGuard Server/Client pre-installed, supports Azirevpn and Mullvad service providers.
 - Support DNS over TLS from Cloudflare.
-- Added [GL Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
-- Added new [DDNS](https://docs.gl-inet.com/en/3/app/ddns/) function.
+- Added [GL Cloud](../../tutorials/cloud/).
+- Added [DDNS](../../tutorials/ddns/) function.
 - Added client management feature which includes QoS, traffic statistics.
 - Added firewall settings page which includes port forwards, open port and DMZ.
 - Added static IP address binding in LAN IP settings.
