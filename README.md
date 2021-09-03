@@ -49,13 +49,11 @@ Suggest to use PhotoSwipe when the width of image is large than 746px.
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="contentUrl" data-size="3167x2480">
-      <img src="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="thumbnail" alt="gl-b2200 pcb pinout" loading="lazy" />
+      <img src="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="thumbnail" alt="gl-b2200 pcb pinout" />
     </a>
   </figure>
 </div>
 ```
-
-the loading attribute is for lazy loading.
 
 Reference:
 
