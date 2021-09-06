@@ -170,7 +170,7 @@ Important bug fix:
 - Added WireGuard Client/Server.
 - Added Bridge mode function.
 - Support 6 display languages (English**, **简体中文**, **繁體中文**, **Deutsch**, **Français and Español).
-- Visit Luci advanced settings in MORE SETTING -> Advanced.
+- Visit LuCI advanced settings in MORE SETTING -> Advanced.
 - Added Plug-ins application for OpenWrt packages management.
 - Clients can be blocked through the page of CLIENTS.
 

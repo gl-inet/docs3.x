@@ -91,7 +91,7 @@ Revert the router to factory default settings. All your settings, applications a
 
 ## Advanced
 
-Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
+Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
 ![advanced](https://static.gl-inet.com/docs/en/3/setup/cirrus/more%20setting/ms1.png){class="glboxshadow"}
 

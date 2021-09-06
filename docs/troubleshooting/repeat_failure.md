@@ -3,7 +3,7 @@
 In some cases, when the router scan the 2.4G wifi signal, you may find you are not able to see some SSIDs, this situation may caused by wifi channel.
 Our routers use channel 1 to 11 for 2.4GHz wifi by default, when the wifi you want to repeat is in 12 or 13 channel, the router would not be able to see or repeat it.
 
-However, you can change **Country Code** in Luci to get full channel.(Don't support GL-MT300N-V2)
+However, you can change **Country Code** in LuCI to get full channel.(Don't support GL-MT300N-V2)
 
 ---
 <ol type="1">
@@ -15,7 +15,7 @@ However, you can change **Country Code** in Luci to get full channel.(Don't supp
 	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/1.png"/>
 </li>
 <li>
-    <p>Input web page password and you will enter Luci page.</p>
+    <p>Input web page password and you will enter LuCI page.</p>
 	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/2.png"/>
 </li>
 <li>

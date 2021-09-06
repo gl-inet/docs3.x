@@ -40,7 +40,7 @@ Find the available firmwares from the folder according to your device model, and
 
 **release**: Official OpenWrt/LEDE firmware.
 
-**clean**: Clean versions of OpenWrt/LEDE firmware with Luci admin page only.
+**clean**: Clean versions of OpenWrt/LEDE firmware with LuCI admin page only.
 
 **testing**: Beta version of OpenWrt/LEDE firmware.
 

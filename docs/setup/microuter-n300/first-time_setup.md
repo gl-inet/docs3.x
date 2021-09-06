@@ -46,7 +46,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 ![initial setup](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/welcome.png){class="glboxshadow"}
 
-*Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
+*Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
   
 

@@ -99,7 +99,7 @@ If you can not find Advanced menu item, please follow the steps to install it.
 
 After it install successfully, you will find the Advanced menu item.
 
-Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
+Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
 ![advanced](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/luci.png){class="glboxshadow"}
 

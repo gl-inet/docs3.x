@@ -33,7 +33,7 @@
 
 [2] The testing firmware which is under development.
 
-[3] OpenWrt/LEDE firmware with Luci admin page only. Our official user admin page is not included.
+[3] OpenWrt/LEDE firmware with LuCI admin page only. Our official user admin page is not included.
 
 [4] Tor firmware.
 

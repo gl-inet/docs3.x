@@ -45,7 +45,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 ![initialsetup](https://static.gl-inet.com/docs/en/3/setup/mt1300/language.png){class="glboxshadow"} welcome pate image to be updated
 
-*Note: If your browser always redirects to Luci (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
+*Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
 ### 2) Admin Password Setting
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.

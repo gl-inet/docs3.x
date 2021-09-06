@@ -48,9 +48,9 @@ Only support `GL-AR150`, `GL-AR300M`, `GL-MT300N`, `GL-MT300A`, which has a `swi
 
 Support `GL-AR150`,`GL.iNet6416`, `GL-AR300`. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. This firmware has a built-in UI based on Domino Pi which you can manage two SSIDs.
 
-### Version 1.0 with Luci:
+### Version 1.0 with LuCI:
 
-Support `GL-MT300A` and `GL-MT300N`. This is the firmware created for MT300A and MT300N with Luci. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. Connection from LAN port will always have Tor. Luci is installed but there is no Domino Pi UI.
+Support `GL-MT300A` and `GL-MT300N`. This is the firmware created for MT300A and MT300N with LuCI. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. Connection from LAN port will always have Tor. LuCI is installed but there is no Domino Pi UI.
 
 !!! Note
 
@@ -148,7 +148,7 @@ Repeater settings. It will search for available ssid automatically. You need to 
 
 ![Repeater](https://static.gl-inet.com/docs/en/2.x/app/src/tor/repeater.jpg){class="glboxshadow"}
 
-###Luci
+### LuCI
 
 Click the `LUCI` button on the left sidebar you can have the LUCI UI. You can go back to Domino UI by clicking the `Domino Web Panel` link on the bottom right corner.
 

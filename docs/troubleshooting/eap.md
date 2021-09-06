@@ -47,11 +47,11 @@ Enter your User Name and Password and then click join.
 
 ---
 
-## Connect via Luci
+## Connect via LuCI
 
-Our web page only supports few EAP types for now so you may need to connect via Luci page in most situations.
+Our web page only supports few EAP types for now so you may need to connect via LuCI page in most situations.
 
-### 1. Visit the Luci page
+### 1. Visit the LuCI page
 
 Go to MORE SETTINGS->Advanced.
 
@@ -61,7 +61,7 @@ Input your web password.
 
 ![](https://static.gl-inet.com/docs/en/3/troubleshooting/EAP/8.png){class="glboxshadow"}
 
-Then you will enter luci page.
+Then you will enter LuCI page.
 
 ### 2. Connect to EAP wifi
 

@@ -137,8 +137,8 @@ If you can not find Advanced menu item, please follow the steps to install it.
 
 After it install successfully, you will find the Advanced menu item.
 
-Click `Advanced` to direct to Luci which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
+Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/mt1300/Luci.png){class="glboxshadow"}
+![advanced](https://static.gl-inet.com/docs/en/3/setup/mt1300/luci.png){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

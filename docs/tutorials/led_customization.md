@@ -2,7 +2,7 @@
  
  Support models: GL-AR150 series, GL-AR300 series, GL-MT300N-V2.
 
- To configure the LED of GL.iNet routers, please login to Luci by clicking **Advanced settings** at the bottom-left corner of the web Admin Panel. 
+ To configure the LED of GL.iNet routers, please login to LuCI by clicking **Advanced settings** at the bottom-left corner of the web Admin Panel. 
 
 ![](https://static.gl-inet.com/docs/en/3/troubleshooting/ledadvanced.png){class="glboxshadow"}
 
@@ -16,7 +16,7 @@ Then please choose **System** > **LED Configuration**.
 
 (Take GL-MT300N-V2 as an example)
 
-1. Go to luci -> System -> Led Configuration
+1. Go to LuCI -> System -> Led Configuration
 
     ![](https://static.gl-inet.com/docs/en/3/tutorials/led_configuration/config1.png){class="glboxshadow"}
 

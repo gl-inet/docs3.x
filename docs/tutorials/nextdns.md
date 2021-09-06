@@ -1,6 +1,6 @@
 # NextDNS
 
-If you are using GL.iNet routers, you will find that DNS over TLS from Cloudflare has been added in the Admin Pannel(GL WebUI, not Luci). 
+If you are using GL.iNet routers, you will find that DNS over TLS from Cloudflare has been added in the Admin Pannel(GL WebUI, not LuCI). 
 Some of our fans also want to use NextDNS on GL.iNet routers. As we are planning to add NextDNS in our firmware from version 3.200. This is the instruction on how to setup a NextDNS on GL.iNet routers under version 3.200.
 
 ![WebUINextDNS](https://static.gl-inet.com/docs/en/3/tutorials/nextdns/ndwebui.jpg){class="glboxshadow"}

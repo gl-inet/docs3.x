@@ -18,7 +18,7 @@ The following routers with USB 2.0 port should be able to support USB Webcams:
 
 ![](https://static.gl-inet.com/docs/en/3/tutorials/camera/camera_compatible_model.png){class="glboxshadow"}
 
-The current router firmware version 3.0 does not contain USB Webcam control interface. You need to install plug-ins and make it workable in Luci. 
+The current router firmware version 3.0 does not contain USB Webcam control interface. You need to install plug-ins and make it workable in LuCI. 
 
 ## Install Plug-ins
 
