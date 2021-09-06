@@ -51,7 +51,7 @@ hide:
 * [DDNS](ddns). Overcome the issues related to Dynamic IP Addresses.
 * [Connect Cloud](cloud), to manage your routers remotely.
 * [How to SSH to router?](ssh)
-* [How to transfer files to router?](scp)
+* [How to modify files on router?](scp)
 * [GL.iNet Mobile App](mobile_app)
 * [Setup LED Customization](led_customization)
 * [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.
