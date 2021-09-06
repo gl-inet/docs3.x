@@ -4,6 +4,6 @@ GL-S10 doesn't have a web Admin Panel. It is a BLE-WiFi gateway aimming to provi
 
 Please access to learn more.
 
-[API Manual](/setup/gl-s10/api_manual/)
+[API Manual](../api_manual)
 
-[Firmware Compilation Guide](/setup/gl-s10/firmware_compilation_guide)
+[Firmware Compilation Guide](../firmware_compilation_guide)
