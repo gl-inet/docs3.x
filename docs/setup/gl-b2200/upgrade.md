@@ -30,7 +30,7 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 
 
-### Official OpenWrt/LEDE firmware
+### Official OpenWrtfirmware
 
 You can download the official firmware from our <a href="https://dl.gl-inet.com/firmware/" target="_blank">website</a>. 
 
