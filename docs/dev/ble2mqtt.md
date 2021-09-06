@@ -86,7 +86,7 @@ All you need to do is to register an account in GoodCloud.xyz and bind your X750
 
 **Register your device on [GoodCloud.xyz](https://www.goodcloud.xyz)**
 
-Follow [this docs](https://docs.gl-inet.com/en/3/app/cloud/#setup) to add devices on GoodCloud. 
+Follow [this docs](../../tutorials/cloud/#setup) to add devices on GoodCloud. 
 
 
 
@@ -111,7 +111,7 @@ config service 'cloud'
 
 To forward data to GoodCloud, you can use simple shell script. 
 
-After your device is connected to your cloud account, you can [SSH](https://docs.gl-inet.com/en/3/app/ssh/) to the router, try the following command.  
+After your device is connected to your cloud account, you can [SSH](../../tutorials/ssh/) to the router, try the following command.  
 
 ```shell
 root@GL-S1300:~# ubus call mqtt pub '{"api":"/user/data", "data":"hello from S1300"
@@ -230,7 +230,7 @@ xxxxxxxxxx.private.pem.key --> client.key
 
 xxxxxxxxxx. certificate.pem.crt --> client.crt
 
-Windows User use [SSH and WinScp](https://docs.gl-inet.com/en/3/app/ssh/) to transfer these three certificate files to `/etc/aws/` on router,  please create new folder if you cannot find `/etc/aws/`.
+Windows User use [WinScp](../../tutorials/scp/) to transfer these three certificate files to `/etc/aws/` on router,  please create new folder if you cannot find `/etc/aws/`.
 
 ```shell
 mkdir /etc/aws/
