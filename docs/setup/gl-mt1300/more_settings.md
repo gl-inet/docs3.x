@@ -89,7 +89,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **DNS over TLS (Cloudflare or NextDNS)**: 
 **Cloudflare DNS** over TLS uses the TLS security protocol for encrypting DNS queries, which helps increase privacy and prevent eavesdropping.
-**NextDNS** protects from all kinds of security threats, blocks ads and trackers in websites and apps and provides a safe and supervised Internet for kids. Please go to [**NextDNS**](https://docs.gl-inet.com/en/3/app/nextdns/) for settings details. 
+**NextDNS** protects from all kinds of security threats, blocks ads and trackers in websites and apps and provides a safe and supervised Internet for kids. Please go to [**NextDNS**](../../../tutorials/nextdns/) for settings details. 
 
 
 
