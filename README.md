@@ -43,7 +43,7 @@ If the size of image is too big, please use the PhotoSwipe, check out [here](#ab
 
 Using the v4 version, v5 version looks better, but need to load js module. Don't know how to work it out in mkdocs.
 
-Suggest to use PhotoSwipe when the width of image is large than 746px.
+Suggest to use PhotoSwipe when the width of image is large than 1021px.
 
 ```
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
