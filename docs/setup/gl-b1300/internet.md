@@ -16,7 +16,7 @@ Click `INTERNET` to create an Internet connection.
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
-Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.
+*Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/cable.jpg){class="glboxshadow"}
 
@@ -82,9 +82,9 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ## 3 USB 3G/4G Modem
 
-You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem  Plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
+You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem then plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
 
-Be aware that some modems work in host-less mode, which will be configured through [Tethering](internet.md#4-tethering) but not 3G/4G modem.
+Be aware that some modems work in host-less mode, which will be configured through [Tethering](#4-tethering) but not 3G/4G modem.
 
 Click `Auto Setup` to create the connection.
 

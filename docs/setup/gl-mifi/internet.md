@@ -16,7 +16,7 @@ Click `INTERNET` to create an Internet connection.
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
-Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.
+*Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/4g_smart_router/internet/cable.jpg){class="glboxshadow"}
 
@@ -84,7 +84,7 @@ GL-MiFi has different options of 3G/4G module which you can choose before purcha
 
 You can also connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem. Plug the USB modem into the USB port of the router. Once it has been detected, you will be able to find several additional options in the drop-down list of **Device**.
 
-Be aware that some USB modems work in host-less mode, which have to be configured through [Tethering](internet.md#4-tethering) but not 3G/4G modem.
+Be aware that some USB modems work in host-less mode, which have to be configured through [Tethering](#4-tethering) but not 3G/4G modem.
 
 In General, you can set up your 3G/4G modem by the three basic parameters below. Click `Apply` to connect.
 

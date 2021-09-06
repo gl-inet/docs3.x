@@ -16,7 +16,7 @@ Click `INTERNET` to create an Internet connection.
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
-Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.
+*Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/cable.jpg){class="glboxshadow"}
 

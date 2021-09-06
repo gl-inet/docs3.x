@@ -78,9 +78,9 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ## 3 USB 3G/4G Modem
 
-You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem  Plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
+You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem then plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
 
-Be aware that some modems work in host-less mode, which will be configured through [Tethering](internet.md#4-tethering) but not 3G/4G modem.
+Be aware that some modems work in host-less mode, which will be configured through [Tethering](#4-tethering) but not 3G/4G modem.
 
 Click `Auto Setup` to create the connection.
 
