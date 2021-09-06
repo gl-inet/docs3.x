@@ -331,7 +331,6 @@ nav:
     - LED Customization: tutorials/led_customization.md
     - Setup Captive Portal: tutorials/captive_portal.md
     - Connect to Captive Portal: tutorials/connect_to_a_hotspot_with_captive_portal.md
-    - BLE MQTT Bridge: tutorials/ble2mqtt.md
     - qDslrDashboard: tutorials/qdslrdashboard.md
     - EasyTether: tutorials/tether.md
     - Tor: tutorials/tor.md
@@ -375,3 +374,4 @@ nav:
   - Development:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
+    - BLE MQTT Bridge: dev/ble2mqtt.md
