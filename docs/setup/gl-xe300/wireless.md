@@ -19,16 +19,16 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. 
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/Puli/Wireless/Wireless.png){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/Wireless/Wireless.png){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/Puli/Wireless/Wireless2.png){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/Wireless/Wireless2.png){class="glboxshadow"}
 
 **Guest WiFi**: 
 
 You can switch on/off _**Guest WiFi**_ in _**Wireless**_, the _**Guest WiFi**_ will create a different subnet to your visitors to prevent any un-authority visiting to your other devices in the network.
 
-![guestwifi](https://static.gl-inet.com/docs/en/3/setup/Puli/Wireless/Wireless3.png){class="glboxshadow"}
+![guestwifi](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/Wireless/Wireless3.png){class="glboxshadow"}
