@@ -7,7 +7,7 @@
 In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button.
 
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/Velica/Wireless/Wireless_1.png){class="glboxshadow"}
+![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/Wireless/Wireless_1.png){class="glboxshadow"}
 
 
 **Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
@@ -26,7 +26,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/Velica/Wireless/Wireless_2.png){class="glboxshadow"}
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/Wireless/Wireless_2.png){class="glboxshadow"}
 
 Click `Modify` to change the settings of the wireless network.
 

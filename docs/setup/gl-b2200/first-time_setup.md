@@ -2,7 +2,7 @@
 
 Model: GL-B2200
 
-![router](https://static.gl-inet.com/docs/en/3/setup/Velica/first-time_setup/router.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/first-time_setup/router.jpg){class="glboxshadow"}
 
 ---
 
