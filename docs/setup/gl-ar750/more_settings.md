@@ -6,7 +6,7 @@
 
 Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/admin_password.jpg){class="glboxshadow"}
+![admin password](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/more_settings/admin_password.jpg){class="glboxshadow"}
 
 
 
@@ -26,7 +26,7 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/time_zone.jpg){class="glboxshadow"}
+![time zone](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/more_settings/time_zone.jpg){class="glboxshadow"}
 
 
 
@@ -36,7 +36,7 @@ The time of the router's activities will be recorded according to the router tim
 
 Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
 
-![mac clone](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/mac_clone.jpg){class="glboxshadow"}
+![mac clone](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/more_settings/mac_clone.jpg){class="glboxshadow"}
 
 
 
@@ -54,7 +54,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/custom_dns_server.jpg){class="glboxshadow"}
+![custom dns server](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/more_settings/custom_dns_server.jpg){class="glboxshadow"}
 
 
 
@@ -64,7 +64,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off WireGuard/OpenVPN client.
 
-![button settings](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/button_settings.jpg){class="glboxshadow"}
+![button settings](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/more_settings/button_settings.jpg){class="glboxshadow"}
 
 
 
@@ -104,6 +104,6 @@ Revert the router to factory default settings. All your settings, applications a
 
 Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/more_settings/advanced.jpg){class="glboxshadow"}
+![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/more_settings/advanced.jpg){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

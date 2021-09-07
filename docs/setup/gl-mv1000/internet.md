@@ -20,19 +20,19 @@ Connect the router to the modem or main router via Ethernet cable to access the 
 
 Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. As a result, you can have one more LAN port.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/cable.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/cable.jpg){class="glboxshadow"}
 
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/dhcp_page.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/dhcp_page.jpg){class="glboxshadow"}
 
 
 ### DHCP
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
-![dhcp](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/dhcp.jpg){class="glboxshadow"}
+![dhcp](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/dhcp.jpg){class="glboxshadow"}
 
 
 
@@ -42,7 +42,7 @@ Static is required if your Internet Service Provider (ISP) has provided a fixed 
 
 The current settings will be automatically filled once you choose Static. Change it according to your needs and then click `Apply`.
 
-![static](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/static.jpg){class="glboxshadow"}
+![static](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/static.jpg){class="glboxshadow"}
 
 
 
@@ -52,7 +52,7 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
-![PPPoE](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/pppoe_page.jpg){class="glboxshadow"}
+![PPPoE](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/pppoe_page.jpg){class="glboxshadow"}
 
 
 
@@ -67,7 +67,7 @@ Be aware that some modems work in host-less mode, which will be configured throu
 
 Click `Auto Setup` to create the connection.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/modem1.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem1.jpg){class="glboxshadow"}
 
 
 
@@ -79,22 +79,22 @@ In General, you can set up by the three basic parameters below. Click `Apply` to
 - **Service Type**: Indicate the service type of your SIM card.
 - **APN**: Confirm with your SIM card carrier.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/modem2.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem2.jpg){class="glboxshadow"}
 
 More:
 
 - **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it.
 - **Pincode, Username and Password:** Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/modem5.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem5.jpg){class="glboxshadow"}
 
 
 
 It is connected when the IP address of your SIM card shows up.
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/modem2.jpg){class="glboxshadow"}
+![modem connect](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem2.jpg){class="glboxshadow"}
 
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/modem3.jpg){class="glboxshadow"}
+![modem connected](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem3.jpg){class="glboxshadow"}
 
 
 
@@ -169,7 +169,7 @@ For Android phone tethering, connect it to the USB port of the router then check
 
 After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/internet/tethering.jpg){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/tethering.jpg){class="glboxshadow"}
 
 
 

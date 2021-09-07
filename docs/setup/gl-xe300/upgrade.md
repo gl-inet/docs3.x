@@ -2,7 +2,7 @@
 
 Click `UPGRADE` to check any available update and upgrade the firmware.
 
-![firmware](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware.jpg){class="glboxshadow"}
+![firmware](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/upgrade/firmware.jpg){class="glboxshadow"}
 
 
 

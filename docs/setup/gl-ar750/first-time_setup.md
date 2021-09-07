@@ -4,7 +4,7 @@ Models:
 
 GL-AR750, GL-AR750-PoE
 
-![router](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/router.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first-time_setup/router.jpg){class="glboxshadow"}
 
 
 
@@ -14,7 +14,7 @@ GL-AR750, GL-AR750-PoE
 
 Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/power1.jpg){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first-time_setup/power1.jpg){class="glboxshadow"}
 
 
 
@@ -33,7 +33,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/connect.jpg){class="glboxshadow"}
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first-time_setup/connect.jpg){class="glboxshadow"}
 
 
 
@@ -57,7 +57,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** and **日本語**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/welcome.jpg){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first-time_setup/welcome.jpg){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -75,4 +75,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/first-time_setup/main_ui.jpg){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first-time_setup/main_ui.jpg){class="glboxshadow"}

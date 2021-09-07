@@ -12,7 +12,7 @@ Click `UPGRADE` to check any available update and upgrade the firmware.
 
 You can find the current firmware version here. If your router is connected to the Internet, it will check for the newer firmware version available for download.
 
-![online upgrade](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware1.jpg){class="glboxshadow"}
+![online upgrade](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/upgrade/firmware1.jpg){class="glboxshadow"}
 
 
 
@@ -26,7 +26,7 @@ You can find the current firmware version here. If your router is connected to t
 
 Click `Local Upgrade` to upload a firmware file to the router. Simply drag and drop your firmware file to the area indicated.
 
-![upload firmware](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware2.jpg){class="glboxshadow"}
+![upload firmware](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/upgrade/firmware2.jpg){class="glboxshadow"}
 
 
 
@@ -69,4 +69,4 @@ You may also try other firmwares such as DDWRT.
 
 You can enable auto upgrade. The router will search for available update and upgrade automatically according to the time that you set.
 
-![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/travel_ac_router/upgrade/firmware3.jpg){class="glboxshadow"}
+![auto upgrade](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/upgrade/firmware3.jpg){class="glboxshadow"}
