@@ -18,10 +18,10 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **TX Power (dBm)**: It specifies the signal strength. The default value is 20 (Strongest).
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/convexa_b/wireless/status.jpg){class="glboxshadow"}
+![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/wireless/status.jpg){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/convexa_b/wireless/setting.jpg){class="glboxshadow"}
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/wireless/setting.jpg){class="glboxshadow"}

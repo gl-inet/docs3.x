@@ -114,7 +114,7 @@ More:
 
 It is connected when the IP address of your SIM card shows up.
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/modem2.jpg){class="glboxshadow"}
+![modem connect](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/internet/modem2.jpg){class="glboxshadow"}
 
 ![modem connected](https://static.gl-inet.com/docs/en/3/setup/convexa_s/internet/modem4.jpg){class="glboxshadow"}
 

@@ -11,7 +11,7 @@ After you turn on Enable real-time speed and traffic statistics. You can see all
 ![](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/clients/client1.png){class="glboxshadow"}
 
 You can set tech QoS for certain clients by click **Set**, 
-![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/client2.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/clients/client2.png){class="glboxshadow"}
 
 A speed limitation range window will pop-up, set the speed and click **Apply**.
 

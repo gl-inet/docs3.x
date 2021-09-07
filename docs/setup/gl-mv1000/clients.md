@@ -14,8 +14,8 @@ You can see all devices' traffic and speed information, click the button on the 
 
 
 You can set tech QoS for certain clients by click **Set**, 
-![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/client2.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/clients/client2.png){class="glboxshadow"}
 a speed limitation range window will pop-up, set the speed and click **Apply**.
 
-![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/client3.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/clients/client3.png){class="glboxshadow"}
 There is an yellow "exclamation mark" besides speed limited client.
