@@ -78,8 +78,6 @@ You can also refer to video tutorial below.
     <li>
     	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. 
         </p>
-        <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-EXT, please download the .img firmware file and upload to the NAND flash.
-        <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/uboot.jpg"><p>
     </li>
     <li>
     	<p>Wait for around 3 minutes. Don’t power off your device when updating. The router is ready when both power and  Wi-Fi LED are on or you can find its SSID on your device.
