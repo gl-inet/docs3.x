@@ -65,18 +65,18 @@
 
 <details>
 <summary>Can it work with 3G/4G USB modem?</summary>
-<p>Yes, only Microuter (GL-USB150) doesn't support USB modem. Please find the list of compatible USB modem <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#compatible-modems">here</a>.</p>
+<p>Yes, only Microuter (GL-USB150) doesn't support USB modem. Please find the list of compatible USB modem <a href="../../setup/mini_router/internet/#compatible-modems">here</a>.</p>
 </details>
 
 <details>
 <summary>Does this router work with SIM card directly?</summary>
 <p>Only our <b>4G Smart Router (GL-MiFi)</b> with built-in LTE module supports this feature. You can insert a <b>Micro SIM</b> into the SIM card slot of the router and then set up 3G/4G modem in the web Admin Panel.</p>
-<p>Please find the detailed setup instruction <a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/internet/#3-3g4g-modem">here</a>.</p>
+<p>Please find the detailed setup instruction <a href="../../setup/gl-mifi/internet/#3-3g4g-modem">here</a>.</p>
 </details>
 
 <details>
 <summary>Can I share the network data from my phone to the router?</summary>
-<p>Yes, you can connect your smartphone to the USB port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
+<p>Yes, you can connect your smartphone to the USB port of the router and then set up <a href="../../setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
 </details>
 
 <details>
