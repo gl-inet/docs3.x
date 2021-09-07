@@ -2,13 +2,13 @@
 
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Tethering**, **3G/4G USB Modem** and **Repeater** .
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/brume-w/internet/internet.png){class="glboxshadow"}
+![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/internet/internet.png){class="glboxshadow"}
 
 
 
 Click `INTERNET` to create an Internet connection.
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/main_ui.jpg){class="glboxshadow"}
+![internet](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first-time_setup/main_ui.jpg){class="glboxshadow"}
 
 
 

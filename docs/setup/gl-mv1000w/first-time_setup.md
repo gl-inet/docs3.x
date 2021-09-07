@@ -29,7 +29,7 @@ Connect your device to the LAN port of the router via Ethernet cable.
 ### Connect via Wi-Fi
 Connect to the WiFi called **GL-MV1000-xxx**. If this is your first time to set up this router, the default WiFi password will be **goodlife**, which is also printed on the bottom of the router. If you previously set up and change the password, please fill in the password that you set up with. You can also connect to the Internet with your WAN port from your modem.
 
-![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/MV1000W_Connect%20wia%20WIFI%282%29.png){class="glboxshadow"}
+![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first-time_setup/MV1000W_Connect%20wia%20WIFI%282%29.png){class="glboxshadow"}
 
 
 ### Connect via USB Type-C Cable
@@ -79,7 +79,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** and **日本語**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/welcome_2.jpg){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first-time_setup/welcome_2.jpg){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -91,4 +91,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/brume-w/first-time_setup/main_ui.jpg){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first-time_setup/main_ui.jpg){class="glboxshadow"}
