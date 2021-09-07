@@ -66,13 +66,13 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp1.jpg){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp1.jpg){class="glboxshadow"}
 
 
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg){class="glboxshadow"}
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp2.jpg){class="glboxshadow"}
 
 ---
 

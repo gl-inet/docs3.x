@@ -22,10 +22,10 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 **Channel Optimization**: It will optimize your Wi-Fi signal and channel according to the Wi-Fi environment. 
 
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/spitz/wireless/status.jpg){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-x750/wireless/status.jpg){class="glboxshadow"}
 
 
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/spitz/wireless/setting.jpg){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-x750/wireless/setting.jpg){class="glboxshadow"}

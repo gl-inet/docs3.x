@@ -10,7 +10,7 @@ Model: GL-MV1000W
 
 Plug the USB Type-C power cable into the power port of the router. Make sure you are using a standard **5V/3A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first-time_setup/power1.jpg){class="glboxshadow"}
 
 
 *Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
@@ -24,7 +24,7 @@ You can connect to the router via Ethernet cable, Wi-Fi or USB type-C cable.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/connect.jpg){class="glboxshadow"}
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first-time_setup/connect.jpg){class="glboxshadow"}
 
 ### Connect via Wi-Fi
 Connect to the WiFi called **GL-MV1000-xxx**. If this is your first time to set up this router, the default WiFi password will be **goodlife**, which is also printed on the bottom of the router. If you previously set up and change the password, please fill in the password that you set up with. You can also connect to the Internet with your WAN port from your modem.
@@ -38,7 +38,7 @@ Connect your computer to the power port of the router via USB Type-C cable. Keep
 
     It supports Windows 10, Windows 7, Mac OS, Ubuntu.
 
-![connect usb type-c cable](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg){class="glboxshadow"}
+![connect usb type-c cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first-time_setup/power1.jpg){class="glboxshadow"}
 
 Certain Windows systems don't recognize the Brume-W as a network device or fail to find the correct driver.
 Use this driver for such cases: <a href="https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/mod-duo-rndis.zip" target="_blank">mod-duo-rndis.zip</a>

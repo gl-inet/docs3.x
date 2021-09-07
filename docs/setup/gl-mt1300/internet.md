@@ -20,13 +20,13 @@ Connect the router to the modem or main router via Ethernet cable to access the 
 
 *Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/slate/internet/cable.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/cable.jpg){class="glboxshadow"}
 
 
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/slate/internet/dhcp_page.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/dhcp_page.jpg){class="glboxshadow"}
 
 
 
@@ -34,7 +34,7 @@ Plug the Ethernet cable into the WAN port of the router. The information of your
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
-![dhcp](https://static.gl-inet.com/docs/en/3/setup/slate/internet/dhcp.jpg){class="glboxshadow"}
+![dhcp](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/dhcp.jpg){class="glboxshadow"}
 
 
 
@@ -44,7 +44,7 @@ Static is required if your Internet Service Provider (ISP) has provided a fixed 
 
 The current settings will be automatically filled once you choose Static. Change it according to your needs and then click `Apply`.
 
-![static](https://static.gl-inet.com/docs/en/3/setup/slate/internet/static.jpg){class="glboxshadow"}
+![static](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/static.jpg){class="glboxshadow"}
 
 
 
@@ -54,7 +54,7 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
-![PPPoE](https://static.gl-inet.com/docs/en/3/setup/slate/internet/pppoe_page.jpg){class="glboxshadow"}
+![PPPoE](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/pppoe_page.jpg){class="glboxshadow"}
 
 
 
@@ -68,13 +68,13 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/slate/internet/wisp1.jpg){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/wisp1.jpg){class="glboxshadow"}
 
 
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![wifi connect](https://static.gl-inet.com/docs/en/3/setup/slate/internet/wisp2.jpg){class="glboxshadow"}
+![wifi connect](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/wisp2.jpg){class="glboxshadow"}
 
 
 
@@ -94,22 +94,22 @@ In General, you can set up your 3G/4G modem by the three basic parameters below.
 - **Service Type**: Indicate the service type of your SIM card.
 - **APN**: Confirm with your SIM card carrier.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem1.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/modem1.jpg){class="glboxshadow"}
 
 Advanced Settings:
 
 - **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it.
 - **Pincode, Username and Password:** Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem4.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/modem4.jpg){class="glboxshadow"}
 
 
 
 It is connected when the IP address of your SIM card shows up.
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem2.jpg){class="glboxshadow"}
+![modem connect](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/modem2.jpg){class="glboxshadow"}
 
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem3.jpg){class="glboxshadow"}
+![modem connected](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/modem3.jpg){class="glboxshadow"}
 
 
 
@@ -184,7 +184,7 @@ For Android phone tethering, connect it to the USB port of the router then check
 
 After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/slate/internet/tethering.jpg){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/internet/tethering.jpg){class="glboxshadow"}
 
 
 

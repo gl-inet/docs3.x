@@ -16,23 +16,23 @@ Connect the router to the modem or main router via Ethernet cable to access the 
 
 *Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/cable.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/cable.jpg){class="glboxshadow"}
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/dhcp_page.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/dhcp_page.jpg){class="glboxshadow"}
 
 ### DHCP
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
-![dhcp](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/dhcp.jpg){class="glboxshadow"}
+![dhcp](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/dhcp.jpg){class="glboxshadow"}
 
 ### Static
 
 Static is required if your Internet Service Provider (ISP) has provided a fixed IP address for you or you want to configure the network information such as IP address, Gateway, Netmask manually. Change it according to your needs and then click `Apply`.
 
-![static](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/static.jpg){class="glboxshadow"}
+![static](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/static.jpg){class="glboxshadow"}
 
 ### PPPoE
 
@@ -40,7 +40,7 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
-![PPPoE](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/pppoe_page.jpg){class="glboxshadow"}
+![PPPoE](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/pppoe_page.jpg){class="glboxshadow"}
 
 ---
 
@@ -52,11 +52,11 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp1.jpg){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp1.jpg){class="glboxshadow"}
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![connect wifi](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/wisp2.jpg){class="glboxshadow"}
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp2.jpg){class="glboxshadow"}
 
 ---
 
@@ -64,7 +64,7 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 GL-AP1300LTE has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem1.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem1.jpg){class="glboxshadow"}
 
 You can also click `Manual Setup` to set up manually.
 
@@ -74,20 +74,20 @@ In General, you can set up by the three basic parameters below. Click `Apply` to
 - **Service Type**: indicate the service of your SIM card.
 - **APN**: Confirm with your SIM card carrier.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem2.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem2.jpg){class="glboxshadow"}
 
 Advanced Settings:
 
 - **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it.
 - **Pincode, Username and Password:** Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem5.jpg){class="glboxshadow"}
+![modem](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem5.jpg){class="glboxshadow"}
 
 It is connected when the IP address of your SIM card shows up.
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem3.jpg){class="glboxshadow"}
+![modem connect](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem3.jpg){class="glboxshadow"}
 
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem4.jpg){class="glboxshadow"}
+![modem connected](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem4.jpg){class="glboxshadow"}
 
 ### Compatible Modems
 
@@ -121,10 +121,10 @@ You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsand
 
 The built-in modem supports AT command for the management and configuration of the modem. In 3G/4G Modem section, Click `AT Command`.
 
-![at command](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/modem2.jpg){class="glboxshadow"}
+![at command](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem2.jpg){class="glboxshadow"}
 
 - **Shortcut:** There are several pre-configured AT commands that you can use directly. If you want to run your own AT command, choose **Manual command**.
 - **AT Command:** The place where you can input AT command. For the list of AT command, please refer to the AT command manual of the built-in modem.
 - **Port:** The default port for AT command is **/dev/ttyUSB2**.
 
-![AT command](https://static.gl-inet.com/docs/en/3/setup/spitz/internet/at_command.jpg){class="glboxshadow"}
+![AT command](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/at_command.jpg){class="glboxshadow"}

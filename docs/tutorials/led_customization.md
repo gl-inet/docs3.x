@@ -6,7 +6,7 @@
 
 ![](https://static.gl-inet.com/docs/en/3/troubleshooting/ledadvanced.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/setup/slate/more_settings/advanced.jpg){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/more_settings/advanced.jpg){class="glboxshadow"}
 
 Then please choose **System** > **LED Configuration**.
 

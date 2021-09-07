@@ -8,7 +8,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/slate/applications/plug-ins.png){class="glboxshadow"}
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/plug-ins.png){class="glboxshadow"}
 
 
 
@@ -24,7 +24,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 **Writable**: The contents of the external storage device can be edited.
 
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/slate/applications/file_sharing.png){class="glboxshadow"}
+![File sharing](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/file_sharing.png){class="glboxshadow"}
 
 
 
@@ -42,7 +42,7 @@ You can remotely access your router with a url though this function. Example: my
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/slate/applications/ddns.png){class="glboxshadow"}
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/ddns.png){class="glboxshadow"}
 
 
 For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
@@ -57,7 +57,7 @@ In our website, you can remotely check your router status, change the password, 
 
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
+![Cloud](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/cloud.png){class="glboxshadow"}
 
 
 For the details, please refer to [Cloud](../../../tutorials/cloud/).
@@ -70,7 +70,7 @@ You can set a **captive portal** in our routers, when newly users connect to wif
 
 Only supported in version 3.022 or above.
 
-![Portal](https://static.gl-inet.com/docs/en/3/setup/slate/applications/portal.png){class="glboxshadow"}
+![Portal](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/portal.png){class="glboxshadow"}
 
 
 For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).

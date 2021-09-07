@@ -27,7 +27,7 @@ You can find the current firmware version here. If your router is connected to t
 
 Click `Local Upgrade` to upload a firmware file to the router. Simply drag and drop your firmware file to the area indicated.
 
-![firmware](https://static.gl-inet.com/docs/en/3/setup/spitz/upgrade/firmware2.jpg){class="glboxshadow"}
+![firmware](https://static.gl-inet.com/docs/en/3/setup/gl-x750/upgrade/firmware2.jpg){class="glboxshadow"}
 
 
 

@@ -9,7 +9,7 @@ Please refer to the links below for the detailed setup instruction:
 - [**Setup WireGuard Client**](../../../tutorials/wireguard_client/)
 - [**Setup WireGuard Server**](../../../tutorials/wireguard_server/)
 
-![client](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/client.png){class="glboxshadow"}
+![client](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/vpn/client.png){class="glboxshadow"}
 
 ---
 
@@ -31,4 +31,4 @@ Please refer to the links below for the detailed setup instruction:
 
 - [**VPN Policies**](../../../tutorials/vpn_policies/)
 
-![policies](https://static.gl-inet.com/docs/en/3/setup/slate/vpn/policies.png){class="glboxshadow"}
+![policies](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/vpn/policies.png){class="glboxshadow"}

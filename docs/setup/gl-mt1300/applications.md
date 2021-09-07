@@ -45,7 +45,7 @@ In our website, you can remotely check your router status, change the password, 
 
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/slate/applications/cloud.png){class="glboxshadow"}
+![Cloud](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/cloud.png){class="glboxshadow"}
 
 
 For the details, please refer to [Cloud](../../../tutorials/cloud/).
