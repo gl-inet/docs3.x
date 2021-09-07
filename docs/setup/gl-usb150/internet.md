@@ -6,16 +6,16 @@ Microuter can be used as a Wi-Fi repeater by connecting to another existing wire
 
 Click `INTERNET` to create an Internet connection.
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/microuter/internet/internet.jpg){class="glboxshadow"}
+![internet](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/internet/internet.jpg){class="glboxshadow"}
 
   
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/microuter/internet/wisp1.jpg){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/internet/wisp1.jpg){class="glboxshadow"}
 
 
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![wifi connect](https://static.gl-inet.com/docs/en/3/setup/microuter/internet/wisp2.jpg){class="glboxshadow"}
+![wifi connect](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/internet/wisp2.jpg){class="glboxshadow"}
