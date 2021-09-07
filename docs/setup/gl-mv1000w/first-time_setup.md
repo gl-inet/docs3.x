@@ -19,7 +19,7 @@ Plug the USB Type-C power cable into the power port of the router. Make sure you
 
 You can connect to the router via Ethernet cable, Wi-Fi or USB type-C cable.
 
-*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
+*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
 
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
