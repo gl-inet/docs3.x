@@ -2,7 +2,7 @@
 
 In `FIREWALL`, you can set up firewall rules like **port forwarding**, **open port** and **DMZ**.
 
-![Firewall](https://static.gl-inet.com/docs/en/3/setup/brume/firewall/firewall.png){class="glboxshadow"}
+![Firewall](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/firewall/firewall.png){class="glboxshadow"}
 
 
 

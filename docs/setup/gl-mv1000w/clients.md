@@ -4,13 +4,13 @@ You can manage all connected devices in `CLIENTS`.
 
 You can see their name, IP, MAC address and connection type.
 
-![clients](https://static.gl-inet.com/docs/en/3/setup/brume/clients/1.png){class="glboxshadow"}
+![clients](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/clients/1.png){class="glboxshadow"}
 
 After you turn on Enable real-time speed and traffic statistics. 
 
 You can see all devices' traffic and speed information, click the button on the right to block any unwanted clients.
 
-![](https://static.gl-inet.com/docs/en/3/setup/brume/clients/client1.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/clients/client1.png){class="glboxshadow"}
 
 
 You can set tech QoS for certain clients by click **Set**, 

@@ -2,7 +2,7 @@
 
 Model: GL-MV1000W
 
-![router](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/SETUP_NEW1.png){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/SETUP_NEW1.png){class="glboxshadow"}
 
 ---
 
@@ -41,36 +41,36 @@ Connect your computer to the power port of the router via USB Type-C cable. Keep
 ![connect usb type-c cable](https://static.gl-inet.com/docs/en/3/setup/slate/first-time_setup/power1.jpg){class="glboxshadow"}
 
 Certain Windows systems don't recognize the Brume-W as a network device or fail to find the correct driver.
-Use this driver for such cases: <a href="https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/mod-duo-rndis.zip" target="_blank">mod-duo-rndis.zip</a>
+Use this driver for such cases: <a href="https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/mod-duo-rndis.zip" target="_blank">mod-duo-rndis.zip</a>
 
 Below follows a tutorial on how to install it.
 If your system reports the driver as missing, make windows look for drivers and skip to step 4).
 
 1. Press the windows key and 'R' at the same time to get the 'Run' dialog. Type "devmgmt.msc" and press enter. (This will open the Device Manager)
-![Connection-win-1](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-1.png){class="glboxshadow"}
+![Connection-win-1](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-1.png){class="glboxshadow"}
 
 2. Find the MOD Duo device. It either appears as 'Duo Ethernet' under 'Unknown devices' or as a USB Serial device.
 If you have 'Duo Ethernet' as unknown device, select it.
 If not, expand the 'Ports (COM & LPT)' category and select 'USB Serial Device'.
-![Connection-win-2](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-2.png){class="glboxshadow"}
+![Connection-win-2](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-2.png){class="glboxshadow"}
 
 3. Right click on the selected item and select 'Update Driver Software...'.
-![Connection-win-3](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-3.png){class="glboxshadow"}
+![Connection-win-3](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-3.png){class="glboxshadow"}
 
 4. Select 'Browse my computer for driver software'
-![Connection-win-4](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-4.png){class="glboxshadow"}
+![Connection-win-4](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-4.png){class="glboxshadow"}
 
 5. Click the 'Browse' button and select the folder where you extracted the contents of the mod-duo-rndis.zip file, then click 'Next'.
-![Connection-win-5](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-5.png){class="glboxshadow"}
+![Connection-win-5](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-5.png){class="glboxshadow"}
 
 6. Wait for Windows to finish installing the driver.
-![Connection-win-6](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-6.png){class="glboxshadow"}
+![Connection-win-6](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-6.png){class="glboxshadow"}
 
 7. That's it! The driver is installed. :)
-![Connection-win-7](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-7.png){class="glboxshadow"}
+![Connection-win-7](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-7.png){class="glboxshadow"}
 
 8. If everything is working correctly, the Duo will appear as 'USB Ethernet/RNDIS Gadget' under 'Network adapters'
-![Connection-win-8](https://static.gl-inet.com/docs/en/3/setup/brume/first-time_setup/Connection-win-8.png){class="glboxshadow"}
+![Connection-win-8](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first-time_setup/Connection-win-8.png){class="glboxshadow"}
 
 ## 3. Access the web Admin Panel
 

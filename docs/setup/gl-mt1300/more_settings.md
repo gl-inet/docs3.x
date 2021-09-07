@@ -4,7 +4,7 @@
 
 Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/admin_password.png){class="glboxshadow"}
+![admin password](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/more_settings/admin_password.png){class="glboxshadow"}
 
 ---
 
@@ -12,7 +12,7 @@ Change the password of the web Admin Panel, which must be at least 5 characters 
 
 LAN IP is the IP address that you use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/lan_ip.png){class="glboxshadow"}
+![lan ip](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/more_settings/lan_ip.png){class="glboxshadow"}
 
 ---
 
@@ -20,7 +20,7 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/time_zone.png){class="glboxshadow"}
+![time zone](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/more_settings/time_zone.png){class="glboxshadow"}
 
 ---
 
@@ -95,7 +95,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/custom_dns.png){class="glboxshadow"}
+![custom dns server](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/more_settings/custom_dns.png){class="glboxshadow"}
 
 ---
 
@@ -125,7 +125,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 Revert the router to factory default settings. All your settings, applications and data will be erased.
 
-![revert firmware](https://static.gl-inet.com/docs/en/3/setup/brume/more_settings/revert_firmware.png){class="glboxshadow"}
+![revert firmware](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/more_settings/revert_firmware.png){class="glboxshadow"}
 
 ---
 

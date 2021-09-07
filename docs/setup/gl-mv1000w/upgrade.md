@@ -2,7 +2,7 @@
 
 Click `UPGRADE` to check any available update and upgrade the firmware.
 
-![upgrade](https://static.gl-inet.com/docs/en/3/setup/brume/upgrade/upgrade.png){class="glboxshadow"}
+![upgrade](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/upgrade/upgrade.png){class="glboxshadow"}
 
 
 

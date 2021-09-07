@@ -8,7 +8,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/brume/applications/plug-ins.png){class="glboxshadow"}
+![Plug ins](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/applications/plug-ins.png){class="glboxshadow"}
 
 
 
@@ -23,7 +23,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 **Writable**: The contents of the external storage device can be edited.
 
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/brume/applications/file_sharing.png){class="glboxshadow"}
+![File sharing](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/applications/file_sharing.png){class="glboxshadow"}
 
 
 
@@ -41,7 +41,7 @@ You can remotely access your router with a url though this function. Example: my
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/brume/applications/ddns.png){class="glboxshadow"}
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/applications/ddns.png){class="glboxshadow"}
 
 
 For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
