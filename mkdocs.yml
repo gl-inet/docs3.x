@@ -155,6 +155,16 @@ nav:
       - VPN: setup/gl-mt1300/vpn.md
       - Applications: setup/gl-mt1300/applications.md
       - More Settings: setup/gl-mt1300/more_settings.md
+    - GL-AX1800 (Flint):
+      - First-time Setup: setup/gl-ax1800/first-time_setup.md
+      - Internet: setup/gl-ax1800/internet.md
+      - Wireless: setup/gl-ax1800/wireless.md
+      - Clients: setup/gl-ax1800/clients.md
+      - Upgrade: setup/gl-ax1800/upgrade.md
+      - Firewall: setup/gl-ax1800/firewall.md
+      - VPN: setup/gl-ax1800/vpn.md
+      - Applications: setup/gl-ax1800/applications.md
+      - More Settings: setup/gl-ax1800/more_settings.md
     - GL-MiFi:
       - First-time Setup: setup/gl-mifi/first-time_setup.md
       - Internet: setup/gl-mifi/internet.md
