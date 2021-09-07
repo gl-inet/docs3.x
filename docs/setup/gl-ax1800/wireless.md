@@ -6,7 +6,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 **Wi-Fi Security**: The security protocols that utilize encryption.
 
-**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
+**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters. We suggest you to change it when you receive the router.
 
 **SSID Visibility**: Whether the SSID is scannable by default. If your set the SSID is hiden, you can connect by specifying the SSID and password.
 

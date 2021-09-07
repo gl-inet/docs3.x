@@ -49,7 +49,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 ### Admin Password Setting
 
-There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
+There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
 ![set up admin password for gl-ax1800](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/set_up_admin_password_ax1800.png){class="glboxshadow"}
 

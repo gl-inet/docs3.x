@@ -11,7 +11,7 @@ Click ‘Wireless’ and enter into 2.4G/5G Wi-Fi management interface in defaul
 
 **Wireless Security**: Wireless encryption method.
 
-**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
+**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters. We suggest you to change it when you receive the router.
 
 **SSID visibility**: Whether to hide the SSID or not.
 

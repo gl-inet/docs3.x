@@ -2,7 +2,7 @@
 
 ## Admin Password
 
-Change the password of the web Admin Panel, which must be at least 5 characters long. You have to input your current password in order to change it.
+Change the password of the web Admin Panel, which must be at least 5 characters. You have to input your current password in order to change it.
 
 ![admin password](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/more_settings/admin_password.png){class="glboxshadow"}
 

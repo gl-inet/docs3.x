@@ -52,7 +52,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
   
 
 ### 2) Admin Password Setting
-There is no default password for this Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
+There is no default password for this Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
 ![password](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first-time_setup/password.png){class="glboxshadow"}
 
