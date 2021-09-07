@@ -44,7 +44,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 Configure the function of the mode switch. It doesn't have any function by default. You can set it as a toggle to turn on or off WireGuard/OpenVPN client or Power saving mode.
 
-![button settings](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/button_setting.png){class="glboxshadow"}
+![button settings](https://static.gl-inet.com/docs/en/3/setup/gl-e750/more_settings/button_setting.png){class="glboxshadow"}
 
 ---
 
@@ -66,7 +66,7 @@ Configure the contents displayed on OLED including **main screen**, **WiFi infom
 
 **Show customized**：The content of the user customized screen.
 
-![MCU settings](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/MCUsetting.jpg){class="glboxshadow"}
+![MCU settings](https://static.gl-inet.com/docs/en/3/setup/gl-e750/more_settings/MCUsetting.jpg){class="glboxshadow"}
 
 ---
 ## Network Mode
@@ -95,12 +95,12 @@ Revert the router to factory default settings. All your settings, applications a
 
 If you can not find Advanced menu item, please follow the steps to install it.
 
-![how to instlal luci](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/how_to_install_luci.png){class="glboxshadow"}
+![how to instlal luci](https://static.gl-inet.com/docs/en/3/setup/gl-e750/more_settings/how_to_install_luci.png){class="glboxshadow"}
 
 After it install successfully, you will find the Advanced menu item.
 
 Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/luci.png){class="glboxshadow"}
+![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-e750/more_settings/luci.png){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

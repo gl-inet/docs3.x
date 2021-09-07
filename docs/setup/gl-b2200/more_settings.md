@@ -77,7 +77,7 @@ Revert the router to factory default settings. All your settings, applications a
 
 If you can not find Advanced menu item, please follow the steps to install it.
 
-![how to instlal luci](https://static.gl-inet.com/docs/en/3/setup/mudi/more_settings/how_to_install_luci.png){class="glboxshadow"}
+![how to instlal luci](https://static.gl-inet.com/docs/en/3/setup/gl-e750/more_settings/how_to_install_luci.png){class="glboxshadow"}
 
 After it install successfully, you will find the Advanced menu item.
 
