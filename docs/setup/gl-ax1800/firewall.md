@@ -24,6 +24,15 @@ To set up port forwarding, click `Port Forwards`and input the required parameter
 
 **Internal IP:** The IP address assigned by the router to the device which needs to be accessed remotely.
 
+**External Zone:** The options for external zone are `wan`, `guestZone`, `wireguard`.
+
+* `wan` is for you want a service can be access in the WAN zone. E.g., a web server is running on a LAN device in your home, it can only access when you at home, but you want it to be accessable outside your home, then you can set the external zone as `wan`.
+You can access it via `wan_ip`:`external_port`. Note: Access outside your home need public IP.
+
+* `guestZone` is for you want a service can be access by a device connect to the guest Wi-Fi. E.g., a web server is running on a LAN device in your home, it can only access when your device in the LAN. However, the guest LAN is isolated from the default LAN, but you want the web serve can be accessable in guest LAN, then you can set the external zone as `guestZone`. You can access it via `wan_ip`:`external_port`. 
+
+* `wireguard`, when the router is running WireGuard server, there will has the `wireguard` option. E.g., a web server is running on a LAN device in your home. When you connect in through your router's WireGuard Server configuration, by default you will not be able to access the web server on the intranet. To make it accessable, set the external zone as `wireguard`. You can access it via `wan_ip`:`external_port`.
+
 **External Ports:** The numbers of external ports. You can enter a specific port number or a range of service ports (E.g **100-300**).
 
 **Internal Ports:** The internal port number of the device. You can enter a specific port number. Leave it blank if it is same as the external port.
