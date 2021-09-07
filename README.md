@@ -20,6 +20,10 @@ Each page use markdown, please check out this basic syntax of markdown [here](ht
 
 If you wanna a link to open in new tab, add `{target="_blank}` at the end of link block.
 
+### Image file type
+
+Prefer to use png.
+
 ### Image lightbox
 
 If the size of image is too big, please use the PhotoSwipe, check out [here](#about-plugin-photoswipe).
