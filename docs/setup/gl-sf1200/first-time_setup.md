@@ -51,7 +51,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 
 ### 1) Language Setting
-You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, 한국어 and Русский. 
+You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
 ![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/welcome.jpg){class="glboxshadow"}
 
