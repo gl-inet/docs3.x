@@ -69,7 +69,7 @@ You can set a **captive portal** in our routers, when newly users connect to wif
 
 Only supported in version 3.022 or above.
 
-![Portal](https://static.gl-inet.com/docs/en/3/setup/cirrus/application/Portal.png){class="glboxshadow"}
+![Portal](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/application/Portal.png){class="glboxshadow"}
 
 
 For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).
