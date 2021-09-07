@@ -41,7 +41,7 @@ The IPv6 function allows you to enable and configure IPv6 on this router.
 _**Note: If you use functions of both VPN and IPv6 at the same time, it's likely to cause IPv6 data leakage.**_
 
 
-![ivp6](https://static.gl-inet.com/docs/en/3/setup/mt1300/IPv6.jpg){class="glboxshadow"}
+![ivp6](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/IPv6.jpg){class="glboxshadow"}
 
 **WAN**
 
@@ -55,7 +55,7 @@ Your current connection of the internet is one to one correspondence with the Ne
 |                      Tethering| Tethering              |
 
 
-![network_ineterface](https://static.gl-inet.com/docs/en/3/setup/mt1300/IPv6_NetworkInterface.jpg){class="glboxshadow"}
+![network_ineterface](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/IPv6_NetworkInterface.jpg){class="glboxshadow"}
 
 _**Address Type**_: Address type includes Automatic and Manual. It's similar to IPv4, the router can get IPv6 Address and gateway automatically. Or you can input custom IPv6 address and gateway manually. 
 
@@ -65,7 +65,7 @@ _**DNS acquisition method**_: It's similar to DNS server, the router can config 
 
 _**Mode**_: There three Modes for selection, _**Native, NAT6 and Static IPv6**_.
 
-![LAN_Mode](https://static.gl-inet.com/docs/en/3/setup/mt1300/IPv6_mode.jpg){class="glboxshadow"}
+![LAN_Mode](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/IPv6_mode.jpg){class="glboxshadow"}
 
 **Native mode**: 
 The router will assign a public IPv6 address to each device connected to this router automatically. 
@@ -139,6 +139,6 @@ After it install successfully, you will find the Advanced menu item.
 
 Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/mt1300/luci.png){class="glboxshadow"}
+![advanced](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/luci.png){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*
