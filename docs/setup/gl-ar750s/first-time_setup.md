@@ -1,6 +1,6 @@
 # Getting Started with GL.iNet Slate
 
-Model: GL-AR750S-EXT
+Model: GL-AR750S-EXT(Slate)
 
 ![router](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first-time_setup/router.jpg){class="glboxshadow"}
 
@@ -23,6 +23,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 *Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
 
 ### Connect via LAN 
+
 Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first-time_setup/connect.jpg){class="glboxshadow"}
@@ -52,7 +53,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
-![Welcome](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first-time_setup/password.jpg){class="glboxshadow"}
+![setup admin password](https://static.gl-inet.com/docs/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
