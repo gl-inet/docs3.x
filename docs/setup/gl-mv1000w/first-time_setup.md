@@ -86,7 +86,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 ### 2) Admin Password Setting
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters long. Then, click `Submit` to proceed.
 
-![Welcome](https://static.gl-inet.com/docs/en/3/setup/first-time_setup/password.jpg){class="glboxshadow"}
+![Welcome](https://static.gl-inet.com/docs/en/3/setup/share/first-time_setup/password.jpg){class="glboxshadow"}
 
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
