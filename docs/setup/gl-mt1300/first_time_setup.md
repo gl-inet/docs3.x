@@ -50,7 +50,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 ### 2) Admin Password Setting
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
-![setup admin password](https://static.gl-inet.com/docs/en/3/setup/share/setup_admin_password.png){class="glboxshadow"}
+![setup admin password](https://static.gl-inet.com/docs/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
