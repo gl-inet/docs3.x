@@ -336,6 +336,7 @@ nav:
     - DDNS: tutorials/ddns.md
     - Cloud: tutorials/cloud.md
     - NextDNS: tutorials/nextdns.md
+    - Check IP Address: tutorials/how_to_check_if_isp_assigns_me_a_public_ip_address.md
     - Mobile App: tutorials/mobile_app.md
     - SMS Forward: tutorials/sms_forward.md
     - LED Customization: tutorials/led_customization.md
