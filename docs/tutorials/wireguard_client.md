@@ -2,7 +2,7 @@
 
 WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/), [simpler](https://www.wireguard.com/quickstart/), leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
 
-GL.iNet routers have pre-installed WireGuard server and client.
+GL.iNet routers have pre-installed WireGuard Server and Client.
 
 If you are looking for a WireGuard provider, check out [this](#wireguard-providers) directly.
 

@@ -12,7 +12,7 @@ There is several reasons you need to share your smartphone's data  to your route
 
 It is very easy to share your data to GL.iNet mini router using router's control interfaces, but in some phone and carrier network, they limit sharing data directly, so you can try EasyTether.
 
-We will use Android OS and GL mini router to demonstrate the procedure.
+We will use Android OS and GL.iNet mini router to demonstrate the procedure.
 
 ---
 
@@ -40,7 +40,7 @@ We will use Android OS and GL mini router to demonstrate the procedure.
 
     ![EasyTether Driver](https://static.gl-inet.com/docs/en/3/tutorials/tether/easytether_openwrt18.06.png){class="glboxshadow"}
 
-    *Note: For MT300N-V2, please choose LEDE.*
+    *Note: For GL-MT300N-V2, please choose LEDE.*
 
     ![LEDE for MT300N-V2](https://static.gl-inet.com/docs/en/2.x/app/src/tether/14.jpg){class="glboxshadow"}
 
@@ -88,7 +88,7 @@ You will see the directory tree of the router:
 
 #### *3) Use SSH to install EasyTether driver*
 
-***i.*** Open PuTTY, enter the IP of your router and other information as the figure shown below, then click Open:
+***i.*** Open PuTTY, enter the IP of your router and other information as the figure shown below, then click `Open`:
 
 ![Putty](https://static.gl-inet.com/docs/en/2.x/app/src/tether/4.png){class="glboxshadow"}
 
