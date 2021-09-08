@@ -1,8 +1,8 @@
 # WireGuard
 
-WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/), [simpler](https://www.wireguard.com/quickstart/), leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
+WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/){target="_blank}, [simpler](https://www.wireguard.com/quickstart/){target="_blank}, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
 
-GL.iNet routers have pre-installed WireGuard server and client.
+GL.iNet routers have pre-installed WireGuard Server and Client.
 
 ---
 
@@ -10,15 +10,15 @@ GL.iNet routers have pre-installed WireGuard server and client.
 
 There is a video tutorial, please check out [here](#video-tutorial).
 
-You can set up a WireGuard server on GL.iNet router. Click `+ Create a New User`.
+You can set up a WireGuard Server on GL.iNet router. Click `+ Create a New User`.
 
-![1531199972139](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS1.png){class="glboxshadow"}
+![setup wireguard server](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/wgs1.png){class="glboxshadow"}
 
-### Start a WireGuard server
+### Start the WireGuard Server
 
 You can simply use the default parameters of **Local IP** and **Local Port**, or you can set your own value. Then click `Start` to start your own WireGuard server. 
 
-![Sever Configuration](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS2.png){class="glboxshadow"}
+![Sever Configuration](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/wgs2.png){class="glboxshadow"}
 
 Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
@@ -28,11 +28,11 @@ You have to add a new user and apply the configurations when you are connecting 
 
 Click `Management` tab and then `Create a New User`. 
 
-![Add Client](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS3.png){class="glboxshadow"}
+![Add Client](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/wgs3.png){class="glboxshadow"}
 
 Specify the **Name** of the new client and then click `Add`.
 
-![Name](https://static.gl-inet.com/docs/en/3/tutorials/wireguard/WGS4.png){class="glboxshadow"}
+![Name](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/wgs4.png){class="glboxshadow"}
 
 ### Get the configuration details for your client
 
@@ -46,9 +46,9 @@ If you are using another GL.iNet router as a client, please copy the **JSON** co
 
 ## WireGuard App Support
 
-You can also use WireGuard App on other devices with various OS
+You can also use WireGuard App on other devices with various OS.
 
-- Please refer to WireGuard Official Website： <https://www.wireguard.com/install/>
+- Please refer to WireGuard Official Website: [https://www.wireguard.com/install](https://www.wireguard.com/install){target="_blank}
 
 ## Visit Client’s LAN Subnet
 
