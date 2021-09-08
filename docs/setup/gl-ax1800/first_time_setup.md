@@ -12,28 +12,19 @@ Plug the power cable into the power port of the router. Make sure you are using 
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/power_on_ax1800.png){class="glboxshadow"}
 
-*Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
-
 ## 2. Connect
 
-You can connect to the router via Ethernet cable or Wi-Fi.
+You can connect to the router via Ethernet cable.
 
 *Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
+
+Or you can initialize via mobile app, please access [this](https://www.gl-inet.com/app/){target="_blank} to get the app.
 
 ### Connect via LAN
 
 Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via LAN](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/connect_to_lan_port_ax1800.png){class="glboxshadow"}
-
-### Connect via Wi-Fi
-
-Search for the SSID of the router in your device and input the default password: ***goodlife***.
-
-*Note: The SSID was printed on the bottom label of the router with the following formats:*
-
-- **GL-AX1800-XXX**
-- **GL-AX1800-XXX-5G**
 
 ## 3. Access the web Admin Panel
 
