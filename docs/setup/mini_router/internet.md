@@ -6,7 +6,7 @@ There are total 4 types of connection method that you can use to access the Inte
 
 Click `INTERNET` to create an Internet connection.
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet.jpg){class="glboxshadow"}
+![internet page](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet_page_mt300n-v2.png){class="glboxshadow"}
 
 ---
 
