@@ -67,4 +67,4 @@ There is no default password for this Admin Panel. You have to set your own pass
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/main_ui.jpg){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/admin_panel_mt300n-v2.png){class="glboxshadow"}
