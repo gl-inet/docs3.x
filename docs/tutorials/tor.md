@@ -61,7 +61,7 @@ If you have questions about versions, please ask here or in the forum.
 All the firmwares is available at [https://dl.gl-inet.com/firmware/](https://dl.gl-inet.com/firmware/)
 Find your device name and then "tor" folder. Download the newest firmware.
 
-You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/) for instructions to flash the firmware to the router. 
+You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/first_time_setup/) for instructions to flash the firmware to the router. 
 
 | Model       | Tor firmware path                        | Newest Version | Note                                     |
 | ----------- | ---------------------------------------- | -------------- | ---------------------------------------- |

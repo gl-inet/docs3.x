@@ -8,7 +8,7 @@ You need at least two of mesh supported routers to establish mesh network.
 
 1) Power on Main Node
 
-Select one B1300/S1300 as the main node for the [Initial Setup](../first-time_setup/), then make [Cable Connection](../internet/#1-cable) between WAN port of Main Node and LAN port of upstream router/modem.
+Select one B1300/S1300 as the main node for the [Initial Setup](../first_time_setup/), then make [Cable Connection](../internet/#1-cable) between WAN port of Main Node and LAN port of upstream router/modem.
 
 2) Power on Sub Nodes
 

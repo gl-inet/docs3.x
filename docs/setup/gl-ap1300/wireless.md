@@ -5,7 +5,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 Click ‘Wireless’ and enter into 2.4G/5G Wi-Fi management interface in default as follows:
 
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/Wireless/Wireless1.png){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/Wireless1.png){class="glboxshadow"}
 
 **Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
 
@@ -29,7 +29,7 @@ Click ‘Wireless’ and enter into 2.4G/5G Wi-Fi management interface in defaul
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/Wireless/wireless2.png){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wireless2.png){class="glboxshadow"}
 
 
 ## 2.4G & 5G Guest WiFi
@@ -37,6 +37,6 @@ Click `Modify` to change the settings of the wireless network.
 Guest WiFi is turned off in default. Modification of wireless network name, wireless network security, and wireless
 network password is supportable.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/Wireless/wireless3.png){class="glboxshadow"}
+![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wireless3.png){class="glboxshadow"}
 
 

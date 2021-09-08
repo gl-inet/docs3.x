@@ -6,7 +6,7 @@ There are total 4 types of connection method that you can use to access the Inte
 
 Click `INTERNET` to create an Internet connection.
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/first-time_setup/main_ui.jpg){class="glboxshadow"}
+![internet](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/first_time_setup/main_ui.jpg){class="glboxshadow"}
 
 
   

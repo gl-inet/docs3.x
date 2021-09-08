@@ -21,9 +21,9 @@ When you insert the dongle, you will see the dongle under "Wireless" and then yo
 
 MV1000:
 
-![MV1000](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/Wireless/Wireless6.png){class="glboxshadow"}
+![MV1000](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/wireless/Wireless6.png){class="glboxshadow"}
 
 
 Click `Modify` to change the settings of the wireless network.
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/Wireless/Wireless4.png){class="glboxshadow"}
+![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/wireless/Wireless4.png){class="glboxshadow"}
 

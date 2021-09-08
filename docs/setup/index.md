@@ -5,22 +5,22 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="mini_router/first-time_setup/">
+      <a href="mini_router/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="microuter-n300/first-time_setup/">
+      <a href="microuter-n300/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="gl-usb150/first-time_setup/">
+      <a href="gl-usb150/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
       </a>
   	</div>
     <div class="gl-product-card">
-      <a href="vixmini/first-time_setup/">
+      <a href="vixmini/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
       </a>
   	</div>
@@ -32,22 +32,22 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="gl-ar750/first-time_setup/">
+      <a href="gl-ar750/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="gl-ar750s/first-time_setup/">
+      <a href="gl-ar750s/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="gl-mt1300/first-time_setup/">
+      <a href="gl-mt1300/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="gl-e750/first-time_setup/">
+      <a href="gl-e750/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
   	  </a>
   	</div>
@@ -59,7 +59,7 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="gl-ap1300/first-time_setup/">
+      <a href="gl-ap1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
@@ -69,7 +69,7 @@
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="gl-x750/first-time_setup/">
+      <a href="gl-x750/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
@@ -79,12 +79,12 @@
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="gl-xe300/first-time_setup/">
+      <a href="gl-xe300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="gl-mifi/first-time_setup/">
+      <a href="gl-mifi/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
       </a>
     </div>
@@ -96,17 +96,17 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="gl-s1300/first-time_setup/">
+      <a href="gl-s1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="gl-x750/first-time_setup/">
+      <a href="gl-x750/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="gl-xe300/first-time_setup/">
+      <a href="gl-xe300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
@@ -118,17 +118,17 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="gl-b2200/first-time_setup/">
+      <a href="gl-b2200/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="gl-b1300/first-time_setup/">
+      <a href="gl-b1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="gl-sf1200/first-time_setup/">
+      <a href="gl-sf1200/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
   	  </a>
   	</div>
@@ -140,7 +140,7 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="gl-ap1300/first-time_setup/">
+      <a href="gl-ap1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
@@ -162,12 +162,12 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="gl-mv1000/first-time_setup/">
+      <a href="gl-mv1000/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
-      <a href="gl-mv1000w/first-time_setup/">
+      <a href="gl-mv1000w/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
