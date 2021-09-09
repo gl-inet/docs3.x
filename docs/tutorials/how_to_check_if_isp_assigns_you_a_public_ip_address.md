@@ -1,4 +1,4 @@
-# How to chekc if ISP assigns me a public IP address?
+# How to chekc if ISP assigns you a public IP address?
 
 ## What is Public IP address?
 
