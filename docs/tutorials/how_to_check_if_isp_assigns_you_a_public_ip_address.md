@@ -8,7 +8,7 @@ A public IP address is an IP address that is used to access the Internet. Public
 
 The presence of a public IP address on your router will allow you to organize your own server (VPN, FTP, WEB, etc.), remote access to your computer, video surveillance cameras, and get access to them from anywhere on the global network.
 
-## How to know that my broadband has a public IP address?
+## How to check if Internet Service Provider assigns you a public IP address?
 
 ### Method 1:
 
