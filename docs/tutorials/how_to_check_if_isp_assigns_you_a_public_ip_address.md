@@ -12,7 +12,7 @@ The presence of a public IP address on your router will allow you to organize yo
 
 ### Method 1:
 
-Ask your ISP directly.
+Ask your Internet Service Provider directly.
 
 ### Method 2:
 
