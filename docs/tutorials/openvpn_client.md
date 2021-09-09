@@ -1,18 +1,24 @@
-# OpenVPN
+# Setup OpenVPN Client
 
 OpenVPN is an open-source VPN protocol that makes use of virtual private network (VPN) techniques to establish safe site-to-site or point-to-point connections. 
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
+We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Client, please check out [here](../wireguard_client).
+
+If you have already bought OpenVPN service from a provider, but you don't know how to get the configuration file, please refer to [Get your configuration file](#get-your-configuration-file).
+
+We can setup OpenVPN Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated NordVPN.
+
 ## Setup OpenVPN Client
 
 There is a video tutorial as ExpressVPN as example, please check out [here](#video-tutorial).
 
-OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](#get-your-configuration-file).
+OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection.
 
-Click `+ Add a New VPN Configuration` to upload the configuration file.
+Access to web Admin Panel, on the left side -> VPN -> OpenVPN Client
 
-![client](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/client.jpg){class="glboxshadow"}
+![add a new openvpn configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/add_a_new_openvpn_configuration.png){class="glboxshadow"}
 
 ### Upload your OpenVPN configuration file
 
@@ -20,35 +26,39 @@ Simply drag and drop your file to the pop up windows. It can be a single .ovpn f
 
 Be careful that some .ovpn files use separated ca, cert, crl files. These files must be zipped together with the .ovpn file before upload.
 
-![Upload](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/upload.jpg){class="glboxshadow"}
+![Upload openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/upload_openvpn_config.png){class="glboxshadow"}
 
 You may encouter some problems, like not enough space, invalid file, authorization failed, all other VPN services must be stopped first, please check out [here](#video-tutorial).
 
 ### Enter Description, Username and Password
 
-Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter your username and password.
+Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter the username and password. If you don't know the username and password, please contact the OpenVPN service provider.
 
-![add](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/add.jpg){class="glboxshadow"}
+![uploaded openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/uploaded_openvpn_config.png){class="glboxshadow"}
 
 ### Connect to the OpenVPN server
 
 You can now click `Connect` to start the OpenVPN connection.
 
-![connect](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/connect.jpg){class="glboxshadow"}
+![has imported openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/imported_oepnvpn_config.png){class="glboxshadow"}
+
+If your configureation file is an archive file, like .zip, you can switch server at the cog icon.
+
+![switch server zip config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/switch_server_zip_config.png){class="glboxshadow"}
 
 Once connected, you should find your IP address, data received/sent.
 
-![connected](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/connected.jpg){class="glboxshadow"}
+![connected openvpn](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/connected_openvpn_config.png){class="glboxshadow"}
 
-Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
+**Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.**
 
 ### Manage configuration files
 
-Click `Management` to check the list of configuration files. You can modify the **Description**, **User name** or **Password** of each configuration file. You can also add, delete a configuration file or even purge all your uploaded configuration files.
+Click `Management` to check the list of configuration files. You can modify the **Description**, **User name** and **Password** of each configuration file. You can also add, delete a configuration file or even purge all your uploaded configuration files.
 
 If your configuration file is a zip/tar.gz file which includes multiple ovpn files, you can choose an individual .ovpn file that you would like to connect in **Server**.
 
-![management](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/management.jpg){class="glboxshadow"}
+![edit openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/edit_openvpn_config.png){class="glboxshadow"}
 
 ## Get your configuration file
 
