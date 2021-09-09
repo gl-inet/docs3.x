@@ -1,34 +1,77 @@
-# OpenVPN
+# Setup OpenVPN Server on GL.iNet router
 
 OpenVPN is an open-source VPN protocol that makes use of virtual private network (VPN) techniques to establish safe site-to-site or point-to-point connections. 
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
+We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Server, please check out [here](../wireguard_server).
+
+---
+
+## Make sure Internet Service Provider assigns you a public IP address
+
+Please check if you Internet Service Provider assigns you a public IP address [here](../how_to_check_if_isp_assigns_you_a_public_ip_address).
+
+**If no, you can't connect to the WireGaurd Server.**
+
+A alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}.
+
+## Network Topology
+
+* If GL.iNet router is the main router in your network, this is simple, please move to the next step.
+* If you already have a main router, then the GL.iNet router is under the main router, you may need to setup a port forward on the main router.
+* If you already have a main router, the GL.iNet router is several levels below it and you need to set up port forward on each level.
+
+## Initialize OpenVPN Server
+
+Access to web Admin Panel, on the left side -> VPN -> OpenVPN Server. Click `Generate a Configuration File`.
+
+![initialize openvpn server](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/initialize_openvpn_server.png){class="glboxshadow"}
+
 ## Setup OpenVPN Server
-
-You can set up an OpenVPN server on GL.iNet router. Click `+ Generate a configuration file`.
-
-![server](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/server.jpg){class="glboxshadow"}
-
 
 ### Server configuration
 
 There are preset OpenVPN server configurations. You can also click `Modify` to change them manually. Click `Apply` when you finish.
 
-![server configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/server_settings.jpg){class="glboxshadow"}
+![openvpn server configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_settings.png){class="glboxshadow"}
 
-Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
+**Allow Access Local Network:** Enable this will allow every client that connect to this OpenVPN Server be able to access your LAN. Please use with caution.
+
+**Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.**
 
 ### Export OpenVPN configuration file
 
-Click `Export Config` to download the OpenVPN configuration file which you need to upload when you are configuring your OpenVPN client.
+Click `Export Config` on the bottom right to download the OpenVPN configuration file.
 
-![server export](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/server_export.jpg){class="glboxshadow"}
+![openvpn server export configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_export_config.png){class="glboxshadow"}
 
 ### Start the OpenVPN server
 
 Click `Start` to start your OpenVPN server. Otherwise, you will not be able to connect to the OpenVPN server by using its configuration file.
 
-![start server](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/server_settings.jpg){class="glboxshadow"}
+![openvpn server configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_settings.png){class="glboxshadow"}
 
-![started](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/server_connected.jpg){class="glboxshadow"}
+It started.
+
+![started](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_started.png){class="glboxshadow"}
+
+### To check if OpenVPN Server is working properly
+
+To check if OpenVPN Server is working properly, we can use another device connected to another network and use the OpenVPN configuration we exported earlier to connect and see whether it connects properly and whether the IP address is the IP of OpenVPN Server.
+
+The simpliest way is to use a phone with [OpenVPN official client app](https://openvpn.net/vpn-client/){target="_blank"} installed, turn off its Wi-Fi connection, and only connect to Internet via 3G/4G/5G. Then open the OpenVPN app, import the OpenVPN configuration we previously exported . Enable the connection, check if the phone has Internet access and whether its IP address is the IP of OpenVPN Server.
+
+There are several common reasons cause failed:
+
+* The Internet Service Provider doesn't assign you a public IP address, please check [here](#make-sure-internet-service-provider-assigns-you-a-public-ip-address).
+* You may need setup port forward, please check [here](#network-topology).
+* The port you are using for OpenVPN Server is blocked by the Internet Service Provider, change to another port, or contact the Internet Service Provider.
+* Some countries/resions may block the VPN connection.
+
+## OpenVPN Client App
+
+We can use another GL.iNet router as OpenVPN Client, or use their official app on other devices with various OS.
+
+- Please refer to OpenVPN Official Website: [https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/){target="_blank}
+

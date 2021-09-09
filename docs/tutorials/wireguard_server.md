@@ -12,7 +12,7 @@ Please check if you Internet Service Provider assigns you a public IP address [h
 
 **If no, you can't connect to the WireGaurd Server.**
 
-A alternative method is to use a reverse proxy solution, we suggest [Astrorelay](https://www.astrorelay.com/){target="_blank"}.
+A alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}.
 
 ## Network Topology
 
@@ -60,7 +60,7 @@ You can now check the list of the clients you added. You can `Delete` any unwant
 
 To check if WireGaurd Server is working properly, we can use another device connected to another network and use the WireGuard configuration we exported earlier to connect and see whether it connects properly and whether the IP address is the IP of WireGuard Server.
 
-The simpliest way is to use a phone with [WireGuard official app](https://www.wireguard.com/install){target="_blank"} installed, turn off its Wi-Fi connection, and only connect to Internet via 3G/4G/5G. Then open the WireGaurd app, import the WireGaurd configuration from QR code. Enable the connection, check if the phone has Internet access and whether its IP address is the IP of WireGuard Server.
+The simpliest way is to use a phone with [WireGuard official client app](https://www.wireguard.com/install){target="_blank"} installed, turn off its Wi-Fi connection, and only connect to Internet via 3G/4G/5G. Then open the WireGaurd app, import the WireGaurd configuration from QR code. Enable the connection, check if the phone has Internet access and whether its IP address is the IP of WireGuard Server.
 
 There are several common reasons cause failed:
 
@@ -69,9 +69,9 @@ There are several common reasons cause failed:
 * The port you are using for WireGuard Server is blocked by the Internet Service Provider, change to another port, or contact the Internet Service Provider.
 * Some countries/resions may block the VPN connection.
 
-## WireGuard App Support
+## WireGuard Client App
 
-You can also use WireGuard App on other devices with various OS.
+We can use another GL.iNet router as WireGuard Client, or use their official app on other devices with various OS.
 
 - Please refer to WireGuard Official Website: [https://www.wireguard.com/install](https://www.wireguard.com/install){target="_blank}
 
