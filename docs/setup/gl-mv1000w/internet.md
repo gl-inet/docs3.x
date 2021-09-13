@@ -4,13 +4,9 @@ There are total 4 types of connection method that you can use to access the Inte
 
 ![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/internet/internet.png){class="glboxshadow"}
 
-
-
 Click `INTERNET` to create an Internet connection.
 
 ![internet](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first_time_setup/main_ui.jpg){class="glboxshadow"}
-
-
 
 ---
 
@@ -20,21 +16,17 @@ Connect the router to the modem or main router via Ethernet cable to access the 
 
 Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. As a result, you can have one more LAN port.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/cable.jpg){class="glboxshadow"}
-
+![cable](https://static.gl-inet.com/docs/en/3/setup/share/internet/cable_section_of_internet.png){class="glboxshadow"}
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/dhcp_page.jpg){class="glboxshadow"}
-
 
 ### DHCP
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
 ![dhcp](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/dhcp.jpg){class="glboxshadow"}
-
-
 
 ### Static
 
@@ -44,8 +36,6 @@ The current settings will be automatically filled once you choose Static. Change
 
 ![static](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/static.jpg){class="glboxshadow"}
 
-
-
 ### PPPoE
 
 PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP will give you a modem and provide you a username & password that you needed when you are creating the Internet connection.
@@ -53,8 +43,6 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ![PPPoE](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/pppoe_page.jpg){class="glboxshadow"}
-
-
 
 ---
 
@@ -67,8 +55,6 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
 ![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp1.jpg){class="glboxshadow"}
-
-
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
@@ -85,8 +71,6 @@ Be aware that some modems work in host-less mode, which will be configured throu
 Click `Auto Setup` to create the connection.
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem1.jpg){class="glboxshadow"}
-
-
 
 You can also click `Manual Setup` to set up manually.
 
@@ -105,15 +89,11 @@ More:
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem5.jpg){class="glboxshadow"}
 
-
-
 It is connected when the IP address of your SIM card shows up.
 
 ![modem connect](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem2.jpg){class="glboxshadow"}
 
 ![modem connected](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/modem3.jpg){class="glboxshadow"}
-
-
 
 ### Compatible Modems
 
@@ -143,7 +123,6 @@ Here is a list of supported modems that we had tested before.
 
 You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html){target="_blank} for a well supported modem list.
 
-
 ---
 
 ## 4 Tethering
@@ -157,7 +136,6 @@ For iPhone tethering, connect it to the USB port of the router and go to Setting
 Step1: Switch on Personal Hotspot.
 
 ![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering2.png){class="glboxshadow"}
-
 
 Step2: Click "Trust" to this computer.
 
@@ -186,8 +164,6 @@ For Android phone tethering, connect it to the USB port of the router then check
 After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 
 ![tethering](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/tethering.jpg){class="glboxshadow"}
-
-
 
 ### EasyTether
 

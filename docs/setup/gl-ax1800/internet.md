@@ -16,7 +16,7 @@ Connect the router to the modem or main router via Ethernet cable to access the 
 
 *Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
-![cable section of internet](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/internet/cable_section_of_internet.png){class="glboxshadow"}
+![cable section of internet](https://static.gl-inet.com/docs/en/3/setup/share/internet/cable_section_of_internet.png){class="glboxshadow"}
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
