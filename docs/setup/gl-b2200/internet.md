@@ -16,7 +16,7 @@ Click `INTERNET` to create an Internet connection.
 
 ![internet](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/internet/B2200_internet_1.png){class="glboxshadow"}
 
-## 1 Cable
+## 1. Cable
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
@@ -52,7 +52,7 @@ Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ---
 
-## 2 Repeater
+## 2. Repeater
 
 Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
 
