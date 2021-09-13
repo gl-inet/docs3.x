@@ -20,7 +20,7 @@ Connect the router to the docking and then connect to the modem or main router v
 
 Plug the Ethernet cable into the ethernet port of the docking station which is connected to the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/dhcp_page.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_internet.png){class="glboxshadow"}
 
 ### DHCP
 

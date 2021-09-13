@@ -20,7 +20,7 @@ Connect the router to the modem or main router via Ethernet cable to access the 
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![dhcp of internet](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/internet/dhcp_internet.png){class="glboxshadow"}
+![dhcp of internet](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_internet.png){class="glboxshadow"}
 
 ### DHCP
 

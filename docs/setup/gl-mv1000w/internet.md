@@ -20,7 +20,7 @@ Before plugging the Ethernet cable into the WAN port of the router, you can clic
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/dhcp_page.jpg){class="glboxshadow"}
+![cable](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_internet.png){class="glboxshadow"}
 
 ### DHCP
 
