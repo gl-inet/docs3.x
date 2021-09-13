@@ -54,6 +54,7 @@ hide:
 * [How to modify files on router?](scp)
 * [How to chekc if Internet Service Provider assigns you a public IP address?](how_to_check_if_isp_assigns_you_a_public_ip_address)
 * [GL.iNet Mobile App](mobile_app)
+* [What is LuCI?](what_is_luci)
 * [Setup LED Customization](led_customization)
 * [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.
 * [To control Your DSLR Camera Wirelessly](qdslrdashboard).

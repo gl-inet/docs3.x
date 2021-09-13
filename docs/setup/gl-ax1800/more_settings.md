@@ -84,7 +84,7 @@ Revert the router to factory default settings. All your settings, applications a
 
 `Advanced` is for LuCI, which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-For some models, LuCI is not preinstalled, click `Install LucI` to continue.
+For some models, LuCI is not preinstalled, click `Install LuCI` to continue.
 
 ![luci no installed](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/more_settings/luci_no_installed.png){class="glboxshadow"}
 
