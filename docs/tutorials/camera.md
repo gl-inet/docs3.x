@@ -16,40 +16,40 @@ The following routers with USB 2.0 port should be able to support USB Webcams:
 * GL-MIFI
 * GL-X750
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/camera_compatible_model.png){class="glboxshadow"}
+![camera compatible model](https://static.gl-inet.com/docs/en/3/tutorials/camera/camera_compatible_model.png){class="glboxshadow"}
 
 The current router firmware version 3.0 does not contain USB Webcam control interface. You need to install plug-ins and make it workable in LuCI. 
 
 ## Install Plug-ins
 
-#### The below installation method is available for Windows, Mac OS. 
+The below installation method is available for Windows, Mac OS. 
 
 Go to **APPLICATIONS**, then **Plug-ins**, install two plugins
 
 1. luci-app-mjpg-streamer
 2. kmod-video-uvc
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/1.png){class="glboxshadow"}
+![install plugins](https://static.gl-inet.com/docs/en/3/tutorials/camera/1.png){class="glboxshadow"}
 
 After Installation of two applications, click **MORE SETTINGS - Advanced**, enter your router login password on the login page.
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/2.png){class="glboxshadow"}
+![more setting -> advanced](https://static.gl-inet.com/docs/en/3/tutorials/camera/2.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/3.png){class="glboxshadow"}
+![login LuCI](https://static.gl-inet.com/docs/en/3/tutorials/camera/3.png){class="glboxshadow"}
 
 Click **Service**-**MJPG-steamer**, tick **Enabled** and then click **Save&Apply**.
 
 ***mjpg streamer is a streaming application for Linux-UVC compatible webcams***
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/4.png){class="glboxshadow"}
+![LuCI MJPG-streamer](https://static.gl-inet.com/docs/en/3/tutorials/camera/4.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/5.png){class="glboxshadow"}
+![view the camera stream](https://static.gl-inet.com/docs/en/3/tutorials/camera/5.png){class="glboxshadow"}
 
 Open a new page in browser, enter the IP address of your router and port number that you specified, for example, enter 192.168.8.1:8080”. 
 
-#### (The default port number is 8080, if the port number does not work, you can specify your own port number.) 
+(The default port number is 8080, if the port number does not work, you can specify your own port number.) 
 
-Your Stream is now running on your computer at the port that you specified. 
+Your Stream is now running on your computer at the port that you specified. For this method, the stream video is no sound.
 
 ## Adjust the webcam as needed
 
