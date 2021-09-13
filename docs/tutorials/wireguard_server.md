@@ -69,6 +69,19 @@ There are several common reasons cause failed:
 * The port you are using for WireGuard Server is blocked by the Internet Service Provider, change to another port, or contact the Internet Service Provider.
 * Some countries/resions may block the VPN connection.
 
+### If your public IP address is dynamic
+
+Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](../ddns), then edit the configuration to replace DDNS url with your public IP address.
+
+1. Copy the content of the configuration to a text editor(e.g. [Atom](https://atom.io/){target="_blank"}, [Sublime](https://www.sublimetext.com/){target="_blank"}).
+2. Edit the configuration to replace DDNS url with your public IP address.
+
+    ![ddns replace ip](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/ddns_replace_ip.png){class="glboxshadow"}
+
+3. Copy the revised content to [generate a QRCode](https://www.google.com/search?q=qr+code+generator+online&sxsrf=AOaemvIsNI2H6dKtGyc_vGGsJpQYcPT8jA%3A1631499580792&ei=PLU-Yd3tL7yB1e8P5f6CqAk&oq=qrcode+generator+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgoIABCABBCHAhAUMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKOgcIIxCwAxAnOgcIABBHELADOgcIABCwAxBDSgQIQRgAUO8fWO8fYK8uaAFwAngAgAFDiAFDkgEBMZgBAKABAcgBCsABAQ&sclient=gws-wiz-serp){target="_blank"}, or save it as `.conf` file.
+
+The WireGuard connection may down a while when the public IP address changes, after the DDNS url update to the new public IP address, the conneciton will resume. The DDNS is updated every 10 minutes. If the connection doesn't resume, please make sure the DDNS url is point to tne new public IP address, then turn off the WireGaurd connection and turn on again.
+
 ## WireGuard Client App
 
 We can use another GL.iNet router as WireGuard Client, or use their official app on other devices with various OS.

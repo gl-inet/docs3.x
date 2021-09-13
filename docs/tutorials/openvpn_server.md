@@ -69,6 +69,19 @@ There are several common reasons cause failed:
 * The port you are using for OpenVPN Server is blocked by the Internet Service Provider, change to another port, or contact the Internet Service Provider.
 * Some countries/resions may block the VPN connection.
 
+### If your public IP address is dynamic
+
+Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](../ddns), then edit the configuration to replace DDNS url with your public IP address.
+
+1. Open the configuration file(.ovpn) with a text editor(e.g. [Atom](https://atom.io/){target="_blank"}, [Sublime](https://www.sublimetext.com/){target="_blank"}).
+2. Edit the configuration to replace DDNS url with your public IP address.
+
+    ![ddns replace ip](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/ddns_replace_ip.png){class="glboxshadow"}
+
+3. Save the `.ovpn` file.
+
+The OpenVPN connection may down a while when the public IP address changes, after the DDNS url update to the new public IP address, the conneciton will resume. The DDNS is updated every 10 minutes. If the connection doesn't resume, please make sure the DDNS url is point to tne new public IP address, then turn off the OpenVPN connection and turn on again.
+
 ## OpenVPN Client App
 
 We can use another GL.iNet router as OpenVPN Client, or use their official app on other devices with various OS.
