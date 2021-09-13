@@ -18,7 +18,7 @@ Go to the OpenVPN Server page, generate a configuration file then change the Typ
 
 Click 'Apply' and Start the Server, when export the config you can find the 'dev tun' is changed to 'dev tap'.
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ovpn_bridge/setting_page.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_bridge/setting_page.png){class="glboxshadow"}
 
 ### 2) Upload tap configuration
 
@@ -28,7 +28,7 @@ The router will be assigned an ip by OpenVPN Server and become inaccessible, if 
 
 The connected pc will get a new ip address after the connection is established successfully:
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ovpn_bridge/get_newip.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_bridge/get_newip.png){class="glboxshadow"}
 
 **Please pull out the lan cable and insert it again if the ip address of the connected device didn't change automatically**
 
@@ -36,11 +36,11 @@ After the connection is established, you can access your devices from OpenVPN Se
 
 ### Example:
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ovpn_bridge/topology.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_bridge/topology.png){class="glboxshadow"}
 
 I can ping my phone(10.8.0.63) remotely from the local computer(192.168.8.208):
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ovpn_bridge/example.png){class="glboxshadow"}
+![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_bridge/example.png){class="glboxshadow"}
 
 ### 3) Stop the VPN connection
 
