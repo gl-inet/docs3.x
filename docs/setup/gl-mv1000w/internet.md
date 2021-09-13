@@ -26,7 +26,7 @@ Plug the Ethernet cable into the WAN port of the router. The information of your
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
-![dhcp](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/dhcp.jpg){class="glboxshadow"}
+![dhcp](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_method.png){class="glboxshadow"}
 
 ### Static
 
@@ -34,7 +34,7 @@ Static is required if your Internet Service Provider (ISP) has provided a fixed 
 
 The current settings will be automatically filled once you choose Static. Change it according to your needs and then click `Apply`.
 
-![static](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/static.jpg){class="glboxshadow"}
+![static](https://static.gl-inet.com/docs/en/3/setup/share/internet/static_method.png){class="glboxshadow"}
 
 ### PPPoE
 
@@ -42,7 +42,7 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
-![PPPoE](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/pppoe_page.jpg){class="glboxshadow"}
+![PPPoE](https://static.gl-inet.com/docs/en/3/setup/share/internet/static_method.png){class="glboxshadow"}
 
 ---
 
@@ -54,11 +54,11 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp1.jpg){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_scan.png){class="glboxshadow"}
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![connect wifi](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/wisp2.jpg){class="glboxshadow"}
+![connect wifi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_connect.png){class="glboxshadow"}
 
 ---
 
@@ -135,27 +135,27 @@ For iPhone tethering, connect it to the USB port of the router and go to Setting
 
 Step1: Switch on Personal Hotspot.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering2.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering2.png){class="glboxshadow"}
 
 Step2: Click "Trust" to this computer.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering-1.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering-1.png){class="glboxshadow"}
 
 Step3: Go to your Admin Panel choose "INTERNET" and click "Connect" in the middle of the page.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/connectbut.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/connectbut.png){class="glboxshadow"}
 
 Step4: It will show connected signal on the top of your phone screen and your admin panel once you connect successfully.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering4.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering4.png){class="glboxshadow"}
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/connteced.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/connteced.png){class="glboxshadow"}
 
 If the connection fails, please switch on and switch off your Personal Hotspot in your mobile phone for a few times.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering3.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering3.png){class="glboxshadow"}
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering2.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering2.png){class="glboxshadow"}
 
 ---
 
@@ -163,7 +163,7 @@ For Android phone tethering, connect it to the USB port of the router then check
 
 After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/internet/tethering.jpg){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering.png){class="glboxshadow"}
 
 ### EasyTether
 

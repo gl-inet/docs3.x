@@ -32,7 +32,7 @@ Plug the Ethernet cable into the WAN port of the router. The information of your
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
-![dhcp](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/internet/dhcp.jpg){class="glboxshadow"}
+![dhcp](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_method.png){class="glboxshadow"}
 
 ### Static
 
@@ -40,7 +40,7 @@ Static is required if your Internet Service Provider (ISP) has provided a fixed 
 
 The current settings will be automatically filled once you choose Static. Change it according to your needs and then click `Apply`.
 
-![static](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/internet/static.jpg){class="glboxshadow"}
+![static](https://static.gl-inet.com/docs/en/3/setup/share/internet/static_method.png){class="glboxshadow"}
 
 ### PPPoE
 
@@ -48,7 +48,7 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
-![PPPoE](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/internet/pppoe_page.jpg){class="glboxshadow"}
+![PPPoE](https://static.gl-inet.com/docs/en/3/setup/share/internet/pppoe_method.png){class="glboxshadow"}
 
 ---
 
@@ -60,8 +60,8 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/internet/repeater.jpg){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_scan.png){class="glboxshadow"}
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![wifi connect](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/internet/repeater1.jpg){class="glboxshadow"}
+![wifi connect](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_connect.png){class="glboxshadow"}
