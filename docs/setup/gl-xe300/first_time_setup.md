@@ -48,7 +48,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/Language%20Setting.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/welcome_page_xe300.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
