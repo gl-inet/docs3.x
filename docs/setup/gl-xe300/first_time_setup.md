@@ -64,4 +64,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/Admin%20Panel.png){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/admin_panel.png){class="glboxshadow"}
