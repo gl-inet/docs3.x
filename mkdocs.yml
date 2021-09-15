@@ -337,6 +337,7 @@ nav:
     - Cloud: tutorials/cloud.md
     - NextDNS: tutorials/nextdns.md
     - Check IP Address: tutorials/how_to_check_if_isp_assigns_you_a_public_ip_address.md
+    - Internet Priority: tutorials/internet_connection_priority.md
     - Mobile App: tutorials/mobile_app.md
     - LuCI: tutorials/what_is_luci.md
     - SMS Forward: tutorials/sms_forward.md
