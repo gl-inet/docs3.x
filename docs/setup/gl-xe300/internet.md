@@ -6,7 +6,7 @@ There are total 4 types of connection method that you can use to access the Inte
 
 Click `INTERNET` to create an Internet connection.
 
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/Admin%20Panel.png){class="glboxshadow"}
+![internet](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/admin_panel.png){class="glboxshadow"}
 
 ---
 
