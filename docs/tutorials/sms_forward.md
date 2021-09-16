@@ -6,9 +6,9 @@ Note: This feature only works on GL.iNet 4G models with original 4G LTE module, 
 
 Please follow this guide to complete the settings.
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/4G_page.png){class="glboxshadow"}
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/4g_page.png){class="glboxshadow"}
 
-![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/setting.png){class="glboxshadow"}
+![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/4g_modem_sms_forward.png){class="glboxshadow"}
 
 ## Settings 
 
@@ -42,60 +42,41 @@ If you want to forward the SMS via emails, you will need to set a sender account
 
 
 <details>
-<summary>Gmail</summary>
-<p>For Gmail, there are two kinds if password to login as the mail sender, password or App password.</p>
-
-For the APP Password, you need to login your google account and create it. (Need to enable two-steps verification first)
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/app_password.png"> </p>
-
-If you want to use origin password, you need to enable "Less Secure App Access", which is conflict with two-steps verification.
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/less_secure.png"> </p>
-
+  <summary>Gmail</summary>
+  <p>For Gmail, there are two kinds if password to login as the mail sender, password or App password.</p>
+  <p>For the APP Password, you need to login your google account and create it. (Need to enable two-steps verification first)</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/app_password.png"> </p>
+  <p>If you want to use origin password, you need to enable "Less Secure App Access", which is conflict with two-steps verification.</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/less_secure.png"></p>
 Both 465 and 587 ports are useable.
-
-<p>Example:</p>
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/gmail.png"> </p>
-
-</details>
-
-<details>
-<summary>Outlook</summary>
-<p>For Outlook, you can use password directly without any setting, and it supports port 587. </p>
-
-<p>Example:</p>
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/outlook.png"> </p>
-
+  <p>Example:</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/gmail.png"></p>
 </details>
 
 
 <details>
-<summary>iCloud</summary>
-<p>For iCloud, you need to set an app password for login, and it supports port 587.</p>
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloudapp.png"> </p>
-
-<p>Example:</p>
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloud.png"> </p>
-
+  <summary>Outlook</summary>
+  <p>For Outlook, you can use password directly without any setting, and it supports port 587.</p>
+  <p>Example:</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/outlook.png"></p>
 </details>
 
 
+<details>
+  <summary>iCloud</summary>
+  <p>For iCloud, you need to set an app password for login, and it supports port 587.</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloudapp.png"></p>
+  <p>Example:</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloud.png"></p>
+</details>
+
 
 <details>
-<summary>Yahoo</summary>
-<p>For Yahoo, you need to set an app password for login, and it supports both port 465 and 587.</p>
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahooapp.png"> </p>
-
-<p>Example:</p>
-
-<p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahoo.png"> </p>
-
+  <summary>Yahoo</summary>
+  <p>For Yahoo, you need to set an app password for login, and it supports both port 465 and 587.</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahooapp.png"></p>
+  <p>Example:</p>
+  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahoo.png"></p>
 </details>
 
 
