@@ -64,34 +64,74 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ## 3. USB 3G/4G Modem
 
-You can connect to the Internet using a USB 3G/4G modem. Insert your SIM card into the USB modem then plug the USB modem into the USB port of the router. Once it has been detected, the 3G/4G modem section will be activated and you will be able to set up your USB modem.
+You can connect to the Internet using a USB 3G/4G modem.
 
-Be aware that some modems work in host-less mode, which will be configured through [Tethering](#4-tethering) but not 3G/4G modem.
+Some SIM cards may need to be activated the first time you use them, so please activate them in your phone before using them in your router.
 
-In General, you can set up your 3G/4G modem by the three basic parameters below. Click `Apply` to connect.
+We recommend to turn off the router first, insert your SIM card into the USB modem then plug the USB modem into the USB port of the router, and then turn it on again.
+
+The first time, when the router is powered on, it may not connect automatically, but it has read the name of your carrier in the upper left corner, and you need to click `Auto Setup`.
+
+![usb modem auto setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/usb_modem/usb_modem_auto_setup.png){class="glboxshadow"}
+
+After a while, it will be connected.
+
+Normally, the second time, when the router is powered on, after a while, it will automatically recognize the SIM card and establish a connection. It may not get the information of signal, modem name and IMEI.
+
+![usb modem connected](https://static.gl-inet.com/docs/en/3/setup/share/internet/usb_modem/usb_modem_connected.png){class="glboxshadow"}
+
+---
+
+If you insert a usb modem at power on, it will not automatically connect. 
+
+If it shows the carrier name in the upper left corner, you can click `Abort`. After a while, the button will turn to `Auto Setup`, then click `Auto Setup`.
+
+If it doesn't show the carrier name, you can click `Modem Reset`.
+
+1. Please note that there is your carrier name in the upper left corner of it. Click `Abort`, wait a while, and if it doesn't work, click `Modem Reset`.
+
+    ![usb modem insert sim card](https://static.gl-inet.com/docs/en/3/setup/share/internet/usb_modem/usb_modem_abort.png){class="glboxshadow"}
+
+2. You may get into this screen, then you need to click `Auto Setup`, please note that at this time, there is your carrier name in the upper left corner of it.
+
+    ![usb modem auto setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/usb_modem/usb_modem_auto_setup.png){class="glboxshadow"}
+
+3. Wait a moment and it will be connected.
+
+    ![usb modem connected](https://static.gl-inet.com/docs/en/3/setup/share/internet/usb_modem/usb_modem_connected.png){class="glboxshadow"}
+
+---
+
+### Manual Setup
+
+Sometimes, `Auto Setup` may not work, you can try `Manual Setup`.
+
+![4g modem manual setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_manual_setup.png){class="glboxshadow"}
 
 - **Device**: Choose **/dev/cdc-wdm0** if your modem supports QMI, otherwise you need to choose **/dev/ttyUSB**, which may include several **ttyUSB** from 0 to 3. You need to choose the correct one based on the modem spec. We suggest you to try **ttyUSB0** first.
 - **Service Type**: Indicate the service type of your SIM card.
 - **APN**: Confirm with your SIM card carrier.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem1.jpg){class="glboxshadow"}
+Click `More` will show advanced Settings:
 
-Advanced Settings:
+![4g modem manual setup more](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_manual_setup_more.png){class="glboxshadow"}
 
-- **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it
-- **Pincode, Username and Password:** Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
+- **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it.
+- **Pincode, Username and Password**: Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/share/internet/modem4.jpg){class="glboxshadow"}
+### AT Command
 
-It is connected when the IP address of your SIM card shows up.
+The built-in modem supports AT command for the management and configuration of the modem. In 3G/4G Modem section, Click `AT Command`.
 
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem2.jpg){class="glboxshadow"}
+![at command](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_at_command.png){class="glboxshadow"}
 
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/modem3.jpg){class="glboxshadow"}
+- **Shortcut:** There are several pre-configured AT commands that you can use directly. If you want to run your own AT command, choose **Manual command**.
+- **AT Command:** The place where you can input AT command. For the list of AT command, please refer to the AT command manual of the built-in modem.
+- **Port:** The default port for AT command is **/dev/ttyUSB2**.
 
 ### Compatible Modems
 
-Here is a list of supported modems that we had tested before. 
+Here is a list of supported modems that we had tested before.
 
 | Model                                  | 3G/4G | Tested | Tested by       | Comments* |
 | -------------------------------------- | ----- | ------ | --------------- | --------- |
@@ -100,7 +140,7 @@ Here is a list of supported modems that we had tested before.
 | Quectel UC20-E                         | 3G    | Yes    | GL.iNet         |           |
 | ZTE ME909s-821                         | 4G    | Yes    | GL.iNet         |           |
 | Huawei E1550                           | 3G    | Yes    | GL.iNet         |           |
-| Huawei E3276                          | 4G    | Yes    | GL.iNet         |           |
+| Huawei E3276                           | 4G    | Yes    | GL.iNet         |           |
 | TP-Link MA260                          | 3G    | Yes    | GL.iNet         |           |
 | ZTE M823                               | 4G    | Yes    | Arnas Risqianto |           |
 | ZTE MF190                              | 3G    | Yes    | Arnas Risqianto |           |
@@ -109,13 +149,14 @@ Here is a list of supported modems that we had tested before.
 | Pantech UML295 (Verizon)               | 4G    | Yes    | GL.iNet/steven  | Host-less |
 | Novatel USB551L (Verizon)              | 4G    | Yes    | GL.iNet/steven  | QMI       |
 | Verizon U620L (Verizon)                | 4G    | Yes    |                 | Host-less |
-|                                        |       |        |                 |           |
 
 *QMI: This modem supports QMI mode. Please choose **/dev/cdc-wdm0** in the **Device** list.
 
 *Host-less: This modem supports tethering mode, please set up by using Tethering but not 3G/4G modem.
 
 You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html){target="_blank} for a well supported modem list.
+
+You can also search on the [forum](https://forum.gl-inet.com){target="_blank"} or create a post for asking.
 
 ---
 
