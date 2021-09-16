@@ -66,7 +66,7 @@ GL-E750 has a built-in 3G/4G modem. It has different options of 3G/4G module whi
 
 Some SIM cards may need to be activated the first time you use them, so please activate them in your phone before using them in your router.
 
-Please turn off the router first, insert the SIM card, and then turn it on again.
+We recommend to turn off the router first, insert the SIM card, and then turn it on again.
 
 Normally, when the router is powered on, after a while, it will automatically recognize the SIM card and establish a connection.
 
@@ -74,17 +74,21 @@ Normally, when the router is powered on, after a while, it will automatically re
 
 ---
 
-When you insert a SIM card at power on, it will not automatically detect the SIM card you inserted. You can click `Modem Reset` and then click `Auto Setup` and wait for a while, so that you can also connect normally.
+If you insert a SIM card at power on, it will not automatically connect. You can click `Modem Reset` and then click `Auto Setup` and wait for a while, so that you can also connect normally.
 
-1. Click `Modem Reset`.
+1. Click `Modem Reset`. Please note that at this time, there isn't show your carrier name in the upper left corner.
 
     ![4g modem inset sim card](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_abort.png){class="glboxshadow"}
 
-2. Click `Auto Setup`, please note that at this time, there is your carrier name in the upper left corner and a signal in the upper right corner of it.
+2. You may get into this screen, then you need to click `Auto Setup`. Please note that at this time, there is your carrier name in the upper left corner and a signal in the upper right corner of it.
 
     ![4g modem auto setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_auto_setup.png){class="glboxshadow"}
 
-3. Wait a moment and it will be connected.
+3. Wait a moment, it will be connecting(the button is `Abrot`).
+
+    ![4g modem connecting](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_connecting.png){class="glboxshadow"}
+
+    Wait a little longer, it will be connected(the button is `Disconnect`).
 
     ![4g modem connected](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_connected.png){class="glboxshadow"}
 
