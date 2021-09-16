@@ -62,44 +62,60 @@ Choose a SSID from the drop-down list and enter its password. You can also enabl
 
 ## 3. 3G/4G Modem
 
-Spitz has a built-in 3G/4G modem which you can insert your SIM card directly. Please insert the SIM card before powering on the router. Then, you should find the name of your carrier, click `Auto Setup` to create the connection.
+GL-X750 has a built-in 3G/4G modem. It has different options of 3G/4G module which you can choose before purchase.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem1.jpg){class="glboxshadow"}
+Some SIM cards may need to be activated the first time you use them, so please activate them in your phone before using them in your router.
 
-You can also click `Manual Setup` to set up manually.
+Please turn off the router first, insert the SIM card, and then turn it on again.
 
-In General, you can set up by the three basic parameters below. Click `Apply` to connect.
+Normally, when the router is powered on, after a while, it will automatically recognize the SIM card and establish a connection.
 
-- **Device**: Please choose **/dev/cdc-wdm0 (qmi)** or **/dev/ttyUSB3**.
-- **Service Type**: indicate the service of your SIM card.
+![4g modem connected](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_connected.png){class="glboxshadow"}
+
+---
+
+When you insert a SIM card at power on, it will not automatically detect the SIM card you inserted. You can click `Modem Reset` and then click `Auto Setup` and wait for a while, so that you can also connect normally.
+
+1. Click `Modem Reset`.
+
+    ![4g modem inset sim card](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_abort.png){class="glboxshadow"}
+
+2. Click `Auto Setup`, please note that at this time, there is your carrier name in the upper left corner and a signal in the upper right corner of it.
+
+    ![4g modem auto setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_auto_setup.png){class="glboxshadow"}
+
+3. Wait a moment and it will be connected.
+
+    ![4g modem connected](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_connected.png){class="glboxshadow"}
+
+---
+
+### Manual Setup
+
+Sometimes, `Auto Setup` may not work, you can try `Manual Setup`.
+
+![4g modem manual setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_manual_setup.png){class="glboxshadow"}
+
+- **Device**: For built-in modem, please choose **/dev/cdc-wdm0 (qmi)** or **/dev/ttyUSB3**.
+- **Service Type**: Indicate the service of your SIM card.
 - **APN**: Confirm with your SIM card carrier.
 
-![modem](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem2.jpg){class="glboxshadow"}
+Click `More` will show advanced Settings:
 
-Advanced Settings:
+![4g modem manual setup more](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_manual_setup_more.png){class="glboxshadow"}
 
 - **Dial Number**: Generally, it is a default value and you don't need to set it manually. However, if you have this info, please input it.
-- **Pincode, Username and Password:** Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
-
-![modem](https://static.gl-inet.com/docs/en/3/setup/share/internet/modem4.jpg){class="glboxshadow"}
-
-It is connected when the IP address of your SIM card shows up.
-
-![modem connect](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem3.jpg){class="glboxshadow"}
-
-![modem connected](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem4.jpg){class="glboxshadow"}
+- **Pincode, Username and Password**: Generally, these are not necessary for an unlocked SIM card. However, if you have a locked SIM card, please consult your service provider.
 
 ### AT Command
 
 The built-in modem supports AT command for the management and configuration of the modem. In 3G/4G Modem section, Click `AT Command`.
 
-![at command](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/modem2.jpg){class="glboxshadow"}
+![at command](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_at_command.png){class="glboxshadow"}
 
 - **Shortcut:** There are several pre-configured AT commands that you can use directly. If you want to run your own AT command, choose **Manual command**.
 - **AT Command:** The place where you can input AT command. For the list of AT command, please refer to the AT command manual of the built-in modem.
 - **Port:** The default port for AT command is **/dev/ttyUSB2**.
-
-![AT command](https://static.gl-inet.com/docs/en/3/setup/gl-x750/internet/at_command.jpg){class="glboxshadow"}
 
 ---
 
