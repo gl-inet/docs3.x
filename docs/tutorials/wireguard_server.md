@@ -78,6 +78,10 @@ Some Internet Service Providers may change your IP address sometimes. To overcom
 
     ![ddns replace ip](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/ddns_replace_ip.png){class="glboxshadow"}
 
+    After replaced.
+    
+    ![ddns replaced ip](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/ddns_replaced_ip.png){class="glboxshadow"}
+
 3. Copy the revised content to [generate a QRCode](https://www.google.com/search?q=qr+code+generator+online&sxsrf=AOaemvIsNI2H6dKtGyc_vGGsJpQYcPT8jA%3A1631499580792&ei=PLU-Yd3tL7yB1e8P5f6CqAk&oq=qrcode+generator+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgoIABCABBCHAhAUMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKOgcIIxCwAxAnOgcIABBHELADOgcIABCwAxBDSgQIQRgAUO8fWO8fYK8uaAFwAngAgAFDiAFDkgEBMZgBAKABAcgBCsABAQ&sclient=gws-wiz-serp){target="_blank"}, or save it as `.conf` file.
 
 The WireGuard connection may down a while when the public IP address changes, after the DDNS url update to the new public IP address, the conneciton will resume. The DDNS is updated every 10 minutes. If the connection doesn't resume, please make sure the DDNS url is point to tne new public IP address, then turn off the WireGaurd connection and turn on again.
