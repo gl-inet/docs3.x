@@ -340,6 +340,8 @@ nav:
     - Internet Priority: tutorials/internet_connection_priority.md
     - Mobile App: tutorials/mobile_app.md
     - LuCI: tutorials/what_is_luci.md
+    - Cells Info: tutorials/cells_info.md
+    - SMS: tutorials/sms.md
     - SMS Forward: tutorials/sms_forward.md
     - LED Customization: tutorials/led_customization.md
     - Setup Captive Portal: tutorials/captive_portal.md

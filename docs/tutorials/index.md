@@ -40,7 +40,9 @@ hide:
 
 ## 4G
 
+* [How to view SMS and send SMS?](sms)
 * [SMS Forward](sms_forward), to forward SMS message to phone or email.
+* [How to check cells info?](cells_info)
 
 ## Others
 
