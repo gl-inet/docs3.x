@@ -78,6 +78,10 @@ Some Internet Service Providers may change your IP address sometimes. To overcom
 
     ![ddns replace ip](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/ddns_replace_ip.png){class="glboxshadow"}
 
+    After replaced.
+
+    ![ddns replaced ip](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/ddns_replaced_ip.png){class="glboxshadow"}
+
 3. Save the `.ovpn` file.
 
 The OpenVPN connection may down a while when the public IP address changes, after the DDNS url update to the new public IP address, the conneciton will resume. The DDNS is updated every 10 minutes. If the connection doesn't resume, please make sure the DDNS url is point to tne new public IP address, then turn off the OpenVPN connection and turn on again.
