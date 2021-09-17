@@ -1,9 +1,10 @@
 # WIRELESS
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button.
+On the left side of web Admin Panel -> WIRELESS
 
-Click ‘Wireless’ and enter into 2.4G/5G Wi-Fi management interface in default as follows:
+## Wireless
 
+In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
 ![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/Wireless1.png){class="glboxshadow"}
 
@@ -25,18 +26,12 @@ Click ‘Wireless’ and enter into 2.4G/5G Wi-Fi management interface in defaul
 
 **TX Power (dBm)**: Transmit power settings.
 
-
-
 Click `Modify` to change the settings of the wireless network.
 
 ![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wireless2.png){class="glboxshadow"}
 
+## Guest Wi-Fi
 
-## 2.4G & 5G Guest WiFi
-
-Guest WiFi is turned off in default. Modification of wireless network name, wireless network security, and wireless
-network password is supportable.
+Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
 ![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wireless3.png){class="glboxshadow"}
-
-

@@ -1,7 +1,8 @@
 # WIRELESS
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button. Also you can enable Guest Wi-Fi(disable default) to provide internet services to your visitors. 
+On the left side of web Admin Panel -> WIRELESS
 
+In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button. Also you can enable Guest Wi-Fi(disable default) to provide internet services to your visitors. 
 
 **Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
 
@@ -21,8 +22,6 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 ![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/wireless/Wireless.png){class="glboxshadow"}
 
-
-
 Click `Modify` to change the settings of the wireless network.
 
 ![wifi switch](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/wireless/Wireless2.png){class="glboxshadow"}
@@ -32,3 +31,7 @@ Click `Modify` to change the settings of the wireless network.
 You can switch on/off _**Guest WiFi**_ in _**Wireless**_, the _**Guest WiFi**_ will create a different subnet to your visitors to prevent any un-authority visiting to your other devices in the network.
 
 ![guestwifi](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/wireless/Wireless3.png){class="glboxshadow"}
+
+## Guest Wi-Fi
+
+Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
