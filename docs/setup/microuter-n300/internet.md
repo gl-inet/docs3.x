@@ -1,5 +1,7 @@
 # INTERNET
 
+On the left side of web Admin Panel -> INTERNET
+
 microuter-N300 can be connected to the Internet through **Cable** or **Repeater**.
 
 Click `INTERNET` to create an Internet connection.

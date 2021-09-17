@@ -1,5 +1,7 @@
 # INTERNET
 
+On the left side of web Admin Panel -> INTERNET
+
 There are total 2 types of connection method that you can use to access the Internet: **Cable** and **Repeater**.
 
 Click `INTERNET` to create an Internet connection.

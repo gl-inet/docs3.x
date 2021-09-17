@@ -1,5 +1,7 @@
 # INTERNET
 
+On the left side of web Admin Panel -> INTERNET
+
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Tethering**, **3G/4G USB Modem** and **Repeater** .
 
 ![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/internet/internet.png){class="glboxshadow"}

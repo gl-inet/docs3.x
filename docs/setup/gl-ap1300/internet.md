@@ -1,5 +1,7 @@
 # INTERNET
 
+On the left side of web Admin Panel -> INTERNET
+
 There are total 3 types of connection method that you can use to access the Internet: **Cable**, **Repeater** and **3G/4G Modem(AP-1300LTE ONLY)**.
 
 ![connection methods](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/internet/internet-setting-AP1300.png){class="glboxshadow"}

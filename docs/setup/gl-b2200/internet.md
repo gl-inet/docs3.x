@@ -1,5 +1,7 @@
 # INTERNET
 
+On the left side of web Admin Panel -> INTERNET
+
 There are total 2 types of connection method that you can use to access the Internet: **Cable** and **Repeater**. 
 
 *For **Mesh Network**, you could **ONLY** use **Cable** to connect the internet.*
