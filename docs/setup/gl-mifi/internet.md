@@ -70,7 +70,13 @@ Some SIM cards may need to be activated the first time you use them, so please a
 
 We recommend to turn off the router first, insert the SIM card, and then turn it on again.
 
-Normally, when the router is powered on, after a while, it will automatically recognize the SIM card and establish a connection.
+The first time, when the router is powered on, it may not connect automatically, but it has read the name of your carrier in the upper left corner and signal in the upper right corner, you need to click `Auto Setup`.
+
+![4g modem auto setup](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_auto_setup.png){class="glboxshadow"}
+
+After a while, it will be connected.
+
+Normally, the second time, when the router is powered on, after a while, it will automatically recognize the SIM card and establish a connection.
 
 ![4g modem connected](https://static.gl-inet.com/docs/en/3/setup/share/internet/4g_modem/4g_modem_connected.png){class="glboxshadow"}
 
