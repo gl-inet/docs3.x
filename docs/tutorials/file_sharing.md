@@ -158,9 +158,17 @@ If you are using Linux you are probably comfortable with connecting to servers, 
 
 ### ChromeOS or ChromiumOS (Neverware CloudReady and others)
 
-There is a built in Samba/SMB client in the Files app, but it doesn't really seem to work very well. Instead the most useful ChromeOS app to allow mounting Samba shares even though it doesn't have high ratings is "File System for Windows". It is open source and works far better than the built in version. https://chrome.google.com/webstore/detail/file-system-for-windows/mfhnnfciefdpolbelmfkpmhhmlkehbdf/related?hl=en
+There is a built in Samba/SMB client in the Files app, and they have deprecated the previous separate plugin/service that was a GoogleLabs experiment.
 
-Once you have installed the app you can launch it from that page, and if you want to access it again in the future, in the Files app if you go to the 3 dot menu at the top right and "Add new service" you then select "File System for Windows" from the list and it will give you the dialog to fill out with the server name and some other details, but only the server name/IP and share name are required. You can click the gear icon to enable saving the password for a share indefinitely, and you can click the "Keep" button to save the share to easily mount again in the future.
+In the Files app if you go to the 3 dot menu at the top right and "Add new service" you then select "SMB File Share" from the list and it will give you the dialog to fill out with the server name and some other details, but only the server name/IP and share name are required (unless you modify the smb.conf on your router to better control access to certain paths, you can use SSH or Luci + webmin to manage this).
+
+The default share name appears to be `GL-Samba` so a connection string might be `\\192.168.8.1\GL-Samba` if your USB or microSD is properly recognized.
+
+If you are having trouble getting connected or don't know the share name you can check with `smbclient` which you can install in the Terminal app, which is the interface for Crostini (aka Linux apps in most of the Settings menus).
+
+    sudo apt update && sudo apt install smbclient
+    # Answer 'y' to the prompt and hit Enter
+    smbclient -N -L 192.168.8.1
 
 ### Android
 
