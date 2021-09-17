@@ -131,38 +131,37 @@ Using a USB cable to share network from your smartphone to the router is called 
 
 For host-less modem tethering, plug it into the USB port of the router.
 
-For iPhone tethering, connect it to the USB port of the router and go to Settings->Personal Hotspot->Allow Others to Join, then click **Trust** to continue when the message pops up in your iPhone.
+For iPhone tethering:
 
-Step1: Switch on Personal Hotspot.
+1. Connect iPhone to the USB port of the router. It will pop up a message asking to trust this computer? Click "Trust" to contine. Because we are connecting the iPhone to the router, so here is to TRUST the router.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering2.png){class="glboxshadow"}
+    ![trust this computer](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/iphone_trust_this_computer.png){class="glboxshadow"}
 
+2. Go to iPhone -> Settings -> Personal Hotspot -> Turn on Allow Others to Join.
 
-Step2: Click "Trust" to this computer.
+    ![turn on allow others to join](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/iphone_hotspot_allow_others_to_join.png){class="glboxshadow"}
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering-1.png){class="glboxshadow"}
+3. Go to web Admin Panel, on the left side bar, choose "INTERNET" and click "Connect" in the middle of the page.
 
-Step3: Go to your Admin Panel choose "INTERNET" and click "Connect" in the middle of the page.
+    ![tethering connect](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/tethering_connect.png){class="glboxshadow"}
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/connectbut.png){class="glboxshadow"}
+4. It will show connected information on the top of your phone screen and the web Admin Panel once you connect successfully.
 
-Step4: It will show connected signal on the top of your phone screen and your admin panel once you connect successfully.
+    ![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/iphone_hotspot_1_connection.png){class="glboxshadow"}
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering4.png){class="glboxshadow"}
+    Tethering connected.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/connteced.png){class="glboxshadow"}
+    ![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/tethering_connected_mt300n-v2.png){class="glboxshadow"}
 
-If the connection fails, please switch on and switch off your Personal Hotspot in your mobile phone for a few times.
+If the connection fails, please turn off and turn on `Allow Others to Join` for a few times.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering3.png){class="glboxshadow"}
+---
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering2.png){class="glboxshadow"}
-
-For Android phone tethering, connect it to the USB port of the router then check Settings->Personal hotspot->Usb network sharing.
+For Android phone tethering, the procedure is similar to iPhone. Connect it to the USB port of the router then check Settings -> Personal hotspot -> Usb network sharing.
 
 After plugging in your device, the Tethering section will update and your device will be shown on the device list. The device name will begin with **eth** or **usb** such as **eth2**, **usb0**. Choose your device and click `Connect`.
 
-![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering.png){class="glboxshadow"}
+![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/tethering_connect.png){class="glboxshadow"}
 
 ### EasyTether
 

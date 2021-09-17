@@ -2,13 +2,9 @@
 
 VIXMINI can be connected to the Internet through **Cable** or **Repeater**.
 
-
-
 Click `INTERNET` to create an Internet connection.
 
 ![internet](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/internet.jpg){class="glboxshadow"}
-
-  
 
 ---
 
@@ -20,13 +16,9 @@ Before plugging the Ethernet cable into the Ethernet port of the router, you can
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/cable.jpg){class="glboxshadow"}
 
-
-
 Plug the Ethernet cable into the Ethernet port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/dhcp_page.jpg){class="glboxshadow"}
-
-
 
 ### DHCP
 
@@ -34,15 +26,11 @@ DHCP is the default and most common protocol. It doesn't require any manual conf
 
 ![dhcp](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/dhcp.jpg){class="glboxshadow"}
 
-
-
 ### Static
 
 Static is required if your Internet Service Provider (ISP) has provided a fixed IP address for you or you want to configure the network information such as IP address, Gateway, Netmask manually.
 
 ![static](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/static.jpg){class="glboxshadow"}
-
-
 
 ### PPPoE
 
@@ -51,8 +39,6 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ![PPPoE](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/pppoe_page.jpg){class="glboxshadow"}
-
-
 
 ---
 
@@ -65,8 +51,6 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
 ![repeater scan](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/wisp1.jpg){class="glboxshadow"}
-
-
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
