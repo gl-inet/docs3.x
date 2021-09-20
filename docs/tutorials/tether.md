@@ -38,11 +38,13 @@ We will use Android OS and GL.iNet mini router to demonstrate the procedure.
 
 3. EasyTether driver openssl ([http://www.mobile-stream.com/easytether/drivers.html](http://www.mobile-stream.com/easytether/drivers.html))
 
-    ![EasyTether Driver](https://static.gl-inet.com/docs/en/3/tutorials/tether/easytether_openwrt18.06.png){class="glboxshadow"}
+    For firmware v3.201 and newer please use OpenWrt 19.07
 
-    *Note: For GL-MT300N-V2, please choose LEDE.*
+    ![EasyTether Driver for openwrt 19.07](https://static.gl-inet.com/docs/en/3/tutorials/tether/easytether_openwrt19.07.png){class="glboxshadow"}
 
-    ![LEDE for MT300N-V2](https://static.gl-inet.com/docs/en/2.x/app/src/tether/14.jpg){class="glboxshadow"}
+    For firmware v3.105 and earlier please use OpenWrt 18.06
+
+    ![EasyTether Driver for openwrt 18.06](https://static.gl-inet.com/docs/en/3/tutorials/tether/easytether_openwrt18.06.png){class="glboxshadow"}
 
 4. EasyTether Android App (Search in Google Play Store)
 
