@@ -26,6 +26,8 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 Click `Modify` to change the settings of the wireless network.
 
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
+
 ![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/wireless/wifi_modify.png){class="glboxshadow"}
 
 ## Guest Wi-Fi

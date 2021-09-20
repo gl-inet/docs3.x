@@ -26,6 +26,8 @@ Also you can enable Guest Wi-Fi(disable default) to provide internet services to
 
 Click `Modify` to change the settings of the wireless network.
 
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
+
 ## 2. Dongle
 
 Starting from firmware version 3.100, users could add Wi-Fi to GL-MV1000W by plug a Wi-Fi dongle. 

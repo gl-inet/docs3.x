@@ -30,6 +30,8 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 Click `Modify` to change the settings of the wireless network.
 
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
+
 ## Guest Wi-Fi
 
 Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.

@@ -18,6 +18,8 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 Click `Modify` to change the settings of the wireless network.
 
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
+
 ![modify wifi](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/wireless/setting.jpg){class="glboxshadow"}
 
 ## Guest Wi-Fi
