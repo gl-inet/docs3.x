@@ -4,7 +4,7 @@ On the left side of web Admin Panel -> WIRELESS
 
 In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
-**Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
+**Wi-Fi Name (SSID)**: The name of the Wi-Fi.
 
 **Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters. We suggest you to change it when you receive the router.
 

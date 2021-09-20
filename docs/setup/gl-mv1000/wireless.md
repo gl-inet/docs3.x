@@ -22,6 +22,3 @@ When you insert the dongle, you will see the dongle under "WIRELESS". And also y
 Click `Modify` to change the settings of the wireless network.
 
 Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
-
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/wireless/wifi_modify
-.png){class="glboxshadow"}

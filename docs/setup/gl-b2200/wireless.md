@@ -8,7 +8,7 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 ![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/Wireless_1.png){class="glboxshadow"}
 
-**Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
+**Wi-Fi Name (SSID)**: The name of the Wi-Fi.
 
 **Wireless Security**: Wireless encryption method.
 
