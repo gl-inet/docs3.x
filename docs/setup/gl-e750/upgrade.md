@@ -28,7 +28,7 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ![upload firmware](https://static.gl-inet.com/docs/en/3/setup/share/upgrade/local_upgrade.png){class="glboxshadow"}
 
-### Official OpenWrt Firmware
+### Official Firmware
 
 You can download the official firmware from our [release note](../../../release_notes/) page.
 
