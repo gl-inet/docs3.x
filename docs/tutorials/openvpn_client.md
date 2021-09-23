@@ -508,19 +508,6 @@ Others:
 
 
 <details>
-<summary>Proxy.sh</summary>
-  <p>
-    <a href="https://proxy.sh/panel/aff.php?aff=1458" target="_blank">Official Website</a>
-  </p>
-  <p>Download according to the service that you have subscribed:</p>
-  <p><a href="https://proxy.sh/s/openvpn">$2 customers</a></p>
-  <p><a href="https://proxy.sh/m/openvpn">$5 customers</a></p>
-  <p><a href="https://proxy.sh/l/openvpn">$10 customers</a></p>
-  <p><a href="https://proxy.sh/p/openvpn">$20 customers</a></p>
-</details>
-
-
-<details>
 <summary>Proxpn</summary>
   <p>
     <a href="https://secure.proxpn.com/?a_aid=5ac450e27df6f" target="_blank">Official Website</a>
