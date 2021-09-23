@@ -16,8 +16,8 @@
 | [GL-E750 (Mudi)*](GL-E750.md)| <a href="https://dl.gl-inet.com/firmware/e750/release/" target="_blank">3.203</a>| <a href="https://dl.gl-inet.com/firmware/e750/testing/" target="_blank">3.203</a> |-|-|
 | [GL-USB150 (Microuter)](GL-USB150.md)                        |     <a href="https://dl.gl-inet.com/firmware/usb150/v1/" target="_blank">3.203</a>     | <a href="https://dl.gl-inet.com/firmware/usb150/testing/" target="_blank">3.203</a> |     <a href="https://dl.gl-inet.com/firmware/usb150/clean/" target="_blank">3.0</a>     | <a href="https://dl.gl-inet.com/firmware/usb150/tor/" target="_blank">3.203</a> |
 | [GL-B2200 (Velica)](GL-B2200.md)                                     |     <a href="https://dl.gl-inet.com/firmware/b2200/release/" target="_blank">3.107</a>     |     <a href="https://dl.gl-inet.com/firmware/b2200/testing/" target="_blank">3.107</a>     |-|-|
-| [GL-B1300 (Convexa-B)](GL-B1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/b1300/v1/" target="_blank">3.105</a>     |     <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">3.203</a>     | <a href="https://dl.gl-inet.com/firmware/b1300/clean/" target="_blank">2.271</a> |-|
-| [GL-S1300 (Convexa-S)](GL-S1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/s1300/release/" target="_blank">3.203</a>     |     <a href="https://dl.gl-inet.com/firmware/s1300/testing/" target="_blank">3.203</a>     |-|-|
+| [GL-B1300 (Convexa-B)](GL-B1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/b1300/v1/" target="_blank">3.105</a>     |     <a href="https://dl.gl-inet.com/firmware/b1300/testing/" target="_blank">3.203</a>     | <a href="https://dl.gl-inet.com/firmware/b1300/clean/" target="_blank">3.022</a> |-|
+| [GL-S1300 (Convexa-S)](GL-S1300.md)                                     |     <a href="https://dl.gl-inet.com/firmware/s1300/release/" target="_blank">3.203</a>     |     <a href="https://dl.gl-inet.com/firmware/s1300/testing/" target="_blank">3.203</a>     | <a href="https://dl.gl-inet.com/firmware/s1300/clean/" target="_blank">3.022</a> |-|
 | [GL-SF1200](GL-SF1200.md) | <a href="https://dl.gl-inet.com/firmware/sf1200/release/" target="_blank">3.204</a> | <a href="https://dl.gl-inet.com/firmware/sf1200/testing/" target="_blank">3.204</a> |-|-|
 | [GL-MV1000 (Brume)<br>GL-MV1000W (Brume-W)](GL-MV1000.md) | <a href="https://dl.gl-inet.com/firmware/mv1000/v1/" target="_blank">3.203</a> | <a href="https://dl.gl-inet.com/firmware/mv1000/testing/" target="_blank">3.203</a> |-|-|
 | [GL-X1200 (Amarok)*](GL-X1200.md) | <a href="https://dl.gl-inet.com/firmware/x1200/release/" target="_blank">3.203</a> | <a href="https://dl.gl-inet.com/firmware/x1200/testing/" target="_blank">3.203</a> |-|-|
@@ -33,7 +33,7 @@
 
 [2] The testing firmware which is under development.
 
-[3] OpenWrt/LEDE firmware with LuCI admin page only. Our official user admin page is not included.
+[3] OpenWrt firmware with LuCI admin page only. Our official user admin page is not included.
 
 [4] Tor firmware.
 
