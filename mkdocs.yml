@@ -171,6 +171,7 @@ nav:
       - Wireless: setup/gl-mifi/wireless.md
       - Clients: setup/gl-mifi/clients.md
       - Upgrade: setup/gl-mifi/upgrade.md
+      - Firewall: setup/gl-mifi/firewall.md
       - VPN: setup/gl-mifi/vpn.md
       - Applications: setup/gl-mifi/applications.md
       - More Settings: setup/gl-mifi/more_settings.md
@@ -190,6 +191,7 @@ nav:
       - Wireless: setup/gl-x750/wireless.md
       - Clients: setup/gl-x750/clients.md
       - Upgrade: setup/gl-x750/upgrade.md
+      - Firewall: setup/gl-x750/firewall.md
       - VPN: setup/gl-x750/vpn.md
       - Applications: setup/gl-x750/applications.md
       - More Settings: setup/gl-x750/more_settings.md
@@ -209,6 +211,7 @@ nav:
       - Wireless: setup/gl-usb150/wireless.md
       - Clients: setup/gl-usb150/clients.md
       - Upgrade: setup/gl-usb150/upgrade.md
+      - Firewall: setup/gl-usb150/firewall.md
       - VPN: setup/gl-usb150/vpn.md
       - Applications: setup/gl-usb150/applications.md
       - More Settings: setup/gl-usb150/more_settings.md
@@ -299,6 +302,7 @@ nav:
       - Wireless: setup/microuter-n300/wireless.md
       - Clients: setup/microuter-n300/clients.md
       - Upgrade: setup/microuter-n300/upgrade.md
+      - Firewall: setup/microuter-n300/firewall.md
       - VPN: setup/microuter-n300/vpn.md
       - Applications: setup/microuter-n300/applications.md
       - More Settings: setup/microuter-n300/more_settings.md

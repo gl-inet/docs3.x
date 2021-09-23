@@ -2,13 +2,7 @@
 
 In `FIREWALL`, you can set up firewall rules like **port forwarding**, **open port** and **DMZ**.
 
-<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
-  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/firewall/firewall_page.png" itemprop="contentUrl" data-size="1261x363">
-      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/firewall/firewall_page.png" itemprop="thumbnail" alt="firewall" class="glboxshadow">
-    </a>
-  </figure>
-</div>
+![firewall page](https://static.gl-inet.com/docs/en/3/setup/share/firewall/port_forwards.png){class="glboxshadow"}
 
 ## Port Forwards
 
@@ -16,7 +10,7 @@ Port Forwarding allows remote computers to connect to a specific computer or ser
 
 To set up port forwarding, click `Port Forwards`and input the required parameters or click `Add a New One`.
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/firewall/port_forwards.png){class="glboxshadow"}
+![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/share/firewall/port_forwards.png){class="glboxshadow"}
 
 **Name:** The name of the rule.
 
@@ -45,7 +39,7 @@ The router's services, such as web, FTP and so on, require their respective port
 
 To open a port, click `Open Ports on Router` and input the required parameters or click `Add a New One`.
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/firewall/open_port.png){class="glboxshadow"}
+![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/share/firewall/open_port.png){class="glboxshadow"}
 
 **Name:** The name of the rule which can be specified by the user.
 
@@ -61,4 +55,4 @@ DMZ allows you to expose one computer to the Internet, so that all the inbounds 
 
 Click `DMZ` and enable `Open DMZ`. Input the internal IP address (E.g. 192.168.8.100) of your device which is going to receive all the inbound packets.
 
-![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/firewall/dmz.png){class="glboxshadow"}
+![Port Forwards](https://static.gl-inet.com/docs/en/3/setup/share/firewall/dmz.png){class="glboxshadow"}
