@@ -2,7 +2,7 @@
 
 On the left side of web Admin Panel -> CLIENTS
 
-You can manage all connected clients in `CLIENTS` page. You can see their name, IP address, MAC address and connection type. Click the button on the right to block any unwanted client. Click the bin icon to delete offline device.
+You can manage all connected clients in `CLIENTS` page. You can see their name, IP address, MAC address and connection type. Click the button on the right to block any unwanted client, you can't block yourself. Click the bin icon to delete offline device.
 
 ![clients page](https://static.gl-inet.com/docs/en/3/setup/share/clients/clients_page.png){class="glboxshadow"}
 
