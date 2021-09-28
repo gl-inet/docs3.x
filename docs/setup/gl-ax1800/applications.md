@@ -6,7 +6,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/applications/plug-ins.png){class="glboxshadow"}
+![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/applications/plug-ins_ax1800.png){class="glboxshadow"}
 
 ---
 

@@ -1,15 +1,12 @@
 # APPLICATIONS
 
-
 ## Plug-ins
 
 **Plug-ins** allows you to manage OpenWrt packages. You can install or remove any package. 
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug ins](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/Plug_ins.jpg){class="glboxshadow"} 
-
-
+![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/applications/plug-ins_b2200.png){class="glboxshadow"} 
 
 ---
 
@@ -27,15 +24,11 @@ You can use an external USB storage or a MicroSD card with GL.iNet router. The f
 
 ![File sharing](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/File_sharing.jpg){class="glboxshadow"} 
 
-
-
 For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](../../../tutorials/file_sharing/).
-
 
 ---
 
 ## Remote Access
-
 
 ### Cloud
 
@@ -47,7 +40,6 @@ This is a default function for version 3.021 or above. Older versions require ma
 
 ![Cloud](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/cloud.png){class="glboxshadow"}
 
-
 For the details, please refer to [Cloud](../../../tutorials/cloud/).
 
 ### DDNS
@@ -58,9 +50,7 @@ You can remotely access your router with a url though this function. Example: my
 
 This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
 
-
 ![Remote Access](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/Remote_Access.jpg){class="glboxshadow"}
-
 
 For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
@@ -74,6 +64,4 @@ Only supported in version 3.022 or above.
 
 ![Portal](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/Captive_Portal.jpg){class="glboxshadow"}
 
-
 For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).
-
