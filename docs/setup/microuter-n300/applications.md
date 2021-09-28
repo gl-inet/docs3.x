@@ -10,26 +10,24 @@ Remember to click `Update` whenever you access this packages repository.
 
 ---
 
-## DDNS
-
-**Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
-
-You can remotely access your router with a url though this function. Example: myRouterDeviceID.glddns.com
-
-In version 3.021 or above it is a default function, in other 3.0 version you need to install packages using Plug-ins.
-
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/applications/ddns.jpg){class="glboxshadow"}
-
-For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
-
----
-
 ## Cloud
+
+On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Management
 
 **GL.iNet GoodCloud cloud management** services provide an easy and simple way to remotely manage routers. 
 
-In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
+Please refer to [Cloud for the detail](../../../tutorials/cloud/).
 
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/applications/cloud.png){class="glboxshadow"}
+![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
-For the details, please refer to [Cloud](../../../tutorials/cloud/).
+---
+
+## DDNS
+
+On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic DNS
+
+**Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
+
+Please refer to [DDNS for the detail](../../../tutorials/ddns/).
+
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}

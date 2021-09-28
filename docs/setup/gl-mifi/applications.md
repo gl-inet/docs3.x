@@ -16,33 +16,31 @@ On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
 
 You can use an external USB storage or a MicroSD card with GL.iNet router, and some models have big internal storage. For sharing the external or internal storage please check out [file sharing](../../../tutorials/file_sharing/).
 
----
-
-## DDNS
-
-**Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
-
-You can remotely access your router with a url though this function. Example: myRouterDeviceID.glddns.com
-
-This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
-
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/ddns.png){class="glboxshadow"}
-
-For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
+![file sharing](https://static.gl-inet.com/docs/en/3/setup/share/applications/file_sharing.png){class="glboxshadow"}
 
 ---
 
 ## Cloud
 
+On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Management
+
 **GL.iNet GoodCloud cloud management** services provide an easy and simple way to remotely manage routers. 
 
-In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
+Please refer to [Cloud for the detail](../../../tutorials/cloud/).
 
-This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
+![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/cloud.png){class="glboxshadow"}
+---
 
-For the details, please refer to [Cloud](../../../tutorials/cloud/).
+## DDNS
+
+On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic DNS
+
+**Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
+
+Please refer to [DDNS for the detail](../../../tutorials/ddns/).
+
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
 
 ---
 

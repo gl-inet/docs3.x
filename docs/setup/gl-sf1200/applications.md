@@ -12,26 +12,22 @@ Remember to click `Update` whenever you access this packages repository.
 
 ## Cloud
 
+On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Management
+
 **GL.iNet GoodCloud cloud management** services provide an easy and simple way to remotely manage routers. 
 
-In our website, you can remotely check your router status, change the password, control clients, even set email alarm when a device is online or offline.
+Please refer to [Cloud for the detail](../../../tutorials/cloud/).
 
-This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
-
-![Cloud](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/cloud.png){class="glboxshadow"}
-
-For the details, please refer to [Cloud](../../../tutorials/cloud/).
+![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
 ---
 
 ## DDNS
 
+On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic DNS
+
 **Dynamic Domain Name Service (DDNS)** is a service used to map a domain name to the dynamic IP address of a network device. 
 
-You can remotely access your router with a url though this function. Example: myRouterDeviceID.glddns.com
+Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
-This is a default function for version 3.021 or above. Older versions require manual install using Plug-ins.
-
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/ddns.jpg){class="glboxshadow"}
-
-For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
+![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
