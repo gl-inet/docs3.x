@@ -44,6 +44,16 @@ Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
 ---
 
+## AdGuardHome
+
+On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
+
+AdGuard Home is a network-wide software for blocking ads & tracking.
+
+![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
+
+---
+
 ## Captive Portal
 
 On the left side of web Admin Panel -> APPLICATIONS -> Captive Portal

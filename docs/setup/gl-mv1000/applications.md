@@ -41,3 +41,13 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic 
 Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
+
+---
+
+## AdGuardHome
+
+On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
+
+AdGuard Home is a network-wide software for blocking ads & tracking.
+
+![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
