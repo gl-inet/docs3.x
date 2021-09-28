@@ -56,10 +56,12 @@ Please refer to [Set a Captive portal for the detail](../../../tutorials/captive
 
 ## IGMP Snooping
 
+On the left side of web Admin Panel -> APPLICATIONS -> IGMP Snooping
+
 You can enable _**IGMP snooping**_ to use the multicast functions on the router. 
 
 _**IGMP Snooping**_ listens to the IGMP protocol package, extracts the corresponding information, establishes and maintains the layer 2 multicast forwarding publication, and then forwards the multicast group data to the host that joins the multicast group, while other hosts cannot receive the multicast group data.
 
 _**IGMP V3**_ is compatible with _**v1**_ and _**v2**_, you can try _**v3**_ first and change it if you find any problem. 
 
-![IGMP Snooping](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/IGMP_Snooping.jpg){class="glboxshadow"}
+![igmp snooping](https://static.gl-inet.com/docs/en/3/setup/share/applications/igmp_snooping.png){class="glboxshadow"}

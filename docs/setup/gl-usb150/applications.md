@@ -43,3 +43,15 @@ You can set a **captive portal** in our routers, when newly users connect to the
 Please refer to [Set a Captive portal for the detail](../../../tutorials/captive_portal/).
 
 ![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
+
+## IGMP Snooping
+
+On the left side of web Admin Panel -> APPLICATIONS -> IGMP Snooping
+
+You can enable _**IGMP snooping**_ to use the multicast functions on the router. 
+
+_**IGMP Snooping**_ listens to the IGMP protocol package, extracts the corresponding information, establishes and maintains the layer 2 multicast forwarding publication, and then forwards the multicast group data to the host that joins the multicast group, while other hosts cannot receive the multicast group data.
+
+_**IGMP V3**_ is compatible with _**v1**_ and _**v2**_, you can try _**v3**_ first and change it if you find any problem. 
+
+![igmp snooping](https://static.gl-inet.com/docs/en/3/setup/share/applications/igmp_snooping.png){class="glboxshadow"}
