@@ -12,17 +12,9 @@ Remember to click `Update` whenever you access this packages repository.
 
 ## File Sharing
 
-You can use an external USB storage or a MicroSD card with GL.iNet router. The file sharing features of the external storage device can be configured in **File Sharing**.
+On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
 
-**Share via LAN**: Share the contents of the external storage device with all connected clients.
-
-**Share via WAN**: The contents of the external storage device can be accessed from the WAN.
-
-**Writable**: The contents of the external storage device can be edited.
-
-![File sharing](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/file_sharing.png){class="glboxshadow"}
-
-For guidance on how to access the contents of the external storage device from your computer or smart phone, please refer to [file sharing](../../../tutorials/file_sharing/).
+You can use an external USB storage or a MicroSD card with GL.iNet router, and some models have big internal storage. For sharing the external or internal storage please check out [file sharing](../../../tutorials/file_sharing/).
 
 ---
 

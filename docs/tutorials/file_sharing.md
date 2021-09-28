@@ -1,33 +1,62 @@
 # File Sharing on GL.iNet Routers
 
-You can use GL.iNet routers with external storage device such as USB stick, MicroSD card, etc,  thus the contents can be shared among all your connected clients. You can easily read or modify its contents. 
+You can use GL.iNet routers with external storage device such as USB stick, MicroSD card, etc, and some models have big internal storage, thus the contents can be shared among all your connected clients. You can easily read or modify its contents. 
+
+---
+
+## Supported models
+
+Usually models with USB ports or TF slots or have big internal storage are supported for file sharing.
+
+*Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
+
+**Supported external storage models**
+
+| Router Model | USB Stick | USB Hard Drive | MicroSD Card | Internal Storage |
+| :----------- | :-------: | :---: | :---: | :---: |
+| GL-MT300N-V2 (Mango) | √ | √ | - | - |
+| GL-AR150 Series | √ | √ | - | - |
+| GL-AR300M Series | √ | √ | - | - |
+| GL-USB150 | - | - | - | - |
+| GL-MiFi | √ | √ | √ | - |
+| GL-AR750 (Creta) | √ | √ | √ | - |
+| GL-AR750S-EXT (Slate) | √ | √ | √ | - |
+| GL-B1300 (Convexa-B) | √ | √ | - | - |
+| GL-S1300 (Convexa-S) | √ | √ | - | - |
+| GL-X750 (Spitz) | √ | √ | √ | - |
+| GL-X1200 (Amarok) | √ | √ | √ | - |
+| GL-E750 (Mudi) | √ | √ | √ | - |
+| GL-MV1000 (Brume) | √ | √ | √ | - |
+| GL-MV1000W (Brume-W) | √ | √ | √ | - |
+| GL-MT1300 (Beryl) | √ | √ | - | - |
+| GL-XE300 (Puli) | √ | √ | √ | - |
+| GL-AX1800 (Flint) | √ | √ | - | - |
+| GL-AP1300 (Cirrus) | - | - | - | - |
+| GL-B2200 (Velica) | - | - | - | √ |
+| GL-X300B (Collie) | - | - | - | - |
+| GL-SF1200 | - | - | - | - |
+| microuter-N300 | - | - | - | - |
+| VIXMINI | - | - | - | - |
 
 ---
 
 ## Router settings
 
-The contents of the external storage device are shared to LAN but not WAN and they are unwritable by default. Please click on your router model below to check how to change the file sharing settings of the router. 
+On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
 
-**Supported external storage devices**
+The file sharing packages may not installed. Click `Install` to continue.
 
+![file sharing not installed](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/file_sharing_not_installed.png){class="glboxshadow"}
 
-| Router Model | USB Stick | USB Hard Drive | MicroSD Card |
-| :----------- | :-------: | :---: | :---: |
-| [GL-MT300N-V2 (Mango)](../../setup/mini_router/applications/#file-sharing) |     √     |    √ | - |
-| [GL-AR150 Series](../../setup/mini_router/applications/#file-sharing) | √ | √ | - |
-| [GL-AR300M Series](../../setup/mini_router/applications/#file-sharing) | √ | √ | - |
-| GL-USB150 | - | - | - |
-| [GL-MiFi](../../setup/gl-mifi/applications/#file-sharing) | √ | √ | √ |
-| [GL-AR750 (Creta)](../../setup/gl-ar750/applications/#file-sharing) | √ | √ | √ |
-| [GL-AR750S-EXT (Slate)](../../setup/gl-ar750s/applications/#file-sharing) | √ | √ | √ |
-| [GL-B1300 (Convexa-B)](../../setup/gl-b1300/applications/#file-sharing) | √ | √ | - |
-| [GL-S1300 (Convexa-S)](../../setup/gl-s1300/applications/#file-sharing) | √ | √ | - |
-| [GL-X750 (Spitz)](../../setup/gl-x750/applications/#file-sharing) | √ | √ | √ |
-| [GL-E750 (Mudi)](../../setup/gl-e750/applications/#file-sharing) | √ | √ | √ |
-| [GL-MV1000 (Brume)](../../setup/gl-mv1000/applications/#file-sharing) | √ | √ | √ |
-| microuter-N300 | - | - | - |
+After installed, it will share via LAN by default. 
 
-*Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
+**Share via LAN**: Share the contents of the external storage device with all connected clients.
+
+**Share via WAN**: The contents of the external storage device can be accessed from the WAN.
+
+**Writable**: The contents of the external storage device can be edited. For writable, it recommend using NTFS or EXT4 file systems.
+
+![file sharing installed](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/file_sharing_installed.png){class="glboxshadow"}
 
 ---
 
@@ -66,7 +95,6 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 ![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/Filesharing.png){class="glboxshadow"}
 
 5). You can view files in your USB flash drive through GL.iNet router now.
-
 
 #### Method 2: Samba 1.0 (SMB1.0) Support: 
 
