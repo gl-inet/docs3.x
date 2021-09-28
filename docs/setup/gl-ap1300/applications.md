@@ -20,7 +20,6 @@ This is a default function for version 3.021 or above. Older versions require ma
 
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/application/DDNS.png){class="glboxshadow"}
 
-
 For guidance on how to set DDNS and access, please refer to [DDNS](../../../tutorials/ddns/).
 
 ---
