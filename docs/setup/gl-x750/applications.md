@@ -44,12 +44,12 @@ Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
 ---
 
-## Portal
+## Captive Portal
 
-You can set a **captive portal** in our routers, when newly users connect to wifi, they need to access a web page before access the internet.
+On the left side of web Admin Panel -> APPLICATIONS -> Captive Portal
 
-Only supported in version 3.022 or above.
+You can set a **captive portal** in our routers, when newly users connect to the Wi-Fi, they need to access a web page before access the internet.
 
-![Portal](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/applications/portal.png){class="glboxshadow"}
+Please refer to [Set a Captive portal for the detail](../../../tutorials/captive_portal/).
 
-For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).
+![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}

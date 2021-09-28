@@ -46,20 +46,26 @@ Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
 ## Captive Portal
 
+On the left side of web Admin Panel -> APPLICATIONS -> Captive Portal
+
 You can set a **captive portal** in our routers, when newly users connect to the Wi-Fi, they need to access a web page before access the internet.
 
-![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/applications/captive_portal.png){class="glboxshadow"}
+Please refer to [Set a Captive portal for the detail](../../../tutorials/captive_portal/).
 
-For guidance on how to set this up, please refer to [Set a Captive portal](../../../tutorials/captive_portal).
+![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
 
 ## AdGuardHome
 
+On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
+
 AdGuard Home is a network-wide software for blocking ads & tracking.
 
-![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/applications/adguardhome.png){class="glboxshadow"}
+![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguardhome.png){class="glboxshadow"}
 
 ## IGMP Snooping
 
+On the left side of web Admin Panel -> APPLICATIONS -> IGMP Snooping
+
 IGMP Snooping listens to the IGMP protocol package, extracts the corresponding information, establishes and maintains the layer 2 multicast forwarding publication, and then forwards the multicast group data to the host that joins the multicast group, while other hosts cannot receive the multicast group data.
 
-![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/applications/igmp_snooping.png){class="glboxshadow"}
+![igmp snooping](https://static.gl-inet.com/docs/en/3/setup/share/applications/igmp_snooping.png){class="glboxshadow"}
