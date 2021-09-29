@@ -28,7 +28,7 @@ Usually models with USB ports or TF slots or have big internal storage are suppo
 | GL-E750 (Mudi) | √ | √ | √ | - |
 | GL-MV1000 (Brume) | √ | √ | √ | - |
 | GL-MV1000W (Brume-W) | √ | √ | √ | - |
-| GL-MT1300 (Beryl) | √ | √ | - | - |
+| GL-MT1300 (Beryl) | √ | √ | √ | - |
 | GL-XE300 (Puli) | √ | √ | √ | - |
 | GL-AX1800 (Flint) | √ | √ | - | - |
 | GL-AP1300 (Cirrus) | - | - | - | - |
