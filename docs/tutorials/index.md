@@ -21,6 +21,7 @@ hide:
 * [Can I hide the SSID of the router?](hide_ssid)
 * [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal).
 * [Setup a Captive Portal](captive_portal)
+* [IPv6](ipv6)
 * [EasyTether](tether), share your Internet connection on your Android phone with router.
 
 ## VPN

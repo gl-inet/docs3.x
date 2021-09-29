@@ -337,6 +337,7 @@ nav:
     - VPN Policies: tutorials/vpn_policies.md
     - File Sharing: tutorials/file_sharing.md
     - DLNA Server: tutorials/dlnaserver.md
+    - IPv6: tutorials/ipv6.md
     - DDNS: tutorials/ddns.md
     - Cloud: tutorials/cloud.md
     - NextDNS: tutorials/nextdns.md
