@@ -53,6 +53,8 @@ hide:
 * [Setup DLNA Midia Server to share Multimedia over a home network](dlnaserver).
 * [DDNS](ddns). Overcome the issues related to Dynamic IP Addresses.
 * [Connect Cloud](cloud), to manage your routers remotely.
+* [GoodCloud](cloud).
+* [Firewall](firewall).
 * [How to SSH to router?](ssh)
 * [How to modify files on router?](scp)
 * [How to chekc if Internet Service Provider assigns you a public IP address?](how_to_check_if_isp_assigns_you_a_public_ip_address)
