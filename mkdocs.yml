@@ -240,7 +240,7 @@ nav:
     - GL-B2200 (Velica):
       - First Time Setup: setup/gl-b2200/first_time_setup.md
       - Internet: setup/gl-b2200/internet.md
-      - Wireless: setup/gl-b2200/wireless.md
+      - MESH / Wireless: setup/gl-b2200/wireless.md
       - Mesh: setup/gl-b2200/mesh.md
       - Clients: setup/gl-b2200/clients.md
       - Upgrade: setup/gl-b2200/upgrade.md
