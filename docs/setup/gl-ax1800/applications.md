@@ -54,6 +54,8 @@ Please refer to [Set a Captive portal for the detail](../../../tutorials/captive
 
 ![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
 
+---
+
 ## AdGuardHome
 
 On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
@@ -61,6 +63,8 @@ On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
 AdGuard Home is a network-wide software for blocking ads & tracking.
 
 ![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguardhome.png){class="glboxshadow"}
+
+---
 
 ## IGMP Snooping
 

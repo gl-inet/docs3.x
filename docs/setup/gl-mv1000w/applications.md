@@ -8,6 +8,8 @@ Remember to click `Update` whenever you access this packages repository.
 
 ![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/applications/plug-ins_mv1000.png){class="glboxshadow"}
 
+---
+
 ## File Sharing
 
 On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
@@ -61,6 +63,8 @@ On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
 AdGuard Home is a network-wide software for blocking ads & tracking.
 
 ![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
+
+---
 
 ## IGMP Snooping
 

@@ -52,6 +52,8 @@ AdGuard Home is a network-wide software for blocking ads & tracking.
 
 ![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
 
+---
+
 ## IGMP Snooping
 
 On the left side of web Admin Panel -> APPLICATIONS -> IGMP Snooping

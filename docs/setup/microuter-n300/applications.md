@@ -32,6 +32,8 @@ Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
 ![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
 
+---
+
 ## IGMP Snooping
 
 On the left side of web Admin Panel -> APPLICATIONS -> IGMP Snooping

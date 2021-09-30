@@ -54,6 +54,8 @@ Please refer to [Set a Captive portal for the detail](../../../tutorials/captive
 
 ![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
 
+---
+
 ## IGMP Snooping
 
 On the left side of web Admin Panel -> APPLICATIONS -> IGMP Snooping
