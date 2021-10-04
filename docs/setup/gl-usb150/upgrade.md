@@ -1,6 +1,6 @@
 # UPGRADE
 
-On the left side of web Admin Panel -> CLIENTS
+On the left side of web Admin Panel -> UPGRADE
 
 Click `UPGRADE` to check any available update and upgrade the firmware.
 
