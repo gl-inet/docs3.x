@@ -2,11 +2,9 @@
 
 On the left side of web Admin Panel -> INTERNET
 
-VIXMINI can be connected to the Internet through **Cable** or **Repeater**.
-
-Click `INTERNET` to create an Internet connection.
-
 ![internet](https://static.gl-inet.com/docs/en/3/setup/vixmini/internet/internet.jpg){class="glboxshadow"}
+
+VIXMINI can be connected to the Internet through **Cable** or **Repeater**.
 
 ---
 

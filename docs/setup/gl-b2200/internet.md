@@ -2,21 +2,20 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-b2200](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/internet/internet_page_gl-b2200.png){class="glboxshadow"}
+
 There are total 2 types of connection method that you can use to access the Internet: **Cable** and **Repeater**. 
 
-*For **Mesh Network**, you could **ONLY** use **Cable** to connect the internet.*
+*For **Mesh Network**, you could **ONLY** use **Cable** to connect the Internet.*
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/internet/internet-setting-B2200.png){class="glboxshadow"}
+![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/internet/internet-setting-B2200.png){class="glboxshadow" width="600"}
 
-**We recommend that you set up the internet by our Mobile App (<a href="https://www.gl-inet.com/app/" target="_blank">https://www.gl-inet.com/app/</a>) .**
+**We recommend you to set up the Internet by our [Mobile App](https://www.gl-inet.com/app/){target="_blank"}.**
 
 You could also setup it through the Admin Panel, the instruction is as below.
 
 ---
 
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/internet/B2200_internet_1.png){class="glboxshadow"}
 
 ## 1. Cable
 

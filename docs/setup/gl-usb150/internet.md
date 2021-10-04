@@ -2,11 +2,11 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-usb150](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/internet/internet_page_gl-usb150.png){class="glboxshadow"}
+
 Microuter can be used as a Wi-Fi repeater by connecting to another existing wireless network. It works in WISP (Wireless Internet Service Provider) mode by default, which means that the router will create its own subnet and act as a firewall to protect you from the public network.
 
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/internet/internet.jpg){class="glboxshadow"}
+## 1. Repeater
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 

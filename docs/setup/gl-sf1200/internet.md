@@ -2,11 +2,9 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-sf1200](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/internet/internet_page_gl-sf1200.png){class="glboxshadow"}
+
 There are total 2 types of connection method that you can use to access the Internet: **Cable** and **Repeater**.
-
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/internet.jpg){class="glboxshadow"}
 
 ---
 

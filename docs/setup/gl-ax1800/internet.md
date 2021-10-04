@@ -2,13 +2,11 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-ax1800](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/internet/internet_page_ax1800.png){class="glboxshadow"}
+
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Repeater**, **3G/4G Modem** and **Tethering**.
 
 ![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/internet/4-internet-connection-ax1800.png){class="glboxshadow"}
-
-Click `INTERNET` to create an Internet connection.
-
-![internet page of ax1800](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/internet/internet_page_ax1800.png){class="glboxshadow"}
 
 ---
 

@@ -2,13 +2,11 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-e750](https://static.gl-inet.com/docs/en/3/setup/gl-e750/internet/internet_page_gl-e750.png){class="glboxshadow"}
+
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Repeater**, **3G/4G Modem** and **Tethering**.
 
 ![connection methods](https://static.gl-inet.com/docs/en/3/setup/gl-e750/internet/internet_method.png){class="glboxshadow"}
-
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-e750/internet/internet.png){class="glboxshadow"}
 
 ---
 

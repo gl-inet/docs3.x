@@ -2,13 +2,11 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-mt300n-v2](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet_page_gl-mt300n-v2.png){class="glboxshadow"}
+
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Repeater**, **3G/4G Modem** and **Tethering**.
 
 ![connection method](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/4ways.jpg){class="glboxshadow"}
-
-Click `INTERNET` to create an Internet connection.
-
-![internet page](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet_page_mt300n-v2.png){class="glboxshadow"}
 
 ---
 

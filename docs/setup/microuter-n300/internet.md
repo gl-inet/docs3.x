@@ -2,11 +2,9 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of microuter-n300](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/internet/internet_page_microuter-n300.png){class="glboxshadow"}
+
 microuter-N300 can be connected to the Internet through **Cable** or **Repeater**.
-
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/internet/internet.png){class="glboxshadow"}
 
 ---
 

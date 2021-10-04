@@ -2,13 +2,11 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-mt1300](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/internet/internet_page_gl-mt1300.png){class="glboxshadow"} 
+
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Repeater**, **3G/4G Modem** and **Tethering**.
 
-![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/internet-setting-MT1300.png){class="glboxshadow"} 4 internet methods image to be updated
-
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/admin_panel.png){class="glboxshadow"} 
+![connection method](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/internet-setting-MT1300.png){class="glboxshadow"}
 
 ---
 

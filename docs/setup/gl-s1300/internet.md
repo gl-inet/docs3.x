@@ -2,17 +2,15 @@
 
 On the left side of web Admin Panel -> INTERNET
 
+![internet page of gl-s1300](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/internet/internet_page_gl-s1300.png){class="glboxshadow"}
+
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Repeater**, **3G/4G Modem** and **Tethering**.
-
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-s1300/first_time_setup/main_ui.jpg){class="glboxshadow"}
 
 ---
 
 ## 1. Cable
 
-Connect the router to the modem or main router via Ethernet cable to access the Internet. 
+Connect the router to the modem or main router via Ethernet cable to access the Internet.
 
 *Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
