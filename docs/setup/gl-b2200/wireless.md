@@ -6,11 +6,11 @@ Or
 
 On the left side of web Admin Panel -> WIRELESS
 
-If you inatialize GL-B2200 via mobile app, it will be Mesh mode. If inatialization via ethernet cable, it will be normal wireless.
+If you inatialize GL-B2200 via [mobile app](https://www.gl-inet.com/app/){target="_blank"}, it will be Mesh mode. If inatialization via ethernet cable, it will be normal wireless.
 
 ## MESH
 
-If you inatialize GL-B2200 via mobile app, it will be Mesh mode.
+If you inatialize GL-B2200 via [mobile app](https://www.gl-inet.com/app/){target="_blank"}, it will be Mesh mode.
 
 ![wifi mesh status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_mesh_b2200.png){class="glboxshadow"}
 

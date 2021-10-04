@@ -10,7 +10,9 @@ Model: GL-B2200
 
 There is a video tutorial about the setup, please check out [here](#video-tutorial).
 
-**Please download GL.iNet Mobile App ([https://www.gl-inet.com/app/](https://www.gl-inet.com/app/){target="_blank}) to set up Velica.**
+**Please download [GL.iNet Mobile App](https://www.gl-inet.com/app/){target="_blank} to set up GL-B2200.**
+
+**If GL-B2200 is connected with a router, make sure their IP addresses are not conflicted, GL.iNet router's default gateway is 192.168.8.1.**
 
 The GL.iNet Mobile App gives you convenient access to your router’s features anywhere and anytime.
 
