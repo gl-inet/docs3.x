@@ -12,7 +12,7 @@ GL-AP1300LTE(Cirrus)
 
 ---
 
-## 1. Power on 
+## 1. Power on
 
 Plug the power cable into the power port of the router. Make sure you are using a standard **12V/2A** power adapter. Also, you could plug in the Ethernet cable with PoE power. The PoE injector should be compatible with active or passive **48V 802.3at** standard. Otherwise it may cause malfunction. 
 
@@ -22,13 +22,13 @@ PoE (Power over Ethernet)
 
 The PoE injector should be compatible with **48V 802.3at** standard. PoE only works on the **WAN port**.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/power1.png){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/power1.png){class="glboxshadow" width="600"}
 
 Power cable
 
 The power cable **(12V/2A DC)** can be found in the package.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/power2.png){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/power2.png){class="glboxshadow" width="600"}
 
 *IMPORTANT NOTE: For GL-AP1300LTE, you **MUST** insert Nano SIM Card and attach the antennas before connecting to a power supply.*
 
@@ -44,7 +44,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/AP1300_connect.png){class="glboxshadow"}
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/AP1300_connect.png){class="glboxshadow" width="600"}
 
 ### Connect via Wi-Fi
 
@@ -63,7 +63,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**.
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/language.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/welcome_page_gl-ap1300.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -79,4 +79,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/Admin%20Panel.png){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/admin_panel_gl-ap1300.png){class="glboxshadow"}

@@ -31,7 +31,6 @@ Connect to the WiFi called **GL-MV1000-xxx**. If this is your first time to set 
 
 ![connect via Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first_time_setup/MV1000W_Connect%20wia%20WIFI%282%29.png){class="glboxshadow"}
 
-
 ### Connect via USB Type-C Cable
 
 Connect your computer to the power port of the router via USB Type-C cable. Keeps your computer connect to the internet and waits for several minutes, it will install the driver automatically.
@@ -79,7 +78,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 ### 1) Language Setting
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first_time_setup/welcome_2.jpg){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first_time_setup/welcome_page_gl-mv1000w.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -91,4 +90,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first_time_setup/main_ui.jpg){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/first_time_setup/admin_panel_gl-mv1000w.png){class="glboxshadow"}

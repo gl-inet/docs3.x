@@ -36,7 +36,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**.
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first_time_setup/welcome.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first_time_setup/welcome_page_microuter-n300.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -52,4 +52,4 @@ There is no default password for this Admin Panel. You have to set your own pass
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first_time_setup/main_ui.png){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/microuter-n300/first_time_setup/admin_panel_microuter-n300.png){class="glboxshadow"}
