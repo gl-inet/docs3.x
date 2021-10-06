@@ -10,7 +10,7 @@ Microuter can be used as a Wi-Fi repeater by connecting to another existing wire
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_scan.png){class="glboxshadow"}
+![scan wifi](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/internet/repeater_scan_gl-usb150.png){class="glboxshadow"}
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
