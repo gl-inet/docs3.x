@@ -2,7 +2,7 @@
 
 Model: GL-SF1200
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/router.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/first_time_setup/router.jpg){class="glboxshadow"}
 
 ---
 
@@ -10,7 +10,7 @@ Model: GL-SF1200
 
 Plug the power cable into the power port of the router.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/power.jpg){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/first_time_setup/power.jpg){class="glboxshadow"}
 
 ## 2. Connect
 
@@ -22,7 +22,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/connect.jpg){class="glboxshadow"}
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/first_time_setup/connect.jpg){class="glboxshadow"}
 
 ### Connect via Wi-Fi
 
