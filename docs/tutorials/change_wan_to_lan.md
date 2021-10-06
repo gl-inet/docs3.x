@@ -6,17 +6,16 @@ Especially for **GL-AR300M-Lite**, it only has one Ethernet port which works as 
 
 1. Leave the WAN port of the router unconnected.
 2. Connect your device to the router and access the web Admin Panel.
+3. Go to **Internet**, it display the WAN port is `Using as WAN` in Cable section, click **change** to change it as LAN.
 
-	![](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet.jpg){class="glboxshadow"}
-
-3. Go to **Internet**, click **Use as LAN** under the Cable section.
-
-	![](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/cable.jpg){class="glboxshadow"}
+	![internet page](https://static.gl-inet.com/docs/en/3/tutorials/change_wan_to_lan/internet_page_gl-mt300n-v2.png){class="glboxshadow"}
 
 4. Click **Yes** to confirm.
 
-	![](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg){class="glboxshadow"}
+	![caution change wan as lan](https://static.gl-inet.com/docs/en/3/tutorials/change_wan_to_lan/caution_change_wan_as_lan.png){class="glboxshadow"}
 
-You can simply revert the setting by repeating the above procedures. This time, it will show **Use as WAN** in step 3.
+5. Then it display `Using as LAN`.
 
-![WAN_LAN](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan1.jpg){class="glboxshadow"}
+	![using as lan](https://static.gl-inet.com/docs/en/3/tutorials/change_wan_to_lan/cable_using_as_lan.png){class="glboxshadow"}
+
+You can simply revert the setting by repeating the above procedures.
