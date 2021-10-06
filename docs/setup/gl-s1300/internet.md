@@ -6,6 +6,8 @@ On the left side of web Admin Panel -> INTERNET
 
 There are total 4 types of connection method that you can use to access the Internet: **Cable**, **Repeater**, **3G/4G Modem** and **Tethering**.
 
+![internet connection method gl-s1300](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/internet/internet_connection_method_gl-b1300.png){class="glboxshadow"}
+
 ---
 
 ## 1. Cable
