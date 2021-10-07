@@ -12,11 +12,23 @@ Remember to click `Update` whenever you access this packages repository.
 
 ## File Sharing
 
-On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
+On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> File Sharing
 
 You can use an external USB storage or a MicroSD card with GL.iNet router, and some models have big internal storage. For sharing the external or internal storage please check out [file sharing](../../../tutorials/file_sharing/).
 
 ![file sharing](https://static.gl-inet.com/docs/en/3/setup/share/applications/file_sharing.png){class="glboxshadow"}
+
+---
+
+## Multimedia File Sharing
+
+On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> Multimedia File Sharing
+
+You can use an external USB storage or a MicroSD card with GL.iNet router, to setup multimedia file sharing via DLNA over a home network. 
+
+Please refer to [Multimedia File Sharing for the detail](../../../tutorials/multimedia_file_sharing/).
+
+![multimedia file sharing](https://static.gl-inet.com/docs/en/3/setup/share/applications/multimedia_file_sharing_enabled.png){class="glboxshadow"}
 
 ---
 

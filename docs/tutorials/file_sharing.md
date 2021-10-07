@@ -42,7 +42,7 @@ Usually models with USB ports or TF slots or have big internal storage are suppo
 
 ## Router settings
 
-On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
+On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> File Sharing
 
 The file sharing packages may not installed. Click `Install` to continue.
 

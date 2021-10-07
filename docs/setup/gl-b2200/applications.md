@@ -12,7 +12,7 @@ Remember to click `Update` whenever you access this packages repository.
 
 ## File Sharing
 
-On the left side of web Admin Panel -> APPLICATIONS -> File Sharing
+On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> File Sharing
 
 You can use an external USB storage or a MicroSD card with GL.iNet router, and some models have big internal storage. For sharing the external or internal storage please check out [file sharing](../../../tutorials/file_sharing/).
 
