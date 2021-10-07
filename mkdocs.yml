@@ -335,7 +335,7 @@ nav:
     - LED Indicators: tutorials/led.md
     - VPN Policies: tutorials/vpn_policies.md
     - File Sharing: tutorials/file_sharing.md
-    - DLNA Server: tutorials/dlnaserver.md
+    - Multimedia File Sharing: tutorials/multimedia_file_sharing.md
     - IPv6: tutorials/ipv6.md
     - DDNS: tutorials/ddns.md
     - Cloud: tutorials/cloud.md

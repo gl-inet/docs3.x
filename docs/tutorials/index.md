@@ -50,7 +50,7 @@ hide:
 * [How to change WAN port to LAN port?](change_wan_to_lan)
 * [LED Indicators](led)
 * [File Sharing](file_sharing). Manage files in MicroSD Card, USB Stick and USB Hard Drive that connected to router.
-* [Setup DLNA Midia Server to share Multimedia over a home network](dlnaserver).
+* [Setup multimedia file sharing via DLNA over a home network](multimedia_file_sharing).
 * [DDNS](ddns). Overcome the issues related to Dynamic IP Addresses.
 * [Connect Cloud](cloud), to manage your routers remotely.
 * [GoodCloud](cloud).
