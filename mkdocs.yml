@@ -324,6 +324,7 @@ nav:
     - Firmware Upgrade: tutorials/firmware_upgrade.md
     - Check Firmware Version: tutorials/check_firmware_version.md
     - SSH to the Router: tutorials/ssh.md
+    - Extensible Authentication Protocol: tutorials/eap.md
     - Modify files on the router: tutorials/scp.md
     - OpenVPN Client: tutorials/openvpn_client.md
     - OpenVPN Server: tutorials/openvpn_server.md
@@ -362,7 +363,6 @@ nav:
     - Debrick via Uboot: troubleshooting/debrick.md
     - Repeat Failure: troubleshooting/repeat_failure.md
     - Can't find SSID: troubleshooting/cannot_find_ssid.md
-    - Extensible Authentication Protocol: troubleshooting/eap.md
     - GoodCloud issues: troubleshooting/goodcloud.md
     - Modem FAQ: troubleshooting/modem_faq.md
     - FAQs: troubleshooting/faq.md

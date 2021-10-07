@@ -14,7 +14,6 @@ hide:
 * [Debrick via Uboot](debrick)
 * [What should I do if repeater failure?](repeat_failure)
 * [Why can't find the default SSID of the router on my device?](cannot_find_ssid)
-* [How to connect to EAP (Extensible Authentication Protocol) Wi-Fi network](eap)
 * [Goodcloud general issues](goodcloud)
 * [4G Modem FAQ](modem_faq)
 * [FAQs](faq)

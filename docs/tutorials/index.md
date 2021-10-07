@@ -20,6 +20,7 @@ hide:
 * [How to turn off the Wi-Fi of the router?](turn_off_wifi)
 * [Can I hide the SSID of the router?](hide_ssid)
 * [Connect to a Hotspot with Captive Portal](connect_to_a_hotspot_with_captive_portal).
+* [How to connect to EAP (Extensible Authentication Protocol) Wi-Fi network?](eap)
 * [Setup a Captive Portal](captive_portal)
 * [IPv6](ipv6)
 * [EasyTether](tether), share your Internet connection on your Android phone with router.
