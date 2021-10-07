@@ -22,33 +22,33 @@ Go to the following webpage to download the latest PuTTY version:
 
 #### 2. Install PuTTY
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-1.png){class="glboxshadow"}
+![install putty](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-1.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-2.png){class="glboxshadow"}
+![install putty](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-2.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-3.png){class="glboxshadow"}
+![install putty](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-3.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-4.png){class="glboxshadow"}
+![install putty](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/PuTTY-Install-4.png){class="glboxshadow"}
 
 #### 3. Launch PuTTY 
 
 Click **PuTTY** in Start Menu 
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522164842915.png){class="glboxshadow"}
+![launch putty](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522164842915.png){class="glboxshadow"}
 
 You will see the following Configuration Window: 
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-1.png){class="glboxshadow"}
+![putty interface](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-1.png){class="glboxshadow"}
 
 Input Host Name (or IP address) `192.168.8.1`, keep Port as default `22`, select connection type: `SSH`,
 
 Input `Your Session` in saved sessions, and `Save` your content.
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-2.png){class="glboxshadow"}
+![putty interface](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-2.png){class="glboxshadow"}
 
 Click `Open` at the bottom
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-3.png){class="glboxshadow"}
+![putty security alert](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Setup-PuTTY-3.png){class="glboxshadow"}
 
 A security alert will pop-up, click `Yes`.
 
@@ -68,38 +68,38 @@ When you see above picture, that means you are now SSH login the router successf
 
 The process on Linux and Mac OS are generally the same. Below we use Ubuntu as an example.
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-Login.png){class="glboxshadow"}
+![ubuntu terminal](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-Login.png){class="glboxshadow"}
 
 ### 1. Launch Terminal
 
 Click the `Terminal` icon to launch Terminal. Then, input the following command: 
 
-`ssh root@192.168.8.1` 
+`ssh root@192.168.8.1`
 
 If you have ever connected to another router, host key verification failed may displayed as follow:
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/remove-ssh-keygen.png){class="glboxshadow"}
+![remote host identification has changed](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/remove-ssh-keygen.png){class="glboxshadow"}
 
 If this happens, run the command in the red box. Please copy the exact command which is displayed in your terminal.
 
 `ssh-kengen -f "~/.ssh/known_hosts" -R "192.168.8.1"`
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Removed-Host-keygen.png){class="glboxshadow"}
+![ssh update known_hosts](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Removed-Host-keygen.png){class="glboxshadow"}
 
 ### 2. Log In Router
 
-retry the SSH login command: 
+Retry the SSH login command: 
 
 `ssh root@192.168.8.1` 
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-sshin-router-1.png){class="glboxshadow"}
+![ssh login](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-sshin-router-1.png){class="glboxshadow"}
 
 Type "**yes**"
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-sshin-router-2.png){class="glboxshadow"}
+![ssh login](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Ubuntu-sshin-router-2.png){class="glboxshadow"}
 
 Input your router password: (you can set this password when you first connect to your router)
 
-![](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522205896331.png){class="glboxshadow"}
+![ssh login successfully](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522205896331.png){class="glboxshadow"}
 
 Finally, you login the router when the above message displayed.

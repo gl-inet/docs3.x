@@ -53,7 +53,7 @@ hide:
 * [Setup multimedia file sharing via DLNA over a home network](multimedia_file_sharing).
 * [DDNS](ddns). Overcome the issues related to Dynamic IP Addresses.
 * [Connect Cloud](cloud), to manage your routers remotely.
-* [GoodCloud](cloud).
+* [GoodCloud](cloud), the official cloud service.
 * [Firewall](firewall).
 * [How to SSH to router?](ssh)
 * [How to modify files on router?](scp)
