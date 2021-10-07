@@ -323,6 +323,7 @@ nav:
     - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
     - Firmware Upgrade: tutorials/firmware_upgrade.md
     - Check Firmware Version: tutorials/check_firmware_version.md
+    - What is web Admin Panel: tutorials/web_admin_panel.md
     - SSH to the Router: tutorials/ssh.md
     - Extensible Authentication Protocol: tutorials/eap.md
     - Modify files on the router: tutorials/scp.md

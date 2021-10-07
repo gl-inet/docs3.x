@@ -10,6 +10,7 @@ hide:
 
 * [How to upgrade to the latest firmware?](firmware_upgrade)
 * [How to check the firmware version of the router?](check_firmware_version)
+* [What is web Admin Panel?](web_admin_panel)
 
 ## Internet Connection
 
