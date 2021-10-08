@@ -14,6 +14,8 @@ For WireGuard, there are [some WireGuard service providers](../wireguard_client#
 
 For OpenVPN, there are [some OpenVPN service providers](../openvpn_client/#get-your-configuration-file) we have tested, then please refer to [Setup OpenVPN Client](../openvpn_client).
 
+When the VPN is connecting, make sure your current IP address is the VPN provider's IP address.
+
 For make sure you always using VPN connect to Internet, please [Enable Internet Kill Switch](../internet_kill_switch).
 
 ## DNS leak test
