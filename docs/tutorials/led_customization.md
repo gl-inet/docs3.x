@@ -16,17 +16,17 @@ Then please choose **System** > **LED Configuration**.
 
     ![luci menu led configuration](https://static.gl-inet.com/docs/en/3/tutorials/led_configuration/config1.png){class="glboxshadow"}
 
-2. Choose the **gl-mt300n-v2:blue:wan** which stand for the middle light in the LED Name list. The other two are power light(unchangeable) and wifi light(changeable).
+2. Choose the **gl-mt300n-v2:blue:wan** which stand for the middle light in the LED Name list. The other two are power light(unchangeable) and Wi-Fi light(changeable).
 
     ![luci led configuration](https://static.gl-inet.com/docs/en/3/tutorials/led_configuration/config2.png){class="glboxshadow"}
 
 3. Keep the **Trigger** in **netdev**. And you can select which interface you want the middle light stand for: 
 
-    ra0 - main wifi
+    ra0 - main Wi-Fi
 
-    ra1 - guest wifi 
+    ra1 - guest Wi-Fi 
 
-    apclio - repeater wifi
+    apclio - repeater Wi-Fi
 
     tun0 - vpn(this option will show up when vpn is on) 
 

@@ -52,11 +52,11 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_scan.png){class="glboxshadow"}
+![scan Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_scan.png){class="glboxshadow"}
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![connect wifi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_connect.png){class="glboxshadow"}
+![connect Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_connect.png){class="glboxshadow"}
 
 ---
 

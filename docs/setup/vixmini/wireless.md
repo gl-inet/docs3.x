@@ -18,4 +18,4 @@ In `WIRELESS`, you can check the current status and change the settings of the w
 
 Click `Modify` to change the settings of the wireless network.
 
-![modify wifi](https://static.gl-inet.com/docs/en/3/setup/vixmini/wireless/setting.jpg){class="glboxshadow"}
+![modify Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/vixmini/wireless/setting.jpg){class="glboxshadow"}

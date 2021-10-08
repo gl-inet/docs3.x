@@ -51,4 +51,4 @@ Click `Modify` to change the settings of the wireless network.
 
 Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-![guest wifi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/wireless/wifi_status_2.4g_guest_mv1000w.png){class="glboxshadow"}
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/wireless/wifi_status_2.4g_guest_mv1000w.png){class="glboxshadow"}

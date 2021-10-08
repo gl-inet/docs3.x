@@ -1,11 +1,12 @@
 # Repeat Failure
 
-In some cases, when the router scan the 2.4G wifi signal, you may find you are not able to see some SSIDs, this situation may caused by wifi channel.
-Our routers use channel 1 to 11 for 2.4GHz wifi by default, when the wifi you want to repeat is in 12 or 13 channel, the router would not be able to see or repeat it.
+In some cases, when the router scan the 2.4G Wi-Fi signal, you may find you are not able to see some SSIDs, this situation may caused by Wi-Fi channel.
+Our routers use channel 1 to 11 for 2.4GHz Wi-Fi by default, when the Wi-Fi you want to repeat is in 12 or 13 channel, the router would not be able to see or repeat it.
 
 However, you can change **Country Code** in LuCI to get full channel.(Don't support GL-MT300N-V2)
 
 ---
+
 <ol type="1">
 <li>
 	<p>Log in your router by 192.168.8.1.</p>
@@ -19,11 +20,11 @@ However, you can change **Country Code** in LuCI to get full channel.(Don't supp
 	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/2.png"/>
 </li>
 <li>
-	<p>Go to Network -> Wifi(Wireless).</p>
+	<p>Go to Network -> Wireless.</p>
 	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/3.png"/>
 </li>
 <li>
-    <p>click <b>Edit</b> on 2.4G wifi section.</p>
+    <p>click <b>Edit</b> on 2.4G Wi-Fi section.</p>
 	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/4.png"/>
 </li>
 <li>
@@ -32,7 +33,7 @@ However, you can change **Country Code** in LuCI to get full channel.(Don't supp
 	
 </li>
 <li>
-    <p>Refresh your web UI page and you will see 12/13 section in 2.4G wifi channel. Scan again and now you will be able to see other SSIDs.</p>
+    <p>Refresh your web UI page and you will see 12/13 section in 2.4G Wi-Fi channel. Scan again and now you will be able to see other SSIDs.</p>
 	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/6.png"/>
 </li>
 </ol>

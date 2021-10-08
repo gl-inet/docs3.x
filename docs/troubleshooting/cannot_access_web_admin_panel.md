@@ -49,7 +49,7 @@ Then follow the steps below to check the router's IP address.
 
     For a Wi-Fi connection, click the "Advanced..." button, and then the "TCP/IP" tab on the top of the windows. The router IP address will be shown.
 
-    ![router ip of wifi on mac os](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/router_ip_of_wifi_on_mac_os.jpg){class="glboxshadow"}
+    ![router ip of Wi-Fi on mac os](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_access_web_panel/router_ip_of_wifi_on_mac_os.jpg){class="glboxshadow"}
 
 === "iOS"
 

@@ -30,7 +30,7 @@ Or choose “Other” in the end of drop-down list of SSID, then select EAP type
 
 ### 3. Wi-Fi Security
 
-![repeater wifi security](https://static.gl-inet.com/docs/en/3/tutorials/eap/Picture4.png){class="glboxshadow"}
+![repeater Wi-Fi security](https://static.gl-inet.com/docs/en/3/tutorials/eap/Picture4.png){class="glboxshadow"}
 
 Currently, we only support two types: 802.1X EAP/WPA and 802.1X EAP/WPA2.
 

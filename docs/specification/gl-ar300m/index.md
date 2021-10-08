@@ -6,7 +6,7 @@ AR300M is the our best mini router. It is small and powerful.
 
 It has several sub-models:
 
-| Sub-model    | NOR flash | NAND flash | Antenna  | 5G wifi | USB power control |
+| Sub-model    | NOR flash | NAND flash | Antenna  | 5G Wi-Fi | USB power control |
 | ------------ | --------- | ---------- | -------- | ------- | ----------------- |
 | AR300M       | 16MB      | 128MB      | Internal | No      | Yes               |
 | AR300M-Ext   | 16MB      | 128MB      | External | No      | Yes               |
@@ -15,7 +15,7 @@ It has several sub-models:
 | AR300M-Lite  | 16MB      | No         | Internal | No      | No                |
 | AR300MD*     | 16MB      | 128MB      | Internal | Yes     | Yes               |
 
-*AR300MD 5Gwifi is suggested only to work at monitoring mode because of power consumption. 
+*AR300MD 5G Wi-Fi is suggested only to work at monitoring mode because of power consumption. 
 
 
 
@@ -57,7 +57,7 @@ It has several sub-models:
 
 By using 128MB NAND flash, space is not a problem and the writing speed is improved greatly. You can compile a firmware with tons of features and writing data is almost instant.
 
-By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the wifi speed on a mini router.
+By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the Wi-Fi speed on a mini router.
 
 ## Performance
 

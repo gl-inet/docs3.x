@@ -4,7 +4,7 @@ The smallest travel router ever.
 
 GL-USB150 is also named as Microuter. It is the smallest travel router ever. It doesn't has an Ethernet port but it has a USB to Ethernet convetor. So when it is plugged into your PC, it creates a wired network.
 
-It is mainly used to replace the wifi card of your PC or work as repeater. It is a firewall, separating your PC from public wifi networks.
+It is mainly used to replace the Wi-Fi card of your PC or work as repeater. It is a firewall, separating your PC from public Wi-Fi networks.
 
 ## Hardware Specification
 

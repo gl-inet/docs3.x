@@ -66,7 +66,7 @@ Data Format (*For some special operation*)
 | 0x6C | MQTT_UNSUBSCRIBE  | topic | test |
 | 0x6D | MQTT_PUBLISH  | qos@topic@data | 0@test@Hello world! |
 
-*For example, write uint8array `fe 01 74 65 73 74 77 69 66 69 40 31 32 33 34 35 36 37 38 ff` to the first GATT service means set the wifi to one whose ssid is "testwifi", password is "12345678" .*
+*For example, write uint8array `fe 01 74 65 73 74 77 69 66 69 40 31 32 33 34 35 36 37 38 ff` to the first GATT service means set the Wi-Fi to one whose ssid is "testwifi", password is "12345678" .*
 
 ### 4. Get response and messages
 
@@ -86,7 +86,7 @@ Result format(*For some special response*)
 | 0x05 | GET_NETWORK_STATE | state@mode@IP address@ssid | 1@0@192.168.1.111@GL-S1300-9cc | 
 | 0x69 | GET_MQTT_CONFIG | state@user:password@host:port | 1@admin:password@192.168.8.1:1107 |
 
-*"state" is the connection state for network or MQTT, 1 means connected, 0 means disconnect. "mode" is the connection mode, 0 means connected by WiFi, 1 means by Ethernet.For example, get a notification `fe 05 31 40 30 40 31 39 32 2e 31 36 38 2e 31 2e 31 31 31 40 74 65 73 74 77 69 66 69 ff` means get the current network state: network is connected, using wifi, ip address is 192.168.1.111, ssid is "testwifi"*
+*"state" is the connection state for network or MQTT, 1 means connected, 0 means disconnect. "mode" is the connection mode, 0 means connected by WiFi, 1 means by Ethernet.For example, get a notification `fe 05 31 40 30 40 31 39 32 2e 31 36 38 2e 31 2e 31 31 31 40 74 65 73 74 77 69 66 69 ff` means get the current network state: network is connected, using Wi-Fi, ip address is 192.168.1.111, ssid is "testwifi"*
 
 MQTT message format
 

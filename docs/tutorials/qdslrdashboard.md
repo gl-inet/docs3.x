@@ -50,7 +50,7 @@ qDslrDashboard is a Windows/Linux/MacOS and Android/iOS compatible app that lets
 
 **Sony:**
 
- - Sony cameras with built in wifi work directly with the qDslrDashboard apps, but since this guide is for GL-iNet routers, it will not be covered in this guide. Read the official documentation to find out how to get it work using your Sony camera here: [https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank}
+ - Sony cameras with built in Wi-Fi work directly with the qDslrDashboard apps, but since this guide is for GL-iNet routers, it will not be covered in this guide. Read the official documentation to find out how to get it work using your Sony camera here: [https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank}
 
 ### Client Downloads
 
@@ -85,7 +85,7 @@ This guide will show the process for a **Nikon D7000** camera, using a **GL-iNet
 This process might vary a little for the other clients, but should be just as straight forward.
 
  - Turn on your GL-iNet router and wait for it to boot up.
- - Connect your device, in my case an Android phone, to your GL-iNet router over wifi.
+ - Connect your device, in my case an Android phone, to your GL-iNet router over Wi-Fi.
  - Turn on and connect your camera using the right usb cable from your camera, to your router. My camera uses a Mini USB cable.
 
     ![Camera](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr4.jpg)

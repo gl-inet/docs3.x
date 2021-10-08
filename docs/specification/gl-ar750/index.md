@@ -2,7 +2,7 @@
 
 The first dual-band AC travel router. We added one more Ethernet port (totally 3) so that it fit better for fixed usage scenario as well. It has a MicroSD (TF) slot which increase your storage space up to 128GB.
 
-It has PoE options which is the best choice for affordable wifi coverage.
+It has PoE options which is the best choice for affordable Wi-Fi coverage.
 
 The 2.4G antenna is on the PCB and don't have a uFL connector. While the 5G antenna has uFL connector.
 
