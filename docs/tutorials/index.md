@@ -38,6 +38,8 @@ hide:
 
 ## Privacy
 
+* [How to use Cloudflare DNS over TLS on GL.iNet router?](how_to_use_cloudflare_dns_over_tls_on_glinet_router)
+* [How to use VPN and DNS encryption to protect your privacy with GL.iNet router?](how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router)
 * [Setup NextDNS](nextdns), which is the new firewall for the modern Internet.
 * [Tor, for browse privately](tor).
 
