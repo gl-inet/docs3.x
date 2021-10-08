@@ -4,7 +4,7 @@ WireGuard is an extremely simple yet fast and modern VPN that utilizes **state-o
 
 GL.iNet routers have pre-installed WireGuard Server and Client.
 
-If you are looking for a WireGuard provider, check out [this](#wireguard-providers) directly.
+If you are looking for a WireGuard provider, [check out this directly](#wireguard-providers).
 
 We can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, MullvadVPN, TorGuardVPN, OVPN, WeVPN, StrongVPN, PIA VPN, SpiderVPN.
 
