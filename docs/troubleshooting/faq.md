@@ -44,12 +44,6 @@
 <p>For 5GHz, you can choose channel 36 to 48, 149 to 165. Our routers don't support DFS Channel 52 to 140.</p>
 </details>
 
-<details>
-<summary>Can I connect to a EAP (Extensible Authentication Protocol) Wi-Fi network which requires username and password authentication?</summary>
-<p>Yes, the Admin Panel will ask you for your authentication information when you connect to a EAP Wi-Fi network. However, GL-MT300N-V2 doesn’t support EAP.</p>
-</details>
-
-
 ## Hardware/Accessory
 
 <details>
