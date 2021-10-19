@@ -16,7 +16,7 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 	grid-template-columns: 33% 33% 33%;
 	grid-template-rows: 33% 33% 33%;
 }
-    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7 {
+    .box-0, .box-1, .box-2, .box-3, .box-4, .box-5, .box-6, .box-7, .box-8 {
     float: left;
     width: 95%;
     margin-right: 2%;
@@ -27,13 +27,13 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
     border-style: solid;
     border-color: #ffffff
 }
-	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover {
+	.box-0:hover, .box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover, .box-5:hover, .box-6:hover, .box-7:hover, box-8:hover {
     border-color: #b6bde3 !important;
 }
 	@media only screen and (max-width: 30em) {
     	.row-box {
         grid-template-columns: 50% 50%;
-        grid-template-rows: 25% 25% 25% 25%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
     	}
 }
 </style>
@@ -42,43 +42,48 @@ GL.iNetは、ハードウェアをオープンソースソフトウェアと簡�
 <div class="row1">
 	<div class="row-box">
         <div class="box-0">
-            <a href="https://docs.gl-inet.com/jp/3/setup/mini_router/first-time_setup/">
+            <a href="setup/mini_router/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/jp/3/home/mini.png" width=100%>
             </a>
         </div>
 		<div class="box-1">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-ar750s/first-time_setup/">
+    		<a href="setup/gl-ar750s/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
             </a>
     	</div>
     	<div class="box-2">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-ar750/first-time_setup/">
+    		<a href="setup/gl-ar750/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
             </a>
     	</div>
 		<div class="box-3">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-mv1000/first-time_setup/">
+    		<a href="setup/gl-mv1000/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
             </a>
 		</div>
 		<div class="box-4">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-b1300/first-time_setup/">
+    		<a href="setup/gl-b1300/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
             </a>
 		</div>
 		<div class="box-5">
-    		<a href="https://docs.gl-inet.com/jp/3/setup/gl-mt1300/first-time_setup/">
+    		<a href="setup/gl-mt1300/first-time_setup/">
             	<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
             </a>
     	</div>
 		<div class="box-6">
-        	<a href="https://docs.gl-inet.com/jp/3/setup/gl-b2200/first-time_setup/">
+        	<a href="setup/gl-b2200/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
 			</a>
 		</div>
 		<div class="box-7">
-        	<a href="https://docs.gl-inet.com/jp/3/setup/gl-xe300/first-time_setup/">
+        	<a href="setup/gl-xe300/first-time_setup/">
 				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+			</a>
+		</div>
+		<div class="box-8">
+        	<a href="setup/gl-ax1800/first_time_setup/">
+				<img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ax1800.png" width=100%>
 			</a>
 		</div>
 	</div>

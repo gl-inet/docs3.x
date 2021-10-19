@@ -1,9 +1,6 @@
-# 	GL-AR150 シリーズ
+# GL-AR150 シリーズ
 
 AR150シリーズはAR150、AR150-Ext、AR150-PoEとAR150-Ext-PoEを含まれています。
-
-
-
 
 ## ハードウェア 仕様
 
@@ -26,14 +23,11 @@ AR150シリーズはAR150、AR150-Ext、AR150-PoEとAR150-Ext-PoEを含まれて
 |          　　　　　   消費電力 | <1.5W                                                        |
 |         　　　   サイズ、重量 | 58mmX58mmX25mm、39g                                          |
 
-
-
-##PCB ピンアウト
+## PCB ピンアウト
 
 ![gl-ar150 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg)
 
 ## RTC 設定
-
 
 GL-AR150 miniルーターでRTC (リアルタイム制御)モジュールを使用することができます。
 
@@ -89,12 +83,7 @@ hwclock -s
 hwclock -w
 ```
 
-
-
-
-
 ## PoE 接続
-
 
 GL-AR150 マイクロルーターの特定PoEモジュールがあります。AR150ルーターのPoEバージョンで捜せます。
 
@@ -102,11 +91,7 @@ GL-AR150 マイクロルーターの特定PoEモジュールがあります。AR
 
 PoEは***WAN ポート***使用に限ります。
 
-
-
 ![AR150 PoE Connection](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-PoE_setup.png)
-
-
 
 PoE セットアップサンプル：
 
@@ -115,10 +100,3 @@ PoE セットアップサンプル：
 ***PoEバージョン限り***
 
 ![PoE switch and Ethernet cable](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/white_1000x1000_PoE_2.jpg) 
-
-
-
-
-
-
-

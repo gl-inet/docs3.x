@@ -6,30 +6,33 @@ edit_uri: ""
 site_name: GL.iNet Docs
 site_description: Documentation for GL.iNet Productions
 site_author: Shan
-site_url: https://docs.gl-inet.com/
+site_url: https://docs.gl-inet.com/jp/3/
 site_dir: /home/ubuntu/docs-build/jp/3/
 copyright: 'Copyright &copy; 2021 GL Technologies & Microuter Technologies'
 
 theme: 
   name: material
+  logo: images/logo.svg
   custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.top
+    - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: cyan
+      accent: cyan
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
   language: 'ja'
+  favicon: images/favicon.png
 
 # Customization
 extra:
@@ -75,6 +78,10 @@ extra_javascript:
   # - javascripts/photoswipe-ui-default.min.js
   - javascripts/extra.js
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.tabbed
+
 nav:
   - ホーム:
     - ホーム: index.md
@@ -88,6 +95,7 @@ nav:
     - GL-MT1300: hardware/gl-mt1300/index.md
     - GL-MV1000: hardware/gl-mv1000/index.md
     - GL-B2200: hardware/gl-b2200/index.md
+    - GL-AX1800: hardware/gl-ax1800/index.md
     - microuter-N300: hardware/microuter-n300/index.md
   - セットアップ:
     - ナノルーター:
@@ -161,6 +169,16 @@ nav:
       - VPN: setup/gl-b2200/vpn.md
       - アプリケーション: setup/gl-b2200/applications.md
       - その他の設定: setup/gl-b2200/more_settings.md
+    - GL-AX1800(Flint):
+      - 基本設定: setup/gl-ax1800/first_time_setup.md
+      - ネットワーク: setup/gl-ax1800/internet.md
+      - 無線: setup/gl-ax1800/wireless.md
+      - クライアント: setup/gl-ax1800/clients.md
+      - アップグレード: setup/gl-ax1800/upgrade.md
+      - ファイアウォール: setup/gl-ax1800/firewall.md
+      - VPN: setup/gl-ax1800/vpn.md
+      - アプリケーション: setup/gl-ax1800/applications.md
+      - その他の設定: setup/gl-ax1800/more_settings.md
     - GL-XE300(Puli):
       - 基本設定: setup/gl-xe300/first-time_setup.md
       - ネットワーク: setup/gl-xe300/internet.md
