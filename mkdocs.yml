@@ -367,6 +367,7 @@ nav:
     - Debrick via Uboot: troubleshooting/debrick.md
     - Repeat Failure: troubleshooting/repeat_failure.md
     - Can't find SSID: troubleshooting/cannot_find_ssid.md
+    - Override DNS not take effect: troubleshooting/override_dns_settings_for_all_clients_not_take_effect.md
     - GoodCloud issues: troubleshooting/goodcloud.md
     - Modem FAQ: troubleshooting/modem_faq.md
     - FAQs: troubleshooting/faq.md
