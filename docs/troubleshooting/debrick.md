@@ -2,8 +2,6 @@
 
 You may have bricked your router if you were doing some DIY projects or flashed a wrong firmware. You may not be able to access your router but you can re-install the firmware by using Uboot failsafe.
 
-
-
 ---
 
 Please follow the procedures below to access the Uboot Web UI and re-install the firmware.
@@ -14,7 +12,7 @@ You can also refer to video tutorial below.
 
 <ol type="1">
     <li><p>
-        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, GL-E750, GL-X1200, please download the .img firmware file. For GL-B1300, GL-S1300, please download the .img firmware. Everyone else, download the .bin firmware file.
+        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">here</a>. Some models, such as GL-AR750S-EXT, it is available in two formats of firmware, please use the firmware with the .img extension.
         </p> 
     </li>
     <li>
