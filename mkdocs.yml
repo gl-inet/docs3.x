@@ -85,7 +85,6 @@ markdown_extensions:
 nav:
   - Home:
     - Overview: index.md
-    - Services: service.md
   - Specification:
     - Model Category: specification/index.md
     - GL-AR150 (White): specification/gl-ar150/index.md
