@@ -283,7 +283,7 @@ nav:
       - First Time Setup: setup/gl-x300b/first_time_setup.md
     - GL-S10:
       - First Time Setup: setup/gl-s10/first_time_setup.md
-      - API Manual: setup/gl-s10/api_manual.md
+      - User Manual: setup/gl-s10/user_manual.md
       - Firmware Complilation Guide: setup/gl-s10/firmware_compilation_guide.md
     - GL-AP1300/GL-AP1300LTE (Cirrus):
       - First Time Setup: setup/gl-ap1300/first_time_setup.md
