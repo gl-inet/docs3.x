@@ -23,7 +23,7 @@ The GL-S10 is ideally deployed in warehouses, shopping malls, airports, exhibiti
 
 - Supports MQTT and integrating to multiple server platforms 
 
-- Include application for configuration with customized connection to Wi-Fi and MQTT servers 
+- Includes application for configuration with customized connection to Wi-Fi and MQTT servers 
 
 - Supports 802.3at/af standard POE input power 
 
@@ -86,8 +86,6 @@ Take out the product from its package and attach the external antenna as shown b
 BLE Beacon is an optional accessory. User can purchase gateway kit with beacon for a quick Demo. The beacon can also be used for indoor positioning, asset management and other scenarios. The rotating base makes the device easy to disassemble; and the base has 3M adhesive which makes it easy to fix in place. 
 
 After turning on the BLE switch at the bottom of the beacon, the beacon will broadcast BLE signals at an interval of 300ms. Select the filter function of GL-S10 and identify the devices by the MAC address printed at the bottom of the beacon. 
-
-Take out the product from its package and attach the external antenna as shown below. 
 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic2.png"></center>
 <center>Figure 2</center>
@@ -255,6 +253,7 @@ We can understand the data by comparing the received data with the message reply
 After successfully establishing connection, GL-S10 automatically enters Scanning mode and scans for BLE signal during startup. If the MQTT server is connected, the BLE scan data will be packaged and uploaded to "GL-IoT/dataTopic/{dev_MAC}" topic in JSON format. ({dev_MAC} is the local MAC address, in this example, the MAC address of the GL-S10 device used is: 8CAAB5B25D9C). 
 
 As shown above, the JSON fields have the following definitions
+
 - MAC : Broadcast source address 
 - rssi : Broadcast source signal strength 
 - n : Broadcast source device name (this field will not appear if the broadcast source does not have a name) 
