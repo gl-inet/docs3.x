@@ -100,8 +100,10 @@ Download and install GL-S10 Tool App on your phone, turn on the Bluetooth functi
 Before using the app for configuration, set GL-S10 into its paring mode by pressing the Reset button of GL-S10 when the power is off, then turn on the power. Release the button when you see the BLE indicator in the middle flashes, and your GL-S10 will enter its pairing mode. 
 ### App language
 Start the app and select the app language, you can choose between English and Simplified Chinese.
+
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic4.png", width = 300></center>
 <center>Figure 4</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic5.png", width = 300></center>
 <center>Figure 5</center>
 
@@ -109,25 +111,28 @@ Start the app and select the app language, you can choose between English and Si
 Click the "scan" button in the upper right corner. The scanning result automatically filters out non-GL-S10 devices. If more than one GL-S10 are scanned, select the devices you want to connect according to the MAC address on the label at the bottom of your GL-S10 shell (as shown below). 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic6.png", width = 300></center>
 <center>Figure 6</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic7.png", width = 300></center>
 <center>Figure 7</center>
 
 ### Home page
 Select a GL-S10 device and enter the "Manage Device" interface as shown below 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic8.jpg", width = 300></center>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic8.png", width = 300></center>
 <center>Figure 8</center>
 
 ### Device Info
 You can click to view the details of the device as shown below
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic9.png", width = 300></center>
 <center>Figure 9</center>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic10.jpg", width = 300></center>
+<br>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic10.png", width = 300></center>
 <center>Figure 10</center>
 
 ### Cable configuration 
 To setup uplink connection using a network cable on the WAN port, click "Manage Device" > "Cable" > "Cable Configuration". You can configure "DHCP" and "Static IP" mode, then click "Done" to save the settings as shown below. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic11.png", width = 300></center>
 <center>Figure 11</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic12.png", width = 300></center>
 <center>Figure 12</center>
 
@@ -135,15 +140,18 @@ To setup uplink connection using a network cable on the WAN port, click "Manage 
 To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WP2 certificate, click “Upgrade certificate”. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic13.png", width = 300></center>
 <center>Figure 13</center>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic14.jpg", width = 300></center>
+<br>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic14.png", width = 300></center>
 <center>Figure 14</center>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic15.jpg", width = 300></center>
+<br>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic15.png", width = 300></center>
 <center>Figure 15</center>
 
 ### MQTT Configuration
 To configure MQTT, click "Manage Device" > "MQTT Server". Enter the address of your MQTT broker in the "Host" field, fill in the port number, username, and password. The "TLS" selection switches between TSL/SSL link and the TCP link. Enter a SUBSCRIBE message in the "Command" field and a SUBACK acknowledgement message in the "Respond Topic" field. You can also click "Update Certificate" below to update the MQTT encryption certificate. Click "Done" on the upper right corner to save the settings.  
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic16.png", width = 300></center>
 <center>Figure 16</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic17.png", width = 300></center>
 <center>Figure 17</center>
 
@@ -159,10 +167,13 @@ If you purchased a gateway kit with the BLE Beacon, you also have the option to 
 Click "Add New Rule" or "Remove" to edit the filter settings and click "Done" on the upper right corner to save the settings. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic18.png", width = 300></center>
 <center>Figure 18</center>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic19.jpg", width = 300></center>
+<br>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic19.png", width = 300></center>
 <center>Figure 19</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic20.png", width = 300></center>
 <center>Figure 20</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic21.png", width = 300></center>
 <center>Figure 21</center>
 
@@ -170,6 +181,7 @@ Click "Add New Rule" or "Remove" to edit the filter settings and click "Done" on
 Click "Manage Device" > "Date & Time". Select your time zone, fill in the SNTP service address and click the upper left corner to return to the previous page to save your settings, as shown below. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic22.png", width = 300></center>
 <center>Figure 22</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic23.png", width = 300></center>
 <center>Figure 23</center>
 
@@ -177,6 +189,7 @@ Click "Manage Device" > "Date & Time". Select your time zone, fill in the SNTP s
 Click "Manage Device" > "Auto Reboot". You can schedule a time to reboot GL-S10 on a daily-basis. Click the upper left corner to return to the previous page to save your settings, as shown below. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic24.png", width = 300></center>
 <center>Figure 24</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic25.png", width = 300></center>
 <center>Figure 25</center>
 
@@ -186,10 +199,13 @@ Click "Manage Device" > "Upgrade OTA". Under "OTA URL", enter the http server ad
 Please keep your GL-S10 connected to the internet and do NOT turn off the power during the OTA upgrade. After the OTA upgrade is completed, your GL-S10 will automatically enter Scanning mode, and your app will not be able to search for GL-S10.  
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic26.png", width = 300></center>
 <center>Figure 26</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic27.png", width = 300></center>
 <center>Figure 27</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic28.png", width = 300></center>
 <center>Figure 28</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic29.png", width = 300></center>
 <center>Figure 29</center>
 
@@ -217,6 +233,7 @@ GL-S10 supports wired transmission and Wi-Fi for connecting to the router or gat
 On the windows version of the MQTT X client, start the MQTT X software and add a new connection. To configure the beta cloud platform, enter the IP address 134.175.4.252 and port 1884. Click the upper right corner of the page to connect. A successful connection is shown below in Figure 32. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic32.png", width = 800></center>
 <center>Figure 32</center>
+<br>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic33.png", width = 800></center>
 <center>Figure 33</center>
 
@@ -236,7 +253,7 @@ Subscribe to the GL-IoT/rspTopic/8CAAB5B25D9C topic using MQTTx.
 
 **Step 2:**
 Set the sending and scanning method to Hex. 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic35.png", width = 400></center>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic35.png", width = 800></center>
 <center>Figure 35</center>
 
 **Step 3:**
@@ -325,6 +342,8 @@ Data segment at reception:
   </tr>
   <tr>
     <td rowspan="3">0x01</td>
+  </tr>
+  <tr>
     <td>0x00\n</td>
     <td>SSID\nPWD\n</td>
   </tr>
@@ -375,12 +394,14 @@ Data segment at reception:
 <table style="width:100%">
   <tr>
     <th>CmdID</th>
-    <th colspan="2">Data</th>
+    <th colspan="3">Data</th>
   </tr>
   <tr>
     <td rowspan="3">0x02</td>
-    <td>0x00\n</td>
   </tr>
+  <tr>
+    <td>0x00\n</td>
+  </tr>   
   <tr>
     <td>0x01\n</td>
   </tr>
@@ -393,11 +414,14 @@ Data segment at response:
 <table style="width:100%">
   <tr>
     <th>CmdID</th>
-    <th colspan="2">Data</th>
+    <th colspan="3">Data</th>
   </tr>
   <tr>
     <td rowspan="3">0x02</td>
     <td rowspan="3">Result\n</td>
+  </tr>
+ 
+  <tr>
     <td>0x00\n</td>
     <td>SSID\nPWD\n</td>
   </tr>
@@ -434,7 +458,9 @@ Data segment at reception:
   </tr>
   <tr>
     <td rowspan="3">0x03</td>
-    <td>0x00\n</td>
+  </tr>
+  <tr>
+     <td>0x00\n</td>
   </tr>
   <tr>
     <td>0x01\n</td>
@@ -478,6 +504,8 @@ Data segment at reception:
   </tr>
   <tr>
     <td rowspan="3">0x04</td>
+  </tr>
+  <tr>
     <td>0x00\n</td>
   </tr>
   <tr>
@@ -491,11 +519,13 @@ Data segment at response:
 <table style="width:100%">
   <tr>
     <th>CmdID</th>
-    <th colspan="2">Data</th>
+    <th colspan="3">Data</th>
   </tr>
   <tr>
     <td rowspan="3">0x04</td>
     <td rowspan="3">Result\n</td>
+  </tr>
+  <tr>
     <td>0x00\n</td>
     <td> / </td>
   </tr>
@@ -574,6 +604,8 @@ Data segment at reception:
   </tr>
   <tr>
     <td rowspan="3">0x06</td>
+  </tr>
+  <tr>
     <td>0x00\n</td>
   </tr>
   <tr>
@@ -697,6 +729,8 @@ Data segment at reception:
   </tr>
   <tr>
     <td rowspan="3">0x09</td>
+  </tr>
+  <tr>
     <td>0x00\n</td>
   </tr>
   <tr>
@@ -1711,6 +1745,9 @@ Data segment at response:
   </tr>
   <tr>
     <td rowspan="3">0x25</td>
+    <td rowspan="3"> Result\n </td>
+  </tr>
+  <tr>
     <td> BLERssiFilter\n  </td>
   </tr>
 </table>
