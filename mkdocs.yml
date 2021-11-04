@@ -105,6 +105,7 @@ nav:
     - GL-MV1000W (Brume-W): specification/gl-mv1000w/index.md
     - GL-X1200 (Amarok): specification/gl-x1200/index.md
     - GL-X300B (Collie): specification/gl-x300b/index.md
+    - GL-S10: specification/gl-s10/index.md
     - GL-AP1300 (Cirrus): specification/gl-ap1300/index.md
     - GL-B2200 (Velica): specification/gl-b2200/index.md
     - GL-SF1200: specification/gl-sf1200/index.md
