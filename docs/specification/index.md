@@ -105,14 +105,19 @@
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="gl-x750/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="gl-xe300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="gl-s10/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s10.png" width=100%>
   	  </a>
   	</div>
   </div>

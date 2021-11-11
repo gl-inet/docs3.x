@@ -4,11 +4,11 @@ The first dual-band Gigabit AC travel router. We upgrade Ethernet ports (totally
 
 ## Hardware Specification
 
-|                         Model | GL-AR750S-EXT                                                    |
+|                         Model | GL-AR750S-EXT                                                |
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9563, @775MHz SoC                                         |
 |                        Memory | DDRII 128MB                                                  |
-|                       Storage | Dual Flash 16MB NOR + 128MB                              |
+|                       Storage | Dual Flash 16MB NOR + 128MB Nand Flash                       |
 |                    Interfaces | 1 WAN (1000Mbps)<br>2 LANs (1000Mbps)<br>1 USB2.0<br>1 Micro USB (power)<br>1 Reset Button<br>TF Card Slot (128GB Max.) |
 |                     Frequency | 2.4GHz, 5GHz                                                 |
 |             Transmission Rate | 300Mbps (2.4GHz) + 433Mbps (5GHz)                            |
