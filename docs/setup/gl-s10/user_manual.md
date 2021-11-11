@@ -85,7 +85,7 @@ Take out the product from its package and attach the external antenna as shown b
 ### BLE beacon
 BLE Beacon is an optional accessory. User can purchase gateway kit with beacon for a quick Demo. The beacon can also be used for indoor positioning, asset management and other scenarios. The rotating base makes the device easy to disassemble; and the base has 3M adhesive which makes it easy to fix in place. 
 
-After turning on the BLE switch at the bottom of the beacon, the beacon will broadcast BLE signals at an interval of 300ms. Select the filter function of GL-S10 and identify the devices by the MAC address printed at the bottom of the beacon. 
+After turning on the BLE switch at the bottom of the beacon, the beacon will broadcast BLE signals at an interval of 300ms. Select the filter function of GL-S10 and identify the devices by the BLE MAC address printed at the bottom of the beacon. 
 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic2.png"></center>
 <center>Figure 2</center>
@@ -108,7 +108,9 @@ Start the app and select the app language, you can choose between English and Si
 <center>Figure 5</center>
 
 ### Connecting your GL-S10 
-Click the "scan" button in the upper right corner. The scanning result automatically filters out non-GL-S10 devices. If more than one GL-S10 are scanned, select the devices you want to connect according to the MAC address on the label at the bottom of your GL-S10 shell (as shown below). 
+Click the "scan" button in the upper right corner. The scanning result automatically filters out non-GL-S10 devices. If more than one GL-S10 are scanned, select the devices you want to connect according to the BLE MAC address on the label at the bottom of your GL-S10 shell (as shown below). 
+
+**Notice:** WAN MAC address is BLE MAC address minus 1, WiFi MAC address is BLE MAC address minus 2
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic6.png", width = 300></center>
 <center>Figure 6</center>
 <br>
@@ -137,7 +139,7 @@ To setup uplink connection using a network cable on the WAN port, click "Manage 
 <center>Figure 12</center>
 
 ### Wi-Fi configuration 
-To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WP2 certificate, click “Upgrade certificate”. 
+To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WPA2 certificate, click “Upgrade certificate”. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic13.png", width = 300></center>
 <center>Figure 13</center>
 <br>
@@ -160,9 +162,9 @@ Click "Report Configuration" in the interface of "Manage Device" to enter the in
 
 Click "Report interval", "Topic", "Bluetooth RSSI threshold filtering" to enter the relevant information configuration interface, fill in the configuration information and click the upper left corner to return to the previous page to save your settings.  
 
-Click “MAC Filter”, “Complete Local Name Filter”, or “Manufacturer Specific Data Filter” at the bottom and enter the relevant information to activate the filter. 
+Click “BLE MAC Filter”, “Complete Local Name Filter”, or “Manufacturer Specific Data Filter” at the bottom and enter the relevant information to activate the filter. 
 
-If you purchased a gateway kit with the BLE Beacon, you also have the option to set MAC filtering rules for the beacon in the app by entering the MAC address information printed on the bottom of the beacon. 
+If you purchased a gateway kit with the BLE Beacon, you also have the option to set BLE MAC filtering rules for the beacon in the app by entering the BLE MAC address information printed on the bottom of the beacon. 
 
 Click "Add New Rule" or "Remove" to edit the filter settings and click "Done" on the upper right corner to save the settings. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic18.png", width = 300></center>
@@ -230,7 +232,7 @@ The default MQTT setting is configured to connect with the beta cloud platform. 
 GL-S10 supports wired transmission and Wi-Fi for connecting to the router or gateway. The setting procedure can be found in section 3.6 Cable configuration and 3.7 Wi-Fi configuration. 
 
 ### MQTT X client configuration
-On the windows version of the MQTT X client, start the MQTT X software and add a new connection. To configure the beta cloud platform, enter the IP address 134.175.4.252 and port 1884. Click the upper right corner of the page to connect. A successful connection is shown below in Figure 32. 
+On the windows version of the MQTT X client, start the MQTT X software and add a new connection. To configure the beta cloud platform, enter the IP address 134.175.4.252 and port 1884. Click the upper right corner of the page to connect. A successful connection is shown below in Figure 33. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic32.png", width = 800></center>
 <center>Figure 32</center>
 <br>
@@ -240,7 +242,7 @@ On the windows version of the MQTT X client, start the MQTT X software and add a
 ### MQTT Message Editing and Communicating with S10
 The default command topic for this firmware is GL-IoT/comTopic/{dev_MAC}, and the command reply topic is GL-IoT/rspTopic/{dev_MAC}. 
 
-The MAC address of the GL-S10 device we use in this example is: 8CAAB5B25D9C (The MAC address is printed on the bottom of the device or in the app). 
+The BLE MAC address of the GL-S10 device we use in this example is: 8CAAB5B25D9C (The BLE MAC address is printed on the bottom of the device or in the app). 
 
 In our testing, MQTT X sends data via GL-IoT/comTopic/8CAAB5B25D9C and receives data from GL-S10 by subscribing to GL-IoT/rspTopic/8CAAB5B25D9C. 
 
@@ -267,7 +269,7 @@ We can understand the data by comparing the received data with the message reply
 <center>Figure 37</center>
 
 ## BLE Data Uploading
-After successfully establishing connection, GL-S10 automatically enters Scanning mode and scans for BLE signal during startup. If the MQTT server is connected, the BLE scan data will be packaged and uploaded to "GL-IoT/dataTopic/{dev_MAC}" topic in JSON format. ({dev_MAC} is the local MAC address, in this example, the MAC address of the GL-S10 device used is: 8CAAB5B25D9C). 
+After successfully establishing connection, GL-S10 automatically enters Scanning mode and scans for BLE signal during startup. If the MQTT server is connected, the BLE scan data will be packaged and uploaded to "GL-IoT/dataTopic/{dev_MAC}" topic in JSON format. ({dev_MAC} is the local BLE MAC address, in this example, the BLE MAC address of the GL-S10 device used is: 8CAAB5B25D9C). 
 
 As shown above, the JSON fields have the following definitions
 
@@ -277,7 +279,7 @@ As shown above, the JSON fields have the following definitions
 - ad : Broadcast data advData 
 - ts : receive timestamp
 
-If you purchased a gateway kit with a BLE Beacon and adds filtering rules for the beacon MAC address according to section 3.9, the JSON information viewed here is the BLE information broadcast by the beacon. The beacons are placed at different distances from the GL-S10 gateway (distance up to the decimeter level), and the value of rssi (broadcast source signal strength) may fluctuate based on distance. 
+If you purchased a gateway kit with a BLE Beacon and adds filtering rules for the beacon BLE MAC address according to section 3.9, the JSON information viewed here is the BLE information broadcast by the beacon. The beacons are placed at different distances from the GL-S10 gateway (distance up to the decimeter level), and the value of rssi (broadcast source signal strength) may fluctuate based on distance. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic38.png", width = 800></center>
 <center>Figure 38</center>
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic39.png", width = 400></center>
