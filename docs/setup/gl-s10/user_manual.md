@@ -139,7 +139,7 @@ To setup uplink connection using a network cable on the WAN port, click "Manage 
 <center>Figure 12</center>
 
 ### Wi-Fi configuration 
-To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WPA2 certificate, click “Upgrade certificate”. 
+To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WPA2 ENTERPRISE certificate, click “Upgrade certificate”. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic13.png", width = 300></center>
 <center>Figure 13</center>
 <br>
