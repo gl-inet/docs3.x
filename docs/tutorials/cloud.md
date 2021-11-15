@@ -254,7 +254,7 @@ Site to Site allows offices in multiple locations to establish secure connection
 
 Senerio 1: A company has dozens of branch offices that they wish to join in a single private network to share resources.
 
-Senerio 2: A company has a close relationship with a partner company, the Site to Site allows the companies to work together in a secure, shared network environment while preventing access to their separate internets.
+Senerio 2: A company has a close relationship with a partner company, the Site to Site allows the companies to work together in a secure, shared network environment.
 
 Senerio 3: A family has IP camera and when they are not at home, the Site to Site allows to remote access the IP camera.
 
