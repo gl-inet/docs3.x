@@ -33,7 +33,7 @@
     - [Other Batch Operations](#other-batch-operations)
 - [Template Management](#template-management)
     - [Add a Template](#add-a-template)
-    - [Upgrade Path](#upgrade-path)
+    - [Upgrade](#upgrade)
     - [Apply a template to a router](#apply-a-template-to-a-router)
     - [Apply a template to multiple routers](#apply-a-template-to-multiple-routers)
 - [Task List](#task-list)
@@ -431,7 +431,7 @@ Check the configuration that needs to be modified and input value. Most of the o
 
 ![Add Template](https://static.gl-inet.com/goodcloud/docs/add_template.png){class="glboxshadow"}
 
-#### Upgrade Path
+#### Upgrade
 
 **Upgrade Path** is for upgrading custom firmware. Put the firmware and a text file on a web server, then put the url path on the **Upgrade Path**. For example, [https://fw.gl-inet.com/firmware/ar750/v1/](https://fw.gl-inet.com/firmware/ar750/v1/) is a Upgrade Path, it has a **list-sha256.txt** file [https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt](https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt) and a corresponding firmware file [https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin](https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin).
 
