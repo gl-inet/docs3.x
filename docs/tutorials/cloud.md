@@ -1,5 +1,18 @@
 # GL.iNet GoodCloud
 
+## Contents
+
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Manage your devices](#manage-your-devices)
+- [Site to Site](#site-to-site)
+- [Batch Setting](#batch-setting)
+- [Template Management](#template-management)
+- [Task List](#task-list)
+- [BLE MQTT Bridge](#ble-mqtt-bridge)
+- [GoodCloud and VPN](#goodcloud-and-vpn)
+- [Turn off cloud](#turn-off-cloud)
+
 ## Introduction
 
 GL.iNet GoodCloud cloud management service provide an easy and simple way to remotely access and manage routers. There is a video introduction below.
@@ -97,7 +110,7 @@ If the router and PC(which opened goodcloud.xyz page) are at the same public IPï
 
 DDNS or Device ID can be found on the back of your router, it is 7 characters.
 
-    PS: Input "DDNS" / "Device ID" here just to verify that the router is really 
+    Note: Input "DDNS" / "Device ID" here just to verify that the router is really 
     original/valid. DDNS feature and the Cloud feature are separate things.
 
     For most models, it is "DDNS" on the back, but for some models, 
@@ -114,7 +127,7 @@ Click `Refresh` to force auto discover devices again.
 
 If it can't discover automatically, try `Manually add`. All information that need to input can be found on the back of the router.
 
-    PS: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the 
+    Note: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the 
     router is really original and valid. DDNS feature and the Cloud feature are 
     separate things.
 
@@ -338,7 +351,7 @@ Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to cha
 
 You can use this feature to configure multiple parameters for a single device, or you can configure multiple parameters for multiple devices.
 
-    PS: This feature is only available to business users.
+    Note: This feature is only available to business users.
 
 ### Batch Setting of Single Device
 
@@ -382,13 +395,25 @@ Other Batch Operations: Move to other group, upgrade, restart, delete.
 
 Save frequently used configurations as templates and quickly apply them when you modify configurations in batches.
 
-    PS: This feature is only available to business users.
+    Note: This feature is only available to business users.
 
 ### Add a Template
 
-Check the configuration that needs to be modified and input value.
+Check the configuration that needs to be modified and input value. Most of the options are the same as those on web Admin Panel.
 
 ![Add Template](https://static.gl-inet.com/goodcloud/docs/add_template.png){class="glboxshadow"}
+
+#### Upgrade Path
+
+**Upgrade Path** is for upgrading custom firmware. Put the firmware and a text file on a web server, then put the url path on the **Upgrade Path**. For example, [https://fw.gl-inet.com/firmware/ar750/v1/](https://fw.gl-inet.com/firmware/ar750/v1/) is a Upgrade Path, it has a **list-sha256.txt** file [https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt](https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt) and a corresponding firmware file [https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin](https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin).
+
+    Note: GL-AX1800, GL-S1300, GL-B1300, GL-AP1300 only support http path for now.
+
+![Template info](https://static.gl-inet.com/goodcloud/docs/template_upgrade_path.png){class="glboxshadow"}
+
+The content of the text file is like [this](https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt), its name should be **list-sha256.txt**. It has 4 columns, the first column is firmware version, the second column is the name of firmware file, the thrid column is the sha256 of firmware file, the forth column is the size of firmware file.
+
+![gl-ar750 sha256](https://static.gl-inet.com/goodcloud/docs/ar750-sha256.png){class="glboxshadow"}
 
 Give the template a name and description.
 
@@ -398,7 +423,7 @@ Give the template a name and description.
 
 At task list page, it shows the execution result of the configuration template.
 
-    PS: This feature is only available to business users.
+    Note: This feature is only available to business users.
 
 ![Task list](https://static.gl-inet.com/goodcloud/docs/task_list.png){class="glboxshadow"}
 
