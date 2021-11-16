@@ -4,10 +4,38 @@
 
 - [Introduction](#introduction)
 - [Setup](#setup)
+    - [Enable Cloud Management on web Admin Panel](#enable-cloud-management-on-web-admin-panel)
+    - [Sign up GoodCloud account](#sign-up-goodcloud-account)
+    - [Select server region](#select-server-region)
+    - [Add a new group](#add-a-new-group)
+    - [Add device](#add-device)
+        - [Auto discover](#auto-discover)
+        - [Manually add](#manually-add)
+        - [Bulk import](#bulk-import)
+    - [Binded info on router web Admin Panel](#binded-info-on-router-web-admin-panel)
+    - [Unbind router](#unbind-router)
 - [Manage your devices](#manage-your-devices)
+    - [Devices info and status](#devices-info-and-status)
+    - [LTE Signal](#lte-signal)
+    - [Device detail info](#device-detail-info)
+    - [Remote access web Admin Panel](#remote-access-web-admin-panel)
+    - [Remote access router's terminal](#remote-access-routers-terminal)
+    - [Set email alarm](#set-email-alarm)
 - [Site to Site](#site-to-site)
+    - [Introduction](#introduction_1)
+    - [Conditions](#conditions)
+    - [Steps to build a Site to Site network](#steps-to-build-a-site-to-site-network)
+    - [Testing the Site to Site connection](#testing-the-site-to-site-connection)
+    - [Route and other options](#route-and-other-options)
 - [Batch Setting](#batch-setting)
+    - [Batch Setting of Single Device](#batch-setting-of-single-device)
+    - [Batch Setting of Mutiple Devices](#batch-setting-of-mutiple-devices)
+    - [Other Batch Operations](#other-batch-operations)
 - [Template Management](#template-management)
+    - [Add a Template](#add-a-template)
+    - [Upgrade Path](#upgrade-path)
+    - [Apply a template to a router](#apply-a-template-to-a-router)
+    - [Apply a template to multiple routers](#apply-a-template-to-multiple-routers)
 - [Task List](#task-list)
 - [BLE MQTT Bridge](#ble-mqtt-bridge)
 - [GoodCloud and VPN](#goodcloud-and-vpn)
@@ -163,7 +191,7 @@ If you have encountered any difficulties, please send email to [support@gl-inet.
 
 ## Manage your devices
 
-### devices info and status
+### Devices info and status
 
 Sign in [Goodcloud](https://www.goodcloud.xyz), check at left side -> Device List
 
@@ -275,7 +303,7 @@ Senerio 3: A family has IP camera and when they are not at home, the Site to Sit
 
 It requires at least two routers, each in a different location, one of which has a public IP address. Please [check if your ISP assigns you a public IP address](../how_to_check_if_isp_assigns_you_a_public_ip_address). It requires firmware version 3.026 and above.
 
-### Steps to build a Site to Site network.
+### Steps to build a Site to Site network
 
 1. Bind your routers to GoodCloud. (<a href="#add-device">how?</a>)
 
@@ -377,7 +405,7 @@ Unchecked **Restart now** option will prompt.
 
 <a href="https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png" target="_blank"><img alt="config not take effect" src="https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png"></a>
 
-### Batch Setting of Mutiple Device
+### Batch Setting of Mutiple Devices
 
 Select the devices you want to configure.
 
@@ -418,6 +446,26 @@ The content of the text file is like [this](https://fw.gl-inet.com/firmware/ar75
 Give the template a name and description.
 
 ![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png){class="glboxshadow"}
+
+### Apply a template to a router
+
+If you have created a template, then want to apply this template to a router. On the **Device List** page, find the router that you want to apply the template, make sure it is online, on the Actions column, click the cog icon, click **Modify Configuration** item. It will pop up a dialog **Configure batch modification**.
+
+On the top right corner of the dialog, you can choose a template that has already created. Then click **Apply** button on the bottom right corner.
+
+It will pop up another dialog to review the configuration of the template, scroll down to the bottom to click the **Confirm** button, it will load the configuration of template overwrite to this time modification.
+
+Click **Apply** button, please note that the router will restart to take effect after click the **Apply** button.
+
+### Apply a template to multiple routers
+
+If you have created a template, then want to apply this template to multiple routers. This procedure is similar to that applied to a single router. On the **Device List** page, multiple select routers, then click **Bulk Action**, click **Modify Configuration** item. It will pop up a dialog **Configure batch modification**.
+
+On the top right corner of the dialog, you can choose a template that has already created. Then click **Apply** button on the bottom right corner.
+
+It will pop up another dialog to review the configuration of the template, scroll down to the bottom to click the **Confirm** button, it will load the configuration of template overwrite to this time modification.
+
+Click **Apply** button, please note that the router will restart to take effect after click the **Apply** button.
 
 ## Task List
 
