@@ -1,5 +1,46 @@
 # GL.iNet GoodCloud
 
+## Contents
+
+- [Introduction](#introduction)
+- [Setup](#setup)
+    - [Enable Cloud Management on web Admin Panel](#enable-cloud-management-on-web-admin-panel)
+    - [Sign up GoodCloud account](#sign-up-goodcloud-account)
+    - [Select server region](#select-server-region)
+    - [Add a new group](#add-a-new-group)
+    - [Add device](#add-device)
+        - [Auto discover](#auto-discover)
+        - [Manually add](#manually-add)
+        - [Bulk import](#bulk-import)
+    - [Binded info on router web Admin Panel](#binded-info-on-router-web-admin-panel)
+    - [Unbind router](#unbind-router)
+- [Manage your devices](#manage-your-devices)
+    - [Devices info and status](#devices-info-and-status)
+    - [LTE Signal](#lte-signal)
+    - [Device detail info](#device-detail-info)
+    - [Remote access web Admin Panel](#remote-access-web-admin-panel)
+    - [Remote access router's terminal](#remote-access-routers-terminal)
+    - [Set email alarm](#set-email-alarm)
+- [Site to Site](#site-to-site)
+    - [Introduction](#introduction_1)
+    - [Conditions](#conditions)
+    - [Steps to build a Site to Site network](#steps-to-build-a-site-to-site-network)
+    - [Testing the Site to Site connection](#testing-the-site-to-site-connection)
+    - [Route and other options](#route-and-other-options)
+- [Batch Setting](#batch-setting)
+    - [Batch Setting of Single Device](#batch-setting-of-single-device)
+    - [Batch Setting of Mutiple Devices](#batch-setting-of-mutiple-devices)
+    - [Other Batch Operations](#other-batch-operations)
+- [Template Management](#template-management)
+    - [Add a Template](#add-a-template)
+    - [Upgrade](#upgrade)
+    - [Apply a template to a router](#apply-a-template-to-a-router)
+    - [Apply a template to multiple routers](#apply-a-template-to-multiple-routers)
+- [Task List](#task-list)
+- [BLE MQTT Bridge](#ble-mqtt-bridge)
+- [GoodCloud and VPN](#goodcloud-and-vpn)
+- [Turn off cloud](#turn-off-cloud)
+
 ## Introduction
 
 GL.iNet GoodCloud cloud management service provide an easy and simple way to remotely access and manage routers. There is a video introduction below.
@@ -97,7 +138,7 @@ If the router and PC(which opened goodcloud.xyz page) are at the same public IPï
 
 DDNS or Device ID can be found on the back of your router, it is 7 characters.
 
-    PS: Input "DDNS" / "Device ID" here just to verify that the router is really 
+    Note: Input "DDNS" / "Device ID" here just to verify that the router is really 
     original/valid. DDNS feature and the Cloud feature are separate things.
 
     For most models, it is "DDNS" on the back, but for some models, 
@@ -114,7 +155,7 @@ Click `Refresh` to force auto discover devices again.
 
 If it can't discover automatically, try `Manually add`. All information that need to input can be found on the back of the router.
 
-    PS: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the 
+    Note: Input "MAC", "SN" and "DDNS" / "Device ID" here just to verify that the 
     router is really original and valid. DDNS feature and the Cloud feature are 
     separate things.
 
@@ -150,7 +191,7 @@ If you have encountered any difficulties, please send email to [support@gl-inet.
 
 ## Manage your devices
 
-### devices info and status
+### Devices info and status
 
 Sign in [Goodcloud](https://www.goodcloud.xyz), check at left side -> Device List
 
@@ -254,7 +295,7 @@ Site to Site allows offices in multiple locations to establish secure connection
 
 Senerio 1: A company has dozens of branch offices that they wish to join in a single private network to share resources.
 
-Senerio 2: A company has a close relationship with a partner company, the Site to Site allows the companies to work together in a secure, shared network environment while preventing access to their separate internets.
+Senerio 2: A company has a close relationship with a partner company, the Site to Site allows the companies to work together in a secure, shared network environment.
 
 Senerio 3: A family has IP camera and when they are not at home, the Site to Site allows to remote access the IP camera.
 
@@ -262,7 +303,7 @@ Senerio 3: A family has IP camera and when they are not at home, the Site to Sit
 
 It requires at least two routers, each in a different location, one of which has a public IP address. Please [check if your ISP assigns you a public IP address](../how_to_check_if_isp_assigns_you_a_public_ip_address). It requires firmware version 3.026 and above.
 
-### Steps to build a Site to Site network.
+### Steps to build a Site to Site network
 
 1. Bind your routers to GoodCloud. (<a href="#add-device">how?</a>)
 
@@ -338,7 +379,7 @@ Each sub Node build an encrypted tunnel netwrok to Main Node, if you want to cha
 
 You can use this feature to configure multiple parameters for a single device, or you can configure multiple parameters for multiple devices.
 
-    PS: This feature is only available to business users.
+    Note: This feature is only available to business users.
 
 ### Batch Setting of Single Device
 
@@ -364,7 +405,7 @@ Unchecked **Restart now** option will prompt.
 
 <a href="https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png" target="_blank"><img alt="config not take effect" src="https://static.gl-inet.com/goodcloud/docs/config_not_take_effect.png"></a>
 
-### Batch Setting of Mutiple Device
+### Batch Setting of Mutiple Devices
 
 Select the devices you want to configure.
 
@@ -382,23 +423,55 @@ Other Batch Operations: Move to other group, upgrade, restart, delete.
 
 Save frequently used configurations as templates and quickly apply them when you modify configurations in batches.
 
-    PS: This feature is only available to business users.
+    Note: This feature is only available to business users.
 
 ### Add a Template
 
-Check the configuration that needs to be modified and input value.
+Check the configuration that needs to be modified and input value. Most of the options are the same as those on web Admin Panel.
 
 ![Add Template](https://static.gl-inet.com/goodcloud/docs/add_template.png){class="glboxshadow"}
+
+#### Upgrade
+
+**Upgrade Path** is for upgrading custom firmware. Put the firmware and a text file on a web server, then put the url path on the **Upgrade Path**. For example, [https://fw.gl-inet.com/firmware/ar750/v1/](https://fw.gl-inet.com/firmware/ar750/v1/) is a Upgrade Path, it has a **list-sha256.txt** file [https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt](https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt) and a corresponding firmware file [https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin](https://fw.gl-inet.com/firmware/ar750/v1/openwrt-ar750-3.203-0701.bin).
+
+    Note: GL-AX1800, GL-S1300, GL-B1300, GL-AP1300 only support http path for now.
+
+![Template info](https://static.gl-inet.com/goodcloud/docs/template_upgrade_path.png){class="glboxshadow"}
+
+The content of the text file is like [this](https://fw.gl-inet.com/firmware/ar750/v1/list-sha256.txt), its name should be **list-sha256.txt**. It has 4 columns, the first column is firmware version, the second column is the name of firmware file, the thrid column is the sha256 of firmware file, the forth column is the size of firmware file.
+
+![gl-ar750 sha256](https://static.gl-inet.com/goodcloud/docs/ar750-sha256.png){class="glboxshadow"}
 
 Give the template a name and description.
 
 ![Template info](https://static.gl-inet.com/goodcloud/docs/template_info.png){class="glboxshadow"}
 
+### Apply a template to a router
+
+If you have created a template, then want to apply this template to a router. On the **Device List** page, find the router that you want to apply the template, make sure it is online, on the Actions column, click the cog icon, click **Modify Configuration** item. It will pop up a dialog **Configure batch modification**.
+
+On the top right corner of the dialog, you can choose a template that has already created. Then click **Apply** button on the bottom right corner.
+
+It will pop up another dialog to review the configuration of the template, scroll down to the bottom to click the **Confirm** button, it will load the configuration of template overwrite to this time modification.
+
+Click **Apply** button, please note that the router will restart to take effect after click the **Apply** button.
+
+### Apply a template to multiple routers
+
+If you have created a template, then want to apply this template to multiple routers. This procedure is similar to that applied to a single router. On the **Device List** page, multiple select routers, then click **Bulk Action**, click **Modify Configuration** item. It will pop up a dialog **Configure batch modification**.
+
+On the top right corner of the dialog, you can choose a template that has already created. Then click **Apply** button on the bottom right corner.
+
+It will pop up another dialog to review the configuration of the template, scroll down to the bottom to click the **Confirm** button, it will load the configuration of template overwrite to this time modification.
+
+Click **Apply** button, please note that the router will restart to take effect after click the **Apply** button.
+
 ## Task List
 
 At task list page, it shows the execution result of the configuration template.
 
-    PS: This feature is only available to business users.
+    Note: This feature is only available to business users.
 
 ![Task list](https://static.gl-inet.com/goodcloud/docs/task_list.png){class="glboxshadow"}
 
