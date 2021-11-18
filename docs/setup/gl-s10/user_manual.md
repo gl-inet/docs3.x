@@ -32,7 +32,7 @@ The GL-S10 is ideally deployed in warehouses, shopping malls, airports, exhibiti
 |  ----  | ----  |
 |  CPU   | ESP32-DOWD <br> Dual-core Xtensa ® 32-bit LX6 microprocessor  |
 |  Nor-Flash   | 4MB |
-|  RAM    | 8MB  |
+|  RAM    | SRAM 520KB + PSRAM 8MB  |
 |  BLE    | Supports BLE 4.2 Certification <br> Coverage of 80m (in an open and non-interference environment) <br> Receiving sensitivity - 97dBm   |
 |  WiFi    | 802.11b/g/n <br> Coverage of 80m (in an open and non-interference environment). <br> Transmitting power 11n: 13dBm; 11b: 18.5dBm <br> Speed 150Mbps   |
 |  WAN    | 1 Megabit Ethernet port   |
