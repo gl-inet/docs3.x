@@ -439,10 +439,11 @@ Others:
     <a href="https://www.ipvanish.com/" target="_blank">Official Website</a>
   </p>
   <p>
-    You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/">www.ipvanish.com/software/configs/ (configs.zip).</a>
+    You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/configs.zip">here</a>, then should upload this <strong>config.zip</strong> on the OpenVPN Client of web Admin Panel. Before uploading, please remove the servers in the .zip file that you will not use to reduce the file size.
   </p>
+  <p>You can also download individual server configuration files <a href="https://www.ipvanish.com/software/configs/">here</a>, but you will need to download <strong>ca.ipvanish.com.crt</strong> as well. Before uploading to the router, you need to compress the <strong>ca.ipvanish.com.crt</strong> and .ovpn configuration files into a .zip archive and upload them.</p>
   <p>
-    <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ipvanish/ipvanish_download_openvpn_configs.jpg" />
+    <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ipvanish/ipvanish_download_openvpn_configs.png" />
   </p>
   <p>
     <a href="https://support.ipvanish.com/hc/en-us/articles/360001329813-Android-OpenVPN-Setup" target >Refer link</a>
