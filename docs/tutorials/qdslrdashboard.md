@@ -50,7 +50,7 @@ qDslrDashboard is a Windows/Linux/MacOS and Android/iOS compatible app that lets
 
 **Sony:**
 
- - Sony cameras with built in wifi work directly with the qDslrDashboard apps, but since this guide is for GL-iNet routers, it will not be covered in this guide. Read the official documentation to find out how to get it work using your Sony camera here: [https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank}
+ - Sony cameras with built in Wi-Fi work directly with the qDslrDashboard apps, but since this guide is for GL-iNet routers, it will not be covered in this guide. Read the official documentation to find out how to get it work using your Sony camera here: [https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank}
 
 ### Client Downloads
 
@@ -67,15 +67,15 @@ At this point it is expected that your router works, and can connect to the inte
  - Login to your router and navigate to Applications -> Plug-ins
  - Click "update" in the top right:
 
-    ![Update](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr1.png)
+    ![Update](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr1.png){class="glboxshadow"}
 
  - Search for and install "ddserver"
 
-    ![Install](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr2.png)
+    ![Install](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr2.png){class="glboxshadow"}
 
  - To check if the installation was successful, go to the following url: [http://192.168.8.1/cgi-bin/luci/admin/system/startup](http://192.168.8.1/cgi-bin/luci/admin/system/startup). If you have changed the default ip of your router, use that in the link above instead. Login and in the list, find ddserver and make sure it says "enabled" as bellow:
 
-    ![Running](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr3.png)
+    ![Running](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr3.png){class="glboxshadow"}
 
  - Installation done, follow the usage guide bellow for some examples how to control your camera :)
 
@@ -85,31 +85,31 @@ This guide will show the process for a **Nikon D7000** camera, using a **GL-iNet
 This process might vary a little for the other clients, but should be just as straight forward.
 
  - Turn on your GL-iNet router and wait for it to boot up.
- - Connect your device, in my case an Android phone, to your GL-iNet router over wifi.
+ - Connect your device, in my case an Android phone, to your GL-iNet router over Wi-Fi.
  - Turn on and connect your camera using the right usb cable from your camera, to your router. My camera uses a Mini USB cable.
 
     ![Camera](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr4.jpg)
 
  - Open the client on your device, in this case Android, and tap and hold the button bellow to pop up the connection dialog:
 
-    ![Connect](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr5.png)
+    ![Connect](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr5.png){class="glboxshadow"}
 
  - Enter the IP of your router. You only have to do this 1 time, next time just tap the connection button to connect.
 Notice i am not using the default router IP since i have changed it:
 
-    ![IP](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr6.png)
+    ![IP](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr6.png){class="glboxshadow"}
 
  - You will see the connection info like bellow while connecting:
 
-    ![Connecting](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr7.png)
+    ![Connecting](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr7.png){class="glboxshadow"}
 
  - Once the connection is made, you will see this screen:
 
-    ![Main Screen](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr8.png)
+    ![Main Screen](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr8.png){class="glboxshadow"}
 
  - If your camera supports Liveview, you can press the "Lv" button to get a live view from the camera:
 
-    ![Live View](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr9.png)
+    ![Live View](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr9.png){class="glboxshadow"}
 
 ### Example Usage
 
@@ -118,8 +118,8 @@ Follow the official manual for guides on how to use all the features here:
 
 The following photos were taken using custom exposure bracketing, with 11 photos:
 
-![Custom Bracket](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr10.png)
+![Custom Bracket](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr10.png){class="glboxshadow"}
 
 And the HDR result after merging them:
 
-![HDR Result](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr11.jpg)
+![HDR Result](https://static.gl-inet.com/docs/en/3/tutorials/qdslrdashboard/qdslr11.jpg){class="glboxshadow"}

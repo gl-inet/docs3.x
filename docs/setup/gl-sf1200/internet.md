@@ -1,40 +1,30 @@
 # INTERNET
 
+On the left side of web Admin Panel -> INTERNET
+
+![internet page of gl-sf1200](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/internet/internet_page_gl-sf1200.png){class="glboxshadow"}
+
 There are total 2 types of connection method that you can use to access the Internet: **Cable** and **Repeater**.
-
-
-
-Click `INTERNET` to create an Internet connection.
-
-![internet](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/internet.jpg)
-
-  
 
 ---
 
-## 1) Cable
+## 1. Cable
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
-Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](internet#2-repeater). As a result, you can have one more LAN port.
+*Note: Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.*
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/cable.jpg)
-
-
+![cable](https://static.gl-inet.com/docs/en/3/setup/share/internet/cable_section_of_internet.png){class="glboxshadow"}
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
-![cable](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/dhcp_page.jpg)
-
-
+![cable](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_internet.png){class="glboxshadow"}
 
 ### DHCP
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
-![dhcp](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/dhcp.jpg)
-
-
+![dhcp](https://static.gl-inet.com/docs/en/3/setup/share/internet/dhcp_method.png){class="glboxshadow"}
 
 ### Static
 
@@ -42,9 +32,7 @@ Static is required if your Internet Service Provider (ISP) has provided a fixed 
 
 The current settings will be automatically filled once you choose Static. Change it according to your needs and then click `Apply`.
 
-![static](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/static.jpg)
-
-
+![static](https://static.gl-inet.com/docs/en/3/setup/share/internet/static_method.png){class="glboxshadow"}
 
 ### PPPoE
 
@@ -52,13 +40,11 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
-![PPPoE](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/pppoe_page.jpg)
-
-
+![PPPoE](https://static.gl-inet.com/docs/en/3/setup/share/internet/pppoe_method.png){class="glboxshadow"}
 
 ---
 
-## 2) Repeater
+## 2. Repeater
 
 Using Repeater means connecting the router to another existing wireless network, e.g. when you are using free Wi-Fi in a hotel or cafe.
 
@@ -66,12 +52,8 @@ It works in WISP (Wireless Internet Service Provider) mode by default, which mea
 
 In Repeater section, click `Scan` to search for the available wireless networks nearby.
 
-![scan wifi](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/repeater.jpg)
-
-
+![scan Wi-Fi](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_scan.png){class="glboxshadow"}
 
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
-![wifi connect](https://static.gl-inet.com/docs/en/3/setup/convexa_b/internet/repeater1.jpg)
-
-
+![Wi-Fi connect](https://static.gl-inet.com/docs/en/3/setup/share/internet/repeater_connect.png){class="glboxshadow"}

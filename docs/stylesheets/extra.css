@@ -10,7 +10,7 @@
   width: 100%;
   margin-bottom: 25px;
   display: grid;
-  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .gl-product-card {
   float: left;
@@ -25,6 +25,9 @@
 }
 .gl-product-card:hover {
   border-color: #b6bde3 !important;
+}
+img.glboxshadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 @media only screen and (max-width: 30em) {
 	.gl-product-row-box {

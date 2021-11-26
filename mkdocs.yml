@@ -12,6 +12,7 @@ copyright: Copyright &copy; 2021 GL Technologies & Microuter Technologies
 
 theme: 
   name: material
+  logo: images/logo.svg
   custom_dir: overrides
   features:
     - navigation.tabs
@@ -49,7 +50,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/gl-inet.com/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg?view_as=subscriber
+      link: https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg
     - icon: fontawesome/brands/pinterest
       link: https://www.pinterest.com/glinetWiFi/
   version:
@@ -84,38 +85,39 @@ markdown_extensions:
 nav:
   - Home:
     - Overview: index.md
-    - Services: service.md
   - Specification:
-    - Overview: specification/index.md
-    - GL-AR150: specification/gl-ar150/index.md
-    - GL-AR300M: specification/gl-ar300m/index.md
-    - GL-MT300N-V2: specification/gl-mt300n-v2/index.md
-    - GL-AR750: specification/gl-ar750/index.md
-    - GL-AR750S: specification/gl-ar750s/index.md
-    - GL-MT1300: specification/gl-mt1300/index.md
-    - GL-AX1800: specification/gl-ax1800/index.md
+    - Model Category: specification/index.md
+    - GL-AR150 (White): specification/gl-ar150/index.md
+    - GL-AR300M (Shadow): specification/gl-ar300m/index.md
+    - GL-MT300N-V2 (Mango): specification/gl-mt300n-v2/index.md
+    - GL-AR750 (Creta): specification/gl-ar750/index.md
+    - GL-AR750S-EXT (Slate): specification/gl-ar750s/index.md
+    - GL-MT1300 (Beryl): specification/gl-mt1300/index.md
+    - GL-AX1800 (Flint): specification/gl-ax1800/index.md
     - GL-MiFi: specification/gl-mifi/index.md
-    - GL-XE300: specification/gl-xe300/index.md
-    - GL-X750: specification/gl-x750/index.md
-    - GL-E750: specification/gl-e750/index.md
-    - GL-USB150: specification/gl-usb150/index.md
-    - GL-B1300: specification/gl-b1300/index.md
-    - GL-S1300: specification/gl-s1300/index.md
-    - GL-MV1000: specification/gl-mv1000/index.md
-    - GL-MV1000W: specification/gl-mv1000w/index.md
-    - GL-X1200: specification/gl-x1200/index.md
-    - GL-X300B: specification/gl-x300b/index.md
-    - GL-AP1300: specification/gl-ap1300/index.md
-    - GL-B2200: specification/gl-b2200/index.md
+    - GL-XE300 (Puli): specification/gl-xe300/index.md
+    - GL-X750 (Spitz): specification/gl-x750/index.md
+    - GL-E750 (Mudi): specification/gl-e750/index.md
+    - GL-USB150 (Microuter): specification/gl-usb150/index.md
+    - GL-B1300 (Convexa-B): specification/gl-b1300/index.md
+    - GL-S1300 (Convexa-S): specification/gl-s1300/index.md
+    - GL-MV1000 (Brume): specification/gl-mv1000/index.md
+    - GL-MV1000W (Brume-W): specification/gl-mv1000w/index.md
+    - GL-X1200 (Amarok): specification/gl-x1200/index.md
+    - GL-X300B (Collie): specification/gl-x300b/index.md
+    - GL-S10: specification/gl-s10/index.md
+    - GL-AP1300 (Cirrus): specification/gl-ap1300/index.md
+    - GL-B2200 (Velica): specification/gl-b2200/index.md
     - GL-SF1200: specification/gl-sf1200/index.md
     - microuter-N300: specification/microuter-n300/index.md
+    - VIXMINI: specification/vixmini/index.md
     - Domino Core: specification/domino-core/index.md
     - GL-MT300A: specification/gl-mt300a/index.md
     - GL-MT300N: specification/gl-mt300n/index.md
   - Setup:
-    - Overview: setup/index.md
+    - Model Category: setup/index.md
     - Mini Router Series:
-      - First-time Setup: setup/mini_router/first-time_setup.md
+      - First Time Setup: setup/mini_router/first_time_setup.md
       - Internet: setup/mini_router/internet.md
       - Wireless: setup/mini_router/wireless.md
       - Clients: setup/mini_router/clients.md
@@ -124,8 +126,8 @@ nav:
       - VPN: setup/mini_router/vpn.md
       - Applications: setup/mini_router/applications.md
       - More Settings: setup/mini_router/more_settings.md
-    - Creta (GL-AR750):
-      - First-time Setup: setup/gl-ar750/first-time_setup.md
+    - GL-AR750 (Creta):
+      - First Time Setup: setup/gl-ar750/first_time_setup.md
       - Internet: setup/gl-ar750/internet.md
       - Wireless: setup/gl-ar750/wireless.md
       - Clients: setup/gl-ar750/clients.md
@@ -134,8 +136,8 @@ nav:
       - VPN: setup/gl-ar750/vpn.md
       - Applications: setup/gl-ar750/applications.md
       - More Settings: setup/gl-ar750/more_settings.md
-    - Slate (GL-AR750S-Ext):
-      - First-time Setup: setup/gl-ar750s/first-time_setup.md
+    - GL-AR750S-EXT (Slate):
+      - First Time Setup: setup/gl-ar750s/first_time_setup.md
       - Internet: setup/gl-ar750s/internet.md
       - Wireless: setup/gl-ar750s/wireless.md
       - Clients: setup/gl-ar750s/clients.md
@@ -144,8 +146,8 @@ nav:
       - VPN: setup/gl-ar750s/vpn.md
       - Applications: setup/gl-ar750s/applications.md
       - More Settings: setup/gl-ar750s/more_settings.md
-    - Beryl (GL-MT1300):
-      - First-time Setup: setup/gl-mt1300/first-time_setup.md
+    - GL-MT1300 (Beryl):
+      - First Time Setup: setup/gl-mt1300/first_time_setup.md
       - Internet: setup/gl-mt1300/internet.md
       - Wireless: setup/gl-mt1300/wireless.md
       - Clients: setup/gl-mt1300/clients.md
@@ -154,17 +156,28 @@ nav:
       - VPN: setup/gl-mt1300/vpn.md
       - Applications: setup/gl-mt1300/applications.md
       - More Settings: setup/gl-mt1300/more_settings.md
-    - 4G Smart Router (GL-MiFi):
-      - First-time Setup: setup/gl-mifi/first-time_setup.md
+    - GL-AX1800 (Flint):
+      - First Time Setup: setup/gl-ax1800/first_time_setup.md
+      - Internet: setup/gl-ax1800/internet.md
+      - Wireless: setup/gl-ax1800/wireless.md
+      - Clients: setup/gl-ax1800/clients.md
+      - Upgrade: setup/gl-ax1800/upgrade.md
+      - Firewall: setup/gl-ax1800/firewall.md
+      - VPN: setup/gl-ax1800/vpn.md
+      - Applications: setup/gl-ax1800/applications.md
+      - More Settings: setup/gl-ax1800/more_settings.md
+    - GL-MiFi:
+      - First Time Setup: setup/gl-mifi/first_time_setup.md
       - Internet: setup/gl-mifi/internet.md
       - Wireless: setup/gl-mifi/wireless.md
       - Clients: setup/gl-mifi/clients.md
       - Upgrade: setup/gl-mifi/upgrade.md
+      - Firewall: setup/gl-mifi/firewall.md
       - VPN: setup/gl-mifi/vpn.md
       - Applications: setup/gl-mifi/applications.md
       - More Settings: setup/gl-mifi/more_settings.md
-    - Puli (GL-XE300):
-      - First-time Setup: setup/gl-xe300/first-time_setup.md
+    - GL-XE300 (Puli):
+      - First Time Setup: setup/gl-xe300/first_time_setup.md
       - Internet: setup/gl-xe300/internet.md
       - Wireless: setup/gl-xe300/wireless.md
       - Clients: setup/gl-xe300/clients.md
@@ -173,17 +186,18 @@ nav:
       - VPN: setup/gl-xe300/vpn.md
       - Applications: setup/gl-xe300/applications.md
       - More Settings: setup/gl-xe300/more_settings.md
-    - Spitz (GL-X750):
-      - First-time Setup: setup/gl-x750/first-time_setup.md
+    - GL-X750 (Spitz):
+      - First Time Setup: setup/gl-x750/first_time_setup.md
       - Internet: setup/gl-x750/internet.md
       - Wireless: setup/gl-x750/wireless.md
       - Clients: setup/gl-x750/clients.md
       - Upgrade: setup/gl-x750/upgrade.md
+      - Firewall: setup/gl-x750/firewall.md
       - VPN: setup/gl-x750/vpn.md
       - Applications: setup/gl-x750/applications.md
       - More Settings: setup/gl-x750/more_settings.md
-    - Mudi (GL-E750):
-      - First-time Setup: setup/gl-e750/first-time_setup.md
+    - GL-E750 (Mudi):
+      - First Time Setup: setup/gl-e750/first_time_setup.md
       - Internet: setup/gl-e750/internet.md
       - Wireless: setup/gl-e750/wireless.md
       - Clients: setup/gl-e750/clients.md
@@ -192,17 +206,18 @@ nav:
       - VPN: setup/gl-e750/vpn.md
       - Applications: setup/gl-e750/applications.md
       - More Settings: setup/gl-e750/more_settings.md
-    - Microuter (GL-USB150):
-      - First-time Setup: setup/gl-usb150/first-time_setup.md
+    - GL-USB150 (Microuter):
+      - First Time Setup: setup/gl-usb150/first_time_setup.md
       - Internet: setup/gl-usb150/internet.md
       - Wireless: setup/gl-usb150/wireless.md
       - Clients: setup/gl-usb150/clients.md
       - Upgrade: setup/gl-usb150/upgrade.md
+      - Firewall: setup/gl-usb150/firewall.md
       - VPN: setup/gl-usb150/vpn.md
       - Applications: setup/gl-usb150/applications.md
       - More Settings: setup/gl-usb150/more_settings.md
-    - Convexa-B (GL-B1300):
-      - First-time Setup: setup/gl-b1300/first-time_setup.md
+    - GL-B1300 (Convexa-B):
+      - First Time Setup: setup/gl-b1300/first_time_setup.md
       - Internet: setup/gl-b1300/internet.md
       - Wireless: setup/gl-b1300/wireless.md
       - Mesh: setup/gl-b1300/mesh.md
@@ -212,8 +227,8 @@ nav:
       - VPN: setup/gl-b1300/vpn.md
       - Applications: setup/gl-b1300/applications.md
       - More Settings: setup/gl-b1300/more_settings.md
-    - Convexa-S (GL-S1300):
-      - First-time Setup: setup/gl-s1300/first-time_setup.md
+    - GL-S1300 (Convexa-S):
+      - First Time Setup: setup/gl-s1300/first_time_setup.md
       - Internet: setup/gl-s1300/internet.md
       - Wireless: setup/gl-s1300/wireless.md
       - Mesh: setup/gl-s1300/mesh.md
@@ -223,19 +238,18 @@ nav:
       - VPN: setup/gl-s1300/vpn.md
       - Applications: setup/gl-s1300/applications.md
       - More Settings: setup/gl-s1300/more_settings.md
-    - Velica (GL-B2200):
-      - First-time Setup: setup/gl-b2200/first-time_setup.md
+    - GL-B2200 (Velica):
+      - First Time Setup: setup/gl-b2200/first_time_setup.md
       - Internet: setup/gl-b2200/internet.md
-      - Wireless: setup/gl-b2200/wireless.md
-      - Mesh: setup/gl-b2200/mesh.md
+      - Mesh / Wireless: setup/gl-b2200/wireless.md
       - Clients: setup/gl-b2200/clients.md
       - Upgrade: setup/gl-b2200/upgrade.md
       - Firewall: setup/gl-b2200/firewall.md
       - VPN: setup/gl-b2200/vpn.md
       - Applications: setup/gl-b2200/applications.md
       - More Settings: setup/gl-b2200/more_settings.md
-    - Brume (GL-MV1000):
-      - First-time Setup: setup/gl-mv1000/first-time_setup.md
+    - GL-MV1000 (Brume):
+      - First Time Setup: setup/gl-mv1000/first_time_setup.md
       - Internet: setup/gl-mv1000/internet.md
       - Wireless: setup/gl-mv1000/wireless.md
       - Clients: setup/gl-mv1000/clients.md
@@ -244,8 +258,8 @@ nav:
       - VPN: setup/gl-mv1000/vpn.md
       - Applications: setup/gl-mv1000/applications.md
       - More Settings: setup/gl-mv1000/more_settings.md
-    - Brume-W (GL-MV1000W):
-      - First-time Setup: setup/gl-mv1000w/first-time_setup.md
+    - GL-MV1000W (Brume-W):
+      - First Time Setup: setup/gl-mv1000w/first_time_setup.md
       - Internet: setup/gl-mv1000w/internet.md
       - Wireless: setup/gl-mv1000w/wireless.md
       - Clients: setup/gl-mv1000w/clients.md
@@ -255,7 +269,7 @@ nav:
       - Applications: setup/gl-mv1000w/applications.md
       - More Settings: setup/gl-mv1000w/more_settings.md
     - GL-SF1200:
-      - First-time Setup: setup/gl-sf1200/first-time_setup.md
+      - First Time Setup: setup/gl-sf1200/first_time_setup.md
       - Internet: setup/gl-sf1200/internet.md
       - Wireless: setup/gl-sf1200/wireless.md
       - Clients: setup/gl-sf1200/clients.md
@@ -264,16 +278,16 @@ nav:
       - VPN: setup/gl-sf1200/vpn.md
       - Applications: setup/gl-sf1200/applications.md
       - More Settings: setup/gl-sf1200/more_settings.md
-    - Amarok (GL-X1200):
-      - First-time Setup: setup/gl-x1200/first-time_setup.md
-    - Collie (GL-X300B):
-      - First-time Setup: setup/gl-x300b/first-time_setup.md
+    - GL-X1200 (Amarok):
+      - First Time Setup: setup/gl-x1200/first_time_setup.md
+    - GL-X300B (Collie):
+      - First Time Setup: setup/gl-x300b/first_time_setup.md
     - GL-S10:
-      - First-time Setup: setup/gl-s10/first-time_setup.md
-      - API Manual: setup/gl-s10/api_manual.md
+      - First Time Setup: setup/gl-s10/first_time_setup.md
+      - User Manual: setup/gl-s10/user_manual.md
       - Firmware Complilation Guide: setup/gl-s10/firmware_compilation_guide.md
-    - Cirrus (GL-AP1300/GL-AP1300LTE):
-      - First-time Setup: setup/gl-ap1300/first-time_setup.md
+    - GL-AP1300/GL-AP1300LTE (Cirrus):
+      - First Time Setup: setup/gl-ap1300/first_time_setup.md
       - Internet: setup/gl-ap1300/internet.md
       - Wireless: setup/gl-ap1300/wireless.md
       - Clients: setup/gl-ap1300/clients.md
@@ -283,16 +297,17 @@ nav:
       - Applications: setup/gl-ap1300/applications.md
       - More Settings: setup/gl-ap1300/more_settings.md
     - microuter-N300:
-      - First-time Setup: setup/microuter-n300/first-time_setup.md
+      - First Time Setup: setup/microuter-n300/first_time_setup.md
       - Internet: setup/microuter-n300/internet.md
       - Wireless: setup/microuter-n300/wireless.md
       - Clients: setup/microuter-n300/clients.md
       - Upgrade: setup/microuter-n300/upgrade.md
+      - Firewall: setup/microuter-n300/firewall.md
       - VPN: setup/microuter-n300/vpn.md
       - Applications: setup/microuter-n300/applications.md
       - More Settings: setup/microuter-n300/more_settings.md
     - VIXMINI:
-      - First-time Setup: setup/vixmini/first-time_setup.md
+      - First Time Setup: setup/vixmini/first_time_setup.md
       - Internet: setup/vixmini/internet.md
       - Wireless: setup/vixmini/wireless.md
       - Clients: setup/vixmini/clients.md
@@ -304,12 +319,15 @@ nav:
     - Repeater: tutorials/repeater.md
     - Turn off Wi-Fi: tutorials/turn_off_wifi.md
     - Produce a wired connection: tutorials/produce_a_wired_connection.md
+    - Connect to an existing Wi-Fi: tutorials/connect_to_an_existing_wifi.md
     - Hide SSID: tutorials/hide_ssid.md
     - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
     - Firmware Upgrade: tutorials/firmware_upgrade.md
     - Check Firmware Version: tutorials/check_firmware_version.md
+    - What is web Admin Panel: tutorials/web_admin_panel.md
     - SSH to the Router: tutorials/ssh.md
-    - Copy files to Router: tutorials/scp.md
+    - Extensible Authentication Protocol: tutorials/eap.md
+    - Modify files on the router: tutorials/scp.md
     - OpenVPN Client: tutorials/openvpn_client.md
     - OpenVPN Server: tutorials/openvpn_server.md
     - OpenVPN Bridge: tutorials/openvpn_bridge.md
@@ -319,62 +337,66 @@ nav:
     - Change WAN to LAN: tutorials/change_wan_to_lan.md
     - LED Indicators: tutorials/led.md
     - VPN Policies: tutorials/vpn_policies.md
+    - Protect Privacy: tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router.md
     - File Sharing: tutorials/file_sharing.md
-    - DLNA Server: tutorials/dlnaserver.md
+    - Multimedia File Sharing: tutorials/multimedia_file_sharing.md
+    - IPv6: tutorials/ipv6.md
     - DDNS: tutorials/ddns.md
     - Cloud: tutorials/cloud.md
+    - Cloufflare: tutorials/how_to_use_cloudflare_dns_over_tls_on_glinet_router.md
     - NextDNS: tutorials/nextdns.md
+    - Firewall: tutorials/firewall.md
+    - Check IP Address: tutorials/how_to_check_if_isp_assigns_you_a_public_ip_address.md
+    - Internet Priority: tutorials/internet_connection_priority.md
     - Mobile App: tutorials/mobile_app.md
+    - LuCI: tutorials/what_is_luci.md
+    - Cells Info: tutorials/cells_info.md
+    - SMS: tutorials/sms.md
     - SMS Forward: tutorials/sms_forward.md
     - LED Customization: tutorials/led_customization.md
     - Setup Captive Portal: tutorials/captive_portal.md
     - Connect to Captive Portal: tutorials/connect_to_a_hotspot_with_captive_portal.md
-    - BLE MQTT Bridge: tutorials/ble2mqtt.md
     - qDslrDashboard: tutorials/qdslrdashboard.md
     - EasyTether: tutorials/tether.md
     - Tor: tutorials/tor.md
     - Camera: tutorials/camera.md
   - Troubleshooting:
     - Overview: troubleshooting/index.md
-    - Can't access Admin Panel: troubleshooting/cannot_access_web_admin_panel.md
+    - Can't access web Admin Panel: troubleshooting/cannot_access_web_admin_panel.md
     - Repair or Reset: troubleshooting/reset.md
     - Debrick via Uboot: troubleshooting/debrick.md
     - Repeat Failure: troubleshooting/repeat_failure.md
     - Can't find SSID: troubleshooting/cannot_find_ssid.md
-    - Extensible Authentication Protocol: troubleshooting/eap.md
+    - Override DNS not take effect: troubleshooting/override_dns_settings_for_all_clients_not_take_effect.md
     - GoodCloud issues: troubleshooting/goodcloud.md
     - Modem FAQ: troubleshooting/modem_faq.md
     - FAQs: troubleshooting/faq.md
   - Release Notes:
     - Firmware Releases: release_notes/index.md
-    - GL-AR150: release_notes/GL-AR150.md
-    - GL-AR300M: release_notes/GL-AR300M.md
-    - GL-MT300N-V2: release_notes/GL-MT300N-V2.md
-    - GL-MT1300: release_notes/GL-MT1300.md
-    - GL-AR750: release_notes/GL-AR750.md
-    - GL-AR750S-Ext: release_notes/GL-AR750S-Ext.md
-    - GL-MiFi: release_notes/GL-MiFi.md
-    - GL-XE300: release_notes/GL-XE300.md
-    - GL-X300B: release_notes/GL-X300B.md
-    - GL-X750: release_notes/GL-X750.md
-    - GL-E750: release_notes/GL-E750.md
-    - GL-USB150: release_notes/GL-USB150.md
-    - GL-B2200: release_notes/GL-B2200.md
-    - GL-B1300: release_notes/GL-B1300.md
-    - GL-S1300: release_notes/GL-S1300.md
-    - GL-SF1200: release_notes/GL-SF1200.md
-    - GL-MV1000: release_notes/GL-MV1000.md
-    - GL-X1200: release_notes/GL-X1200.md
-    - GL-AP1300: release_notes/GL-AP1300.md
-    - microuter-N300: release_notes/microuter-N300.md
-    - VIXMINI: release_notes/VIXMINI.md
-    - GL-MT300A: release_notes/GL-MT300A.md
-    - GL-MT300N: release_notes/GL-MT300N.md
+    - GL-AR150 (White): release_notes/gl-ar150.md
+    - GL-AR300M (Shadow): release_notes/gl-ar300M.md
+    - GL-MT300N-V2 (Mango): release_notes/gl-mt300m-v2.md
+    - GL-MT1300 (Beryl): release_notes/gl-mt1300.md
+    - GL-AR750 (Creta): release_notes/gl-ar750.md
+    - GL-AR750S-EXT (Slate): release_notes/gl-ar750s-ext.md
+    - GL-MiFi: release_notes/gl-mifi.md
+    - GL-XE300 (Puli): release_notes/gl-xe300.md
+    - GL-X300B (Collie): release_notes/gl-x300b.md
+    - GL-X750 (Spitz): release_notes/gl-x750.md
+    - GL-E750 (Mudi): release_notes/gl-e750.md
+    - GL-USB150 (Microuter): release_notes/gl-usb150.md
+    - GL-B2200 (Velica): release_notes/gl-b2200.md
+    - GL-B1300 (Convexa-B): release_notes/gl-b1300.md
+    - GL-S1300 (Convexa-S): release_notes/gl-s1300.md
+    - GL-SF1200: release_notes/gl-sf1200.md
+    - GL-MV1000 (Brume): release_notes/gl-mv1000.md
+    - GL-X1200 (Amarok): release_notes/gl-x1200.md
+    - GL-AP1300 (Cirrus): release_notes/gl-ap1300.md
+    - microuter-N300: release_notes/microuter-n300.md
+    - VIXMINI: release_notes/vixmini.md
+    - GL-MT300A: release_notes/gl-mt300a.md
+    - GL-MT300N: release_notes/gl-mt300n.md
   - Development:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
-  - Video:
-    - Product Intro: video/product_intro.md
-    - Tutorial: video/tutor.md  
-    - Customer Review: video/review.md
-    - Unboxing: video/unboxing.md
+    - BLE MQTT Bridge: dev/ble2mqtt.md

@@ -2,17 +2,17 @@
 
 You may have bricked your router if you were doing some DIY projects or flashed a wrong firmware. You may not be able to access your router but you can re-install the firmware by using Uboot failsafe.
 
-
-
 ---
 
 Please follow the procedures below to access the Uboot Web UI and re-install the firmware.
 
-You can also refer to our video, [How to Use UBoot to Debrick Your GL.iNet Router 2021](https://docs.gl-inet.com/en/3/video/tutor/#how-to-use-uboot-to-debrick-your-glinet-router-2021).
+You can also refer to video tutorial below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EAaaw8nyrnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <ol type="1">
     <li><p>
-        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/firmware" target="_blank">here</a>. For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, GL-E750, GL-X1200, please download the .img firmware file. For GL-B1300, GL-S1300, please download the .img firmware. Everyone else, download the .bin firmware file.
+        First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">here</a>. Some models, such as GL-AR750S-EXT, it is available in two formats of firmware, please use the firmware with the .img extension.
         </p> 
     </li>
     <li>
@@ -33,7 +33,7 @@ You can also refer to our video, [How to Use UBoot to Debrick Your GL.iNet Route
         </p>
         <ul>
         	<li><b>6 times</b> for GL-MiFi, and then the LTE light will faintly flash twice.</li>
-            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-Ext (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2, GL-E750 (Mudi), microuter-N300.
+            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-EXT (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2, GL-E750 (Mudi), microuter-N300.
             </li>
             <li><b>4 times</b> for GL-S1300, GL-B1300. 
                 <div>The leftmost LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on. </div>
@@ -76,8 +76,6 @@ You can also refer to our video, [How to Use UBoot to Debrick Your GL.iNet Route
     <li>
     	<p>Click <b>Choose File</b> to find the firmware file. Then click <b>Update firmware</b>. 
         </p>
-        <p>For GL-AR300M, GL-AR300M-Ext, GL-AR750S-Ext, please download the .img firmware file and upload to the NAND flash.
-        <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/uboot.jpg"><p>
     </li>
     <li>
     	<p>Wait for around 3 minutes. Don’t power off your device when updating. The router is ready when both power and  Wi-Fi LED are on or you can find its SSID on your device.

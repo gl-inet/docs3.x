@@ -1,21 +1,19 @@
 # CLIENTS
 
-You can manage all connected devices in `CLIENTS`. 
+On the left side of web Admin Panel -> CLIENTS
 
-You can see their name, IP, MAC address and connection type.
+You can manage all connected clients in `CLIENTS` page. You can see their name, IP address, MAC address and connection type.Click the button on the right to block any unwanted client, you can't block yourself. Click the bin icon to delete offline device.
 
-![clients](https://static.gl-inet.com/docs/en/3/setup/brume/clients/1.png)
+![clients page](https://static.gl-inet.com/docs/en/3/setup/share/clients/clients_page.png){class="glboxshadow"}
 
-After you turn on Enable real-time speed and traffic statistics. 
+After you turn on `Enable real-time speed and traffic statistics`. You can see all devices' traffic and speed information. **Note this requires higher CPU load**.
 
-You can see all devices' traffic and speed information, click the button on the right to block any unwanted clients.
+![clients enable statistics](https://static.gl-inet.com/docs/en/3/setup/share/clients/clients_enable_statistics.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/setup/brume/clients/client1.png)
+You can set QoS for certain clients by click `Set`, a dialog will pop up, input the speed and click **Apply**.
 
+![clients QoS dialog](https://static.gl-inet.com/docs/en/3/setup/share/clients/clients_qos_dialog.png){class="glboxshadow"}
 
-You can set tech QoS for certain clients by click **Set**, 
-![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/client2.png)
-a speed limitation range window will pop-up, set the speed and click **Apply**.
+There is an yellow "exclamation mark" besides speed limited client, hover to check the limited speed. Click `Reset` to remove the restriction.
 
-![](https://static.gl-inet.com/docs/en/3/setup/convexa_b/clients/client3.png)
-There is an yellow "exclamation mark" besides speed limited client.
+![clients set QoS](https://static.gl-inet.com/docs/en/3/setup/share/clients/clients_set_qos.png){class="glboxshadow"}

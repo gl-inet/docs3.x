@@ -17,24 +17,6 @@
 </details>
 
 <details>
-<summary>Can I set up multiple SSIDs on the router?</summary>
-<ol type="1">
-<li>Go to <b>Luci</b> (http://192.168.8.1/cgi-bin/luci) -> <b>Network</b> -> <b>Wireless</b>.</li>
-<li>Click <b>Add</b> to create a new wireless interface.</li>
-<li>In <b>Interface Configuration</b>, you can input your own SSID. Please choose <i>Access Point (WDS)</i> <b>Mode</b> and tick <i>lan</i> for the <b>Network</b>.</li>
-<li>Move to <b>Wireless Security</b> to configure the Encryption.</li>
-<li>Click <b>Save & Apply</b> and then reboot your router.</li>
-<p><i>Note: In the Advanced Settings of Interface Configuration, you can leave it blank. If you want to give it a name such as wlan0, please use different names for different wireless interfaces.</i></p>
-<p><i>Note: The name of the interface can be changed in the Advanced Settings of Interface Configuration, you can leave it blank. If you want to give it a name such as wlan0, please use different names for different wireless interfaces.</i></p>
-</ol>
-</details>
-
-<details>
-<summary>Can I connect to an existing Wi-Fi network (i.e. public Wi-Fi or hotel Wi-Fi) and then create my own Wi-Fi network? </summary>
-<p>Yes, our routers will boardcast their own Wi-Fi network by default. Once you have connected to the router, you can connect it to an existing Wi-Fi network.</p>
-</details>
-
-<details>
 <summary>Why there is no captive portal page for me to enter my authentication information when I connect to a public hotspot?</summary>
 <p>Please follow the instructions below to disable the DNS rebind protection.</p>
 <ol type="1">
@@ -62,12 +44,6 @@
 <p>For 5GHz, you can choose channel 36 to 48, 149 to 165. Our routers don't support DFS Channel 52 to 140.</p>
 </details>
 
-<details>
-<summary>Can I connect to a EAP (Extensible Authentication Protocol) Wi-Fi network which requires username and password authentication?</summary>
-<p>Yes, the Admin Panel will ask you for your authentication information when you connect to a EAP Wi-Fi network. However, GL-MT300N-V2 doesn’t support EAP.</p>
-</details>
-
-
 ## Hardware/Accessory
 
 <details>
@@ -83,18 +59,18 @@
 
 <details>
 <summary>Can it work with 3G/4G USB modem?</summary>
-<p>Yes, only Microuter (GL-USB150) doesn't support USB modem. Please find the list of compatible USB modem <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#compatible-modems">here</a>.</p>
+<p>Yes, only Microuter (GL-USB150) doesn't support USB modem. Please find the list of compatible USB modem <a href="../../setup/mini_router/internet/#compatible-modems">here</a>.</p>
 </details>
 
 <details>
 <summary>Does this router work with SIM card directly?</summary>
 <p>Only our <b>4G Smart Router (GL-MiFi)</b> with built-in LTE module supports this feature. You can insert a <b>Micro SIM</b> into the SIM card slot of the router and then set up 3G/4G modem in the web Admin Panel.</p>
-<p>Please find the detailed setup instruction <a href="https://docs.gl-inet.com/en/3/setup/4g_smart_router/internet/#3-3g4g-modem">here</a>.</p>
+<p>Please find the detailed setup instruction <a href="../../setup/gl-mifi/internet/#3-3g4g-modem">here</a>.</p>
 </details>
 
 <details>
 <summary>Can I share the network data from my phone to the router?</summary>
-<p>Yes, you can connect your smartphone to the USB port of the router and then set up <a href="https://docs.gl-inet.com/en/3/setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
+<p>Yes, you can connect your smartphone to the USB port of the router and then set up <a href="../../setup/mini_router/internet/#4-tethering/">Tethering</a>. It works with Andriod and iPhone, but doesn’t work with Windows phone.</p>
 </details>
 
 <details>

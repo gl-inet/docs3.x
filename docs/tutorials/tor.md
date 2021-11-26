@@ -1,10 +1,8 @@
+# Using Tor in OpenWrt and GLi Routers
 
-Using Tor in OpenWrt and GLi Routers
-===================================
+This feature is builded in from V3.100.
 
-Tor feature is builded in from V3.100, please upgrade.
-
-![tor interface](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png)
+![tor interface](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png){class="glboxshadow"}
 
 If you don't want to upgrade, please read below.
 
@@ -40,8 +38,6 @@ To modify and compile the Tor firmware by yourself, please refer to the followin
 * [imagebuilder for MT300N, MT300A](https://github.com/gl-inet/imagebuilder-cc-ramips) based on OpenWrt CC 1505
 * [imagebuilder for MT300N-V2](https://github.com/gl-inet/imagebuilder-lede-ramips) based on LEDE 17.01.4
 
-
-
 ### Version 1.4:
 
 Only support `GL-AR150`, `GL-AR300M`, `GL-MT300N`, `GL-MT300A`, which has a `switch button` controlling whether you traffice should go through Tor or not.
@@ -52,9 +48,9 @@ Only support `GL-AR150`, `GL-AR300M`, `GL-MT300N`, `GL-MT300A`, which has a `swi
 
 Support `GL-AR150`,`GL.iNet6416`, `GL-AR300`. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. This firmware has a built-in UI based on Domino Pi which you can manage two SSIDs.
 
-### Version 1.0 with Luci:
+### Version 1.0 with LuCI:
 
-Support `GL-MT300A` and `GL-MT300N`. This is the firmware created for MT300A and MT300N with Luci. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. Connection from LAN port will always have Tor. Luci is installed but there is no Domino Pi UI.
+Support `GL-MT300A` and `GL-MT300N`. This is the firmware created for MT300A and MT300N with LuCI. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. Connection from LAN port will always have Tor. LuCI is installed but there is no Domino Pi UI.
 
 !!! Note
 
@@ -65,7 +61,7 @@ If you have questions about versions, please ask here or in the forum.
 All the firmwares is available at [https://dl.gl-inet.com/firmware/](https://dl.gl-inet.com/firmware/)
 Find your device name and then "tor" folder. Download the newest firmware.
 
-You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/) for instructions to flash the firmware to the router. 
+You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/first_time_setup/) for instructions to flash the firmware to the router. 
 
 | Model       | Tor firmware path                        | Newest Version | Note                                     |
 | ----------- | ---------------------------------------- | -------------- | ---------------------------------------- |
@@ -95,13 +91,13 @@ The first time you acess the setting UI, you will be asked to setup a new passwo
 
 NOTE: **This doesn't change your WiFi password. Change it later.**
 
-![First time](https://static.gl-inet.com/docs/en/2.x/app/src/tor/first_time.jpg)
+![First time](https://static.gl-inet.com/docs/en/2.x/app/src/tor/first_time.jpg){class="glboxshadow"}
 
 ###Login
 
 You will be asked to login using your `NEW` password now.
 
-![Login](https://static.gl-inet.com/docs/en/2.x/app/src/tor/login.jpg)
+![Login](https://static.gl-inet.com/docs/en/2.x/app/src/tor/login.jpg){class="glboxshadow"}
 
 ###Homepage
 
@@ -111,7 +107,7 @@ The UI is based on Domino Pi. It is quite simple. In your homepage you will be d
 2. Tor status. Please note if your tor reconnects this information may not be accurate. 
 3. Usage of your flash
 
-![Homepage](https://static.gl-inet.com/docs/en/2.x/app/src/tor/homepage.jpg)
+![Homepage](https://static.gl-inet.com/docs/en/2.x/app/src/tor/homepage.jpg){class="glboxshadow"}
 
 ###System and firmware upgrade
 
@@ -122,11 +118,11 @@ You can click the `SYSTEM` button from the left sidebar to view the system infor
 3. Change your timezone
 4. Check your firmware version and upgrade it, from online or mannually.
 
-![System](https://static.gl-inet.com/docs/en/2.x/app/src/tor/system.jpg)
+![System](https://static.gl-inet.com/docs/en/2.x/app/src/tor/system.jpg){class="glboxshadow"}
 
 If the firmware on our website is newer, you can click `Download` and follow the instructions to upgrade the firmware.
 
-![Upgrade](https://static.gl-inet.com/docs/en/2.x/app/src/tor/upgrade.jpg)
+![Upgrade](https://static.gl-inet.com/docs/en/2.x/app/src/tor/upgrade.jpg){class="glboxshadow"}
 
 ###Network Settings
 
@@ -136,13 +132,13 @@ Click the `NETWORK` button on the left sidebar to view and change the network se
 2. Wireless parameters: `ssid`, `encryption` and `passsword`
 3. LAN IP
 
-![Network](https://static.gl-inet.com/docs/en/2.x/app/src/tor/network.jpg)
+![Network](https://static.gl-inet.com/docs/en/2.x/app/src/tor/network.jpg){class="glboxshadow"}
 
 3G 4G settings
 
 If you connect a 3G or 4G USB modem, you can set the internet to the modem. You need to choose `3G` as protocol, choose modem device, usually `/dev/ttyUSBx`, choose `umts` or `evdo`, then input your `apn` etc. 
 
-![3G 4G LTE](https://static.gl-inet.com/docs/en/2.x/app/src/tor/3g.jpg)
+![3G 4G LTE](https://static.gl-inet.com/docs/en/2.x/app/src/tor/3g.jpg){class="glboxshadow"}
 
 Repeater settings. It will search for available ssid automatically. You need to choose ssid and type your password. 
 
@@ -150,18 +146,18 @@ Repeater settings. It will search for available ssid automatically. You need to 
 
 **This firmware don't have repeater manager as our stock firmware.** If you move to another location, your wifi maybe not work and you need to re-setup. Refer to the button action section in this page.
 
-![Repeater](https://static.gl-inet.com/docs/en/2.x/app/src/tor/repeater.jpg)
+![Repeater](https://static.gl-inet.com/docs/en/2.x/app/src/tor/repeater.jpg){class="glboxshadow"}
 
-###Luci
+### LuCI
 
 Click the `LUCI` button on the left sidebar you can have the LUCI UI. You can go back to Domino UI by clicking the `Domino Web Panel` link on the bottom right corner.
 
-![LUCI](https://static.gl-inet.com/docs/en/2.x/app/src/tor/luci.jpg)
+![LUCI](https://static.gl-inet.com/docs/en/2.x/app/src/tor/luci.jpg){class="glboxshadow"}
 
 ##Reset button and hardware switch usage
 Reset button and switch is assigned special functions.
 
-![Reset](https://static.gl-inet.com/docs/en/2.x/app/src/tor/button_leds.jpg)
+![Reset](https://static.gl-inet.com/docs/en/2.x/app/src/tor/button_leds.jpg){class="glboxshadow"}
 
 ###Reset
 

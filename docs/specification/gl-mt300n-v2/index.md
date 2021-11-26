@@ -6,7 +6,7 @@ MT300N-V2 is an upgraded version of MT300N. The differences include:
 
 * RAM is doubled to 128MB 
 * WiFi performance is improved using MTK proprietary driver. This driver doesn't support monitoring mode. But it support layer 2 bridging for all kinds of AP, which is not the case of opensource drivers.
-* Opensource wifi drivers also work but it has some bugs and cause kernel panic. This problem was never solved by the community.  
+* Opensource Wi-Fi drivers also work but it has some bugs and cause kernel panic. This problem was never solved by the community.  
 * No PoE options.
 
 ##  Hardware Specification

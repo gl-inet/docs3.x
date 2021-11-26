@@ -2,7 +2,7 @@
 
 1. Make sure your device is close to the router.
 2. Make sure the **SSID Visibility** of 2.4G Wi-Fi and 5G Wi-Fi is **Shown**.
-    ![](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_find_ssid/ssid_visibility_is_shown.jpg)
+    ![ssid visibility](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_find_ssid/ssid_visibility_is_shown.jpg){class="glboxshadow"}
 3. Try to turn off and turn on to let your device rescan Wi-Fi.
 4. Try to restart router.
 5. Try to [reset](../reset) router.

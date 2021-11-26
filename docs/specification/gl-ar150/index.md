@@ -110,7 +110,7 @@ PoE only works on the ***WAN Port only***
 
 
 
-![AR150 PoE Connection](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-PoE_setup.png)
+![AR150 PoE Connection](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-PoE_setup.png){class="glboxshadow"}
 
 
 
@@ -120,7 +120,7 @@ The following PoE injector is widely availabe in the market and it is very affor
 
 ***For PoE Version Only***
 
-![PoE switch and Ethernet cable](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/white_1000x1000_PoE_2.jpg) 
+![PoE switch and Ethernet cable](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/white_1000x1000_PoE_2.jpg){class="glboxshadow"} 
 
 
 

@@ -1,18 +1,24 @@
-# OpenVPN
+# Setup OpenVPN Client
 
 OpenVPN is an open-source VPN protocol that makes use of virtual private network (VPN) techniques to establish safe site-to-site or point-to-point connections. 
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
+We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Client, please check out [here](../wireguard_client).
+
+If you have already bought OpenVPN service from a provider, but you don't know how to get the configuration file, please refer to [Get your configuration file](#get-your-configuration-file).
+
+We can setup OpenVPN Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated NordVPN.
+
 ## Setup OpenVPN Client
 
 There is a video tutorial as ExpressVPN as example, please check out [here](#video-tutorial).
 
-OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection. If you have your own VPN service provider but you don't know how to get the configuration file, please refer to [Get your configuration file](#get-your-configuration-file).
+OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection.
 
-Click `+ Add a New VPN Configuration` to upload the configuration file.
+Access to web Admin Panel, on the left side -> VPN -> OpenVPN Client
 
-![client](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/client.jpg)
+![add a new openvpn configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/add_a_new_openvpn_configuration.png){class="glboxshadow"}
 
 ### Upload your OpenVPN configuration file
 
@@ -20,35 +26,39 @@ Simply drag and drop your file to the pop up windows. It can be a single .ovpn f
 
 Be careful that some .ovpn files use separated ca, cert, crl files. These files must be zipped together with the .ovpn file before upload.
 
-![Upload](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/upload.jpg)
+![Upload openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/upload_openvpn_config.png){class="glboxshadow"}
 
 You may encouter some problems, like not enough space, invalid file, authorization failed, all other VPN services must be stopped first, please check out [here](#video-tutorial).
 
 ### Enter Description, Username and Password
 
-Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter your username and password.
+Enter a description for your OpenVPN configuration file and then click `Submit` to finish the upload process. In some cases, it will ask you to enter the username and password. If you don't know the username and password, please contact the OpenVPN service provider.
 
-![add](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/add.jpg)
+![uploaded openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/uploaded_openvpn_config.png){class="glboxshadow"}
 
 ### Connect to the OpenVPN server
 
 You can now click `Connect` to start the OpenVPN connection.
 
-![connect](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/connect.jpg)
+![has imported openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/imported_openvpn_config.png){class="glboxshadow"}
+
+If your configureation file is an archive file, like .zip, you can switch server at the cog icon.
+
+![switch server zip config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/switch_server_zip_config.png){class="glboxshadow"}
 
 Once connected, you should find your IP address, data received/sent.
 
-![connected](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/connected.jpg)
+![connected openvpn](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/connected_openvpn_config.png){class="glboxshadow"}
 
-Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
+**Note that you can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.**
 
 ### Manage configuration files
 
-Click `Management` to check the list of configuration files. You can modify the **Description**, **User name** or **Password** of each configuration file. You can also add, delete a configuration file or even purge all your uploaded configuration files.
+Click `Management` to check the list of configuration files. You can modify the **Description**, **User name** and **Password** of each configuration file. You can also add, delete a configuration file or even purge all your uploaded configuration files.
 
 If your configuration file is a zip/tar.gz file which includes multiple ovpn files, you can choose an individual .ovpn file that you would like to connect in **Server**.
 
-![management](https://static.gl-inet.com/docs/en/3/tutorials/openvpn/src/management.jpg)
+![edit openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/edit_openvpn_config.png){class="glboxshadow"}
 
 ## Get your configuration file
 
@@ -64,34 +74,10 @@ Recommended:
     <a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902" target="_blank">Official Website</a>
   </p>
   <p>
-    Download OpenVPN client configuration files. We recommend going into <a href="https://nordvpn.com/servers/tools/" target="_blank">NordVPN recommended server utility here</a>.
+    Download OpenVPN client configuration files. We recommend going into <a href="https://nordvpn.com/servers/tools/" target="_blank">NordVPN recommended server utility here</a>. It will recommend a server base on your network, click <code>Show available protocols</code> to download the UDP or TCP config.
   </p>
   <p>
-    <img alt="nordvpn server utility" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/nordvpn/nordvpn_server_utility.jpg">
-  </p>
-  <p>
-    As show above, download the configuration file, then go to the web Admin Panel, default is http://192.168.8.1, OpenVPN Client --> Add a New OpenVPN Configuration
-  </p>
-  <p>
-    <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/nordvpn/openvpn_client.jpg"/>
-  </p>
-  <p>
-    It will pop up a dialog.
-  </p>
-  <p>
-    <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/nordvpn/new_openvpn_configuration.jpg"/>
-  </p>
-  <p>
-    Drag the .ovpn file jsut downloaed to the dialog, it will ask username and password. Input the NordVPN credentials and click <b>Submit</b>.
-  </p>
-  <p>
-    <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/nordvpn/nordvpn_username_password.jpg"/>
-  </p>
-  <p>
-    Choose the configuration name and click <b>Connect</b>.
-  </p>
-  <p>
-    <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/nordvpn/nordvpn_connect.jpg"/>
+    <img alt="nordvpn server utility" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordvpn_server_utility.png" class="glboxshadow">
   </p>
   <p>
     Of course you can download all servers configs <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">here</a>.
@@ -148,7 +134,7 @@ Recommended:
       <p>
         If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find <b>Config Generator</b> from the <b>Tools</b> menu. Choose the <b>VPN Server</b> and some other options. Then click <b>Generate Config</b> a config file will be downloaded automatically.</p>
       <p>
-        <img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/torguard/torguard_menu.jpg"/>
+        <img alt="Generate ovpn" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_menu.jpg" class="glboxshadow">
       </p>
     </li>
     <li>
@@ -156,7 +142,7 @@ Recommended:
         The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password below.
       </p>
       <p>
-        <img alt="torguard vpn username vpn password" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/torguard/torguard_vpnusername_vpnpassword.png" />
+        <img alt="torguard vpn username vpn password" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png" class="glboxshadow">
       </p>
     </li>
   </ol>
@@ -182,19 +168,19 @@ Recommended:
   <ol type="1">
     <li>Login your <a href="https://proton.go2cloud.org/SH9s">Proton VPN</a> account.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/proton1.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton1.png" />
     </p>
     <li>Click "Download" in the left-hand side.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/proton2.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton2.png" />
     </p>
     <li>Choose Router</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/proton3.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton3.png" />
     </p>
     <li>Choose the protocol based on your preference and download the configuration files.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/proton4.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton4.png" />
     </p>
 </ol>
 </details>
@@ -211,11 +197,11 @@ Recommended:
   <ol type="1">
     <li>Log in to your <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank" rel="sponsored">ExpressVPN</a> account.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN1.jpg" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn1.jpg" />
     </p>
     <li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN2.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn2.png" />
     </p>
     <li>
       Click on Manual Config on the left side of the screen and then select the OpenVPN tab on the right. You will first see your username and password and then a list of OpenVPN configuration files.
@@ -227,7 +213,7 @@ Recommended:
       Note: Please have your username and password ready, as you will be asked to enter them later in the setup process.
     </p>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/ExpressVPN3.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn3.png" />
     </p>
 </ol>
 </details>
@@ -243,15 +229,15 @@ Others:
   <ol type="1">
     <li>Login your AirVPN acoount</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/AirVPN1.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/airvpn/airvpn1.png" />
     </p>
     <li>Choose Config Generator on the left and then choose Linux as your operating system. Next, choose your preferred server.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/AirVPN2.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/airvpn/airvpn2.png" />
     </p>
     <li>You will be able to see the download page of the configuration file.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/AirVPN3.png" />
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/airvpn/airvpn3.png" />
     </p>
 </ol>
 </details>
@@ -268,19 +254,19 @@ Others:
   <ol type="1">
     <li>Generate and Download Astrill Openvpn configuration ZIP</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/Astrill1.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/astrillvpn/astrill1.png" />
     </p>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/Astrill2.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/astrillvpn/astrill2.png" />
     </p>
     <li>Type a Description like OPENVPN_GUI.</li>
     <li>Click on ADD to my certificates button.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/Astrill3.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/astrillvpn/astrill3.png" />
     </p>
     <li>Once OpenVPN certificate is added, click on Download button.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/Astrill4.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/astrillvpn/astrill4.png" />
     </p>
 </ol>
 </details>
@@ -309,7 +295,7 @@ Others:
     <a href="https://www.cactusvpn.com/downloads/" target="_blank">Download</a> directly.
   </p>
   <p>
-    <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/CactusVPN1.jpg" />
+    <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cactusvpn/cactusvpn1.jpg" />
   </p>
 </details>
 
@@ -336,15 +322,15 @@ Others:
   <ol type="1">
     <li>Login your CyberGhost VPN online account.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/Cyberghost1.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost1.png" />
     </p>
     <li>Click on 'My Devices'  > click 'Other' > choose 'Configure new device'.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/Cyberghost2.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost2.png" />
     </p>
     <li>At the new screen, in the 'Server configuration' tab, the desired parameters can be configured. For the purpose of setting OpenVPN for your DD-WRT Router, choose 'OpenVPN' from the Protocol drop down menu. Your desired country and server group, as described below, need to be defined too:</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/Cyberghost/Cyberghost3.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost3.png" />
     </p>
     <ul>
       <li>Protocol: For Router configurations, please choose OpenVPN</li>
@@ -365,34 +351,9 @@ Others:
   <p>
     <a href="https://go.fastestvpn.com/affiliate/pap?a_aid=5ffd2a3e9d687" target="_blank">Official Website</a>
   </p>
-  <ol type="1">
-    <li>Download FastestVPN Config Files zip folder for OpenVPN TCP and UDP from <a href="https://support.fastestvpn.com/download/openvpn-tcp-udp-config-files/">here</a>. Extract the folder somewhere.</li>
-    <li>Go to the web Admin Panel, default is <a href="http://192.168.8.1" target="_blank">http://192.168.8.1</a>, OpenVPN Client --> Add a New OpenVPN Configuration</li>
-    <p>
-      <img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/fastestvpn/fastestvpn1.png" />
-    </p>
-    <li>Go to the <b>Fastestvpn_ovpn</b> folder which you downloaded in step 1. Open <b>TCP</b> or <b>UDP</b> whichever protocol you want to connect to.</li>
-    <p>
-      Select your desired server file and drag and drop in GL.iNet setup window, such as UK-UDP.
-    </p>
-    <p><b>Note:</b> You can drop multiple .ovpn files.</p>
-    <p>
-      <img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/fastestvpn/fastestvpn2.png" />
-    </p>
-    <li>Enter a description for your VPN such as “FastestVPN-UK. Then enter your FastestVPN username and Password in the respective fields.</li>
-    <p>Click on "Submit"</p>
-    <p>
-      <img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/fastestvpn/fastestvpn3.png" />
-    </p>
-    <li>Click <b>Connect</b>, You’ll be connected to FastestVPN shortly.</li>
-    <p>
-      <img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/fastestvpn/fastestvpn4.png" />
-    </p>
-    <p>Click on Disconnect when you want to disconnect the VPN.</p>
-    <p>
-      <img alt="GL.iNet OpenVPN Client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/fastestvpn/fastestvpn5.png" />
-    </p>
-  </ol>
+  <p>
+    Download FastestVPN Config Files zip folder for OpenVPN TCP and UDP from <a href="https://support.fastestvpn.com/download/openvpn-tcp-udp-config-files/">here</a>.
+  </p>
   <p>
     <a href="https://support.fastestvpn.com/tutorials/routers/gl-inet/openvpn" target="_blank">Refer link</a>
   </p>
@@ -404,23 +365,23 @@ Others:
   <ol type="1">
     <li>Login your FinchVPN account.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/finchvpn1.jpg" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/finchvpn/finchvpn1.jpg" />
     </p>
     <li>Go to the Download page and click Download under FinchVPN OpenVPN Config.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/finchvpn2.jpg" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/finchvpn/finchvpn2.jpg" />
     </p>
     <li>Choose Linux</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/finchvpn3.jpg" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/finchvpn/finchvpn3.jpg" />
     </p>
     <li>Choose the protocol based on your preference. Generally, you can choose the first one “Port 8484 over UDP”</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/finchvpn4.jpg" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/finchvpn/finchvpn4.jpg" />
     </p>
     <li>Remember to tick the box to include your username and password before download the file.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/finchvpn5.jpg" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/finchvpn/finchvpn5.jpg" />
     </p>
   </ol>
 </details>
@@ -434,15 +395,15 @@ Others:
     <li>Login your HideIPVPN account.</li>
     <li>Go to Package on the left side, click the your package, make sure it is active.</li>
     <p>
-      <img alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/hideipvpn/package.jpg" />
+      <img class="glboxshadow" alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/hideipvpn/package.jpg" />
     </p>
     <li>On the VPN tab, there is VPN Login Details of username and password, this is for login when OpenVPN connection</li>
     <p>
-      <img alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/hideipvpn/vpn_username_password.jpg" />
+      <img class="glboxshadow" alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/hideipvpn/vpn_username_password.jpg" />
     </p>
     <li>Scroll down to download OpenVPN config files.</li>
     <p>
-      <img alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/hideipvpn/openvpn_config_files.jpg" />
+      <img class="glboxshadow" alt="hideipvpn client area" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/hideipvpn/openvpn_config_files.jpg" />
     </p>
   </ol>
 </details>
@@ -456,7 +417,7 @@ Others:
     <li>Login your Hide.me account, find the Server Locations on the left side.</li>
     <li>Download the OpenVPN Configuration for Windows.</li>
     <p>
-      <img alt="hide.me vpn dashboard" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/hideme/hideme_dashboard.jpg" />
+      <img class="glboxshadow" alt="hide.me vpn dashboard" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/hideme/hideme_dashboard.jpg" />
     </p>
   </ol>
 </details>
@@ -472,23 +433,17 @@ Others:
 </details>
 
 
-<details id="ivacy">
+<details>
 <summary>IPVANISH</summary>
   <p>
     <a href="https://www.ipvanish.com/" target="_blank">Official Website</a>
   </p>
   <p>
-    You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/">www.ipvanish.com/software/configs/ (configs.zip).</a>
+    You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/configs.zip">here</a>, then should upload this <strong>config.zip</strong> on the OpenVPN Client of web Admin Panel. Before uploading, please remove the servers in the .zip file that you will not use to reduce the file size.
   </p>
+  <p>You can also download individual server configuration files <a href="https://www.ipvanish.com/software/configs/">here</a>, but you will need to download <strong>ca.ipvanish.com.crt</strong> as well. Before uploading to the router, you need to compress the <strong>ca.ipvanish.com.crt</strong> and .ovpn configuration files into a .zip archive and upload them.</p>
   <p>
-    <img src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ipvanish_download_openvpn_configs.jpg" />
-  </p>
-  <p>Drag the configs.zip to the New OpenVPN Configuration dialog</p>
-  <p>
-    <img src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ipvanish_drag_import_configs.jpg" />
-  </p>
-  <p>
-    User Name and Password is your IPVanish username and password.
+    <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ipvanish/ipvanish_download_openvpn_configs.png" />
   </p>
   <p>
     <a href="https://support.ipvanish.com/hc/en-us/articles/360001329813-Android-OpenVPN-Setup" target >Refer link</a>
@@ -496,34 +451,16 @@ Others:
 </details>
 
 
-<details id="ivpnid">
+<details>
 <summary>IVACY</summary>
   <p>
     <a href="https://billing.ivacy.com/page/22852" target="_blank">Official Website</a>
   </p>
   <p>
-    <a href="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ivacy/IVACY_OpenVPN_Configs_UDP.zip" target="_blank">Download OpenVPN UDP Configs</a>
+    <a href="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ivacy/IVACY_OpenVPN_Configs_UDP.zip" target="_blank">Download OpenVPN UDP Configs</a>
   </p>
   <p>
-    <a href="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ivacy/IVACY_OpenVPN_Configs_TCP.zip" target="_blank">Download OpenVPN TCP Configs</a>
-  </p>
-  <p>
-    Download the UDP or TCP OpenVPN configs. Then drag the zip file to GL.iNet router New OpenVPN Configuration dialog.
-  </p>
-  <p>
-    <img src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ivacy/add_a_new_openvpn_configuration.jpg" />
-  </p>
-  <p>
-    It will pop up a dialog ask for username and password, just input the email and password you login ivacy.com
-  </p>
-  <p>
-    <img src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ivacy/ivacy_add_new_configs.jpg" />
-  </p>
-  <p>
-    Choose the server by click the button show in the image below, and click Connect button.
-  </p>
-  <p>
-    <img src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ivacy/switch_servers.png" />
+    <a href="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ivacy/IVACY_OpenVPN_Configs_TCP.zip" target="_blank">Download OpenVPN TCP Configs</a>
   </p>
   <p>
     <a href="https://support.ivacy.com/setup_guide/how-to-setup-ivacy-on-gl-inet-router/" target="_blank">Refer link</a>
@@ -545,7 +482,7 @@ Others:
     </li>
     <li>
       <p>When drag the config file to Add a New OpenVPN Configuration, you will be asked to enter User Name and Password. The User Name is your Account ID that begins with letters 'ivpn'. The password can be anything, like "ivpn"</p>
-      <p><img alt="ivpn set up on gl.inet router" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard/ivpn_set_up_openvpn_client.png" /></p>
+      <p><img class="glboxshadow" alt="ivpn set up on gl.inet router" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ivpn/ivpn_set_up_openvpn_client.png" /></p>
     </li>
     <p><a href="https://www.ivpn.net/setup/gnu-linux-terminal.html" target="_blank">Refer link</a></p>
   </ol>
@@ -561,26 +498,13 @@ Others:
     Just login, then you can easy get the OpenVPN configurations file by click the menu below.
   </p>
   <p>
-    <img alt="get ovpn configuration files" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ovpn/get_ovpn_configuration_files.jpg"/>
+    <img class="glboxshadow" alt="get ovpn configuration files" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ovpn/get_ovpn_configuration_files.jpg"/>
   </p>
   <p>Choose the server and download.</p>
   <p>
-    <img alt="download ovpn openvpn configuration files" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/ovpn/download_configuration_files.jpg"/>
+    <img class="glboxshadow" alt="download ovpn openvpn configuration files" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ovpn/download_configuration_files.jpg"/>
   </p>
   <p>The username and password are the same you login OVPN.</p>
-</details>
-
-
-<details>
-<summary>Proxy.sh</summary>
-  <p>
-    <a href="https://proxy.sh/panel/aff.php?aff=1458" target="_blank">Official Website</a>
-  </p>
-  <p>Download according to the service that you have subscribed:</p>
-  <p><a href="https://proxy.sh/s/openvpn">$2 customers</a></p>
-  <p><a href="https://proxy.sh/m/openvpn">$5 customers</a></p>
-  <p><a href="https://proxy.sh/l/openvpn">$10 customers</a></p>
-  <p><a href="https://proxy.sh/p/openvpn">$20 customers</a></p>
 </details>
 
 
@@ -595,7 +519,7 @@ Others:
 </details>
 
 
-<details id="strongvpn">
+<details>
 <summary>SaferVPN</summary>
   <p>
     <a href="https://safervpn.com/?a_aid=563" target="_blank">Official Website</a>
@@ -604,7 +528,7 @@ Others:
     <a href="https://support.safervpn.com/hc/en-us/articles/360035425314-What-are-SaferVPN-s-OpenVPN-configuration-ovpn-files-for-manual-setup-">Download</a> directly.
   </p>
   <p>
-    <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/SaferVPN1.png" />
+    <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/safervpn/safervpn1.png" />
   </p>
 </details>
 
@@ -617,11 +541,11 @@ Others:
   <ol type="1">
     <li>Login with your <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a> account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
     <p>
-      <img alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/strong_vpn_setup_01.jpg" />
+      <img class="glboxshadow" alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_01.jpg" />
     </p>
     <li>Find the Manual setup section, follow the steps to get configuration.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/strong_vpn_setup_02.jpg" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_02.jpg" />
     </p>
   </ol>
 </details>
@@ -636,7 +560,7 @@ Others:
     <a href="https://vpn.ac/ovpn/">Download</a> directly.
   </p>
   <p>
-    <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/VPN.Ac1.png" />
+    <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpn.ac/vpn.ac1.png" />
   </p>
 </details>
 
@@ -652,11 +576,11 @@ Others:
     </p>
     <li>Click OpenVPN Config file under the column “OpenVPN”.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/VPNGate1.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpngate/vpngate1.png" />
     </p>
     <li>You will see the download page.</li>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/VPNGate2.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpngate/vpngate2.png" />
     </p>
   </ol>
 </details>
@@ -679,7 +603,7 @@ Others:
       Pick a device from the list or create a new one. If you are out of free slots, delete an old device or buy extra slots.
     </p>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/KeepSolid1.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpnunlimited/keepsolid1.png" />
     </p>
     <li>
       <p>Choosethe desired server location</p>
@@ -688,14 +612,14 @@ Others:
     <li>Select the VPN protocol</li>
     <p>For the IKEv2 protocol, you will also need to specify your device’s platform.</p>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/KeepSolid2.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpnunlimited/keepsolid2.png" />
     </p>
     <li>Create a configuration</li>
     <p>
       Press Generate and you will get all the data required to set up a VPN connection.
     </p>
     <p>
-      <img alt="ovpn manager" src="https://static.gl-inet.com/docs/en/2.x/app/src/openvpn/KeepSolid3.png" />
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpnunlimited/keepsolid3.png" />
     </p>
   </ol>
 </details>
@@ -709,26 +633,26 @@ Others:
     <ol type="1">
       <li>Access the Members Area to make a custom config using the Config Generator.</li>
       <p>
-        <img alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/wevpn/wevpn_manual_configuration_generator.jpg">
+        <img class="glboxshadow" alt="wevpn manual configuration generator" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/wevpn/wevpn_manual_configuration_generator.jpg">
       </p>
       <li>Choose the Protocal to UDP or TCP, the OpenVPN version, and the location. Then to download the configuration. </li>
       <li>Go to the web Admin Panel, default is http://192.168.8.1, OpenVPN Client --> Add a New OpenVPN Configuration</li>
       <p>
-        <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/wevpn/openvpn_client.jpg"/>
+        <img class="glboxshadow" alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/wevpn/openvpn_client.jpg"/>
       </p>
       <li>It will pop up a dialog.</li>
       <p>
-        <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/wevpn/new_openvpn_configuration.jpg"/>
+        <img class="glboxshadow" alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/wevpn/new_openvpn_configuration.jpg"/>
       </p>
       <li>
         Drag the .ovpn file jsut downloaed to the dialog, it will ask username and password. Input the credentials and click <b>Submit</b>.
       </li>
       <p>
-        <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/wevpn/wevpn_username_password.jpg"/>
+        <img class="glboxshadow" alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/wevpn/wevpn_username_password.jpg"/>
       </p>
       <li>Choose the configuration name and click <b>Connect</b>.</li>
       <p>
-        <img alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn/wevpn/wevpn_connect.jpg"/>
+        <img class="glboxshadow" alt="openvpn client" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/wevpn/wevpn_connect.jpg"/>
       </p>
     </ol>
     <p>

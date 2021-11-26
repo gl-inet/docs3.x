@@ -20,6 +20,10 @@ Each page use markdown, please check out this basic syntax of markdown [here](ht
 
 If you wanna a link to open in new tab, add `{target="_blank}` at the end of link block.
 
+### Image file type
+
+Prefer to use png.
+
 ### Image lightbox
 
 If the size of image is too big, please use the PhotoSwipe, check out [here](#about-plugin-photoswipe).
@@ -33,23 +37,27 @@ If the size of image is too big, please use the PhotoSwipe, check out [here](#ab
 </figure>
 ```
 
+### Use relative path to link internal content
+
+```
+[easytethering](../../../tutorials/tether)
+```
+
 ## About plugin PhotoSwipe
 
 Using the v4 version, v5 version looks better, but need to load js module. Don't know how to work it out in mkdocs.
 
-Suggest to use PhotoSwipe when the width of image is large than 746px.
+Suggest to use PhotoSwipe when the width of image is large than 1021px.
 
 ```
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="contentUrl" data-size="3167x2480">
-      <img src="https://static.gl-inet.com/docs/en/3/setup/Velica/hardware/hardware_1.jpg" itemprop="thumbnail" alt="gl-b2200 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/en/3/setup/gl-b2200/hardware/hardware_1.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-b2200/hardware/hardware_1.jpg" itemprop="thumbnail" alt="gl-b2200 pcb pinout" />
     </a>
   </figure>
 </div>
 ```
-
-the loading attribute is for lazy loading.
 
 Reference:
 

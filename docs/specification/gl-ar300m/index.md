@@ -6,7 +6,7 @@ AR300M is the our best mini router. It is small and powerful.
 
 It has several sub-models:
 
-| Sub-model    | NOR flash | NAND flash | Antenna  | 5G wifi | USB power control |
+| Sub-model    | NOR flash | NAND flash | Antenna  | 5G Wi-Fi | USB power control |
 | ------------ | --------- | ---------- | -------- | ------- | ----------------- |
 | AR300M       | 16MB      | 128MB      | Internal | No      | Yes               |
 | AR300M-Ext   | 16MB      | 128MB      | External | No      | Yes               |
@@ -15,7 +15,7 @@ It has several sub-models:
 | AR300M-Lite  | 16MB      | No         | Internal | No      | No                |
 | AR300MD*     | 16MB      | 128MB      | Internal | Yes     | Yes               |
 
-*AR300MD 5Gwifi is suggested only to work at monitoring mode because of power consumption. 
+*AR300MD 5G Wi-Fi is suggested only to work at monitoring mode because of power consumption. 
 
 
 
@@ -57,7 +57,7 @@ It has several sub-models:
 
 By using 128MB NAND flash, space is not a problem and the writing speed is improved greatly. You can compile a firmware with tons of features and writing data is almost instant.
 
-By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the wifi speed on a mini router.
+By adding PCIe interface, a 5G 802.11a/ac addon module can be connected and you can enjoy the Wi-Fi speed on a mini router.
 
 ## Performance
 
@@ -65,7 +65,7 @@ By adding a fast NAND flash, you can feel how the performance is improved compar
 
 The performance comparision between AR300M (NAND) with AR150 is below:
 
-![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg)
+![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg){class="glboxshadow"}
 
 It only takes 6 seconds to upload and process 250 ovpn files. When installing packages to the router, it takes no more than 20% for the time spent than using NOR flash, including the time to download resource from the Internet. So everything just happends in seconds.
 
@@ -95,13 +95,13 @@ $ make
 
 If you want to build the firmware for NOR flash, choose `GL-AR300M` as the target.
 
-![AR300M generic](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m.jpg)
+![AR300M generic](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m.jpg){class="glboxshadow"}
 
 ### Build the NAND firmware for NAND flash
 
 If you want to build the firmware for nand flash, first choose subtarget `Generic devices with NAND flash` then choose `GL-AR300M NAND` as the target.
 
-![AR300M NAND](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m-nand.jpg)
+![AR300M NAND](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m-nand.jpg){class="glboxshadow"}
 
 The make process will takes around 1 hour for the first time because it needs to download a lot of data from t he Internet. After compiling finished, you will find the following firmware files in `bin/ar71xx/`
 
@@ -180,7 +180,7 @@ There is a bug in AR300M uboot and in some computers the connection will always 
 
 The following figure is the web UI of the `new` uboot.
 
-![AR300M uboot web ui](https://static.gl-inet.com/docs/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg)
+![AR300M uboot web ui](https://static.gl-inet.com/docs/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg){class="glboxshadow"}
 
 ### Using uboot console
 

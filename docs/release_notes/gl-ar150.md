@@ -135,8 +135,8 @@ Important bug fix:
 - WireGuard Server/Client pre-installed, supports Azirevpn and Mullvad service providers.
 - Support DNS over TLS from Cloudflare.
 - Support multiple web admin panel display languages.
-- Added [GL Cloud](https://docs.gl-inet.com/en/3/app/cloud/).
-- Added new [DDNS](https://docs.gl-inet.com/en/3/app/ddns/) function.
+- Added [GL Cloud](../../tutorials/cloud/).
+- Added new [DDNS](../../tutorials/ddns/) function.
 - Added client management feature which includes QoS, traffic statistics and offline client.
 - Added firewall settings page which includes port forwards, open port and DMZ.
 - Added static IP address binding in LAN IP settings.

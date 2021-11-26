@@ -9,22 +9,22 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">
+      <a href="setup/mini_router/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/microuter-n300/first-time_setup/">
+      <a href="setup/microuter-n300/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-usb150/first-time_setup/">
+      <a href="setup/gl-usb150/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
       </a>
   	</div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/vixmini/first-time_setup/">
+      <a href="setup/vixmini/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
       </a>
   	</div>
@@ -36,22 +36,22 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-ar750/first-time_setup/">
+      <a href="setup/gl-ar750/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-ar750s/first-time_setup/">
+      <a href="setup/gl-ar750s/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-mt1300/first-time_setup/">
+      <a href="setup/gl-mt1300/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-e750/first-time_setup/">
+      <a href="setup/gl-e750/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
   	  </a>
   	</div>
@@ -63,7 +63,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-ap1300/first-time_setup/">
+      <a href="setup/gl-ap1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
@@ -73,7 +73,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-x750/first-time_setup/">
+      <a href="setup/gl-x750/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
@@ -83,12 +83,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
+      <a href="setup/gl-xe300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-mifi/first-time_setup/">
+      <a href="setup/gl-mifi/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
       </a>
     </div>
@@ -100,18 +100,23 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-s1300/first-time_setup/">
+      <a href="setup/gl-s1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-x750/first-time_setup/">
+      <a href="setup/gl-x750/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-xe300/first-time_setup/">
+      <a href="setup/gl-xe300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="setup/gl-s10/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s10.png" width=100%>
   	  </a>
   	</div>
   </div>
@@ -122,18 +127,23 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-b2200/first-time_setup/">
+      <a href="setup/gl-b2200/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-b1300/first-time_setup/">
+      <a href="setup/gl-b1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-sf1200/first-time_setup/">
+      <a href="setup/gl-sf1200/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="setup/gl-ax1800/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ax1800.png" width=100%>
   	  </a>
   	</div>
   </div>
@@ -144,7 +154,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-ap1300/first-time_setup/">
+      <a href="setup/gl-ap1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
@@ -166,12 +176,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-mv1000/first-time_setup/">
+      <a href="setup/gl-mv1000/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/setup/gl-mv1000w/first-time_setup/">
+      <a href="setup/gl-mv1000w/first_time_setup/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
@@ -183,17 +193,17 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <details>
   <summary>Why can't I access the router through 192.168.8.1?</summary>
   <p>
-    Please check <a href="https://docs.gl-inet.com/en/3/setup/mini_router/first-time_setup/">setup</a> to make sure you have connected to the router properly. Then, use <b>Chrome</b> or <b>Edge</b> or <b>Firefox</b> to visit 192.168.8.1. Don't use Internet Explorer. Or try using incognito mode.
+    Please check <a href="setup/mini_router/first_time_setup/">setup</a> to make sure you have connected to the router properly. Then, use <b>Chrome</b> or <b>Edge</b> or <b>Firefox</b> to visit 192.168.8.1. Don't use Internet Explorer. Or try using incognito mode.
   </p>
   <p>
-    If the problem still exists, <a href="https://docs.gl-inet.com/en/3/troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a>
+    If the problem still exists, <a href="troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="troubleshooting/debrick/">Uboot.</a>
   </p>
 </details>
 
 <details>
   <summary>What should I do if my router is bricked?</summary>
   <p>
-    Please re-install the firmware by <a href="https://docs.gl-inet.com/en/3/troubleshooting/debrick/">Uboot.</a>
+    Please re-install the firmware by <a href="troubleshooting/debrick/">Uboot.</a>
   </p>
 </details>
 
@@ -255,7 +265,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   </ol>
 </details>
 
-[For more FAQ](https://docs.gl-inet.com/en/3/troubleshooting/faq/)
+[For more FAQ](troubleshooting/faq/)
 
 ## Tools
 
@@ -279,7 +289,7 @@ We try our best to solve your every technical problem when you use our products.
 
 * [GL-X750 4G LTE Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-x750){target="_blank}
 
-* [GL-AR750S Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750s){target="_blank}
+* [GL-AR750S-EXT Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750s){target="_blank}
 
 * [GL-AR750 Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750){target="_blank}
 

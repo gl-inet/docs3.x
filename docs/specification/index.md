@@ -5,27 +5,27 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ar150/">
+      <a href="gl-ar150/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ar300m/">
+      <a href="gl-ar300m/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar300m.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mt300n-v2/">
+      <a href="gl-mt300n-v2/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n-v2.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/microuter-n300/">
+      <a href="microuter-n300/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-usb150/">
+      <a href="gl-usb150/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
       </a>
   	</div>
@@ -37,22 +37,22 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ar750">
+      <a href="gl-ar750">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ar750s/">
+      <a href="gl-ar750s/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mt1300/">
+      <a href="gl-mt1300/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-e750/">
+      <a href="gl-e750/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
   	  </a>
   	</div>
@@ -64,7 +64,7 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ap1300/">
+      <a href="gl-ap1300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
@@ -74,7 +74,7 @@
   	  </a>
   	</div>
 	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-x750/">
+      <a href="gl-x750/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
@@ -84,12 +84,12 @@
   	  </a>
   	</div>
 	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-xe300/">
+      <a href="gl-xe300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
 	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mifi/">
+      <a href="gl-mifi/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
       </a>
     </div>
@@ -101,18 +101,23 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-s1300/">
+      <a href="gl-s1300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-x750/">
+	  <div class="gl-product-card">
+      <a href="gl-x750/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
-	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-xe300/">
+	  <div class="gl-product-card">
+      <a href="gl-xe300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="gl-s10/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s10.png" width=100%>
   	  </a>
   	</div>
   </div>
@@ -123,18 +128,23 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-b2200/">
+      <a href="gl-b2200/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-b1300/">
+      <a href="gl-b1300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-sf1200/">
+      <a href="gl-sf1200/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="gl-ax1800/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ax1800.png" width=100%>
   	  </a>
   	</div>
   </div>
@@ -145,7 +155,7 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-ap1300/">
+      <a href="gl-ap1300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
@@ -167,12 +177,12 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mv1000/">
+      <a href="gl-mv1000/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mv1000w/">
+      <a href="gl-mv1000w/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
@@ -184,12 +194,12 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mt300a/">
+      <a href="gl-mt300a/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300a.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/3/specification/gl-mt300n/">
+      <a href="gl-mt300n/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n.png" width=100%>
       </a>
     </div>

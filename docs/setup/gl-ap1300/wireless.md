@@ -1,42 +1,47 @@
 # WIRELESS
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button.
+On the left side of web Admin Panel -> WIRELESS
 
-Click ‘Wireless’ and enter into 2.4G/5G Wi-Fi management interface in default as follows:
+## Wireless
 
+2.4G Wi-Fi:
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/cirrus/Wireless/Wireless1.png)
+![Wi-Fi status](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wifi_status_2.4g_ap1300.png){class="glboxshadow"}
 
-**Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
+5G Wi-Fi:
 
-**Wireless Security**: Wireless encryption method.
+![Wi-Fi status](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wifi_status_5g_ap1300.png){class="glboxshadow"}
 
-**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
+In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
-**SSID visibility**: Whether to hide the SSID or not.
+**Wi-Fi Name (SSID)**: The name of the Wi-Fi.
 
-**Maximum Station Number**: Maximum wireless client number; 0 means unlimited.
+**Wi-Fi Security**: The security protocols that utilize encryption.
 
-**Wi-Fi Mode**: You could select 802.11b/g/n or 802.11g or 802.11b.
+**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters. We suggest you to change it when you receive the router.
 
-**Bandwidth**: You could select 20/40MHz or 40MHz or 20MHz.
+**SSID Visibility**: Whether the SSID is scannable by default. If your set the SSID is hiden, you can connect by specifying the SSID and password.
 
-**Channel**: The router will not choose the best channel itself. You need to choose a channel manually. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
+**Wi-Fi Mode**: Choose the IEEE standard for WLANs.
 
-**TX Power (dBm)**: Transmit power settings.
+**Bandwidth**: The width of channel.
 
+**Channel**: Default is auto. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
 
+**TX Power (dBm)**: It specifies the signal strength.
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/cirrus/Wireless/wireless2.png)
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
 
+## Guest Wi-Fi
 
-## 2.4G & 5G Guest WiFi
+Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-Guest WiFi is turned off in default. Modification of wireless network name, wireless network security, and wireless
-network password is supportable.
+2.4G Guest Wi-Fi:
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/cirrus/Wireless/wireless3.png)
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wifi_status_2.4g_guest_ap1300.png){class="glboxshadow"}
 
+5G Guest Wi-Fi:
 
+![guest Wi-Fi 5g status](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/wireless/wifi_status_5g_guest_ap1300.png){class="glboxshadow"}

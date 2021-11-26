@@ -11,45 +11,45 @@ The following routers with USB 2.0 port should be able to support USB Webcams:
 * GL-AR300M 
 * GL-MT-300N-V2
 * GL-AR750
-* GL-AR750S
+* GL-AR750S-EXT
 * GL-MV1000
 * GL-MIFI
 * GL-X750
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/camera_compatible_model.png)
+![camera compatible model](https://static.gl-inet.com/docs/en/3/tutorials/camera/camera_compatible_model.png){class="glboxshadow"}
 
-The current router firmware version 3.0 does not contain USB Webcam control interface. You need to install plug-ins and make it workable in Luci. 
+The current router firmware version 3.0 does not contain USB Webcam control interface. You need to install plug-ins and make it workable in LuCI. 
 
 ## Install Plug-ins
 
-#### The below installation method is available for Windows, Mac OS. 
+The below installation method is available for Windows, Mac OS. 
 
 Go to **APPLICATIONS**, then **Plug-ins**, install two plugins
 
 1. luci-app-mjpg-streamer
 2. kmod-video-uvc
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/1.png)
+![install plugins](https://static.gl-inet.com/docs/en/3/tutorials/camera/1.png){class="glboxshadow"}
 
 After Installation of two applications, click **MORE SETTINGS - Advanced**, enter your router login password on the login page.
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/2.png)
+![more setting -> advanced](https://static.gl-inet.com/docs/en/3/tutorials/camera/2.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/3.png)
+![login LuCI](https://static.gl-inet.com/docs/en/3/tutorials/camera/3.png){class="glboxshadow"}
 
 Click **Service**-**MJPG-steamer**, tick **Enabled** and then click **Save&Apply**.
 
 ***mjpg streamer is a streaming application for Linux-UVC compatible webcams***
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/4.png)
+![LuCI MJPG-streamer](https://static.gl-inet.com/docs/en/3/tutorials/camera/4.png){class="glboxshadow"}
 
-![](https://static.gl-inet.com/docs/en/3/tutorials/camera/5.png)
+![view the camera stream](https://static.gl-inet.com/docs/en/3/tutorials/camera/5.png){class="glboxshadow"}
 
 Open a new page in browser, enter the IP address of your router and port number that you specified, for example, enter 192.168.8.1:8080”. 
 
-#### (The default port number is 8080, if the port number does not work, you can specify your own port number.) 
+(The default port number is 8080, if the port number does not work, you can specify your own port number.) 
 
-Your Stream is now running on your computer at the port that you specified. 
+Your Stream is now running on your computer at the port that you specified. For this method, the stream video is no sound.
 
 ## Adjust the webcam as needed
 
