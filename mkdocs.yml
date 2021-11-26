@@ -373,29 +373,29 @@ nav:
     - FAQs: troubleshooting/faq.md
   - Release Notes:
     - Firmware Releases: release_notes/index.md
-    - GL-AR150 (White): release_notes/GL-AR150.md
-    - GL-AR300M (Shadow): release_notes/GL-AR300M.md
-    - GL-MT300N-V2 (Mango): release_notes/GL-MT300N-V2.md
-    - GL-MT1300 (Beryl): release_notes/GL-MT1300.md
-    - GL-AR750 (Creta): release_notes/GL-AR750.md
-    - GL-AR750S-EXT (Slate): release_notes/GL-AR750S-Ext.md
-    - GL-MiFi: release_notes/GL-MiFi.md
-    - GL-XE300 (Puli): release_notes/GL-XE300.md
-    - GL-X300B (Collie): release_notes/GL-X300B.md
-    - GL-X750 (Spitz): release_notes/GL-X750.md
-    - GL-E750 (Mudi): release_notes/GL-E750.md
-    - GL-USB150 (Microuter): release_notes/GL-USB150.md
-    - GL-B2200 (Velica): release_notes/GL-B2200.md
-    - GL-B1300 (Convexa-B): release_notes/GL-B1300.md
-    - GL-S1300 (Convexa-S): release_notes/GL-S1300.md
-    - GL-SF1200: release_notes/GL-SF1200.md
-    - GL-MV1000 (Brume): release_notes/GL-MV1000.md
-    - GL-X1200 (Amarok): release_notes/GL-X1200.md
-    - GL-AP1300 (Cirrus): release_notes/GL-AP1300.md
-    - microuter-N300: release_notes/microuter-N300.md
-    - VIXMINI: release_notes/VIXMINI.md
-    - GL-MT300A: release_notes/GL-MT300A.md
-    - GL-MT300N: release_notes/GL-MT300N.md
+    - GL-AR150 (White): release_notes/gl-ar150.md
+    - GL-AR300M (Shadow): release_notes/gl-ar300M.md
+    - GL-MT300N-V2 (Mango): release_notes/gl-mt300m-v2.md
+    - GL-MT1300 (Beryl): release_notes/gl-mt1300.md
+    - GL-AR750 (Creta): release_notes/gl-ar750.md
+    - GL-AR750S-EXT (Slate): release_notes/gl-ar750s-ext.md
+    - GL-MiFi: release_notes/gl-mifi.md
+    - GL-XE300 (Puli): release_notes/gl-xe300.md
+    - GL-X300B (Collie): release_notes/gl-x300b.md
+    - GL-X750 (Spitz): release_notes/gl-x750.md
+    - GL-E750 (Mudi): release_notes/gl-e750.md
+    - GL-USB150 (Microuter): release_notes/gl-usb150.md
+    - GL-B2200 (Velica): release_notes/gl-b2200.md
+    - GL-B1300 (Convexa-B): release_notes/gl-b1300.md
+    - GL-S1300 (Convexa-S): release_notes/gl-s1300.md
+    - GL-SF1200: release_notes/gl-sf1200.md
+    - GL-MV1000 (Brume): release_notes/gl-mv1000.md
+    - GL-X1200 (Amarok): release_notes/gl-x1200.md
+    - GL-AP1300 (Cirrus): release_notes/gl-ap1300.md
+    - microuter-N300: release_notes/microuter-n300.md
+    - VIXMINI: release_notes/vixmini.md
+    - GL-MT300A: release_notes/gl-mt300a.md
+    - GL-MT300N: release_notes/gl-mt300n.md
   - Development:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md
