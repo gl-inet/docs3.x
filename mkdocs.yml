@@ -374,8 +374,8 @@ nav:
   - Release Notes:
     - Firmware Releases: release_notes/index.md
     - GL-AR150 (White): release_notes/gl-ar150.md
-    - GL-AR300M (Shadow): release_notes/gl-ar300M.md
-    - GL-MT300N-V2 (Mango): release_notes/gl-mt300m-v2.md
+    - GL-AR300M (Shadow): release_notes/gl-ar300m.md
+    - GL-MT300N-V2 (Mango): release_notes/gl-mt300n-v2.md
     - GL-MT1300 (Beryl): release_notes/gl-mt1300.md
     - GL-AR750 (Creta): release_notes/gl-ar750.md
     - GL-AR750S-EXT (Slate): release_notes/gl-ar750s-ext.md
