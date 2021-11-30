@@ -12,6 +12,9 @@ GL-AP1300LTE(Cirrus)
 
 ---
 
+There is a video tutorial about the setup, please check out [here](#video-tutorial).
+
+
 ## 1. Power on
 
 Plug the power cable into the power port of the router. Make sure you are using a standard **12V/2A** power adapter. Also, you could plug in the Ethernet cable with PoE power. The PoE injector should be compatible with active or passive **48V 802.3at** standard. Otherwise it may cause malfunction. 
@@ -80,3 +83,9 @@ There is no default password for the Admin Panel. You have to set your own passw
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
 ![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/admin_panel_gl-ap1300.png){class="glboxshadow"}
+
+## Video Tutorial
+
+Unboxing and Setup Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/db-LI967Q4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
