@@ -350,6 +350,7 @@ nav:
     - Internet Priority: tutorials/internet_connection_priority.md
     - Mobile App: tutorials/mobile_app.md
     - LuCI: tutorials/what_is_luci.md
+    - Find model number: tutorials/how_to_find_model.md 
     - Cells Info: tutorials/cells_info.md
     - SMS: tutorials/sms.md
     - SMS Forward: tutorials/sms_forward.md
