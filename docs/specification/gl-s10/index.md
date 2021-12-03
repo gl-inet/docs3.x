@@ -20,3 +20,13 @@ GL-S10 is a compact BLE to MQTT IoT Gateway at low power consumption. A reliable
 |           Working Temperature | 0~40°C (32~104°F)                                            |
 |           Storage Temperature | -20~70°C (-4~158°F)                                          |
 |            Dimension / Weight | 57mm x 57mm x 25mm / 53.6g                                   |
+
+## PCB Pinout
+
+<div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-s10/gl-s10-pinout.png" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-s10/gl-s10-pinout.png" itemprop="thumbnail" alt="GL-S10 pcb pinout" loading="lazy" />
+    </a>
+  </figure>
+</div>

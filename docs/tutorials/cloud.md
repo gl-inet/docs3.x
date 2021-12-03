@@ -45,7 +45,13 @@
 
 GL.iNet GoodCloud cloud management service provide an easy and simple way to remotely access and manage routers. There is a video introduction below.
 
+Introducing GoodCloud, Your Remote Device Management Solution.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JkV2PAy-_Og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Easy Guide to Setting Up your GoodCloud Wi-Fi Management System for SMEs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7U1CwpKOKDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Features:
 

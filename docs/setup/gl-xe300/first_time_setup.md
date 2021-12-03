@@ -8,6 +8,8 @@ GL-XE300-C4, GL-XE300-C6
 
 ---
 
+There is a video tutorial about the setup, please check out [here](#video-tutorial).
+
 ## 1. Power on 
 
 For GL-Puli with built-in battery, press the power button to turn on the device. 
@@ -65,3 +67,9 @@ There is no default password for the Admin Panel. You have to set your own passw
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
 ![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/first_time_setup/admin_panel_gl-xe300.png){class="glboxshadow"}
+
+## Video Tutorial
+
+Unboxing and Setup Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMixxOvlPRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

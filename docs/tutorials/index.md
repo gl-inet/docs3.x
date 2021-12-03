@@ -61,9 +61,10 @@ hide:
 * [Firewall](firewall).
 * [How to SSH to router?](ssh)
 * [How to modify files on router?](scp)
-* [How to chekc if Internet Service Provider assigns you a public IP address?](how_to_check_if_isp_assigns_you_a_public_ip_address)
+* [How to check if Internet Service Provider assigns you a public IP address?](how_to_check_if_isp_assigns_you_a_public_ip_address)
 * [Priority of the Internet connection type?](internet_connection_priority)
 * [GL.iNet Mobile App](mobile_app)
+* [How to find model number of GL.iNet device?](how_to_find_model)
 * [What is LuCI?](what_is_luci)
 * [Setup LED Customization](led_customization)
 * [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.

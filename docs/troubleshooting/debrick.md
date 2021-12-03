@@ -33,17 +33,19 @@ You can also refer to video tutorial below.
         </p>
         <ul>
         	<li><b>6 times</b> for GL-MiFi, and then the LTE light will faintly flash twice.</li>
-            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-EXT (Slate), GL-X750-Ext (Spitz), GL-MT300N-V2, GL-E750 (Mudi), microuter-N300.
+            <li><b>5 times</b> for GL-AR150, GL-AR300M, GL-USB150, GL-AR750, GL-AR750S-EXT (Slate), GL-X750 (Spitz), GL-MT300N-V2, GL-E750 (Mudi), microuter-N300.
             </li>
             <li><b>4 times</b> for GL-S1300, GL-B1300. 
                 <div>The leftmost LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on. </div>
                 <div>(For some old GL-B1300, the leftmost LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times at the same time then they stay on.)</div>
             </li>
         	<li><b>3 times</b> for GL-MT300N, GL-MT300A.</li>
-            <li><b>For GL-MT1300</b>, the LED is blue at first, flash twice slowly, then light 5 times a bit quick and turn to white and stay on.</li>
-            <li><b>For GL-B2200</b>, the two LEDs are blue at first, then turn white to flash 5 times, then turn blue and stay on.</li>
-            <li><b>No repeat LED flashes signal </b> for GL-MV1000.</li>
-            <div>(Power and WAN LEDs will stay on the whole time.)</div>
+            <li>For <strong>GL-SF1200</strong>, the 5G LED flashes 5 times then stays on.</li>
+            <li>For <strong>GL-AX1800(Flint)</strong>, the blue light flashes 5 times then turns white and stay on.</li>
+            <li>For <strong>GL-SFT1200(Opal)</strong>, the blue light flashes 5 times then turns white and stay on.</li>
+            <li>For <strong>GL-MT1300(Beryl)</strong>, the LED is blue at first, flash twice slowly, then light 5 times a bit quick and turn to white and stay on.</li>
+            <li>For <strong>GL-B2200(Velica)</strong>, the two LEDs are blue at first, then turn white to flash 5 times, then turn blue and stay on.</li>
+            <li><b>No repeat LED flashes signal </b> for GL-MV1000. (Power and WAN LEDs will stay on the whole time.)</li>
         </ul>
         </p>
     </li>
