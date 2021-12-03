@@ -232,7 +232,7 @@ The default MQTT setting is configured to connect with the beta cloud platform. 
 GL-S10 supports wired transmission and Wi-Fi for connecting to the router or gateway. The setting procedure can be found in section 3.6 Cable configuration and 3.7 Wi-Fi configuration. 
 
 ### MQTT X client configuration
-On the windows version of the MQTT X client, start the MQTT X software and add a new connection. To configure the beta cloud platform, enter the IP address 134.175.4.252 and port 1884. Click the upper right corner of the page to connect. A successful connection is shown below in Figure 33. 
+On the windows version of the MQTT X client, start the MQTT X software and add a new connection. To configure the beta cloud platform, enter the URL address iot-s10-test.gl-inet.cn and port 1884. Click the upper right corner of the page to connect. A successful connection is shown below in Figure 33. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic32.png", width = 800></center>
 <center>Figure 32</center>
 <br>
