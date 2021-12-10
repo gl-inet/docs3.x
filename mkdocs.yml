@@ -93,6 +93,7 @@ nav:
     - GL-AR750 (Creta): specification/gl-ar750/index.md
     - GL-AR750S-EXT (Slate): specification/gl-ar750s/index.md
     - GL-MT1300 (Beryl): specification/gl-mt1300/index.md
+    - GL-SFT1200 (Opal): specification/gl-sft1200/index.md
     - GL-AX1800 (Flint): specification/gl-ax1800/index.md
     - GL-MiFi: specification/gl-mifi/index.md
     - GL-XE300 (Puli): specification/gl-xe300/index.md
@@ -156,6 +157,16 @@ nav:
       - VPN: setup/gl-mt1300/vpn.md
       - Applications: setup/gl-mt1300/applications.md
       - More Settings: setup/gl-mt1300/more_settings.md
+    - GL-SFT1200 (Opal):
+      - First Time Setup: setup/gl-sft1200/first_time_setup.md
+      - Internet: setup/gl-sft1200/internet.md
+      - Wireless: setup/gl-sft1200/wireless.md
+      - Clients: setup/gl-sft1200/clients.md
+      - Upgrade: setup/gl-sft1200/upgrade.md
+      - Firewall: setup/gl-sft1200/firewall.md
+      - VPN: setup/gl-sft1200/vpn.md
+      - Applications: setup/gl-sft1200/applications.md
+      - More Settings: setup/gl-sft1200/more_settings.md
     - GL-AX1800 (Flint):
       - First Time Setup: setup/gl-ax1800/first_time_setup.md
       - Internet: setup/gl-ax1800/internet.md
@@ -378,6 +389,7 @@ nav:
     - GL-AR300M (Shadow): release_notes/gl-ar300m.md
     - GL-MT300N-V2 (Mango): release_notes/gl-mt300n-v2.md
     - GL-MT1300 (Beryl): release_notes/gl-mt1300.md
+    - GL-SFT1200 (Opal): release_notes/gl-sft1200.md
     - GL-AR750 (Creta): release_notes/gl-ar750.md
     - GL-AR750S-EXT (Slate): release_notes/gl-ar750s-ext.md
     - GL-AX1800 (Flint): release_notes/gl-ax1800.md

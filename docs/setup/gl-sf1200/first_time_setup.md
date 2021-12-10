@@ -1,4 +1,4 @@
-# Getting Started with GL.iNet SF1200
+# Getting Started with GL.iNet GL-SF1200
 
 Model: GL-SF1200
 
