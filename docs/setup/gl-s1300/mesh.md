@@ -18,7 +18,7 @@ Power on to all sub nodes without any ethernet cable connection.
 
 3) Start Pairing Mode on Main Node
 
-Press the right hand side of the button on the front(the mesh buttn) and after 5 flashes it will start to flash a bit quicker, release the button. The main node is now in pairing mode.
+Press AND HOLD the right hand side of the button on the front(the mesh buttn) and after 5 flashes it will start to flash a bit quicker, release the button. The main node is now in pairing mode.
 
 4) Start Pairing Mode on Sub Nodes
 
