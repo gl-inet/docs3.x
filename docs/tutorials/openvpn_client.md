@@ -92,7 +92,7 @@ Recommended:
 
 
 <details>
-<summary>PIA</summary>
+<summary>PIA (Private Internet Access)</summary>
   <p>
     <a href="https://www.privateinternetaccess.com/pages/buy-vpn/glinet" target="_blank">Official Website</a>
   </p>
