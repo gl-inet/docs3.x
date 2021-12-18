@@ -259,7 +259,7 @@ Set the sending and scanning method to Hex.
 <center>Figure 35</center>
 
 **Step 3:**
-Publish the message "topic21" (see 6.2.33 GET_DEV_MESSAGE) via GL-IoT/comTopic/8CAAB5B25D9C
+Publish the message "21" (see 6.2.33 GET_DEV_MESSAGE) via GL-IoT/comTopic/8CAAB5B25D9C in hex format.
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic36.png", width = 800></center>
 <center>Figure 36</center>
 
