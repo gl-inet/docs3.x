@@ -42,7 +42,7 @@
 - **Mesh**: Flash green LED indicates that the router is pairing with another router. It will turn solid green when the Mesh network has been created.
 - **Wireless**: Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 
-## GL-MT1300
+## GL-MT1300 / GL-SFT1200
 
 ![gl-mt1300 led](https://static.gl-inet.com/docs/en/3/troubleshooting/led/mt1300_light.jpg){class="glboxshadow"}
 
