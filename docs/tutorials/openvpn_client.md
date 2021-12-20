@@ -163,10 +163,10 @@ Recommended:
 <details>
 <summary>Proton VPN</summary>
   <p>
-    <a href="https://proton.go2cloud.org/SH9s" target="_blank">Official Website</a>
+    <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612" target="_blank">Official Website</a>
   </p>
   <ol type="1">
-    <li>Login your <a href="https://proton.go2cloud.org/SH9s">Proton VPN</a> account.</li>
+    <li>Login your <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a> account.</li>
     <p>
       <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton1.png" />
     </p>
