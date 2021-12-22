@@ -86,30 +86,30 @@
 - Supported MCU setting (E750)
 - Supported AdGuardHome (S1300)
 
-Software Upgrade:
+**Software Upgrade:**
 
 - Openssl upgraded to 1.1.1d
 - Openvpn upgraded to 2.5.0
 
-Optimization:
+**Optimization:**
 
 - Optimized real-time traffic statistics and reduce CPU load
 - Optimized MQTT
 - Optimized 4G to WiFi speed (MIFI,X750,E750)
 - Optimized the number of X1200 5G client connections
 
-Language:
+**Language:**
 
 - Supported Russian
 - Fixed the problem of incomplete and inaccurate translation of some languages
 
-UI:
+**UI:**
 
 - Added VPN status indicator icon to the navigation page
 - Added quick navigation to WireGuard client commercial configuration
 - Removed the import method with JSON format in WireGuard client 
 
-Important bug fix:
+**Important bug fix:**
 
 - Fixed the problem that AdGuardHome cannot be upgraded
 - Fixed MV1000 memory leak problem
