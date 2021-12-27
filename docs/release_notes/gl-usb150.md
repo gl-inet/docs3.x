@@ -1,10 +1,10 @@
 # GL-USB150 (Microuter) - Release Notes
 
-## V3.203 - Aug 3, 2021
+## V3.203 - Sep 7, 2021
 
-- Firmware file: [openwrt-usb150-3.203-0701.bin](https://fw.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.203-0701.bin)
+- Firmware file: [openwrt-usb150-3.203-0907.bin](https://fw.gl-inet.com/firmware/usb150/v1/openwrt-usb150-3.203-0907.bin)
 
-    SHA256: c4698ed9a8f1a28741a4fba2df930899cb8f67a4e19bf00fae627553c6ed01d9
+    SHA256: afecfbed2b9e8999ecc796c496c0d58e4a54f1e194ec5e85a5d38eef69819a9b
 
 **OpenWrt Distribution:**
 
