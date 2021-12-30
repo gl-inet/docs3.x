@@ -63,7 +63,7 @@ Take out the product from its package and attach the external antenna as shown b
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic1.png"></center>
 <center>Figure 1</center>
 
-**Notice:** 
+**Note:** 
 
 - Avoid plugging in the PoE power supply and 5V power supply simultaneously, it may cause damage to the device.  
 
@@ -110,7 +110,7 @@ Start the app and select the app language, you can choose between English and Si
 ### Connecting your GL-S10 
 Click the "scan" button in the upper right corner. The scanning result automatically filters out non-GL-S10 devices. If more than one GL-S10 are scanned, select the devices you want to connect according to the BLE MAC address on the label at the bottom of your GL-S10 shell (as shown below). 
 
-**Notice:** WAN MAC address is BLE MAC address minus 1, WiFi MAC address is BLE MAC address minus 2
+**Note:** WAN MAC address is BLE MAC address minus 1, WiFi MAC address is BLE MAC address minus 2
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic6.png", width = 300></center>
 <center>Figure 6</center>
 <br>
@@ -164,9 +164,15 @@ Click "Report interval", "Topic", "Bluetooth RSSI threshold filtering" to enter 
 
 Click “BLE MAC Filter”, “Complete Local Name Filter”, or “Manufacturer Specific Data Filter” at the bottom and enter the relevant information to activate the filter. 
 
+**Note:** Filter Rules Instructions
+- MAC Filter: The input needs to contain "colon and full matching characters"; The value range is 0~f, the letter is lowercase. 
+- Complete Local Name Filter: The input needs to contain "full matching characters(case-sensitive)"; for any unsure information, please download the nFR Connect software to check.
+- Manufacture Specific Data Filter: The value range is 0~f/F(case-sensitive); Regular Expressions
+
 If you purchased a gateway kit with the BLE Beacon, you also have the option to set BLE MAC filtering rules for the beacon in the app by entering the BLE MAC address information printed on the bottom of the beacon. 
 
 Click "Add New Rule" or "Remove" to edit the filter settings and click "Done" on the upper right corner to save the settings. 
+
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic18.png", width = 300></center>
 <center>Figure 18</center>
 <br>
