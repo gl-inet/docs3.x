@@ -1,19 +1,16 @@
-# Getting Started with GL.iNet Beryl 1300Mbps Wireless Travel Router
+# Getting Started with GL.iNet Opal GL-SFT1200
 
-Model: GL-MT1300
+Model: GL-SFT1200
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/first_time_setup/gl-mt1300.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-sft1200/first_time_setup/gl-sft1200.jpg){class="glboxshadow"}
 
 ---
-
-There is a video tutorial about the setup, please check out [here](#video-tutorial).
-
 
 ## 1. Power on
 
 Plug the Type-C power cable into the power port of the router. Make sure you are using a standard **5V/3A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/first_time_setup/power_up.jpg){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-sft1200/first_time_setup/power_up.jpg){class="glboxshadow"}
 
 *Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
 
@@ -27,15 +24,16 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/first_time_setup/plug.jpg){class="glboxshadow"}
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-sft1200/first_time_setup/plug.jpg){class="glboxshadow"}
 
 ### Connect via Wi-Fi
+
 Search for the SSID of the router in your device and input the default password: ***goodlife***.
 
 *Note: The SSID was printed on the bottom label of the router with the following formats:*
 
-- **GL-MT1300-XXX**
-- **GL-MT1300-XXX-5G**
+- **GL-SFT1200-XXX**
+- **GL-SFT1200-XXX-5G**
 
 ## 3. Access the web Admin Panel
 
@@ -45,7 +43,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/first_time_setup/welcome_page_mt1300.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-sft1200/first_time_setup/welcome_page_sft1200.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -61,10 +59,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/first_time_setup/admin_panel_mt1300.png){class="glboxshadow"}
-
-## Video Tutorial
-
-Unboxing and Setup Guide
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rT9cs6l0vBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-sft1200/first_time_setup/admin_panel_sft1200.png){class="glboxshadow"}

@@ -93,6 +93,7 @@ nav:
     - GL-AR750 (Creta): specification/gl-ar750/index.md
     - GL-AR750S-EXT (Slate): specification/gl-ar750s/index.md
     - GL-MT1300 (Beryl): specification/gl-mt1300/index.md
+    - GL-SFT1200 (Opal): specification/gl-sft1200/index.md
     - GL-AX1800 (Flint): specification/gl-ax1800/index.md
     - GL-MiFi: specification/gl-mifi/index.md
     - GL-XE300 (Puli): specification/gl-xe300/index.md
@@ -156,6 +157,16 @@ nav:
       - VPN: setup/gl-mt1300/vpn.md
       - Applications: setup/gl-mt1300/applications.md
       - More Settings: setup/gl-mt1300/more_settings.md
+    - GL-SFT1200 (Opal):
+      - First Time Setup: setup/gl-sft1200/first_time_setup.md
+      - Internet: setup/gl-sft1200/internet.md
+      - Wireless: setup/gl-sft1200/wireless.md
+      - Clients: setup/gl-sft1200/clients.md
+      - Upgrade: setup/gl-sft1200/upgrade.md
+      - Firewall: setup/gl-sft1200/firewall.md
+      - VPN: setup/gl-sft1200/vpn.md
+      - Applications: setup/gl-sft1200/applications.md
+      - More Settings: setup/gl-sft1200/more_settings.md
     - GL-AX1800 (Flint):
       - First Time Setup: setup/gl-ax1800/first_time_setup.md
       - Internet: setup/gl-ax1800/internet.md
@@ -372,32 +383,6 @@ nav:
     - GoodCloud issues: troubleshooting/goodcloud.md
     - Modem FAQ: troubleshooting/modem_faq.md
     - FAQs: troubleshooting/faq.md
-  - Release Notes:
-    - Firmware Releases: release_notes/index.md
-    - GL-AR150 (White): release_notes/gl-ar150.md
-    - GL-AR300M (Shadow): release_notes/gl-ar300m.md
-    - GL-MT300N-V2 (Mango): release_notes/gl-mt300n-v2.md
-    - GL-MT1300 (Beryl): release_notes/gl-mt1300.md
-    - GL-AR750 (Creta): release_notes/gl-ar750.md
-    - GL-AR750S-EXT (Slate): release_notes/gl-ar750s-ext.md
-    - GL-AX1800 (Flint): release_notes/gl-ax1800.md
-    - GL-MiFi: release_notes/gl-mifi.md
-    - GL-XE300 (Puli): release_notes/gl-xe300.md
-    - GL-X300B (Collie): release_notes/gl-x300b.md
-    - GL-X750 (Spitz): release_notes/gl-x750.md
-    - GL-E750 (Mudi): release_notes/gl-e750.md
-    - GL-USB150 (Microuter): release_notes/gl-usb150.md
-    - GL-B2200 (Velica): release_notes/gl-b2200.md
-    - GL-B1300 (Convexa-B): release_notes/gl-b1300.md
-    - GL-S1300 (Convexa-S): release_notes/gl-s1300.md
-    - GL-SF1200: release_notes/gl-sf1200.md
-    - GL-MV1000 (Brume): release_notes/gl-mv1000.md
-    - GL-X1200 (Amarok): release_notes/gl-x1200.md
-    - GL-AP1300 (Cirrus): release_notes/gl-ap1300.md
-    - microuter-N300: release_notes/microuter-n300.md
-    - VIXMINI: release_notes/vixmini.md
-    - GL-MT300A: release_notes/gl-mt300a.md
-    - GL-MT300N: release_notes/gl-mt300n.md
   - Development:
     - UART Serial: dev/serial.md
     - Advanced Uboot: dev/uboot.md

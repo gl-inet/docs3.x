@@ -102,9 +102,9 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Ma
 
 Follow the steps above, to enable Cloud Management, choose the Data Server which is nearest your devices located. There are three Data Server, `Asia Pacific`, `America` and `Europe`.  If your devices are neither in America nor in Europe, just select `Asia Pacific`. `Asia Pacific` Data Server is at Japan.
 
-`Remote Web` is for remote access router's web Admin Panel via GoodCloud. Check out [here](remote-access-web-admin-panel).
+`Remote Web` is for remote access router's web Admin Panel via GoodCloud. Check out [here](#remote-access-web-admin-panel).
 
-`Remote SSH` is for remote access router's terminal via GoodCloud. Check out [here](remote-access-routers-terminal).
+`Remote SSH` is for remote access router's terminal via GoodCloud. Check out [here](#remote-access-routers-terminal).
 
 ### Sign up GoodCloud account
 

@@ -55,6 +55,11 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
   	  </a>
   	</div>
+    <div class="gl-product-card">
+      <a href="setup/gl-sft1200/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sft1200.png" width=100%>
+  	  </a>
+  	</div>
   </div>
 </div>
 

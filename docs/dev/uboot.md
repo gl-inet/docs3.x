@@ -229,7 +229,7 @@ Uboot has a webUI so that you can save your device without entering uboot consol
 
 ![Uboot Web UI](https://static.gl-inet.com/docs/en/2.x/dev/src/uboot_failsafe.png){class="glboxshadow"}
 
-Check [this section](/troubleshooting/debrick.md)  for how to enter uboot web UI using the reset button.
+Check [this section](../../troubleshooting/debrick/)  for how to enter uboot web UI using the reset button.
 
 If you are in uboot console, you can start the WebUI the following command. This only works for AR series, not MT series.
 ```
