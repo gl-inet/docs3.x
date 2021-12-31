@@ -165,9 +165,11 @@ Click "Report interval", "Topic", "Bluetooth RSSI threshold filtering" to enter 
 Click “BLE MAC Filter”, “Complete Local Name Filter”, or “Manufacturer Specific Data Filter” at the bottom and enter the relevant information to activate the filter. 
 
 **Note:** Filter Rules Instructions
-- MAC Filter: The input needs to contain "colon and full matching characters"; The value range is 0~f, the letter is lowercase. 
-- Complete Local Name Filter: The input needs to contain "full matching characters(case-sensitive)"; for any unsure information, please download the nFR Connect software to check.
-- Manufacture Specific Data Filter: The value range is 0~f/F(case-sensitive); Regular Expressions
+- MAC Filter: The value range is 0~f, the characters are lowercase, and colons must be included; the string should be full match.
+
+- Complete Local Name Filter: the characters are case-sensitive,the string should be full match; for any unsure information, please download the nFR Connect software to check.
+
+- Manufacture Specific Data Filter: The value range is 0~f/F, the characters are case-sensitive and should be matched according to regular expressions.
 
 If you purchased a gateway kit with the BLE Beacon, you also have the option to set BLE MAC filtering rules for the beacon in the app by entering the BLE MAC address information printed on the bottom of the beacon. 
 
