@@ -165,6 +165,7 @@ Click "Report interval", "Topic", "Bluetooth RSSI threshold filtering" to enter 
 Click “BLE MAC Filter”, “Complete Local Name Filter”, or “Manufacturer Specific Data Filter” at the bottom and enter the relevant information to activate the filter. 
 
 **Note:** Filter Rules Instructions
+
 - MAC Filter: The value range is 0~f, the characters are lowercase, and colons must be included; the string should be full match.
 
 - Complete Local Name Filter: the characters are case-sensitive,the string should be full match; for any unsure information, please download the nFR Connect software to check.
