@@ -12,7 +12,7 @@ Please check if you Internet Service Provider assigns you a public IP address [h
 
 **If no, you can't connect to the WireGaurd Server.**
 
-A alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}.
+An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}.
 
 ## Network Topology
 
