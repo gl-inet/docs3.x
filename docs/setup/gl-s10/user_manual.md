@@ -99,27 +99,47 @@ Download and install GL-S10 Tool App on your phone, turn on the Bluetooth functi
   <figcaption>Figure 3</figcaption>
 </figure>
 
+
 ## App Configuration 
 ### Set configuration mode 
 Before using the app for configuration, set GL-S10 into its paring mode by pressing the Reset button of GL-S10 when the power is off, then turn on the power. Release the button when you see the BLE indicator in the middle flashes, and your GL-S10 will enter its pairing mode. 
 ### App language
 Start the app and select the app language, you can choose between English and Simplified Chinese.
 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic4.png", width = 300></center>
-<center>Figure 4</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic5.png", width = 300></center>
-<center>Figure 5</center>
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic4.png", width = 300>
+      <figcaption>Figure 4</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic5.png", width = 300>
+      <figcaption>Figure 5</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Connecting your GL-S10 
 Click the "scan" button in the upper right corner. The scanning result automatically filters out non-GL-S10 devices. If more than one GL-S10 are scanned, select the devices you want to connect according to the BLE MAC address on the label at the bottom of your GL-S10 shell (as shown below). 
 
 **Note:** WAN MAC address is BLE MAC address minus 1, WiFi MAC address is BLE MAC address minus 2
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic6.png", width = 300></center>
-<center>Figure 6</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic7.png", width = 300></center>
-<center>Figure 7</center>
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic6.png", width = 300>
+      <figcaption>Figure 6</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic7.png", width = 300>
+      <figcaption>Figure 7</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Home page
 Select a GL-S10 device and enter the "Manage Device" interface as shown below 
@@ -128,11 +148,21 @@ Select a GL-S10 device and enter the "Manage Device" interface as shown below
 
 ### Device Info
 You can click to view the details of the device as shown below
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic9.png", width = 300></center>
-<center>Figure 9</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic10.png", width = 300></center>
-<center>Figure 10</center>
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic9.png", width = 300>
+      <figcaption>Figure 9</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic10.png", width = 300>
+      <figcaption>Figure 10</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Cable configuration
 
@@ -155,22 +185,41 @@ To setup uplink connection using a network cable on the WAN port, click "Manage 
 
 ### Wi-Fi configuration 
 To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WPA2 ENTERPRISE certificate, click “Upgrade certificate”. 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic13.png", width = 300></center>
-<center>Figure 13</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic14.png", width = 300></center>
-<center>Figure 14</center>
-<br>
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic13.png", width = 300>
+      <figcaption>Figure 13</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic14.png", width = 300>
+      <figcaption>Figure 14</figcaption>
+    </figure>
+  </div>
+</div>
+
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic15.png", width = 300></center>
 <center>Figure 15</center>
 
 ### MQTT Configuration
-To configure MQTT, click "Manage Device" > "MQTT Server". Enter the address of your MQTT broker in the "Host" field, fill in the port number, username, and password. The "TLS" selection switches between TSL/SSL link and the TCP link. Enter a SUBSCRIBE message in the "Command" field and a SUBACK acknowledgement message in the "Respond Topic" field. You can also click "Update Certificate" below to update the MQTT encryption certificate. Click "Done" on the upper right corner to save the settings.  
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic16.png", width = 300></center>
-<center>Figure 16</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic17.png", width = 300></center>
-<center>Figure 17</center>
+To configure MQTT, click "Manage Device" > "MQTT Server". Enter the address of your MQTT broker in the "Host" field, fill in the port number, username, and password. The "TLS" selection switches between TSL/SSL link and the TCP link. Enter a SUBSCRIBE message in the "Command" field and a SUBACK acknowledgement message in the "Respond Topic" field. You can also click "Update Certificate" below to update the MQTT encryption certificate. Click "Done" on the upper right corner to save the settings.
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic16.png", width = 300>
+      <figcaption>Figure 16</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic17.png", width = 300>
+      <figcaption>Figure 17</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Report Configuration
 Click "Report Configuration" in the interface of "Manage Device" to enter the interface of "Report Configuration". 
@@ -191,49 +240,105 @@ If you purchased a gateway kit with the BLE Beacon, you also have the option to 
 
 Click "Add New Rule" or "Remove" to edit the filter settings and click "Done" on the upper right corner to save the settings. 
 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic18.png", width = 300></center>
-<center>Figure 18</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic19.png", width = 300></center>
-<center>Figure 19</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic20.png", width = 300></center>
-<center>Figure 20</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic21.png", width = 300></center>
-<center>Figure 21</center>
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic18.png", width = 300>
+      <figcaption>Figure 18</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic19.png", width = 300>
+      <figcaption>Figure 19</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic20.png", width = 300>
+      <figcaption>Figure 20</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic21.png", width = 300>
+      <figcaption>Figure 21</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Data & Time configuration
 Click "Manage Device" > "Date & Time". Select your time zone, fill in the SNTP service address and click the upper left corner to return to the previous page to save your settings, as shown below. 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic22.png", width = 300></center>
-<center>Figure 22</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic23.png", width = 300></center>
-<center>Figure 23</center>
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic22.png", width = 300>
+      <figcaption>Figure 22</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic23.png", width = 300>
+      <figcaption>Figure 23</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Auto Reboot configuration
 Click "Manage Device" > "Auto Reboot". You can schedule a time to reboot GL-S10 on a daily-basis. Click the upper left corner to return to the previous page to save your settings, as shown below. 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic24.png", width = 300></center>
-<center>Figure 24</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic25.png", width = 300></center>
-<center>Figure 25</center>
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic24.png", width = 300>
+      <figcaption>Figure 24</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic25.png", width = 300>
+      <figcaption>Figure 25</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### OTA upgrade
 Click "Manage Device" > "Upgrade OTA". Under "OTA URL", enter the http server address and click "Save" on the upper right corner. Click "Upgrade OTA" to save the URL path and initiate the upgrade. Click "Update Certificate" to update the OTA encryption certificate as shown below. 
 
 Please keep your GL-S10 connected to the internet and do NOT turn off the power during the OTA upgrade. After the OTA upgrade is completed, your GL-S10 will automatically enter Scanning mode, and your app will not be able to search for GL-S10.  
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic26.png", width = 300></center>
-<center>Figure 26</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic27.png", width = 300></center>
-<center>Figure 27</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic28.png", width = 300></center>
-<center>Figure 28</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic29.png", width = 300></center>
-<center>Figure 29</center>
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic26.png", width = 300>
+      <figcaption>Figure 26</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic27.png", width = 300>
+      <figcaption>Figure 27</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic28.png", width = 300>
+      <figcaption>Figure 28</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic29.png", width = 300>
+      <figcaption>Figure 29</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Reboot device
 Click "Manage Device" > "Reboot", and a pop-up window will ask for a reboot confirmation. The device will reboot after clicking "Sure". After rebooting, the device will automatically enter Scanning mode, and your app will not be able to search for GL-S10.
