@@ -6,6 +6,8 @@ Model: GL-AX1800 (Flint)
 
 ---
 
+There is a video tutorial about the setup, please check out [here](#video-tutorial).
+
 ## 1. Power on
 
 Plug the power cable into the power port of the router. Make sure you are using a standard **12V/1.5A** power adapter. Otherwise it may cause malfunction.
@@ -51,3 +53,9 @@ There is no default password for the Admin Panel. You have to set your own passw
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
 ![admin panel of gl-ax1800](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/admin_panel_ax1800.png){class="glboxshadow"}
+
+## Video Tutorial
+
+Unboxing and Setup Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OsnDvWTuQnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
