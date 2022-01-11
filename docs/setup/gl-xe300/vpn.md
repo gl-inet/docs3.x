@@ -8,7 +8,6 @@ Please refer to the links below for the detailed setup instruction:
 
 - [**OpenVPN**](https://docs.gl-inet.com/en/3/app/openvpn/)
 - [**WireGuard**](https://docs.gl-inet.com/en/3/app/wireguard/)
-- [**Shadowsocks**](https://docs.gl-inet.com/en/3/app/ss/)
 
 
 
