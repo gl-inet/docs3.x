@@ -34,3 +34,17 @@ img.glboxshadow {
     grid-template-columns: 50% 50%;
   }
 }
+/* for GL-S10 user manuel */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.flex-container, .s10-user-manual > div {
+  margin: 10px 20px;
+}
+@media only screen and (max-width: 30em) {
+  .flex-container, .s10-user-manual > div {
+    margin: 0px 0px;
+  }
+}

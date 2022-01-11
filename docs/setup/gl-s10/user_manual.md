@@ -91,9 +91,13 @@ After turning on the BLE switch at the bottom of the beacon, the beacon will bro
 <center>Figure 2</center>
 
 ### APP installation
+
 Download and install GL-S10 Tool App on your phone, turn on the Bluetooth function of your phone (For Android phone users, please turn on Bluetooth and GPS), and follow the instructions in this user manual to configure your GL-S10.
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic3.png"></center>
-<center>Figure 3</center>
+
+<figure>
+  <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic3.png", width = 300>
+  <figcaption>Figure 3</figcaption>
+</figure>
 
 ## App Configuration 
 ### Set configuration mode 
@@ -130,13 +134,24 @@ You can click to view the details of the device as shown below
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic10.png", width = 300></center>
 <center>Figure 10</center>
 
-### Cable configuration 
-To setup uplink connection using a network cable on the WAN port, click "Manage Device" > "Cable" > "Cable Configuration". You can configure "DHCP" and "Static IP" mode, then click "Done" to save the settings as shown below. 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic11.png", width = 300></center>
-<center>Figure 11</center>
-<br>
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic12.png", width = 300></center>
-<center>Figure 12</center>
+### Cable configuration
+
+To setup uplink connection using a network cable on the WAN port, click "Manage Device" > "Cable" > "Cable Configuration". You can configure "DHCP" and "Static IP" mode, then click "Done" to save the settings as shown below.
+
+<div class="flex-container s10-user-manual">
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic11.png", width = 300>
+      <figcaption>Figure 11</figcaption>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic12.png", width = 300>
+      <figcaption>Figure 12</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Wi-Fi configuration 
 To connect to a primary gateway, click "Manage Device" > "WiFi" > "Connect WiFi" > "Scan WiFi", and select your WiFi SSID. You can also select "None", "WPA2" or "WPA2 Enterprise" mode. Click "Done" on the upper right corner to confirm the setting as shown below. If you want to upgrade your WPA2 ENTERPRISE certificate, click “Upgrade certificate”. 
