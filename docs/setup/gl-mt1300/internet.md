@@ -4,13 +4,9 @@ There are total 4 types of connection method that you can use to access the Inte
 
 ![connection method](https://static.gl-inet.com/docs/en/3/setup/mt1300/internet-setting-MT1300.png) 4 internet methods image to be updated
 
-
-
 Click `INTERNET` to create an Internet connection.
 
 ![internet](https://static.gl-inet.com/docs/en/3/setup/mt1300/admin_panel.png) 
-
-  
 
 ---
 
@@ -18,25 +14,19 @@ Click `INTERNET` to create an Internet connection.
 
 Connect the router to the modem or main router via Ethernet cable to access the Internet. 
 
-Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](internet#2-repeater). As a result, you can have one more LAN port.
+Before plugging the Ethernet cable into the WAN port of the router, you can click `Use as LAN` to set the WAN port as a LAN port. That is useful when you are using the router as a [repeater](#2-repeater). As a result, you can have one more LAN port.
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/slate/internet/cable.jpg)
-
-
 
 Plug the Ethernet cable into the WAN port of the router. The information of your connection will be shown on the Cable section. DHCP is the default protocol. You can click `Modify` to change the protocol.
 
 ![cable](https://static.gl-inet.com/docs/en/3/setup/slate/internet/dhcp_page.jpg)
-
-
 
 ### DHCP
 
 DHCP is the default and most common protocol. It doesn't require any manual configuration.
 
 ![dhcp](https://static.gl-inet.com/docs/en/3/setup/slate/internet/dhcp.jpg)
-
-
 
 ### Static
 
@@ -46,8 +36,6 @@ The current settings will be automatically filled once you choose Static. Change
 
 ![static](https://static.gl-inet.com/docs/en/3/setup/slate/internet/static.jpg)
 
-
-
 ### PPPoE
 
 PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP will give you a modem and provide you a username & password that you needed when you are creating the Internet connection.
@@ -55,8 +43,6 @@ PPPoE is required by many Internet Service Providers (ISP). Generally, your ISP 
 Under PPPoE protocol, enter your username and password, then click `Apply`.
 
 ![PPPoE](https://static.gl-inet.com/docs/en/3/setup/slate/internet/pppoe_page.jpg)
-
-
 
 ---
 
@@ -70,15 +56,9 @@ In Repeater section, click `Scan` to search for the available wireless networks 
 
 ![scan wifi](https://static.gl-inet.com/docs/en/3/setup/slate/internet/wisp1.jpg)
 
-
-
 Choose a SSID from the drop-down list and enter its password. You can also enable the **Remember** button to save the current chose wireless network. Finally, click `Join`.
 
 ![wifi connect](https://static.gl-inet.com/docs/en/3/setup/slate/internet/wisp2.jpg)
-
-
-
-
 
 ---
 
@@ -103,15 +83,11 @@ Advanced Settings:
 
 ![modem](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem4.jpg)
 
-
-
 It is connected when the IP address of your SIM card shows up.
 
 ![modem connect](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem2.jpg)
 
 ![modem connected](https://static.gl-inet.com/docs/en/3/setup/slate/internet/modem3.jpg)
-
-
 
 ### Compatible Modems
 
@@ -141,8 +117,6 @@ Here is a list of supported modems that we had tested before.
 
 You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html) for a well supported modem list.
 
-
-
 ---
 
 ## 4) Tethering
@@ -156,7 +130,6 @@ For iPhone tethering, connect it to the USB port of the router and go to Setting
 Step1: Switch on Personal Hotspot.
 
 ![tethering](https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/tethering2.png)
-
 
 Step2: Click "Trust" to this computer.
 
