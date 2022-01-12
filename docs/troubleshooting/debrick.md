@@ -2,15 +2,11 @@
 
 あなたがDIYプロジェクトをしていたり、間違ったファームウェアをインストールしていたなら、あなたはあなたのルーターをブリックするかもしれません。 ルーターにアクセスできない場合がありますが、Ubootフェイルセーフを使用してファームウェアを再インストールできます。
 
-
-
 ---
 
 以下の手順に従ってUboot界面にアクセスし、ファームウェアを再インストールしてください。
 
-このビデオも参考できます。[U-Bootを使ってGL.iNetルーターを修復する](https://docs.gl-inet.com/en/3/video/tutor/#how-to-recover-glinet-mini-router-by-u-boot-failsafe)。
-
-
+このビデオも参考できます。[UBoot を使用して GL.iNet ルータ 2021 をデブレイクする方法](https://www.youtube.com/watch?v=EAaaw8nyrnE)。
 
 <ol type="1">
     <li><p>
