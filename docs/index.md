@@ -288,7 +288,7 @@ We try our best to solve your every technical problem when you use our products.
 
 ## Table of GL.iNet hardware on OpenWrt website
 
-[All device and techdata of GL.iNet on OpenWrt webaiste](https://openwrt.org/toh/gl.inet/start){target=_blank}
+[All device and techdata of GL.iNet on OpenWrt website](https://openwrt.org/toh/gl.inet/start){target=_blank}
 
 * [GL-B1300 Gigabit AC Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-b1300){target=_blank}
 
