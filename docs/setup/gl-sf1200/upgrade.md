@@ -30,7 +30,7 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ### Official Firmware
 
-You can download the firmware from our [download site](https://dl.gl-inet.com).
+You can download the firmware from our [download site](https://dl.gl-inet.com){target="_blank"}.
 
 ---
 
