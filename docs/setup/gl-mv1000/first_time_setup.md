@@ -2,7 +2,7 @@
 
 Model: GL-MV1000
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first_time_setup/MV1000.png){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first_time_setup/mv1000.png){class="glboxshadow"}
 
 ---
 
