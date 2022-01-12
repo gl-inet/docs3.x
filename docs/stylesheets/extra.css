@@ -1,45 +1,50 @@
-select {
-    background: #2c3e50;
-}
-
-.select-docs-language,
-.select-docs-version {
+/* for home page product cards */
+.gl-product-row {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px !important;
     display: block;
-    margin-top: 0.6rem;
-    margin-right: 1rem;
-    height: 3.6rem;
-    background-color: rgb(63, 81, 181);
-    color: rgb(189, 194, 217);
-    font-size: 1.4rem;
-    border: 1px solid transparent;
-    border-radius: .2rem;
-    outline: 0px;
-}
-
-.select-docs-language:hover,
-.select-docs-version:hover {
-    color: #fff;
-    background-color: #5666be;
-    border-color: #5666be;
-}
-
-.md-header-nav__title {
-    padding: 0 0.8rem;
-}
-
-@media only screen and (max-width: 76.1875em) {
-    html .md-nav--primary .md-nav__title {
-        background-color: #3f51b5;
-        color: #fff;
+    margin: 0px;
+  }
+  .gl-product-row-box {
+    float: left;
+    width: 100%;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+  }
+  .gl-product-card {
+    float: left;
+    width: 95%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #ffffff
+  }
+  .gl-product-card:hover {
+    border-color: #b6bde3 !important;
+  }
+  img.glboxshadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  @media only screen and (max-width: 30em) {
+      .gl-product-row-box {
+      grid-template-columns: 50% 50%;
     }
-    html .md-nav--primary .md-nav__title:before {
-        color: #fff;
+  }
+  /* for GL-S10 user manuel */
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .flex-container, .s10-user-manual > div {
+    margin: 10px 20px;
+  }
+  @media only screen and (max-width: 30em) {
+    .flex-container, .s10-user-manual > div {
+      margin: 0px 0px;
     }
-}
-    /* remove mobile screen select control's default sytle */
-    @media only screen and (max-width: 29.9375em) {
-        .select-docs-language,
-        .select-docs-version {
-            -webkit-appearance: none;
-        }
-    }
+  }

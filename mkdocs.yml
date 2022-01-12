@@ -70,6 +70,7 @@ extra_css:
   # we can use the cdn or files
   # - stylesheets/photoswipe.min.css
   # - stylesheets/default-skin.min.css
+  - stylesheets/extra.css
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js
@@ -85,21 +86,24 @@ markdown_extensions:
 nav:
   - ホーム:
     - ホーム: index.md
-    - サービス: service.md
   - ハードウエア:
-    - GL-AR300M: hardware/gl-ar300m/index.md
-    - GL-MT300N-V2: hardware/gl-mt300n-v2/index.md
-    - GL-AR750: hardware/gl-ar750/index.md
-    - GL-AR750S: hardware/gl-ar750s/index.md
-    - GL-XE300: hardware/gl-xe300/index.md
-    - GL-MT1300: hardware/gl-mt1300/index.md
-    - GL-MV1000: hardware/gl-mv1000/index.md
-    - GL-B2200: hardware/gl-b2200/index.md
-    - GL-AX1800: hardware/gl-ax1800/index.md
-    - microuter-N300: hardware/microuter-n300/index.md
+    - モデル分類: specification/index.md
+    - GL-AR300M: specification/gl-ar300m/index.md
+    - GL-MT300N-V2: specification/gl-mt300n-v2/index.md
+    - GL-AR750: specification/gl-ar750/index.md
+    - GL-AR750S: specification/gl-ar750s/index.md
+    - GL-XE300: specification/gl-xe300/index.md
+    - GL-MT1300: specification/gl-mt1300/index.md
+    - GL-MV1000: specification/gl-mv1000/index.md
+    - GL-B2200: specification/gl-b2200/index.md
+    - GL-B1300: specification/gl-b1300/index.md
+    - GL-SFT1200: specification/gl-sft1200/index.md
+    - GL-AX1800: specification/gl-ax1800/index.md
+    - microuter-N300: specification/microuter-n300/index.md
   - セットアップ:
-    - ナノルーター:
-      - 基本設定: setup/mini_router/first-time_setup.md
+    - モデル分類: setup/index.md
+    - ミニルーター:
+      - 基本設定: setup/mini_router/first_time_setup.md
       - ネットワーク: setup/mini_router/internet.md
       - 無線: setup/mini_router/wireless.md
       - クライアント: setup/mini_router/clients.md
@@ -109,7 +113,7 @@ nav:
       - アプリケーション: setup/mini_router/applications.md
       - その他の設定: setup/mini_router/more_settings.md
     - GL-AR750(Creta):
-      - 基本設定: setup/gl-ar750/first-time_setup.md
+      - 基本設定: setup/gl-ar750/first_time_setup.md
       - ネットワーク: setup/gl-ar750/internet.md
       - 無線: setup/gl-ar750/wireless.md
       - クライアント: setup/gl-ar750/clients.md
@@ -119,7 +123,7 @@ nav:
       - アプリケーション: setup/gl-ar750/applications.md
       - その他の設定: setup/gl-ar750/more_settings.md
     - GL-AR750S-EXT(Slate):
-      - 基本設定: setup/gl-ar750s/first-time_setup.md
+      - 基本設定: setup/gl-ar750s/first_time_setup.md
       - ネットワーク: setup/gl-ar750s/internet.md
       - 無線: setup/gl-ar750s/wireless.md
       - クライアント: setup/gl-ar750s/clients.md
@@ -129,7 +133,7 @@ nav:
       - アプリケーション: setup/gl-ar750s/applications.md
       - その他の設定: setup/gl-ar750s/more_settings.md
     - GL-MT1300(Beryl):
-      - 基本設定: setup/gl-mt1300/first-time_setup.md
+      - 基本設定: setup/gl-mt1300/first_time_setup.md
       - ネットワーク: setup/gl-mt1300/internet.md
       - 無線: setup/gl-mt1300/wireless.md
       - クライアント: setup/gl-mt1300/clients.md
@@ -139,7 +143,7 @@ nav:
       - アプリケーション: setup/gl-mt1300/applications.md
       - その他の設定: setup/gl-mt1300/more_settings.md
     - GL-MV1000(Brume):
-      - 基本設定: setup/gl-mv1000/first-time_setup.md
+      - 基本設定: setup/gl-mv1000/first_time_setup.md
       - ネットワーク: setup/gl-mv1000/internet.md
       - クライアント: setup/gl-mv1000/clients.md
       - アップグレード: setup/gl-mv1000/upgrade.md
@@ -148,7 +152,7 @@ nav:
       - アプリケーション: setup/gl-mv1000/applications.md
       - その他の設定: setup/gl-mv1000/more_settings.md
     - GL-B1300(Convexa-B):
-      - 基本設定: setup/gl-b1300/first-time_setup.md
+      - 基本設定: setup/gl-b1300/first_time_setup.md
       - ネットワーク: setup/gl-b1300/internet.md
       - 無線: setup/gl-b1300/wireless.md
       - メッシュ: setup/gl-b1300/mesh.md
@@ -159,7 +163,7 @@ nav:
       - アプリケーション: setup/gl-b1300/applications.md
       - その他の設定: setup/gl-b1300/more_settings.md
     - GL-B2200(Velica):
-      - 基本設定: setup/gl-b2200/first-time_setup.md
+      - 基本設定: setup/gl-b2200/first_time_setup.md
       - ネットワーク: setup/gl-b2200/internet.md
       - 無線: setup/gl-b2200/wireless.md
       - メッシュ: setup/gl-b2200/mesh.md
@@ -169,6 +173,16 @@ nav:
       - VPN: setup/gl-b2200/vpn.md
       - アプリケーション: setup/gl-b2200/applications.md
       - その他の設定: setup/gl-b2200/more_settings.md
+    - GL-SFT1200 (Opal):
+      - 基本設定: setup/gl-sft1200/first_time_setup.md
+      - ネットワーク: setup/gl-sft1200/internet.md
+      - 無線: setup/gl-sft1200/wireless.md
+      - クライアント: setup/gl-sft1200/clients.md
+      - アップグレード: setup/gl-sft1200/upgrade.md
+      - ファイアウォール: setup/gl-sft1200/firewall.md
+      - VPN: setup/gl-sft1200/vpn.md
+      - アプリケーション: setup/gl-sft1200/applications.md
+      - その他の設定: setup/gl-sft1200/more_settings.md
     - GL-AX1800(Flint):
       - 基本設定: setup/gl-ax1800/first_time_setup.md
       - ネットワーク: setup/gl-ax1800/internet.md
@@ -180,7 +194,7 @@ nav:
       - アプリケーション: setup/gl-ax1800/applications.md
       - その他の設定: setup/gl-ax1800/more_settings.md
     - GL-XE300(Puli):
-      - 基本設定: setup/gl-xe300/first-time_setup.md
+      - 基本設定: setup/gl-xe300/first_time_setup.md
       - ネットワーク: setup/gl-xe300/internet.md
       - 無線: setup/gl-xe300/wireless.md
       - クライアント: setup/gl-xe300/clients.md
@@ -189,18 +203,18 @@ nav:
       - VPN: setup/gl-xe300/vpn.md
       - アプリケーション: setup/gl-xe300/applications.md
       - その他の設定: setup/gl-xe300/more_settings.md
-  - 開発:
-    - UART シリアル: dev/serial.md
-  - アプリケーション:
-    - ルーターにSSH: app/ssh.md
-    - OpenVPN: app/openvpn.md
-    - WireGuard: app/wireguard.md
-    - ファイル共有: app/file_sharing.md
-    - DLNAサーバー: app/dlna.md
-    - DDNS: app/ddns.md
-    - クラウドサービス: app/cloud.md
-  - Tutorials:
-    - Overview: tutorials/index.md
+    - microuter-N300:
+      - 基本設定: setup/microuter-n300/first_time_setup.md
+      - ネットワーク: setup/microuter-n300/internet.md
+      - 無線: setup/microuter-n300/wireless.md
+      - クライアント: setup/microuter-n300/clients.md
+      - アップグレード: setup/microuter-n300/upgrade.md
+      - ファイアウォール: setup/microuter-n300/firewall.md
+      - VPN: setup/microuter-n300/vpn.md
+      - アプリケーション: setup/microuter-n300/applications.md
+      - その他の設定: setup/microuter-n300/more_settings.md
+  - チュートリアル:
+    - 概観: tutorials/index.md
     - Repeater: tutorials/repeater.md
     - Turn off Wi-Fi: tutorials/turn_off_wifi.md
     - Produce a wired connection: tutorials/produce_a_wired_connection.md
@@ -246,10 +260,6 @@ nav:
     - EasyTether: tutorials/tether.md
     - Tor: tutorials/tor.md
     - Camera: tutorials/camera.md
-  - ビデオ:
-    - 製品紹介: video/product_intro.md
-    - チュートリアル: video/tutor.md  
-    - 顧客レビュー: video/review.md
   - 問題解決:
     - LED 指標: troubleshooting/led.md
     - 修復/リセット: troubleshooting/reset.md
@@ -257,9 +267,3 @@ nav:
     - WANポートをLANに: troubleshooting/chang_wan_to_lan.md
     - キャプティブポータル: troubleshooting/captive_portal.md
     - よくある質問: troubleshooting/FAQ.md
-  - リリースノート:
-    - ファームウェア リリース: release_notes/index.md
-    - GL-MT300N-V2: release_notes/GL-MT300N-V2.md
-    - GL-AR750S-Ext(Slate): release_notes/GL-AR750S-Ext.md
-    - GL-AR750(Creta): release_notes/GL-AR750.md
-    - GL-AR300M: release_notes/GL-AR300M.md
