@@ -18,7 +18,7 @@ Ask your Internet Service Provider directly.
 
 Check the two IP address below to see if they are the same.
 
-* Search `my ip address` on Google, or access website like [https://whatismyipaddress.com/](https://whatismyipaddress.com/){target="_blank}
+* Search `my ip address` on Google, or access website like [https://whatismyipaddress.com/](https://whatismyipaddress.com/){target="_blank"}
 
 * Access the main router, you can find the WAN IP address.
 

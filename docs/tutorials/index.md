@@ -75,16 +75,16 @@ hide:
 
 ## Some usefull posts on forum
 
-* [AdGuardHome on GL.iNet routers](https://forum.gl-inet.com/t/adguardhome-on-gl-routers/10664){target="_blank}
+* [AdGuardHome on GL.iNet routers](https://forum.gl-inet.com/t/adguardhome-on-gl-routers/10664){target="_blank"}
 
-* [Best settings for adguard home?](https://forum.gl-inet.com/t/best-settings-for-adguard-home/11975){target="_blank}
+* [Best settings for adguard home?](https://forum.gl-inet.com/t/best-settings-for-adguard-home/11975){target="_blank"}
 
-* [GL-MT1300 LED control instructions](https://forum.gl-inet.com/t/gl-mt1300-led-control-instructions/13338){target="_blank}
+* [GL-MT1300 LED control instructions](https://forum.gl-inet.com/t/gl-mt1300-led-control-instructions/13338){target="_blank"}
 
-* [Connect to cloudflare’s free WARP pseudo VPN service using built-in wireguard client](https://forum.gl-inet.com/t/guide-connect-to-cloudflares-free-warp-pseudo-vpn-service-using-built-in-wireguard-client/10508){target="_blank}
+* [Connect to cloudflare’s free WARP pseudo VPN service using built-in wireguard client](https://forum.gl-inet.com/t/guide-connect-to-cloudflares-free-warp-pseudo-vpn-service-using-built-in-wireguard-client/10508){target="_blank"}
 
-* [Adding Wi-Fi to MV1000 Brume](https://forum.gl-inet.com/t/adding-wi-fi-to-mv1000-brume/9610){target="_blank}
+* [Adding Wi-Fi to MV1000 Brume](https://forum.gl-inet.com/t/adding-wi-fi-to-mv1000-brume/9610){target="_blank"}
 
-* [X750 Spitz is there a way to lock to band?](https://forum.gl-inet.com/t/x750-spitz-is-there-a-way-to-lock-to-band/5687){target="_blank}
+* [X750 Spitz is there a way to lock to band?](https://forum.gl-inet.com/t/x750-spitz-is-there-a-way-to-lock-to-band/5687){target="_blank"}
 
-* [How to add IPSEC/L2TP support?](https://forum.gl-inet.com/t/how-to-add-ipsec-l2tp-support/1637){target="_blank}
+* [How to add IPSEC/L2TP support?](https://forum.gl-inet.com/t/how-to-add-ipsec-l2tp-support/1637){target="_blank"}

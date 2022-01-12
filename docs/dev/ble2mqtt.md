@@ -4,7 +4,7 @@
 
 Bluetooth Low Energy (BLE) is widely used for smart home, wearable and IoT sensors. This guide provide a simple but useful tool that send your BLE data to MQTT servers, which is the underling mechanism for popular IoT solution. 
 
-In this guide we will introduce two GL.iNet BLE gateway, `GL-X750 Spitz`	and `GL-S1300 Convexa-S` which has optional built-in BLE modules and how to use them to forward your BLE data to the cloud based on MQTT protocol. This take GL.iNet [GoodCloud](https://www.goodcloud.xyz){target="_blank} and [AWS IoT](https://aws.amazon.com/iot/){target="_blank} as example.
+In this guide we will introduce two GL.iNet BLE gateway, `GL-X750 Spitz`	and `GL-S1300 Convexa-S` which has optional built-in BLE modules and how to use them to forward your BLE data to the cloud based on MQTT protocol. This take GL.iNet [GoodCloud](https://www.goodcloud.xyz){target="_blank"} and [AWS IoT](https://aws.amazon.com/iot/){target="_blank"} as example.
 
 ## Hardware Required
 

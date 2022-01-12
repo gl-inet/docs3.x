@@ -90,5 +90,5 @@ The OpenVPN connection may down a while when the public IP address changes, afte
 
 We can use another GL.iNet router as OpenVPN Client, or use their official app on other devices with various OS.
 
-- Please refer to OpenVPN Official Website: [https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/){target="_blank}
+- Please refer to OpenVPN Official Website: [https://openvpn.net/vpn-client/](https://openvpn.net/vpn-client/){target="_blank"}
 

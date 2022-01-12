@@ -50,7 +50,7 @@ If connected, it will show the traffic info of upload and download .
 
 ### WireGuard Providers
 
-If you are using [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blank} or [Mullvad](https://mullvad.net/), it has integrated their services.
+If you are using [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blank"} or [Mullvad](https://mullvad.net/), it has integrated their services.
 
 <details>
   <summary>AzireVPN</summary>

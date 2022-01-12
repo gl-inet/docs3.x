@@ -172,7 +172,7 @@ Here is a video guide for entering AR300M uboot failsafe.
 
 In some early version of AR300M, the uboot boot very slowly. So be patient when you press and hold the reset button. The LEDs will start to flash around 5 seconds.
 
-There is a bug in AR300M uboot and in some computers the connection will always reset when you upload firmware. Check [this post](https://forum.gl-inet.com/t/bricked-ar300m-how-to-restore/1659){target="_blank} to find the discussion. You can either try chaning the MTU or just try another computer.
+There is a bug in AR300M uboot and in some computers the connection will always reset when you upload firmware. Check [this post](https://forum.gl-inet.com/t/bricked-ar300m-how-to-restore/1659){target="_blank"} to find the discussion. You can either try chaning the MTU or just try another computer.
 
 **Note**: If you have an older version of uboot, the webUI will only be able to flash NAND flash. This is fixed in newer versions.
 

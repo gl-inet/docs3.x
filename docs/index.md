@@ -274,13 +274,13 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 
 ## Tools
 
-* [Mobile App](https://www.gl-inet.com/app/){target="_blank}, for control GL.iNet routers locally or via cloud in your phone.
-* [GoodCloud](https://www.goodcloud.xyz){target="_blank}, the cloud platform website for GL.iNet routers.
-* [AstroRelay](https://www.astrorelay.com){target="_blank}, a secure reverse proxy solution.
+* [Mobile App](https://www.gl-inet.com/app/){target="_blank"}, for control GL.iNet routers locally or via cloud in your phone.
+* [GoodCloud](https://www.goodcloud.xyz){target="_blank"}, the cloud platform website for GL.iNet routers.
+* [AstroRelay](https://www.astrorelay.com){target="_blank"}, a secure reverse proxy solution.
 
 ## Firmware APIs
 
-* [GL.iNet router firmware API](https://dev.gl-inet.com){target="_blank}
+* [GL.iNet router firmware API](https://dev.gl-inet.com){target="_blank"}
 
 ## Official Support
 
@@ -288,28 +288,28 @@ We try our best to solve your every technical problem when you use our products.
 
 ## Table of GL.iNet hardware on OpenWrt website
 
-[All device and techdata of GL.iNet on OpenWrt website](https://openwrt.org/toh/gl.inet/start){target=_blank}
+[All device and techdata of GL.iNet on OpenWrt website](https://openwrt.org/toh/gl.inet/start){target="_blank"}}
 
-* [GL-B1300 Gigabit AC Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-b1300){target=_blank}
+* [GL-B1300 Gigabit AC Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-b1300){target="_blank"}}
 
-* [GL-X750 4G LTE Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-x750){target="_blank}
+* [GL-X750 4G LTE Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-x750){target="_blank"}
 
-* [GL-AR750S-EXT Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750s){target="_blank}
+* [GL-AR750S-EXT Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750s){target="_blank"}
 
-* [GL-AR750 Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750){target="_blank}
+* [GL-AR750 Travel AC Router](https://openwrt.org/toh/gl.inet/gl-ar750){target="_blank"}
 
-* [GL-USB150 Microuter](https://openwrt.org/toh/gl.inet/gl.inet_gl-usb150){target="_blank}
+* [GL-USB150 Microuter](https://openwrt.org/toh/gl.inet/gl.inet_gl-usb150){target="_blank"}
 
-* [GL-MiFi 4G Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl-mifi){target="_blank}
+* [GL-MiFi 4G Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl-mifi){target="_blank"}
 
-* [GL-MT300N-V2 Mini Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2){target="_blank}
+* [GL-MT300N-V2 Mini Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2){target="_blank"}
 
-* [GL-AR300M Mini Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar300m){target="_blank}
+* [GL-AR300M Mini Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar300m){target="_blank"}
 
-* [GL-AR150 Mini Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar150){target="_blank}
+* [GL-AR150 Mini Smart Router](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-ar150){target="_blank"}
 
-* [GL-MT300A Mini Smart Router (discontinued)](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300a){target="_blank}
+* [GL-MT300A Mini Smart Router (discontinued)](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300a){target="_blank"}
 
-* [GL-MT300N Mini Smart Router (discontinued)](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2){target="_blank}
+* [GL-MT300N Mini Smart Router (discontinued)](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_gl-mt300n_v2){target="_blank"}
 
-* [GL.iNet 6416 Mini Smart Router (discontinued)](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_6416a){target="_blank}
+* [GL.iNet 6416 Mini Smart Router (discontinued)](https://openwrt.org/toh/hwdata/gl.inet/gl.inet_6416a){target="_blank"}

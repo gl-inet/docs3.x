@@ -20,7 +20,7 @@ You can connect to the router via Ethernet cable.
 
 *Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
 
-Or you can initialize via mobile app, please access [this](https://www.gl-inet.com/app/){target="_blank} to get the app.
+Or you can initialize via mobile app, please access [this](https://www.gl-inet.com/app/){target="_blank"} to get the app.
 
 ### Connect via LAN
 
