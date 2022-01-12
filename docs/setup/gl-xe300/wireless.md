@@ -1,34 +1,39 @@
 # WIRELESS
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button. Also you can enable Guest Wi-Fi(disable default) to provide internet services to your visitors. 
+On the left side of web Admin Panel -> WIRELESS
 
+GL-XE300 only has 2.4G Wi-Fi.
 
-**Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
+## Wireless
 
-**Wi-Fi Security**: The encryption method of the Wi-Fi.  
+![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/wireless/wifi_status_2.4g_xe300.png){class="glboxshadow"}
 
-**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
+In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
-**SSID Visibility**: Show/hide the Wi-Fi SSID.
+**Wi-Fi Name (SSID)**: The name of the Wi-Fi.
 
-**Wi-Fi Mode**: The protocol of the Wi-Fi. It is suggested to use default settings (2.4GHz is b/g/n, 5GHz is a/n/ac).
+**Wi-Fi Security**: The encryption method of the Wi-Fi.
 
-**Bandwidth**: The channel frequency coverage range of the Wi-Fi. It is suggested to use default parameter. 
+**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters. We suggest you to change it when you receive the router.
+
+**SSID Visibility**: Show or hide the SSID.
+
+**Wi-Fi Mode**: Choose the IEEE standard for WLANs.
+
+**Bandwidth**: The width of channel.
 
 **Channel**: The router will not choose the best channel itself. You need to choose a channel manually. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
 
-**TX Power (dBm)**: It specifies the signal strength. 
+**Speed**: The wireless speed of the router.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/Puli/Wireless/Wireless.png)
-
-
+**TX Power (dBm)**: It specifies the signal strength.
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi switch](https://static.gl-inet.com/docs/en/3/setup/Puli/Wireless/Wireless2.png)
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
 
-**Guest WiFi**: 
+## Guest Wi-Fi
 
-You can switch on/off _**Guest WiFi**_ in _**Wireless**_, the _**Guest WiFi**_ will create a different subnet to your visitors to prevent any un-authority visiting to your other devices in the network.
+Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-![guestwifi](https://static.gl-inet.com/docs/en/3/setup/Puli/Wireless/Wireless3.png)
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-xe300/wireless/wifi_status_2.4g_guest_xe300.png){class="glboxshadow"}

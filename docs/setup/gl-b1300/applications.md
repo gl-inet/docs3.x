@@ -1,7 +1,5 @@
 # アプリケーション
 
-
-
 ## プラグイン
 
 **プラグイン**を使用すると、OpenWrtパッケージを管理できます。 すべてのパッケージをインストール/削除ができます。
@@ -9,8 +7,6 @@
 このパッケージレポジトリにアクセスするときに、いつも`更新`をクリックするのを忘れないでください。
 
 ![Plug ins](https://static.gl-inet.com/docs/jp/3/setup/mini_router/applications/plus-ins.png)
-
-
 
 ---
 
@@ -26,18 +22,15 @@ GL.iNetルーターに外付けUSBストレージとMicroSDカードを挿入す
 
 ![File sharing](https://static.gl-inet.com/docs/jp/3/setup/mini_router/applications/file_sharing.png)
 
-
-
 コンピュータやスマホから外部記憶装置の内容にアクセスする方法については、[このページ](https://docs.gl-inet.com/jp/3/app/file_sharing/)を参照してください。
 
 ## DDNS
+
 **リモートアクセス（DDNS）**とはネットワークデバイスのダイナミックIPアドレスにドメイン名をマップするために使用されるサービスです。
 
 この機能はリモートであなたのルータにアクセスすることができます。
 
 3.021バージョン以上では、それはデフォルトの機能です。他の3.0バージョンはプラグインでパッケージをインストールする必要があります。 
-
-**（这里缺一张图）**
 
 DDNSとアクセスを設定する手順について、[DDNS](https://docs.gl-inet.com/jp/3/app/ddns/)をクリックしてください。
 
@@ -49,15 +42,11 @@ DDNSとアクセスを設定する手順について、[DDNS](https://docs.gl-in
 
 3.021バージョン以上では、それはデフォルトの機能です。他の3.0バージョンはプラグインでパッケージをインストールする必要があります。
 
-**(这里缺一张图)**
-
 詳しくは [Cloud](https://docs.gl-inet.com/jp/3/app/cloud/)をクリックしてください。
 
 ## Portal
 
 ルーターに**captival portal**を設定することができます。新しいユーザーはwifiにアクセスしたら、先にウェブページにアクセスしなければなりません。
 3.022と以上のバージョンのみサポートしています。
-
-**(这里缺一张图)**
 
 設定について、  [インターネット認証](https://docs.gl-inet.com/en/3/app/captive_portal/)をクリックしてください。

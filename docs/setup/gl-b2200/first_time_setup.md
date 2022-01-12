@@ -1,34 +1,39 @@
 # Getting Started with Velica
 
-Model:
+Model: GL-B2200
 
-GL-B2200
-
-![router](https://static.gl-inet.com/docs/en/3/setup/Velica/first_time_setup/router.jpg)
-
-
+![router](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/first_time_setup/router.jpg){class="glboxshadow"}
 
 ---
 
-### Set Up Your B2200 (Velica)
+## Set Up Your GL-B2200 (Velica)
 
-**Please download GL.iNet Mobile app (<a href="https://www.gl-inet.com/app/" target="_blank">https://www.gl-inet.com/app/</a>) to set up Velica.**
+There is a video tutorial about the setup, please check out [here](#video-tutorial).
 
-The GL.iNet Mobile app gives you convenient access to your router’s features anywhere and anytime.
+**Please download [GL.iNet Mobile App](https://www.gl-inet.com/app/){target="_blank"} to set up GL-B2200, we recommend 2 or 3 GL-B2200 to set as mesh network.**
 
-Basic Setup:
-Setup and change the password of your devices.
-Discover the real-time traffic in both mesh & guest network.
-Block unwanted users that share your WiFi network.
+**If GL-B2200 is connected with a router, make sure their IP addresses are not conflicted, GL.iNet router's default gateway is 192.168.8.1.**
 
-Mesh Network:
-Build up your home mesh network.
-Step-by-step guidelines for setting up sub-nodes within your house.
+The GL.iNet Mobile App gives you convenient access to your router’s features anywhere and anytime.
 
-VPN Setup:
-Easily configure selected OpenVPN and WireGuard VPN for your private home network.
+* Basic Setup:
+    - Setup and change the password of your devices.
+    - Discover the real-time traffic in both mesh & guest network.
+    - Block unwanted users that share your WiFi network.
 
-Live Router Status:
-Real-time performance checklist of your devices, including memory storage and CPU load data.
-Easily pause WiFi, update firmware, turn off LED lights on the router, and more!
+* Mesh Network:
+    - Build up your home mesh network.
+    - Step-by-step guidelines for setting up sub-nodes within your house.
 
+* VPN Setup:
+    - Easily configure selected OpenVPN and WireGuard VPN for your private home network.
+
+* Live Router Status:
+    - Real-time performance checklist of your devices, including memory storage and CPU load data.
+    - Easily pause WiFi, update firmware, turn off LED lights on the router, and more!
+
+## Video Tutorial
+
+Unboxing and Setup Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e7cX69FzikA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

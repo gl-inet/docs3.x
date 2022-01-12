@@ -1,37 +1,47 @@
 # WIRELESS
 
-In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the ON/OFF button. Also you can enable Guest Wi-Fi(disable default) to provide internet services to your visitors. 
+On the left side of web Admin Panel -> WIRELESS
 
-**Wi-Fi Name (SSID)**: The name of the Wi-Fi. It is not suggested to use unicode characters such as **Chinese**.
+## Wireless
 
-**Wi-Fi Security**: The encryption method of the Wi-Fi.  
+2.4G Wi-Fi:
 
-**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters long. We suggest you to change it when you receive the router.
+![Wi-Fi status](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/wireless/wifi_status_2.4g_mt1300.png){class="glboxshadow"}
 
-**SSID Visibility**: Show/hide the Wi-Fi SSID.
+5G Wi-Fi:
 
-**Wi-Fi Mode**: The protocol of the Wi-Fi. It is suggested to use default settings (2.4GHz is b/g/n, 5GHz is a/n/ac).
+![Wi-Fi status](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/wireless/wifi_status_5g_mt1300.png){class="glboxshadow"}
 
-**Bandwidth**: The channel frequency coverage range of the Wi-Fi. It is suggested to use default parameter. 
+In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
-**Channel**: The router will not choose the best channel itself. You need to choose a channel manually. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
+**Wi-Fi Name (SSID)**: The name of the Wi-Fi.
 
-**TX Power (dBm)**: It specifies the signal strength. 
+**Wi-Fi Security**: The security protocols that utilize encryption.
 
-**Channel Optimization**: It will optimize your Wi-Fi signal and channel according to the Wi-Fi environment. 
+**Wi-Fi Key**: The password of the Wi-Fi, which must be at least 6 characters. We suggest you to change it when you receive the router.
 
+**SSID Visibility**: Whether the SSID is scannable by default. If your set the SSID is hiden, you can connect by specifying the SSID and password.
 
+**Wi-Fi Mode**: Choose the IEEE standard for WLANs.
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/mt1300/wireless.jpg)
+**Bandwidth**: The width of channel.
 
+**Channel**: Default is auto. If your router is used as a Wi-Fi repeater, the channel will be fixed according to the connected wireless network.
+
+**TX Power (dBm)**: It specifies the signal strength.
 
 Click `Modify` to change the settings of the wireless network.
 
-![wifi modify](https://static.gl-inet.com/docs/en/3/setup/mt1300/Wireless_modify.jpg)
+Click `Channel Optimization` will automatically select the most suitable channel according to the current environment.
 
-**Guest WiFi**: 
+## Guest Wi-Fi
 
-You can switch on/off _**Guest WiFi**_ in _**Wireless**_, the _**Guest WiFi**_ will create a different subnet to your visitors to prevent any un-authority visiting to your other devices in the network.
+Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-![guestwifi](https://static.gl-inet.com/docs/en/3/setup/mt1300/wireless_guest.jpg)
+2.4G Guest Wi-Fi:
 
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/wireless/wifi_status_2.4g_guest_mt1300.png){class="glboxshadow"}
+
+5G Guest Wi-Fi:
+
+![guest Wi-Fi 5g status](https://static.gl-inet.com/docs/en/3/setup/gl-mt1300/wireless/wifi_status_5g_guest_mt1300.png){class="glboxshadow"}
