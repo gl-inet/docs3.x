@@ -78,7 +78,7 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 ![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/smb1.0.png){class="glboxshadow"}
 
-1). SSH into your router, you can gain control of both the router and the network that the rotuer is controlling. You can refer to the following link: [https://docs.gl-inet.com/en/3/app/ssh/](https://docs.gl-inet.com/en/3/app/ssh/)
+1). [SSH](../ssh/) into your router, you can gain control of both the router and the network that the rotuer is controlling.
 
 2). Modify the Samba configuration file, type the following command:
 
@@ -100,7 +100,7 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 **1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. 
 
-3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](https://docs.gl-inet.com/en/3/app/ssh/#winscp), edit `/etc/samba/smb.conf.template`. 
+3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](../../tutorials/scp/), edit `/etc/samba/smb.conf.template`. 
 
 ![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/winscpsmb.jpg){class="glboxshadow"}
 
@@ -160,7 +160,7 @@ If you are using Windows 10, you also need to enable SMB 1.0.
 
 **2)** Open Finder. You should be able to find your router under Shared.
 
-###iOS
+### iOS
 
 You have to use file manage app to access the contents of your external storage device.
 

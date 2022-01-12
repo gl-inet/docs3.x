@@ -106,8 +106,8 @@
 <details>
 <summary>Which VPN protocol and VPN service provider does the router support?</summary>
 <p>Our routers support OpenVPN and WireGuard.</p>
-<p>Please check <a href="https://docs.gl-inet.com/en/3/app/openvpn/#get-your-configuration-file" target="_blank">here</a> for the list of compatible OpenVPN service providers.</p>
-<p>Please check <a href="https://docs.gl-inet.com/en/3/app/wireguard/#wireguard-providers" target="_blank">here</a> for the list of WireGuard service providers.</p>
+<p>Please check <a href="../../tutorials/openvpn_client/#get-your-configuration-file" target="_blank">here</a> for the list of compatible OpenVPN service providers.</p>
+<p>Please check <a href="../../tutorials/wireguard_client/#wireguard-providers" target="_blank">here</a> for the list of WireGuard service providers.</p>
 </details>
 
 <details>
