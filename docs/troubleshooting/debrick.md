@@ -6,7 +6,7 @@
 
 以下の手順に従ってUboot界面にアクセスし、ファームウェアを再インストールしてください。
 
-このビデオも参考できます。[UBoot を使用して GL.iNet ルータ 2021 をデブレイクする方法](https://www.youtube.com/watch?v=EAaaw8nyrnE)。
+このビデオも参考できます。[UBoot を使用して GL.iNet ルータ 2021 をデブレイクする方法](https://www.youtube.com/watch?v=EAaaw8nyrnE){target="_blank"}。
 
 <ol type="1">
     <li><p>
