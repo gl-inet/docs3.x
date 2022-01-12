@@ -166,7 +166,6 @@ nav:
       - 基本設定: setup/gl-b2200/first_time_setup.md
       - ネットワーク: setup/gl-b2200/internet.md
       - 無線: setup/gl-b2200/wireless.md
-      - メッシュ: setup/gl-b2200/mesh.md
       - クライアント: setup/gl-b2200/clients.md
       - アップグレード: setup/gl-b2200/upgrade.md
       - ファイアウォール: setup/gl-b2200/firewall.md
