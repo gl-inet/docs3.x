@@ -1,17 +1,17 @@
 # VPN
 
-GL.iNet routers have pre-installed VPN server and client in OpenVPN and WireGuard. 
+GL.iNetルーターは、OpenVPNとWireGuardのVPNサーバー・クライアントがインストールされています。
 
 ## OpenVPN
 
-Please refer to the links below for the detailed setup instruction:
+詳しい設定方法は下記をご参照ください:
 
 - [**Setup OpenVPN Client**](../../../tutorials/openvpn_client/)
 - [**Setup OpenVPN Server**](../../../tutorials/openvpn_server/)
 
 ## WireGuard
 
-Please refer to the links below for the detailed setup instruction:
+詳しい設定方法は下記をご参照ください:
 
 - [**Setup WireGuard Client**](../../../tutorials/wireguard_client/)
 - [**Setup WireGuard Server**](../../../tutorials/wireguard_server/)
@@ -20,7 +20,7 @@ Please refer to the links below for the detailed setup instruction:
 
 ## Internet Kill Switch
 
-Please refer to the link below for the detailed setup instruction:
+詳しい設定方法は下記リンクをご参照ください:
 
 - [**Internet Kill Switch**](../../../tutorials/internet_kill_switch/)
 
@@ -28,6 +28,6 @@ Please refer to the link below for the detailed setup instruction:
 
 ## VPN Policies
 
-Please refer to the link below for the detailed setup instruction:
+詳しい設定方法は下記リンクをご参照ください:
 
 - [**VPN Policies**](../../../tutorials/vpn_policies/)

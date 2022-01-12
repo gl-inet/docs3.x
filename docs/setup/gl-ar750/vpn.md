@@ -2,12 +2,32 @@
 
 GL.iNetルーターは、OpenVPNとWireGuardのVPNサーバー・クライアントがインストールされています。
 
-詳細な設定手順については、以下のリンクを参照してください:
+## OpenVPN
 
-- [**OpenVPN**](https://docs.gl-inet.com/jp/3/app/openvpn/)
-- [**WireGuard**](https://docs.gl-inet.com/jp/3/app/wireguard/)
+詳しい設定方法は下記をご参照ください:
 
-![client](https://static.gl-inet.com/docs/jp/3/setup/mini_router/vpn/vpn.png)
+- [**Setup OpenVPN Client**](../../../tutorials/openvpn_client/)
+- [**Setup OpenVPN Server**](../../../tutorials/openvpn_server/)
 
+## WireGuard
 
+詳しい設定方法は下記をご参照ください:
 
+- [**Setup WireGuard Client**](../../../tutorials/wireguard_client/)
+- [**Setup WireGuard Server**](../../../tutorials/wireguard_server/)
+
+---
+
+## Internet Kill Switch
+
+詳しい設定方法は下記リンクをご参照ください:
+
+- [**Internet Kill Switch**](../../../tutorials/internet_kill_switch/)
+
+---
+
+## VPN Policies
+
+詳しい設定方法は下記リンクをご参照ください:
+
+- [**VPN Policies**](../../../tutorials/vpn_policies/)
