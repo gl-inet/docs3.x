@@ -4,8 +4,6 @@
 
 ![upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/firmware.png)
 
-
-
 ---
 
 ## オンラインアップグレード
@@ -24,42 +22,9 @@
 
 ![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/firmware2.png)
 
+## 公式ファームウェア
 
-
-### オフィシャルOpenWrt/LEDEファームウェア
-
-本社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
-
-- GL-B1300: [https://dl.gl-inet.com/firmware/b1300/v1/](https://dl.gl-inet.com/firmware/b1300/v1/)
-
-
-あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアファイルは、以下のサブフォルダーであります:
-
-**V1/release**: オフィシャルGL.iNet OpenWrt/LEDE ファームウエア。
-
-**testing**: GL.iNet OpenWrt/LEDE ファームウエアのベータ版。
-
-**clean**: OpenWrt/LEDE クリーンファームウェアです、Luci管理者ページしかほかのUIがありません。
-
-*注意：　.tar ファイルをアップロードしてください、.img ファイルがUbootに使用します。
-
-
-
-### あなた自分のファームウェアをコンパイル
-
-あなた自分のファームウェアをコンパイルして、ルーターにインストールすることができます。[github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc)を参考してください。
-
-
-
-### サードパーティのファームウェア
-
-DDWRTとかのほかのファームウェアを試すこともできます。
-
-
-
-*注意：このようにして互換性のないファームウェアをアップロードしてルーターが破損した場合は、Ubootを使用して正しいファームウェアを再インストールしてください。*
-
-
+ファームウェアは、弊社の[ダウンロードサイト](https://dl.gl-inet.com){target="_blank"}からダウンロードできます。
 
 ---
 

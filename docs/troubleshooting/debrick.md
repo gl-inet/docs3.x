@@ -14,7 +14,7 @@
 
 <ol type="1">
     <li><p>
-        <b>ファームウェア</b>を事前にダウンロードすることが必要です。<a href="http://download.gl-inet.com/firmware" target="_blank">ここ</a>でファームウェアをダウンロードしてください。GL-AR300M、GL-AR300M-Ext、GL-AR750S-Extにとって、.imgファームウェアをダウンロードしてください、ほかの製品が.binファームウェアをダウンロードしてください。
+        <b>ファームウェア</b>を事前にダウンロードすることが必要です。<a href="https://dl.gl-inet.com" target="_blank">ここ</a>でファームウェアをダウンロードしてください。GL-AR300M、GL-AR300M-Ext、GL-AR750S-Extにとって、.imgファームウェアをダウンロードしてください、ほかの製品が.binファームウェアをダウンロードしてください。
         </p> 
     </li>
     <li>

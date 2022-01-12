@@ -4,8 +4,6 @@
 
 ![upgrade](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware.png)
 
-
-
 ---
 
 ## オンラインアップグレード
@@ -14,11 +12,7 @@
 
 ![online upgrade](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware1.png)
 
-
-
 *注意事項：**設定保存**を無効にすることをお勧めします。 アップグレード後も設定を維持して問題が発生した場合は、ルータをリセットしてください。
-
-
 
 ---
 
@@ -26,41 +20,11 @@
 
 `ローカルアップグレード`をクリックする、それでファームウェアファイルをルーターにアップロードしてください。ファームウェアファイルをドラッグし、表示されている領域にドロップすればいいです。
 
-
 ![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/travel_ac_router/upgrade/firmware2.png)
 
+## 公式ファームウェア
 
-
-### オフィシャルOpenWrt/LEDEファームウェア
-
-本社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
-
-- GL-AR750: [http://download.gl-inet.com/firmware/ar750/](http://download.gl-inet.com/firmware/ar750/)
-- GL-AR750S (Slate): [http://download.gl-inet.com/firmware/ar750s/](http://download.gl-inet.com/firmware/ar750s/)
-
-あなたのデバイスによって、必要なファームウェアを探してください。ファームウェアファイルは、以下のサブフォルダーであります:
-
-**V1/release**: オフィシャルGL.iNet OpenWrt/LEDE ファームウエア。
-
-**testing**:  GL.iNet OpenWrt/LEDE ファームウエアのベータ版。
-
-
-
-### あなた自分のファームウェアをコンパイル
-
-あなた自分のファームウェアをコンパイルして、ルーターにインストールすることができます。[github.com/domino-team/openwrt-cc](https://github.com/domino-team/openwrt-cc)を参考してください。
-
-
-
-### サードパーティのファームウェア
-
-DDWRTとかのほかのファームウェアを試すこともできます。
-
-
-
-*注意：このようにして互換性のないファームウェアをアップロードしてルーターが破損した場合は、Ubootを使用して正しいファームウェアを再インストールしてください。*
-
-
+ファームウェアは、弊社の[ダウンロードサイト](https://dl.gl-inet.com){target="_blank"}からダウンロードできます。
 
 ---
 

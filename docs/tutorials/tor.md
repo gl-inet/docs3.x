@@ -56,37 +56,21 @@ Support `GL-AR150`,`GL.iNet6416`, `GL-AR300`. This firmware create two ssid: Ope
 
 Support `GL-MT300A` and `GL-MT300N`. This is the firmware created for MT300A and MT300N with LuCI. This firmware create two ssid: OpenWrt and Tor. If you conenct to OpenWrt you will have normal Internet. If you connect to Tor, you will be connect to Tor network. Connection from LAN port will always have Tor. LuCI is installed but there is no Domino Pi UI.
 
-!!! Note
-
-If you have questions about versions, please ask here or in the forum.
+Note: If you have questions about versions, please ask here or in the forum.
 
 ## Download and Flashing the firmware to the device
 
-All the firmwares is available at [https://dl.gl-inet.com/firmware/](https://dl.gl-inet.com/firmware/)
-Find your device name and then "tor" folder. Download the newest firmware.
+All the firmwares is available at [here](https://dl.gl-inet.com/). Select your device model and select the type to `tor`. Download the latest firmware.
 
-You need to refer to [Setup](https://docs.gl-inet.com/en/3/setup/mini_router/first_time_setup/) for instructions to flash the firmware to the router. 
+You need to refer to [Setup](../../setup/mini_router/first_time_setup/) for instructions to flash the firmware to the router. 
 
-| Model       | Tor firmware path                        | Newest Version | Note                                     |
-| ----------- | ---------------------------------------- | -------------- | ---------------------------------------- |
-| GL.iNet6416 | [https://dl.gl-inet.com/firmware/6416/tor/](https://dl.gl-inet.com/firmware/6416/tor/) | 1.3            |                                          |
-| AR150       | [https://dl.gl-inet.com/firmware/ar150/tor/](https://dl.gl-inet.com/firmware/ar150/tor/) | 2.264          |                                          |
-| AR300M      | [https://dl.gl-inet.com/firmware/ar300m/nand/tor/](https://dl.gl-inet.com/firmware/ar300m/nand/tor) | 2.264          | .rar is for web upgrade .img is for uboot upgrade |
-| AR300M-NOR  | [https://dl.gl-inet.com/firmware/ar300m/tor/](https://dl.gl-inet.com/firmware/ar300m/tor/) | 2.264          |                                          |
-| MT300N      | [https://dl.gl-inet.com/firmware/mt300n/tor/](https://dl.gl-inet.com/firmware/mt300n/tor/) | 2.264          |                                          |
-| MT300A      | [https://dl.gl-inet.com/firmware/mt300a/tor/](https://dl.gl-inet.com/firmware/mt300a/tor/) | 2.264          |                                          |
-| GL-MiFi     | [https://dl.gl-inet.com/firmware/ar150/tor/](https://dl.gl-inet.com/firmware/ar150/tor/) | 1.3            | MiFi don't have a Tor firmware itself. Use AR150 1.3 instead |
-| GL-AR300    | [https://dl.gl-inet.com/firmware/ar300/tor/](https://dl.gl-inet.com/firmware/ar300/tor/) | 1.3            |                                          |
-| GL-MT750    | Not supported yet                        |                |                                          |
-| AR750       | Not supported yet                        |                |                                          |
-
-##Using the firmware UI
+## Using the firmware UI
 
 After you flash the firmware to your device, when it reboots you need to set up the device at `http://192.168.8.1`. 
 
 `If` you need to connect via Wi-Fi, the default Wi-Fi password is `goodlife`.
 
-!!! NOTE 
+NOTE:
 
 **You need to move the hardware switch to the right side if you want to access the UI**. Otherwise you are connecting to the Tor network and will not be able to access the UI. This is for security reasons.
 
@@ -97,13 +81,13 @@ NOTE: **This doesn't change your WiFi password. Change it later.**
 
 ![First time](https://static.gl-inet.com/docs/en/2.x/app/src/tor/first_time.jpg){class="glboxshadow"}
 
-###Login
+### Login
 
 You will be asked to login using your `NEW` password now.
 
 ![Login](https://static.gl-inet.com/docs/en/2.x/app/src/tor/login.jpg){class="glboxshadow"}
 
-###Homepage
+### Homepage
 
 The UI is based on Domino Pi. It is quite simple. In your homepage you will be displayed with:
 
@@ -113,7 +97,7 @@ The UI is based on Domino Pi. It is quite simple. In your homepage you will be d
 
 ![Homepage](https://static.gl-inet.com/docs/en/2.x/app/src/tor/homepage.jpg){class="glboxshadow"}
 
-###System and firmware upgrade
+### System and firmware upgrade
 
 You can click the `SYSTEM` button from the left sidebar to view the system information, including:
 
@@ -128,7 +112,7 @@ If the firmware on our website is newer, you can click `Download` and follow the
 
 ![Upgrade](https://static.gl-inet.com/docs/en/2.x/app/src/tor/upgrade.jpg){class="glboxshadow"}
 
-###Network Settings
+### Network Settings
 
 Click the `NETWORK` button on the left sidebar to view and change the network settings, including:
 
@@ -146,7 +130,7 @@ If you connect a 3G or 4G USB modem, you can set the internet to the modem. You 
 
 Repeater settings. It will search for available ssid automatically. You need to choose ssid and type your password. 
 
-!!! NOTE 
+NOTE:
 
 **This firmware don't have repeater manager as our stock firmware.** If you move to another location, your Wi-Fi maybe not work and you need to re-setup. Refer to the button action section in this page.
 

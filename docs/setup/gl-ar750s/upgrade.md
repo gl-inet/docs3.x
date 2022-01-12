@@ -4,8 +4,6 @@
 
 ![upgrade](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/firmware.png)
 
-
-
 ---
 
 ## オンラインアップグレード
@@ -24,49 +22,9 @@
 
 ![upload firmware](https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/firmware2.png)
 
+## 公式ファームウェア
 
-
-### オフィシャルOpenWrt/LEDEファームウェア
-
-本社の[ウェブサイト](http://download.gl-inet.com/firmware/)でオフィシャルファームウェアがダウンロードできます。
-
-- GL-AR750: [http://download.gl-inet.com/firmware/ar750/](http://download.gl-inet.com/firmware/ar750/)
-- GL-AR750S (Slate): [http://download.gl-inet.com/firmware/ar750s/](http://download.gl-inet.com/firmware/ar750s/)
-
-あなたのデバイスモデルによって、対応なファームウェアを探してください。ファームウェアファイルは以下のサブフォルダーであります:
-
-**V1/release**: オフィシャルGL.iNet OpenWrt/LEDE ファームウエア。
-
-**testing**: GL.iNet OpenWrt/LEDE ファームウエアのベータ版。
-
-**clean**: OpenWrt/LEDE クリーンファームウェアです、Luci管理者ページしかほかのUIがありません。
-
-*注意：**.tar** ファイルをアップロードしてください、**.img** ファイルが**Uboot**に使用します。*
-
-
-
-### 自分のファームウェアをコンパイル
-
-
-自分のファームウェアをコンパイルして、ルーターにインストールすることができます。
-
-下記のリンクをご参考してください。
-
-[github.com/gl-inet/openwrt](https://github.com/gl-inet/openwrt)
-
-
-[github.com/gl-inet/imagebuilder](https://github.com/gl-inet/imagebuilder)
-
-
-### サードパーティのファームウェア
-
-DDWRTとかのほかのファームウェアを試すこともできます。
-
-
-
-*注意：このようにして互換性のないファームウェアをアップロードしてルーターが破損した場合は、Ubootを使用して正しいファームウェアを再インストールしてください。*
-
-
+ファームウェアは、弊社の[ダウンロードサイト](https://dl.gl-inet.com){target="_blank"}からダウンロードできます。
 
 ---
 
