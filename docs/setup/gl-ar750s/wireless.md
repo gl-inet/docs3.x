@@ -19,8 +19,8 @@
 
 **送信電力 (dBm)**: シグナル強度です、デフォルト強度は20dBmです。
 
-![wireless](https://static.gl-inet.com/docs/jp/3/setup/slate/wireless/status.png)
+![wireless](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/wireless/status.png)
 
 `修正`をクリックして、無線ネットワーク設定を変更します。
 
-![wifi modify](https://static.gl-inet.com/docs/jp/3/setup/slate/wireless/setting.png)
+![wifi modify](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/wireless/setting.png)

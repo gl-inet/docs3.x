@@ -5,7 +5,7 @@
 
 `ネットワーク`をクリックして、ネットワーク接続を作ります。
 
-![internet](https://static.gl-inet.com/docs/jp/3/setup/b1300/internet/main_ui.png)
+![internet](https://static.gl-inet.com/docs/jp/3/setup/gl-b1300/internet/main_ui.png)
 
   
 

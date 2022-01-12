@@ -8,7 +8,7 @@ GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
 GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
-![router](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/構造.jpg)
+![router](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first_time_setup/構造.jpg)
 
 *注意：**GL-AR300M-Lite**は一つだけのイーサネットポートがあります。*
 
@@ -19,7 +19,7 @@ GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
 Micro USBパワーケーブルをルーターのパワーポートに差し込みます。5V/1Aのパワーアダプターを利用することを確認してください。それはなければ、故障になるかもしれません。
 
-![Power on](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/power.jpg)
+![Power on](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first_time_setup/power.jpg)
 
 ## 2.接続 
 
@@ -32,7 +32,7 @@ Micro USBパワーケーブルをルーターのパワーポートに差し込�
 ### LANで接続
 イーサネットケーブルでデバイスを接続します。
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first-time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/connect.jpg)
 
 *注意：**GL-AR300M-Lite**には、イーサネットポートが一つしかない。そして、WANとして使います。最初にルーターを設定するたびに、WiFiだけで接続することができます。WiFiに接続した後、ネットワークでWANポートをLANポートに転換して、LANでルーターに接続できるようになります。*
 
@@ -63,7 +63,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 1）言語設定
 管理パネルで言語を設定することが必要です。現在、ルーターが**日本語**、**English**、**简体中文**、**繁體中文**、**Deutsch**、**Français**、**Español**、**Italiano**、**한국어**をサポートします。
 
-![initial setup](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/言語設定.png)
+![initial setup](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first_time_setup/言語設定.png)
 
 *注意: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください:  [http://192.168.8.1/index](http://192.168.8.1/index)*
 
@@ -72,7 +72,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 2）管理者パスワード設定
 ここで、デフォルトパスワードではない、新しいパスワードをセットしてください。パスワードは5文字以上でなければなりません。`続き`をクリックして確認します。
 
-![password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/パスワード設定.png)
+![password](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first_time_setup/パスワード設定.png)
 
 *注意：このパスワードは、管理者パネルまたはLinuxセステムで利用されます。WiFiパスワードが変わりません。*
 
@@ -81,4 +81,4 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 ### 3）管理パネル
 以上のセットが完了後、ルーターの管理者パネルに入ります。ルーターの状況を確認したり、設定を変更することができます。
 
-![admin panel](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first-time_setup/管理者パネル.png)
+![admin panel](https://static.gl-inet.com/docs/jp/3/setup/mini_router/first_time_setup/管理者パネル.png)

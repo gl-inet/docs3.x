@@ -2,7 +2,7 @@
 
 <details>
 <summary>なんで192.168.8.1からルーターにアクセスできないですか？</summary>
-<p><a href="https://docs.gl-inet.com/jp/3/setup/mini_router/first-time_setup/">セットアープ</a> をクリックし、ルーターに正しく接続したことを確認します。そして、<b>Chrome</b>または<b>Firefox</b>を使用してください。IEブラウザーを使用しないでください。</p>
+<p><a href="https://docs.gl-inet.com/jp/3/setup/mini_router/first_time_setup/">セットアープ</a> をクリックし、ルーターに正しく接続したことを確認します。そして、<b>Chrome</b>または<b>Firefox</b>を使用してください。IEブラウザーを使用しないでください。</p>
 <p> 問題が解決できない場合は、ルーターを<a href="https://docs.gl-inet.com/jp/3/troubleshooting/reset/">リセット</a>する、または<a href="https://docs.gl-inet.com/jp/3/troubleshooting/debrick/">Uboot</a>を使用してファームウェアを再インストールすることを試してください。</p>
 </details>
 

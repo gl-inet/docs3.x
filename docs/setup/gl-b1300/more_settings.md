@@ -105,6 +105,6 @@ DNSリークを防ぐ、またはそのほかの目的ために、ルーター�
 
 OpenWrtのデフォルトのWebインターフェースであるLuciに進むには、`高級機能`をクリックしてください。 詳細なシステムログを確認したり、より高度な設定を行ったりできます。
 
-![advanced](https://static.gl-inet.com/docs/jp/3/setup/b1300/more_settings/advanced.png)
+![advanced](https://static.gl-inet.com/docs/jp/3/setup/gl-b1300/more_settings/advanced.png)
 
 *注意: ユーザーネームは**root**です。パスワードは、管理者パスワードと同じです。*

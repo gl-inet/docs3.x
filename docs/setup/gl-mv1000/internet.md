@@ -2,13 +2,13 @@
 
 三つのインターネットをアクセスする方法があります：**有線接続**、**USBモデル**、**テザリング**。
 
-![connection method](https://static.gl-inet.com/docs/jp/3/setup/mv1000/internet/internet_settings.jpg)
+![connection method](https://static.gl-inet.com/docs/jp/3/setup/gl-mv1000/internet/internet_settings.jpg)
 
 
 
 `ネットワーク`をクリックして、ネットワーク接続を作ります。
 
-![internet](https://static.gl-inet.com/docs/jp/3/setup/mv1000/first-time_setup/main_ui.png)
+![internet](https://static.gl-inet.com/docs/jp/3/setup/gl-mv1000/first_time_setup/main_ui.png)
 
   
 

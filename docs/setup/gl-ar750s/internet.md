@@ -2,13 +2,13 @@
 
 四つのインターネットにアクセスする方法があります：**有線接続**、**無線中継**、**3G/4Gモデル**、**テザリング**。
 
-![connection method](https://static.gl-inet.com/docs/jp/3/setup/slate/first-time_setup/method.jpg)
+![connection method](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/first_time_setup/method.jpg)
 
 
 
 `ネットワーク`をクリックして、ネットワークに繋がります。
 
-![internet](https://static.gl-inet.com/docs/jp/3/setup/slate/first-time_setup/main_ui.png)
+![internet](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/first_time_setup/main_ui.png)
 
   
 

@@ -19,8 +19,8 @@
 
 **送信電力 (dBm)**: シグナル強度です、デフォルト強度は20dBmです。
 
-![wireless](https://static.gl-inet.com/docs/jp/3/setup/b1300/wireless/status.png)
+![wireless](https://static.gl-inet.com/docs/jp/3/setup/gl-b1300/wireless/status.png)
 
 `修正`をクリックして、無線ネットワーク設定を変更します。
 
-![wifi modify](https://static.gl-inet.com/docs/jp/3/setup/b1300/wireless/setting.png)
+![wifi modify](https://static.gl-inet.com/docs/jp/3/setup/gl-b1300/wireless/setting.png)
