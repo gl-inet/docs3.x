@@ -2,7 +2,7 @@
 
 A captive portal is a web page accessed with a web browser that is displayed to newly connected users of a Wi-Fi network before they are granted broader access to network resources.
 
-Captive portal feature need firmware version is equal or greater than v3.022, please visit <a href="https://docs.gl-inet.com/en/3/release_notes/">this</a> to download latest firmware and upgrade.
+Captive portal feature need firmware version is equal or greater than v3.022, please visit [this](https://dl.gl-inet.com){target="_blank"} to download latest firmware and upgrade.
 
 ## 1. Turn on Captive Portal
 
@@ -30,7 +30,7 @@ Below is the Portal on iPhone, click the "GET CONNECTED" button to access the in
 
 ## 2. Change the default page
 
-The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access <a href="https://docs.gl-inet.com/en/3/app/ssh/" target="_blank">this</a>. You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a> or other sites.
+The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access [this](../../tutorials/ssh/). You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a> or other sites.
 
 If you want to change the picture on the default page, just replace the image on `/etc/nodogsplash/htdocs/images/portal_login.png`.
 

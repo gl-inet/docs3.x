@@ -13,7 +13,7 @@ You can also refer to video tutorial below.
 <ol type="1">
   <li>
     <p>
-      First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://docs.gl-inet.com/en/3/release_notes/" target="_blank">here</a>. Some models, such as GL-AR750S-EXT, it is available in two formats of firmware, please use the firmware with the .img extension.
+      First you have to download <b>firmware</b> to your computer. You can download the firmware <a href="https://dl.gl-inet.com/" target="_blank">here</a>. Some models, such as GL-AR750S-EXT, it is available in two formats of firmware, please use the firmware with the .img extension.
     </p> 
   </li>
   <li>
@@ -25,7 +25,7 @@ You can also refer to video tutorial below.
     <p>
     Press and hold the Reset button firmly first, and then power on your device. (If your device does not have a power button, plugging it in will power it on automatically.)
     </p>
-    <p>If you can not find the reset button, please refer to our page,<a href="https://docs.gl-inet.com/en/3/troubleshooting/reset" target="_blank"> How to Repair and Reset</a>.</p>
+    <p>If you can not find the reset button, please refer to our page,<a href="../../troubleshooting/reset" target="_blank"> How to Repair and Reset</a>.</p>
     <p>
       Release your finger when you see the LED has flashed:
     </p>

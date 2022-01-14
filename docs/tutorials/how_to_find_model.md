@@ -11,6 +11,6 @@ Usually, you can easily find the model number on the label on the back of the GL
 If the label of the product is not readable, you can also find your model number according to the
 the appearance of the product to find your model number from the two links below.
 
-[Products](https://www.gl-inet.com/products/){target="_blank}
+[Products](https://www.gl-inet.com/products/){target="_blank"}
 
-[Discontinued products](https://www.gl-inet.com/products/discontinued/){target="_blank}
+[Discontinued products](https://www.gl-inet.com/products/discontinued/){target="_blank"}

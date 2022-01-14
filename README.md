@@ -18,7 +18,7 @@ Each page use markdown, please check out this basic syntax of markdown [here](ht
 
 ### Open in new tab
 
-If you wanna a link to open in new tab, add `{target="_blank}` at the end of link block.
+If you wanna a link to open in new tab, add `{target="_blank"}` at the end of link block.
 
 ### Image file type
 

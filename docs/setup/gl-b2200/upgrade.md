@@ -34,7 +34,7 @@ Click `Install`, it will upgrade main node and sub nodes.
 
 ### Official Firmware
 
-You can download the official firmware from our [release note](../../../release_notes/) page.
+You can download the firmware from our [download site](https://dl.gl-inet.com){target="_blank"}.
 
 ---
 

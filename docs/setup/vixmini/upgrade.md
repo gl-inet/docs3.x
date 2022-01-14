@@ -4,8 +4,6 @@ Click `UPGRADE` to check any available update and upgrade the firmware.
 
 ![upgrade](https://static.gl-inet.com/docs/en/3/setup/vixmini/upgrade/firmware.jpg){class="glboxshadow"}
 
-
-
 ---
 
 ## Online Upgrade
@@ -14,11 +12,7 @@ You can find the current firmware version here. If your router is connected to t
 
 ![online upgrade](https://static.gl-inet.com/docs/en/3/setup/vixmini/upgrade/firmware1.jpg){class="glboxshadow"}
 
-
-
 *Note: It is suggested to uncheck **Keep setting**. If you keep the settings and encounter problems after the upgrade, please reset the router.*
-
-
 
 ---
 
@@ -28,31 +22,9 @@ Click `Local Upgrade` to upload a firmware file to the router. Simply drag and d
 
 ![upload firmware](https://static.gl-inet.com/docs/en/3/setup/vixmini/upgrade/firmware2.jpg){class="glboxshadow"}
 
+### Official Firmware
 
-
-### Official OpenWrtfirmware
-
-You can download the official firmware from our [website](https://dl.gl-inet.com/firmware/). 
-
-- VIXMINI: [https://dl.gl-inet.com/firmware/vixmini/release/](https://dl.gl-inet.com/firmware/vixmini/release/)
-
-Find the available firmwares from the folder according to your device model, and they are located in different sub-folders:
-
-**release**: Official OpenWrt/LEDE firmware.
-
-**clean**: Clean versions of OpenWrt/LEDE firmware with LuCI admin page only.
-
-**testing**: Beta version of OpenWrt/LEDE firmware.
-
-
-
-### Compile your own firmware
-
-You can compile your own firmware and flash to the router. Please refer to 
-
-[https://github.com/gl-inet/openwrt](https://github.com/gl-inet/openwrt)
-
-[https://github.com/gl-inet/imagebuilder](https://github.com/gl-inet/imagebuilder)
+You can download the firmware from our [download site](https://dl.gl-inet.com){target="_blank"}.
 
 ---
 

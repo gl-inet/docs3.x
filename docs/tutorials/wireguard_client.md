@@ -12,7 +12,7 @@ For setup via web Admin Panel, please follow the guide below.
 
 ---
 
-## Setup WireGuard Client 
+## Setup WireGuard Client
 
 There is a video tutorial, please check out [here](#video-tutorial).
 
@@ -50,7 +50,7 @@ If connected, it will show the traffic info of upload and download .
 
 ### WireGuard Providers
 
-If you are using [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blank} or [Mullvad](https://mullvad.net/), it has integrated their services.
+If you are using [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blank"} or [Mullvad](https://mullvad.net/), it has integrated their services.
 
 <details>
   <summary>AzireVPN</summary>
@@ -61,6 +61,7 @@ If you are using [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blan
     <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/azirevpn/setup_azirevpn.png" alt="Configuraion" />
   </p>
   <p>It will take several minutes to get configs, please be patient.</p>
+  <p></p>
 </details>
 
 <details>

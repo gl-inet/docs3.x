@@ -1,6 +1,6 @@
 # qDslrDashboard - Control Your DSLR Camera Wirelessly
 
-qDslrDashboard is a Windows/Linux/MacOS and Android/iOS compatible app that lets you control your [DSLR Camera](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera){target="_blank}. Together with your GL.iNet router, you can also control your camera **wirelessly**.
+qDslrDashboard is a Windows/Linux/MacOS and Android/iOS compatible app that lets you control your [DSLR Camera](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera){target="_blank"}. Together with your GL.iNet router, you can also control your camera **wirelessly**.
 
 ### Supported Features
  - change camera settings/properties
@@ -50,12 +50,12 @@ qDslrDashboard is a Windows/Linux/MacOS and Android/iOS compatible app that lets
 
 **Sony:**
 
- - Sony cameras with built in Wi-Fi work directly with the qDslrDashboard apps, but since this guide is for GL-iNet routers, it will not be covered in this guide. Read the official documentation to find out how to get it work using your Sony camera here: [https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank}
+ - Sony cameras with built in Wi-Fi work directly with the qDslrDashboard apps, but since this guide is for GL-iNet routers, it will not be covered in this guide. Read the official documentation to find out how to get it work using your Sony camera here: [https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank"}
 
 ### Client Downloads
 
 Download the latest client version for your device from here:
-[https://dslrdashboard.info/downloads/](https://dslrdashboard.info/downloads/){target="_blank}
+[https://dslrdashboard.info/downloads/](https://dslrdashboard.info/downloads/){target="_blank"}
 
 The Windows/Linux/MacOS apps are free, but the Android/iOS are **paid** (around 10  US Dollars)
 
@@ -114,7 +114,7 @@ Notice i am not using the default router IP since i have changed it:
 ### Example Usage
 
 Follow the official manual for guides on how to use all the features here:
-[https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank}
+[https://dslrdashboard.info/documentation/](https://dslrdashboard.info/documentation/){target="_blank"}
 
 The following photos were taken using custom exposure bracketing, with 11 photos:
 

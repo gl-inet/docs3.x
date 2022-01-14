@@ -73,27 +73,27 @@
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="gl-x750/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
     </div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="gl-xe300/">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="gl-mifi/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
       </a>
@@ -164,12 +164,12 @@
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
   	  </a>
   	</div>
-	<div class="gl-product-card">
+	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
@@ -206,6 +206,11 @@
 	  <div class="gl-product-card">
       <a href="gl-mt300n/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n.png" width=100%>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="vixmini/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
       </a>
     </div>
   </div>

@@ -66,18 +66,18 @@ You can change you resolution from 320X240 to 1920x1080.
 
 If you want to purchase a USB Webcam that is workable with GL.iNet routers, microuter USB Webcam has been tested by GL.iNet. You can purchase it through the following link:
 
-[Amazon US](https://www.amazon.com/dp/B082NRZZLT?ref=myi_title_dp){target="_blank}
+[Amazon US](https://www.amazon.com/dp/B082NRZZLT?ref=myi_title_dp){target="_blank"}
 
-[Amazon UK](https://www.amazon.co.uk/dp/B082NRZZLT?ref=myi_title_dp){target="_blank}
+[Amazon UK](https://www.amazon.co.uk/dp/B082NRZZLT?ref=myi_title_dp){target="_blank"}
 
-[Amazon DE](https://www.amazon.de/dp/B0834LFZ29?ref=myi_title_dp){target="_blank}
+[Amazon DE](https://www.amazon.de/dp/B0834LFZ29?ref=myi_title_dp){target="_blank"}
 
-[Amazon FR](https://www.amazon.fr/dp/B082NRZZLT?ref=myi_title_dp){target="_blank}
+[Amazon FR](https://www.amazon.fr/dp/B082NRZZLT?ref=myi_title_dp){target="_blank"}
 
-[Amazon IT](https://www.amazon.it/dp/B082NRZZLT?ref=myi_title_dp){target="_blank}
+[Amazon IT](https://www.amazon.it/dp/B082NRZZLT?ref=myi_title_dp){target="_blank"}
 
-[Amazon ES](https://www.amazon.es/dp/B082NRZZLT?ref=myi_title_dp){target="_blank}
+[Amazon ES](https://www.amazon.es/dp/B082NRZZLT?ref=myi_title_dp){target="_blank"}
 
-[AliExpress](https://www.aliexpress.com/item/4000579361414.html?spm=a2g0o.detail.1000023.1.552d287eRwizYo){target="_blank}
+[AliExpress](https://www.aliexpress.com/item/4000579361414.html?spm=a2g0o.detail.1000023.1.552d287eRwizYo){target="_blank"}
 
 ## **Enjoy your streaming USB webcam through connecting GL.iNet router.**
