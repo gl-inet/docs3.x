@@ -363,7 +363,7 @@ GL-S10 supports wired transmission and Wi-Fi for connecting to the router or gat
 ### MQTT X client configuration
 Before doing the MQTT X client configuration, we need to configure the configuration of the MQTT server on S10 first. Find MQTT Server session in the S10 Tool APP.
 
-Here we are using the test MQTT server: iot-s10-test.gl-inet.cn. And the Port is: 1884, so we need to set the Host in the following figure: iot-s10-test.gl-inet.cn.Port: 1884.
+Here we are using the test MQTT server: iot-s10-test.gl-inet.cn. And the Port is: 1884, so we need to set the Host in the following figure: iot-s10-test.gl-inet.cn. And set Port: 1884.
 
 <div class="flex-container s10-user-manual">
   <div>
@@ -403,6 +403,7 @@ Subscribe to the GL-IoT/rspTopic/E8DB841E2B1E topic using MQTT X.
 
 **Step 2:**
 SET_WIFI_CONFIG
+
 API Function: Configure SSID and PWD of WIFI or SSID, user name, user password of WIFI WPA2, and try to connect to the corresponding route. 
 
 {
@@ -444,7 +445,9 @@ Set data successfully:
 
 **Step 3:**
 GET_WIFI_CONFIG
-API Function: Get the SSID and PWD of WIFI or SSID, user name, user password of WIFI WPA2
+
+API Function: Get the SSID and PWD of WIFI or SSID, user name, user password of WIFI WPA2\
+
 {
 
 "jsonrpc" :   "2.0" ,
@@ -485,6 +488,7 @@ As shown above, the JSON fields have the following definitions
 If you purchased a gateway kit with a BLE Beacon and adds filtering rules for the beacon BLE MAC address according to section 3.9, the JSON information viewed here is the BLE information broadcast by the beacon. The beacons are placed at different distances from the GL-S10 gateway (distance up to the decimeter level), and the value of rssi (broadcast source signal strength) may fluctuate based on distance. 
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic41.png", width = 800></center>
 <center>Figure 41</center>
+
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic42.png", width = 400></center>
 <center>Figure 42</center>
 
