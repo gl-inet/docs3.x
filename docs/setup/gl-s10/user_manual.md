@@ -489,7 +489,7 @@ If you purchased a gateway kit with a BLE Beacon and adds filtering rules for th
 <center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic41.png", width = 800></center>
 <center>Figure 41</center>
 
-<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic42.png", width = 400></center>
+<center><img src="https://static.gl-inet.com/docs/en/3/setup/gl-s10/S10_Use_Manual_Pic/Pic42.png", width = 800></center>
 <center>Figure 42</center>
 
 ## GL-S10 Config API
