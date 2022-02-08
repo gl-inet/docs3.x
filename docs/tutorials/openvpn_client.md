@@ -119,7 +119,10 @@ Recommended:
     <a href="https://billing.purevpn.com/aff.php?aff=35535" target="_blank">Official Website</a>
   </p>
   <p>
-    <a href="https://s3-us-west-1.amazonaws.com/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
+    <a href="https://d32d3g1fvkpl8y.cloudfront.net/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
+  </p>
+  <p>
+    <a href="https://support.purevpn.com/openvpn-files" target="_blank">Refer link</a>
   </p>
 </details>
 
