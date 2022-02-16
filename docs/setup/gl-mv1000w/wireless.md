@@ -39,8 +39,6 @@ Here is a list of supported dongles that we had tested before.
 | RTL8811AU/RTL8821AU                    | AWUS036ACS    | Yes    |
 | RTL8812AU                              | AWUS036AC     | Yes    |
 
-You can buy these dongles from our [store](https://store.gl-inet.com/search?type=article%2Cpage%2Cproduct&q=dongle*){target="_blank"} or other channels.
-
 When you insert the dongle, you will see the dongle under `WIRELESS`.
 
 ![gl-mv1000w with dongle](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/wireless/wifi_status_5g_dongle_mv1000w.png){class="glboxshadow"}
