@@ -7,7 +7,9 @@ You can connect to EAP (Extensible Authentication Protocol) Wi-Fi network which 
 
 This guide is how to connect an EAP Wi-Fi network via Admin Panel. 
 
-* All models are supported EAP **EXCEPT** GL-MT300N-V2, microuter-N300, GL-MT1300
+* Supported model: GL-AR300M Series, GL-USB150, GL-AR750, GL-AR750S, GL-B1300, GL-S1300, GL-AP1300, GL-E750, GL-X750, GL-MiFi, GL-XE300, GL-AX1800, GL-B2200, GL-X300B, GL-X1200
+
+* Not supported model: GL-MT300N-V2, microuter-N300, GL-MT1300, GL-MV1000W, GL-MV1000, GL-SF1200, GL-SFT1200
 
 ---
 ## Connect via web Admin Panel
