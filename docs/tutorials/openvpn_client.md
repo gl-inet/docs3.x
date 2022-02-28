@@ -510,18 +510,6 @@ Others:
   <p>The username and password are the same you login OVPN.</p>
 </details>
 
-
-<details>
-<summary>Proxpn</summary>
-  <p>
-    <a href="https://secure.proxpn.com/?a_aid=5ac450e27df6f" target="_blank">Official Website</a>
-  </p>
-  <p>
-    <a href="https://www.proxpn.com/updater/locations.html">Download</a> directly.
-  </p>
-</details>
-
-
 <details>
 <summary>SaferVPN</summary>
   <p>
