@@ -93,7 +93,7 @@ You can also refer to video tutorial below.
   </li>
   <li>
     <p>
-    Revert the IP setting you did in step 6 and connect your device to the LAN or Wi-Fi of the router. You will be able to access the router via 192.168.8.1 again.
+    Revert the IP setting you did in step 4 and connect your device to the LAN or Wi-Fi of the router. You will be able to access the router via 192.168.8.1 again.
     </p>
   </li>
 </ol>
