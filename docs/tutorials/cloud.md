@@ -275,13 +275,21 @@ There are two tools, `Ping` and `Traceroute`.
 
 Note: Please upgrade to 3.211 to use this feature.
 
-![device timeline](https://static.gl-inet.com/goodcloud/docs/remote_access_web_admin_panel.png){class="glboxshadow"}
+If you can't find these icons, please make sure you have enable it, check out [here](#enable-cloud-management-on-web-admin-panel).
+
+If this feature not work, please try the incognito mode of browser.
+
+![remote access web admin panel](https://static.gl-inet.com/goodcloud/docs/remote_access_web_admin_panel.png){class="glboxshadow"}
 
 ### Remote access router's terminal
 
 Note: Please upgrade to 3.211 to use this feature.
 
-![device timeline](https://static.gl-inet.com/goodcloud/docs/remote_access_terminal.png){class="glboxshadow"}
+If you can't find these icons, please make sure you have enable it, check out [here](#enable-cloud-management-on-web-admin-panel).
+
+If this feature not work, please try the incognito mode of browser.
+
+![remote access web admin panel](https://static.gl-inet.com/goodcloud/docs/remote_access_terminal.png){class="glboxshadow"}
 
 ### Set email alarm
 
