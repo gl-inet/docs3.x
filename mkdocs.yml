@@ -81,6 +81,8 @@ extra_javascript:
 markdown_extensions:
   - attr_list
   - pymdownx.tabbed
+  - toc:
+      permalink: true
 
 nav:
   - Home:
