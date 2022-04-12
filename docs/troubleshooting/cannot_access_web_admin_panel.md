@@ -2,9 +2,10 @@
 
 Sometimes you may be unable to access 192.168.8.1 to login web Admin Panel, there maybe several reasons.
 
-* You computer or mobile phone doesn't connect to router.
+* You computer or mobile phone doesn't connect to the router.
 * 192.168.8.1 is the default IP address of the router, you may have changed this IP.
 * The cache or extension of browser may cause unaccessable.
+* You are using a VPN client which handle your LAN traffic.
 * The router is bricked.
 
 Follow the steps to fix this issue.
@@ -71,5 +72,6 @@ Then follow the steps below to check the router's IP address.
 
 1. Make sure you are using Chrome/Edge/Safari, then try to access your IP address again.
 2. In order to avoid problems caused by the browser cache and extension, please open the incognito window. Then try to access the IP address of router again.
-3. If step 2 failed, try [Reset](../reset) to back to factory default.
-4. If the reset doesn't work, you can try [Debrick via uboot](../debrick).
+3. If you are using a VPN, please turn off then try again.
+4. If above steps failed, try [Reset](../reset) to back to factory default.
+5. If the reset doesn't work, you can try [Debrick via uboot](../debrick).
