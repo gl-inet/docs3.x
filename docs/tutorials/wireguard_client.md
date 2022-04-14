@@ -54,27 +54,36 @@ If you are using [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blan
 
 <details>
   <summary>AzireVPN</summary>
-  <p>
-    Select <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> as the provider, enter your User Name and Password and then click `Next`.
-  </p>
-  <p>
-    <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/azirevpn/setup_azirevpn.png" alt="Configuraion" />
-  </p>
-  <p>It will take several minutes to get configs, please be patient.</p>
-  <p></p>
+  <ul>
+    <li>
+      <p>
+        Select <a href="https://www.azirevpn.com/aff/9x7wisg4" target="_blank">AzireVPN</a> as the provider, enter your User Name and Password and then click `Next`.
+      </p>
+      <p>
+        <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/azirevpn/setup_azirevpn.png" alt="Configuraion" />
+      </p>
+      <p>It will take several minutes to get configs, please be patient.</p>
+    </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup AzireVPN.</li>
+  </ul>
 </details>
 
 <details>
-<summary>Mullvad</summary>
-  <p>
-    Select Mullvad as the provider, enter your Account Number and then click "Add" to finish the WireGuard Client setup.
-  </p>
-  <p>
-    <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/mullvadvpn/setup_mullvadvpn.png" alt="Configuraion" />
-  </p>
-  <p>
-    It will take several minutes to get configs, please be patient.
-  </p>
+  <summary>Mullvad</summary>
+  <ul>
+    <li>
+      <p>
+        Select Mullvad as the provider, enter your Account Number and then click "Add" to finish the WireGuard Client setup.
+      </p>
+      <p>
+        <img class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/mullvadvpn/setup_mullvadvpn.png" alt="Configuraion" />
+      </p>
+      <p>
+        It will take several minutes to get configs, please be patient.
+      </p>
+    </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup Mullvad.</li>
+  </ul>
 </details>
 
 Other recommended WireGuard provider:
@@ -150,64 +159,8 @@ Other recommended WireGuard provider:
         <img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" />
       </p>
     </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup OVPN.</li>
   </ol>
-</details>
-
-<details>
-  <summary>SpiderVPN</summary>
-  <p>
-    <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">Official Website</a>
-  </p>
-  <ol type="1">
-    <li>
-      <p>
-        Login <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.
-      </p>
-      <p>
-        <img class="glboxshadow" alt="get spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/spidervpn/spidervpn_config_1.jpg" />
-      </p>
-    </li>
-    <li>
-      <p>Download the vpn configuration</p>
-      <p>
-        <img class="glboxshadow" alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/spidervpn/spidervpn_config_2.jpg" />
-      </p>
-    </li>
-    <li>
-      <p>Open the config by text edit software, copy the content.</p>
-    </li>
-    <li>
-      <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
-      <p>
-        <img class="glboxshadow" alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/setup_wireguard_manually.png" />
-      </p>
-    </li>
-    <li>
-      <p>
-        Paste the configuration text to the Configuration windows. You need to adjust the format, make sure there is a space on each side of the equals sign. Click <b>Next</b>
-      </p>
-      <p>
-        <img class="glboxshadow" alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/add_a_new_wireguard_config.png" />
-      </p>
-    </li>
-    <li>
-      <p>Specify the name of your server and click <b>Add</b></p>
-      <p>
-        <img class="glboxshadow" alt="input config name" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/input_config_name.png" />
-      </p>
-    </li>
-    <li>
-      <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
-      <p>
-        <img class="glboxshadow" alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connect.png" />
-      </p>
-    </li>
-    <li>
-      <p>You will see the upload and download traffic when it is connected successfully.</p>
-      <p>
-        <img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" />
-      </p>
-    </li>
 </details>
 
 <details>
@@ -273,6 +226,7 @@ Other recommended WireGuard provider:
         <img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" />
       </p>
     </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup TorguardVPN.</li>
   </ol>
   <p>
     <a href="https://torguard.net/knowledgebase.php?action=displayarticle&id=250" target="_blank">Refer link</a>
@@ -355,6 +309,7 @@ Other recommended WireGuard provider:
       <p>You will see the upload and download traffic when it is connected successfully.</p>
       <p><img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" /></p>
     </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup StrongVPN.</li>
   </ol>
   <p>
     <a href="https://support.strongvpn.com/hc/en-us/articles/360035942554-WireGuard-GLiNet-Routers" target="_blank">Refer link</a>
@@ -396,6 +351,7 @@ Other recommended WireGuard provider:
       <p>You will see the upload and download traffic when it is connected successfully.</p>
       <p><img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" /></p>
     </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup WeVPN.</li>
   </ol>
   <p><a href="https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwgmhcHUUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiTWh0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUxNzM3ODk0LVdpcmVndWFyZC1TZXR1cAY7B1Q6DnNlYXJjaF9pZEkiKTg1MzYyYTliLTFiNjQtNDgxZi1hOTZiLTIzMTE3NzQ4ZGMwMwY7B0Y6CXJhbmtpBg%3D%3D--708754fd43f05b5496036ebe0747c5a6dac84bf3">Refer link</a></p>
 </details>
@@ -469,6 +425,16 @@ Other recommended WireGuard provider:
     </li>
   </ol>
 </details>
+
+
+<details>
+  <summary>PIA (Private Internet Access)</summary>
+  <p>
+    <a href="https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl" target="_blank">Official Website</a>
+  </p>
+  <p>It can't downlaod the WireGaurd configs from its website, please use <a href="../mobile_app">mobile app</a> to setup PIA VPN.</p>
+</details>
+
 
 <details>
   <summary>VPN Unlimited(KeepSolid)</summary>
@@ -700,6 +666,65 @@ Other recommended WireGuard provider:
       <p>You will see the upload and download traffic when it is connected successfully.</p>
       <p><img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" /></p>
     </li>
+  </ol>
+</details>
+
+<details>
+  <summary>SpiderVPN</summary>
+  <p>
+    <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">Official Website</a>
+  </p>
+  <ol type="1">
+    <li>
+      <p>
+        Login <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">www.spidervpn.org</a>, find the section to get your VPN configuration. Follow the steps to get the configuration.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="get spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/spidervpn/spidervpn_config_1.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>Download the vpn configuration</p>
+      <p>
+        <img class="glboxshadow" alt="download spider vpn configuration" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/spidervpn/spidervpn_config_2.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>Open the config by text edit software, copy the content.</p>
+    </li>
+    <li>
+      <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+      <p>
+        <img class="glboxshadow" alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/setup_wireguard_manually.png" />
+      </p>
+    </li>
+    <li>
+      <p>
+        Paste the configuration text to the Configuration windows. You need to adjust the format, make sure there is a space on each side of the equals sign. Click <b>Next</b>
+      </p>
+      <p>
+        <img class="glboxshadow" alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/add_a_new_wireguard_config.png" />
+      </p>
+    </li>
+    <li>
+      <p>Specify the name of your server and click <b>Add</b></p>
+      <p>
+        <img class="glboxshadow" alt="input config name" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/input_config_name.png" />
+      </p>
+    </li>
+    <li>
+      <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+      <p>
+        <img class="glboxshadow" alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connect.png" />
+      </p>
+    </li>
+    <li>
+      <p>You will see the upload and download traffic when it is connected successfully.</p>
+      <p>
+        <img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" />
+      </p>
+    </li>
+    <li>You can also use <a href="../mobile_app">mobile app</a> to setup SpiderVPN.</li>
   </ol>
 </details>
 
