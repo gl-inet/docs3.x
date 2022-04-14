@@ -198,27 +198,25 @@ Recommended:
     *Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download" rel="sponsored">Expressvpn official instruction</a>
   </p>
   <ol type="1">
-    <li>Log in to your <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank" rel="sponsored">ExpressVPN</a> account.</li>
+    <li>Go to <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank" rel="sponsored">ExpressVPN</a> website, and log in with your ExpressVPN credentials.</li>
     <p>
-      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn1.jpg" />
+      <img alt="expressvpn account click sign in" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn-account-click-sign-in.jpg" />
     </p>
-    <li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
     <p>
-      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn2.png" />
+      <strong>Enter the verification code</strong> that is sent to your email.
     </p>
-    <li>
-      Click on Manual Config on the left side of the screen and then select the OpenVPN tab on the right. You will first see your username and password and then a list of OpenVPN configuration files.
+    <li>On the right, with <strong>OpenVPN</strong> already selected for you, you will see your <strong>username</strong>, <strong>password</strong>, and a list of <strong>OpenVPN configuration files</strong>.
     </li>
     <p>
-      Find the location(s) you want to connect to (e.g., Los Angeles, New York, Hong Kong), then download and save the .ovpn file(s) to your desktop.
+      <img alt="" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn-account-manual-configuation-openvpn.jpg" />
     </p>
     <p>
-      Note: Please have your username and password ready, as you will be asked to enter them later in the setup process.
+      Click the location(s) you want in order to download the .ovpn file(s).
     </p>
     <p>
-      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn3.png" />
+      <strong>Keep this browser window open</strong>. You will need this information for the setup later.
     </p>
-</ol>
+  </ol>
 </details>
 
 
