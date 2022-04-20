@@ -670,6 +670,81 @@ Other recommended WireGuard provider:
 </details>
 
 <details>
+  <summary>StarVPN</summary>
+  <p>
+    <a href="https://www.starvpn.com/">Official Website</a>
+  </p>
+  <ol>
+    <li>
+      <p>
+        <strong>Register an account with StarVPN</strong>
+      </p>
+      <p>
+        Head on over to our <a href="https://www.starvpn.com/#pricing">pricing plan</a> options and choose a VPN plan that suits your needs.&nbsp; &nbsp;You can register on checkout or directly<a href="https://www.starvpn.com/dashboard/register.php"> here.</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Download Wireguard Configuration</strong>
+      </p>
+      <p>
+        Log into the StarVPN member area <a href="https://www.starvpn.com/dashboard">dashboard</a>.&nbsp; Click on Wireguard Config to download the configuration file. Each slot will contain a unique wireguard configuration file. 
+      </p>
+      <p>
+        <img class="glboxshadow" alt="starvpn download wireguard config" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/starvpn/download-config_edited.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        The config may contain IPv6 content, as GL.iNet routers is not support IPv6 good enough, so please delete the IPv6 content.
+      </p>
+      <img class="glboxshadow" alt="startvpn wireguard configuration remove ipv6 content" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/starvpn/starvpn_wireguard_configuration_remove_ipv6.jpg" />
+    </li>
+    <li>
+      <p>
+        Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually
+      </p>
+      <p>
+        <img class="glboxshadow" alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/setup_wireguard_manually.png" />
+      </p>
+    </li>
+    <li>
+      <p>
+        Paste the configuration text to the Configuration windows. Click <b>Next</b>
+      </p>
+      <p>
+        <img class="glboxshadow" alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/starvpn/add_a_new_wireguard_config.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        Specify the name of your server and click <b>Add</b>
+      </p>
+      <p>
+        <img class="glboxshadow" alt="input config name" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/input_config_name.png" />
+      </p>
+    </li>
+    <li>
+      <p>
+        Connect to the WireGuard server by clicking <b>Connect</b>
+      </p>
+      <p>
+        <img class="glboxshadow" alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connect.png" />
+      </p>
+    </li>
+    <li>
+      <p>
+        You will see the upload and download traffic when it is connected successfully.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" />
+      </p>
+    </li>
+  </ol>
+  <a href="https://www.starvpn.com/wireguard-setup-on-gl-inet-router/">Refer link</a>
+</details>
+
+<details>
   <summary>SpiderVPN</summary>
   <p>
     <a href="https://spidervpn.org/#a_aid=5ddfa0372e7ff">Official Website</a>
