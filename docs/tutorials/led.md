@@ -4,8 +4,8 @@
 
 ![mini router led](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg){class="glboxshadow" width="800"}
 
-- **Power**: Solid green LED that indicates the router is powered up.
-- **Wireless**:  Solid Red LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
+- **Power**: Solid white(green for old version) LED that indicates the router is powered up.
+- **Wireless**:  Solid white(red for old version) LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 - **Configurable**: Can be customized by the user.
 
 ## GL-USB150 Microuter
