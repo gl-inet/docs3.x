@@ -321,6 +321,8 @@ Senerio 3: A family has IP camera and when they are not at home, the Site to Sit
 
 It requires at least two routers, each in a different location, one of which has a public IP address. Please [check if your ISP assigns you a public IP address](../how_to_check_if_isp_assigns_you_a_public_ip_address). It requires firmware version 3.026 and above.
 
+Note: It is not recommended to run Site to Site while its nodes are also running VPN client, which can make the network particularly complex.
+
 ### Steps to build a Site to Site network
 
 1. Bind your routers to GoodCloud. (<a href="#add-device">how?</a>)
@@ -508,6 +510,8 @@ If you enable GoodCloud feature on router and also use it as VPN client, there i
 At default, GoodCloud process use VPN if you enable VPN client(eg. WireGuard, OpenVPN), this bring a problem that if you VPN is configured incorrectly, GoodCloud will not work properly. In order to ensure the normal use of GoodCloud, we suggest you to follow the steps below to enable VPN Policies and disable "Use VPN for all process on the router". After you've done these steps, GoodCloud precess will not use VPN.
 
 ![disable use vpn for all process on the router](https://static.gl-inet.com/goodcloud/docs/disable-use-vpn-for-all-process-on-the-router.png){class="glboxshadow"}
+
+It is not recommended to run Site to Site while its nodes are also running VPN client, which can make the network particularly complex.
 
 ## Turn off cloud
 
