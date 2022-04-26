@@ -165,41 +165,6 @@ Recommended:
 
 
 <details>
-<summary>Proton VPN</summary>
-  <p>
-    <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612" target="_blank">Official Website</a>
-  </p>
-  <p><strong>Proton VPN has WireGuard service, we recommend to use WireGuard, checkout <a href="../wireguard_client/#wireguard-providers">here</a></strong>.</p>
-  <ol type="1">
-    <li>
-      <p>Login your <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a> account.</p>
-      <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton1.png" />
-      </p>
-    </li>
-    <li>
-      <p>Click "Download" in the left-hand side.</p>
-      <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton2.png" />
-      </p>
-    </li>
-    <li>
-      <p>Choose Router</p>
-      <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton3.png" />
-      </p>
-    </li>
-    <li>
-      <p>Choose the protocol based on your preference and download the configuration files.</p>
-      <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton4.png" />
-      </p>
-    </li>
-  </ol>
-</details>
-
-
-<details>
 <summary>ExpressVPN</summary>
   <p>
     <a href="https://www.xvbelink.com/?a_fid=glinet" rel="sponsored" target="_blank">Official Website</a>
@@ -566,6 +531,42 @@ Others:
   </p>
   <p>The username and password are the same you login OVPN.</p>
 </details>
+
+
+<details>
+  <summary>Proton VPN</summary>
+  <p>
+    <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612" target="_blank">Official Website</a>
+  </p>
+  <p><strong>Proton VPN has WireGuard service, we recommend to use WireGuard, checkout <a href="../wireguard_client/#wireguard-providers">here</a></strong>.</p>
+  <ol type="1">
+    <li>
+      <p>Login your <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a> account.</p>
+      <p>
+        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton1.png" />
+      </p>
+    </li>
+    <li>
+      <p>Click "Download" in the left-hand side.</p>
+      <p>
+        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton2.png" />
+      </p>
+    </li>
+    <li>
+      <p>Choose Router</p>
+      <p>
+        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton3.png" />
+      </p>
+    </li>
+    <li>
+      <p>Choose the protocol based on your preference and download the configuration files.</p>
+      <p>
+        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton4.png" />
+      </p>
+    </li>
+  </ol>
+</details>
+
 
 <details>
 <summary>SaferVPN</summary>
