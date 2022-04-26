@@ -437,6 +437,42 @@ Other recommended WireGuard provider:
 
 
 <details>
+  <summary>Proton VPN</summary>
+  <p>
+    <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612" target="_blank">Official Website</a>
+  </p>
+  <ol type="1">
+    <li>
+      <p>If you are using <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a>, please follow the guide <a href="https://protonvpn.com/support/wireguard-configurations/" target="_blank">here</a> to generate the WireGuard configuration file.</p>
+    </li>
+    <li>
+      <p>Open it by a text editor, copy the content.</p>
+    </li>
+    <li>
+      <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
+      <p><img class="glboxshadow" alt="setup wireguard manually" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/setup_wireguard_manually.png" /></p>
+    </li>
+    <li>
+      <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
+      <p><img class="glboxshadow" alt="paste wireguard config" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/add_a_new_wireguard_config.png" /></p>
+    </li>
+    <li>
+      <p>Specify the name of your server and click <b>Add</b></p>
+      <p><img class="glboxshadow" alt="input config name" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/input_config_name.png" /></p>
+    </li>
+    <li>
+      <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
+      <p><img class="glboxshadow" alt="connect wireguard" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connect.png" /></p>
+    </li>
+    <li>
+      <p>You will see the upload and download traffic when it is connected successfully.</p>
+      <p><img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" /></p>
+    </li>
+  </ol>
+</details>
+
+
+<details>
   <summary>VPN Unlimited(KeepSolid)</summary>
   <p>
     <a href="https://keepsolid.g2afse.com/click?pid=270&offer_id=7" target="_blank">Official Website</a>
