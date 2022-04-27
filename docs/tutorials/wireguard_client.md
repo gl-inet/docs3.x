@@ -708,7 +708,7 @@ Other recommended WireGuard provider:
 <details>
   <summary>StarVPN</summary>
   <p>
-    <a href="https://www.starvpn.com/">Official Website</a>
+    <a href="https://www.starvpn.com/dashboard/aff.php?aff=91">Official Website</a>
   </p>
   <ol>
     <li>
