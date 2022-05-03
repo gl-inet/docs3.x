@@ -8,7 +8,7 @@ Build by [mkdocs](https://www.mkdocs.org/) 1.2.2, with theme [mkdocs-material](h
 
 ## Online View
 
-Please view the docs online at https://docs.gl-inet.com/ 
+Please view the docs online at https://docs.gl-inet.com/en/3/ 
 
 ## Guide
 
