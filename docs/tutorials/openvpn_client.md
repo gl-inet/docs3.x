@@ -569,7 +569,7 @@ Others:
 
 
 <details>
-<summary>SaferVPN</summary>
+  <summary>SaferVPN</summary>
   <p>
     <a href="https://safervpn.com/?a_aid=563" target="_blank">Official Website</a>
   </p>
@@ -583,7 +583,17 @@ Others:
 
 
 <details>
-<summary>StrongVPN</summary>
+  <summary>StarVPN</summary>
+  <p>
+    <a href="https://www.starvpn.com/dashboard/aff.php?aff=91">Official Website</a>
+  </p>
+  <p><strong>StarVPN has WireGuard service, we recommend to use WireGuard, checkout <a href="../wireguard_client/#wireguard-providers">here</a></strong>.</p>
+  <p>Fellow <a href="https://www.starvpn.com/openvpn-setup-on-gl-inet-router/" target="_blank">this guide</a> to get the OpenVPN configuration files.</p>
+</details>
+
+
+<details>
+  <summary>StrongVPN</summary>
   <p>
     <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a>
   </p>
