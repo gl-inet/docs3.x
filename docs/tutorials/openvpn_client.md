@@ -165,6 +165,37 @@ Recommended:
 
 
 <details>
+  <summary>Proton VPN</summary>
+  <p>
+    <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612" target="_blank">Official Website</a>
+  </p>
+  <p><strong>Proton VPN has WireGuard service, we recommend to use WireGuard, checkout <a href="../wireguard_client/#wireguard-providers">here</a></strong>.</p>
+  <ol type="1">
+    <li>
+      <p>Login your <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a> account.</p>
+    </li>
+    <li>
+      <p>Click <strong>Download</strong> in the left-hand side.</p>
+    </li>
+    <li>
+      <p>Choose Router platform, protocol etc, find your target country to download configuration file.</p>
+      <p>
+        <img alt="protonvpn openvpn configuration file" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton_openvpn_configuration_file.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        The credential for connect OpenVPN is not the one that login Proton website's dashboard. You can find the crdential at <strong>Account -> OpenVPN/IKEv2 username</strong>
+      </p>
+      <p>
+        <img alt="protonvpn openvpn credential" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/protonvpn_openvpn_credential.jpg" />
+      </p>
+    </li>
+  </ol>
+</details>
+
+
+<details>
 <summary>ExpressVPN</summary>
   <p>
     <a href="https://www.xvbelink.com/?a_fid=glinet" rel="sponsored" target="_blank">Official Website</a>
@@ -530,37 +561,6 @@ Others:
     <img class="glboxshadow" alt="download ovpn openvpn configuration files" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ovpn/download_configuration_files.jpg"/>
   </p>
   <p>The username and password are the same you login OVPN.</p>
-</details>
-
-
-<details>
-  <summary>Proton VPN</summary>
-  <p>
-    <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612" target="_blank">Official Website</a>
-  </p>
-  <p><strong>Proton VPN has WireGuard service, we recommend to use WireGuard, checkout <a href="../wireguard_client/#wireguard-providers">here</a></strong>.</p>
-  <ol type="1">
-    <li>
-      <p>Login your <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a> account.</p>
-    </li>
-    <li>
-      <p>Click <strong>Download</strong> in the left-hand side.</p>
-    </li>
-    <li>
-      <p>Choose Router platform, protocol etc, find your target country to download configuration file.</p>
-      <p>
-        <img alt="protonvpn openvpn configuration file" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton_openvpn_configuration_file.jpg" />
-      </p>
-    </li>
-    <li>
-      <p>
-        The credential for connect OpenVPN is not the one that login Proton website's dashboard. You can find the crdential at <strong>Account -> OpenVPN/IKEv2 username</strong>
-      </p>
-      <p>
-        <img alt="protonvpn openvpn credential" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/protonvpn_openvpn_credential.jpg" />
-      </p>
-    </li>
-  </ol>
 </details>
 
 
