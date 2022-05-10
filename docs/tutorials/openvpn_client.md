@@ -628,7 +628,7 @@ Others:
         Some GL.iNet routers do not support IPv6 or DNS Leak Protection, as a result you may experience an IP or connection error. Edit the ovpn configuration file and disable IPv6 by performing these simple tasks..
       </p>
       <p>
-        <img class="glboxshadow" alt="troubleshooting" src="http://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg" />
+        <img class="glboxshadow" alt="troubleshooting" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg" />
       </p>
     </li>
     <li>
