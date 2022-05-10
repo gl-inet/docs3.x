@@ -542,26 +542,22 @@ Others:
   <ol type="1">
     <li>
       <p>Login your <a href="https://go.getproton.me/aff_c?offer_id=26&aff_id=1612">Proton VPN</a> account.</p>
+    </li>
+    <li>
+      <p>Click <strong>Download</strong> in the left-hand side.</p>
+    </li>
+    <li>
+      <p>Choose Router platform, protocol etc, find your target country to download configuration file.</p>
       <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton1.png" />
+        <img alt="protonvpn openvpn configuration file" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton_openvpn_configuration_file.jpg" />
       </p>
     </li>
     <li>
-      <p>Click "Download" in the left-hand side.</p>
       <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton2.png" />
+        The credential for connect OpenVPN is not the one that login Proton website's dashboard. You can find the crdential at <strong>Account -> OpenVPN/IKEv2 username</strong>
       </p>
-    </li>
-    <li>
-      <p>Choose Router</p>
       <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton3.png" />
-      </p>
-    </li>
-    <li>
-      <p>Choose the protocol based on your preference and download the configuration files.</p>
-      <p>
-        <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/proton4.png" />
+        <img alt="protonvpn openvpn credential" class="glboxshadow" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/protonvpn_openvpn_credential.jpg" />
       </p>
     </li>
   </ol>
