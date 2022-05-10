@@ -716,7 +716,7 @@ Other recommended WireGuard provider:
         <strong>Register an account with StarVPN</strong>
       </p>
       <p>
-        Head on over to our <a href="https://www.starvpn.com/#pricing">pricing plan</a> options and choose a VPN plan that suits your needs.&nbsp; &nbsp;You can register on checkout or directly<a href="https://www.starvpn.com/dashboard/register.php"> here.</a>
+        Head on over to their <a href="https://www.starvpn.com/#pricing">pricing plan</a> options and choose a VPN plan that suits your needs. You can register on checkout or directly<a href="https://www.starvpn.com/dashboard/register.php"> here.</a>
       </p>
     </li>
     <li>
@@ -724,7 +724,7 @@ Other recommended WireGuard provider:
         <strong>Download Wireguard Configuration</strong>
       </p>
       <p>
-        Log into the StarVPN member area <a href="https://www.starvpn.com/dashboard">dashboard</a>.&nbsp; Click on Wireguard Config to download the configuration file. Each slot will contain a unique wireguard configuration file. 
+        Log into the StarVPN member area <a href="https://www.starvpn.com/dashboard">dashboard</a>. Click on Wireguard Config to download the configuration file. Each slot will contain a unique wireguard configuration file. 
       </p>
       <p>
         <img class="glboxshadow" alt="starvpn download wireguard config" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/starvpn/download-config_edited.jpg" />

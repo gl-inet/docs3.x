@@ -588,7 +588,112 @@ Others:
     <a href="https://www.starvpn.com/dashboard/aff.php?aff=91">Official Website</a>
   </p>
   <p><strong>StarVPN has WireGuard service, we recommend to use WireGuard, checkout <a href="../wireguard_client/#wireguard-providers">here</a></strong>.</p>
-  <p>Fellow <a href="https://www.starvpn.com/openvpn-setup-on-gl-inet-router/" target="_blank">this guide</a> to get the OpenVPN configuration files.</p>
+  <ol>
+    <li>
+      <p>
+        <strong>Register an account with StarVPN</strong>
+      </p>
+      <p>
+        Head on over to their <a href="https://www.starvpn.com/#pricing">pricing plan</a> options and choose a VPN plan that suits your needs. You can register on checkout or directly<a href="https://www.starvpn.com/dashboard/register.php"> here.</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>VPN Login Information</strong>
+      </p>
+      <p>
+        Log into the StarVPN member area <a href="https://www.starvpn.com/dashboard">dashboard</a>. You can find your VPN username and password for each slot in the Manage Slots Section or dashboard area.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="starvpn credential" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/vpn-username_edited-2.jpg" />
+      </p>
+      <p>
+        For multiple slots, the VPN configuration settings and credentials can be located in the “Manage Slots” section.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="starvpn credential" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/vpn-username_slots_edited-1024x355.jpeg">
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Download OpenVPN Configuration File</strong>
+      </p>
+      <p>
+        The next step, you must download the VPN server configuration files necessary so that the OpenVPN Software knows where to connect to.   Download the configuration file in the members area dashboard. 
+      </p>
+      <p>
+        <img class="glboxshadow" alt="download starvpn config" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/download-ovpn_edited.jpg" />
+      </p>
+      <p>
+        Some GL.iNet routers do not support IPv6 or DNS Leak Protection, as a result you may experience an IP or connection error. Edit the ovpn configuration file and disable IPv6 by performing these simple tasks..
+      </p>
+      <p>
+        <img class="glboxshadow" alt="troubleshooting" src="http://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Login to the GL.iNet Router</strong>
+      </p>
+      <p>
+        Login to the router web Admin Panel by accessing your web browser and entering the Router IP in the address bar. The default address is <strong>192.168.8.1</strong>.
+      </p>
+      <p>
+        Navigate to OpenVPN Client -> + Add a New OpenVPN Configuration
+      </p>
+      <p>
+        <img class="glboxshadow" alt="add a new openvpn configuration glinet" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/add_a_new_openvpn_configuration_glinet.jpeg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Upload OpenVPN Configuration File</strong>
+      </p>
+      <p>
+        Simply drag and drop the StarVPN ovpn configuration file that was downloaded in Step 3.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="drag and drop config file" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/drag-drop_edited2.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        Enter Description, Username and Password
+      </p>
+      <p>
+        Enter a description for your OpenVPN configuration file, enter your StarVPN username and password located in Step 2 of this article and then click submit to complete the upload process.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="enter username and password" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/username-password_edited.jpg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Connect to the OpenVPN server</strong>
+      </p>
+      <p>
+        Click on <strong>Connect</strong> to connect to the StarVPN VPN server.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="connect" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/connect-1024x287.jpeg" />
+      </p>
+    </li>
+    <li>
+      <p>
+        Once connected, you should see your user IP address and the number of Bytes send/received.
+      </p>
+      <p>
+        <img class="glboxshadow" alt="connected status" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/status-1024x361.jpeg" />
+      </p>
+      <p>
+        To validate the connection, using a web browser, visit <a href="http://whatismyip.com">http://whatismyip.com</a>
+      </p>
+      <p>
+        Once you are connected, login to the StarVPN <a href="https://starvpn.com/dashboard">dashbard </a>to configure your IP Type, Geo-location and ISP. No additional configuration files are required.
+      </p>
+    </li>
+  </ol>
+  <a href="https://www.starvpn.com/openvpn-setup-on-gl-inet-router/">Refer link</a>
 </details>
 
 
