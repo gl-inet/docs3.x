@@ -5,6 +5,7 @@ As an example, we build a simple demo. It
 aims to recieve iBeacons from around and then send it to specified MQTT broker through WiFi. Note that WiFi and MQTT setting is written in the source code.
 
 ## Set Develop Environment
+
 GL-S10 application is base on Espressif esp-idf(v3.3). You can get the detailed steps of building the compile environment by following the link. [https://docs.espressif.com/projects/esp-idf/en/v3.3/get-started/index.html#introduction](https://docs.espressif.com/projects/esp-idf/en/v3.3/get-started/index.html#introduction) *(Attention: Please check the version of IDF before you download it.)*
 After configuring the develop environment, decompress and get into the source code folder `ble_ibeacon/`. Most code is in the file `ibeacon_demo.c`.
 
@@ -64,16 +65,17 @@ Set `Serial flasher config --->Flash SPI speed` to `80MHz`.
 Set `Serial flasher config --->Flash size` to `4MB`.
 
 **2. Build**
+
 In your project folder, using command `make all`. It will compile and build the firmware. When finished sucessfully, it will show information like this.
 
 ![compile and build firmware](https://static.gl-inet.com/docs/en/3/setup/gl-s10/compile_and_build_firmware.jpg){class="glboxshadow"}
 
 **3. Flash**
+
 GL-S10 using UART to flash the firmware, and also using this UART to output the system log.
 Connect the UART in S10 to the PC by a USB-UART converter. The PC will find a new usb device like `/dev/ttyUSB0`. It is the name you should write in the `Default serial port`.   
-Yellow marked is the UART port in S10. From left to right is GND/RX/TX. Red marked is flash button.
 
-![gl-s10 pcb](https://static.gl-inet.com/docs/en/3/setup/gl-s10/gl-s10-PCB.jpg){class="glboxshadow"}
+![gl-s10 pcb](https://static.gl-inet.com/docs/en/3/specification/gl-s10/gl-s10-pinout.jpg){class="glboxshadow"}
 
 After connect S10 UART to the PC, using command `make flash` or `make flash monitor` to flash the firmware. When shows like that, it means the PC is waiting S10 to get into "download mode".
 
@@ -86,7 +88,8 @@ How to get into "download mode", do in this way. Unplug the S10 power, press the
 means flash starts sucessfully, then you can release the flash button and wait for the flash finished.
 When flash has been finished, restart the GL-S10.
 
-## Result 
+## Result
+
 If you have connect the S10 UART to the PC, using command `make monitor`, it will print all the system log like that. *(here shows the iBeacon data it recieved)*
 
 ![system log result](https://static.gl-inet.com/docs/en/3/setup/gl-s10/system_log_result.png){class="glboxshadow"}
