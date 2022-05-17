@@ -800,6 +800,13 @@ Others:
   </ol>
 </details>
 
+<div id="vyprvpn"></div>
+
+??? "VyprVPN"
+
+    VyprVPN offers the OpenVPN files here: [Where can I find the OpenVPN files? – VyprVPN Support](https://support.vyprvpn.com/hc/en-us/articles/360038096131-Where-can-I-find-the-OpenVPN-files-){target="_blank"}
+
+    The provided zip file contains two folders with the .ovpn files. One called OpenVPN160 one OpenVPN256. Just delete the OpenVPN160 folder from the zip file then upload it to GL.iNet router as usual.
 
 <details>
   <summary>Wevpn</summary>
