@@ -6,6 +6,10 @@ This repository is the source code for documentation of GL.iNet routers firmware
 
 Build by [mkdocs](https://www.mkdocs.org/) 1.2.2, with theme [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) 7.2.2
 
+Using [python 3.x virtual environment](https://docs.python.org/3/tutorial/venv.html), create a virtual environment, activate it, git clone this project source code inside it. There is a **requirements.txt** file in the project, run the command below to install packages.
+
+`pip install -r requirements.txt`
+
 ## Online View
 
 Please view the docs online at https://docs.gl-inet.com/en/3/ 
