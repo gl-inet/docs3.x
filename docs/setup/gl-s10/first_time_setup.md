@@ -7,3 +7,7 @@ Please access to learn more.
 [User Manual](../user_manual)
 
 [Firmware Compilation Guide](../firmware_compilation_guide)
+
+There is a video setup guide of GL-S10.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnOUt2xKDLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
