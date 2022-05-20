@@ -17,7 +17,7 @@ An alternative method is to use a reverse proxy solution, we suggest [AstroRelay
 ## Network Topology
 
 * If GL.iNet router is the main router in your network, this is simple, please move to the next step.
-* If you already have a main router, then the GL.iNet router is under the main router, you may need to setup a port forward on the main router.
+* If you already have a main router, then the GL.iNet router is under the main router, you may need to setup a port forwarding on the main router.
 * If you already have a main router, the GL.iNet router is several levels below it and you need to set up port forward on each level.
 
 ## Initialize WireGuard Server
