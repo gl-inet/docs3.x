@@ -99,7 +99,7 @@ Other recommended WireGuard provider:
         Login <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">www.ovpn.com</a>, find the menu below to get WireGuard configuration files.
       </p>
       <p>
-        <img class="glboxshadow" alt="" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/ovpn/get_wireguard_configuration_files.jpg"/>
+        <img class="glboxshadow" alt="ovpn dashboard" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/ovpn/get_wireguard_configuration_files.jpg"/>
       </p>
     </li>
     <li>
@@ -527,7 +527,7 @@ Other recommended WireGuard provider:
       <p><img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wireguard_connected.png" /></p>
     </li>
   </ol>
-  <p><a href="https://www.vpnunlimitedapp.com/help/manuals/wireguard-setup-on-glinet-router" target="_blank">Refer link</a></p>
+  <p><a href="https://www.vpnunlimited.com/help/manuals/wireguard-setup-on-glinet-router" target="_blank">Refer link</a></p>
 </details>
 
 
