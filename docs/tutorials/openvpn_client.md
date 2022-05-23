@@ -779,7 +779,7 @@ Others:
     </li>
     <li>
       <p>Choosethe desired server location</p>
-      <p>VPN Unlimited offers a large variety ofservers, namely 400+ in 70+ locations. In this case, let it be Germany.</p>
+      <p>VPN Unlimited offers a large variety of servers, namely 400+ in 70+ locations. In this case, let it be Germany.</p>
     </li>
     <li>
       <p>Select the VPN protocol</p>
