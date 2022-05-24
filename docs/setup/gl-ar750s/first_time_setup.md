@@ -14,7 +14,7 @@ Plug the Micro USB power cable into the power port of the router. Make sure you 
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first_time_setup/power1.jpg){class="glboxshadow"}
 
-*Note: Hot plug for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
+*Note: Hot plugging for TF card is **not** supported. If you want to use TF card, please insert before powering on the router.*
 
 ## 2. Connect
 

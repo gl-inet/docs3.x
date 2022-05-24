@@ -12,7 +12,7 @@ Plug the power cable into the power port of the router. Make sure you are using 
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-x750/first_time_setup/power1.jpg){class="glboxshadow"}
 
-*Note: Hot plug for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
+*Note: Hot plugging for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
 
 ## 2. Connect 
 

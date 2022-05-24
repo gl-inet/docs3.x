@@ -18,7 +18,7 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 
 ![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-mifi/first_time_setup/power1.jpg){class="glboxshadow"}
 
-*Note: Hot plug for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
+*Note: Hot plugging for SIM card and TF card is **not** supported. If you want to use, please insert before powering on the router.*
 
 ## 2. Connect
 

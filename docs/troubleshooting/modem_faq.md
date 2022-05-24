@@ -8,7 +8,7 @@ This does not work with external USB modems.
 
 ## Q1: SIM card not detected
 
-The SIM card does not support hot plug and play. Make sure that you have inserted the SIM card before powering the 4G router on. 
+The SIM card does not support hot plugging and play. Make sure that you have inserted the SIM card before powering the 4G router on. 
 
 This prompt indicates that there is a problem with the contact between SIM card and card slot. You can try the following methods:
 
