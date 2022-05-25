@@ -107,9 +107,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **Extender**: Extend the Wi-Fi coverage of an existing wireless network.
 
-**WDS**: Similar to Extender, please choose WDS if your main router supports WDS mode.
-
-![network mode](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/network_mode.png){class="glboxshadow"}
+![network mode](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/network_mode_no_wds.png){class="glboxshadow"}
 
 ---
 
