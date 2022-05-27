@@ -84,7 +84,7 @@
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x300bx300b_user-manual_20220527.pdf">
+      <a href="https://static.gl-inet.com/www/images/products/x300b_user-manual_20220527.pdf">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
   	</div>
@@ -170,7 +170,7 @@
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x300bx300b_user-manual_20220527.pdf">
+      <a href="https://static.gl-inet.com/www/images/products/x300b_user-manual_20220527.pdf">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
   	</div>
