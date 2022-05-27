@@ -1,35 +1,29 @@
 #  GL-X300B (Collie)
 
-GL-X300B (Collie) is a compact and cost-effective industrial 3G/4G wireless router. 
-Collie has X300B-RS485 version and X300B-IOT version (BLE or Zigbee).
-
-Equipped with the external full-band 4G antennas, the aluminum alloy shell and the hardware watchdog, the mobile router ensures stable LTE connectivity in harsh and hazardous environments. 
-
-Collie can also serve as a smart industrial Internet gateway with the functions of RS485 interface and the optional IoT module for a range of IoT applications including vending machines, charging piles, smart agriculture, metering, and more.
+Collie (GL-X300B) is an industrial cellular gateway designed to operate under high temperatures and scenarios with potential physical hazards. There are two versions of Collie, designed to operate in indoor stationary facilities, or in transportation vehicles. Collie is perfect for machine-to-machine communications between electrical devices in high electrical noise environments.
 
 ## Hardware Specification
 
-|                         Model | GL-X300B-(RS485 or IoT)                                      |
+|                         Model | GL-X300B-BLE / GL-X300B-GPS                                  |
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9531, @650MHz SoC                                         |
 |              Memory / Storage | DDR2 128MB / FLASH 16MB                                      |
-|                    Interfaces | 1 x Power Port<br>1 x WAN Ethernet Port<br>1 x LAN Ethernet Port<br>1 X Standard SIM Card Slot/br>1 x Reset Button |
-|                Wi-Fi Antennas | 1 x External                                                 |
-|                  LTE Antennas | 1 x External Full-band Antenna (700M~2.7GHz)                 |
-|                  IoT Antennas | 1 x IoT Antenna<br><b>Note: Available on X300B-IOT only</b>  |
-|                    IoT Module | Bluetooth or ZigBee (EFR32MG21 SoC)<br><b>Note: Available on X300B-IOT only</b>        |
-|                         RS485 | RS485 serial port support for <b>X300B-RS485 only.</b><br>4 PIN I/O ports: <br>2 PIN for communication <b>(available on X300B-RS485 only)</b><br>2 PIN for power supply <b>(available on both X300B-RS485 and X300B-IOT)</b>     |
+|                    Interfaces | 1 x Power Port<br>1 x WAN Ethernet Port<br>1 x LAN Ethernet Port<br>1 X Standard SIM Card Slot<br>1 x Reset Button                                                                                           |
+|                Wi-Fi Antennas | GL-X300B-BLE: 1 x 2.4G Antenna <br>GL-X300B-GPS: 2 x 2.4G Antenna                                                                                        |
+|                  LTE Antennas | GL-X300B-BLE: 1 x 4G LTE Antenna <br>GL-X300B-GPS: 2 x 4G LTE Antenna                                            |
+|                  GPS Antennas | 1 x GPS Antenna<br><b>Note: Available on GL-X300B-GPS only</b>  
+|                  BLE Antennas | 1 x BLE Antenna<br><b>Note: Available on GL-X300B-BLE only</b>                                                                                               
 |                      Watchdog | Support hardware watchdog                                    |
-|                   4G/3G modem | Support CAT M1, CAT 1, CAT 4<br>Modems is different for regions and operators  |
+|                   4G/3G modem | Support CAT 4<br>Modems is different for regions and operators  |
 |                Wi-Fi Protocol | IEEE 802.11b/g/n                                             |
-|                   Wi-Fi Speed | 2.4GHz (150Mbps)                                             |
+|                   Wi-Fi Speed | GL-X300B-BLE: 150Mbps (2.4GHz) <br> GL-X300B-GPS: 300Mbps (2.4GHz)                                           |
 |                 Ethernet Port | 2x 10M / 100M (1WAN, 1LAN)                                   |
 |                          LEDs | Power, Wi-Fi, 4G and WAN                                     |
 |                   Power Supply| 12V/1A DC Power adapter by default<br>Support 9~35V DC input |
-|              Power Consumption| <10W                                                         |
+|              Power Consumption| <4W                                                         |
 |          Operating Temperature| -20 ~ 55°C (-4 ~ 131°F)<br><b>Note: Default power adapter operating temperature from 0°C (32°F) to 40°C(104°F)</b> |
 |            Storage Temperature| -30 ~ 70°C (-22 ~ 158°F)                                     |
-|                      Dimension| 104 x 113 x 28mm<br>(Not including SMA and RS485 connector） |
+|                      Dimension| 104 x 113 x 28mm / 235g<br>(Not including SMA） |
 
 ## PCB Pinout
 

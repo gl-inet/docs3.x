@@ -78,7 +78,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf" target="_blank">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/x300b_user-manual_20220527.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
   	</div>
@@ -154,7 +154,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf" target="_blank">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x300b/x300b_user-manual_20220527.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
   	</div>
