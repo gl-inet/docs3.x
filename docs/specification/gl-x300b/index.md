@@ -4,11 +4,12 @@ Collie (GL-X300B) is an industrial cellular gateway designed to operate under hi
 
 ## Hardware Specification
 
-|                         Model | GL-X300B-BLE / GL-X300B-GPS )                                      |
+|                         Model | GL-X300B-BLE / GL-X300B-GPS                                  |
 | ----------------------------: | :----------------------------------------------------------- |
 |                           CPU | QCA9531, @650MHz SoC                                         |
 |              Memory / Storage | DDR2 128MB / FLASH 16MB                                      |
-|                    Interfaces | 1 x Power Port<br>1 x WAN Ethernet Port<br>1 x LAN Ethernet Port<br>1 X Standard SIM Card Slot<br>1 x Reset Button |
+|                    Interfaces | 1 x Power Port<br>1 x WAN Ethernet Port<br>1 x LAN Ethernet Port
+                                  <br>1 X Standard SIM Card Slot<br>1 x Reset Button |
 |                Wi-Fi Antennas | GL-X300B-BLE: 1 x 2.4G Antenna <br>GL-X300B-GPS: 2 x 2.4G Antenna                                                                                        |
 |                  LTE Antennas | GL-X300B-BLE: 1 x 4G LTE Antenna <br>GL-X300B-GPS: 2 x 4G LTE Antenna                                            |
 |                  GPS Antennas | 1 x GPS Antenna<br><b>Note: Available on GL-X300B-GPS only</b>  
