@@ -4,11 +4,6 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
-    <div class="gl-product-card">
-      <a href="gl-ar150/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
-      </a>
-    </div>
 	  <div class="gl-product-card">
       <a href="gl-ar300m/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar300m.png" width=100%>
@@ -74,11 +69,6 @@
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
-  	  </a>
-  	</div>
-	  <div class="gl-product-card">
       <a href="gl-x750/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
       </a>
@@ -93,11 +83,6 @@
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
-	  <div class="gl-product-card">
-      <a href="gl-mifi/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
-      </a>
-    </div>
   </div>
 </div>
 
@@ -198,6 +183,21 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="gl-ar150/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
+      </a>
+    </div>
+  	<div class="gl-product-card">
+      <a href="gl-mifi/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
+      </a>
+    </div>
+  	<div class="gl-product-card">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
+  	  </a>
+  	</div>
     <div class="gl-product-card">
       <a href="gl-mt300a/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300a.png" width=100%>

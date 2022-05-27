@@ -19,11 +19,6 @@
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
       </a>
   	</div>
-    <div class="gl-product-card">
-      <a href="vixmini/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
-      </a>
-  	</div>
   </div>
 </div>
 
@@ -88,11 +83,6 @@
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
   	  </a>
   	</div>
-	  <div class="gl-product-card">
-      <a href="gl-mifi/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
-      </a>
-    </div>
   </div>
 </div>
 
@@ -160,11 +150,6 @@
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
-  	  </a>
-  	</div>
-	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/GL-X300B-User-Manuel-Version-20201117.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
   	  </a>
@@ -186,5 +171,42 @@
   	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
   	  </a>
   	</div>	
+  </div>
+</div>
+
+### End of life models
+
+<div class="gl-product-row">
+  <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
+      </a>
+    </div>
+	  <div class="gl-product-card">
+      <a href="gl-mifi/first_time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
+      </a>
+    </div>
+	  <div class="gl-product-card">
+      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
+  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300a.png" width=100%>
+      </a>
+    </div>
+	  <div class="gl-product-card">
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n.png" width=100%>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="vixmini/first_time_setup/">
+        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
+      </a>
+    </div>
   </div>
 </div>
