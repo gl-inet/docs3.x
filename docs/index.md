@@ -270,28 +270,6 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   </ol>
 </details>
 
-<details>
-  <summary>Can I use the WAN port as LAN?</summary>
-  <p>Yes</p>
-  <ol type="1">
-    <li>
-      <p>Leave the WAN port of the router unconnected.</p>
-    </li>
-    <li>
-      <p>Connect your device to the router and access the web Admin Panel.</p>
-        <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/internet.jpg"/>
-    </li>
-    <li>
-      <p>Go to <b>Internet</b>, click <b>Use as LAN</b> under the Cable section.</p>
-      <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/internet/cable.jpg"/>
-    </li>
-    <li>
-      <p>Click <b>Yes</b> to confirm.</p>
-      <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/WAN_LAN/wan_lan.jpg"/>
-    </li>
-  </ol>
-</details>
-
 [For more FAQ](troubleshooting/faq/)
 
 ## Tools
