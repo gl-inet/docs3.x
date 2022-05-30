@@ -67,7 +67,7 @@ There are several common reasons cause failed:
 * The Internet Service Provider doesn't assign you a public IP address, please check [here](#make-sure-internet-service-provider-assigns-you-a-public-ip-address).
 * You may need setup port forward, please check [here](#network-topology).
 * The port you are using for WireGuard Server is blocked by the Internet Service Provider, change to another port, or contact the Internet Service Provider.
-* Some countries/resions may block the VPN connection.
+* Some countries/regions may block the VPN connection.
 
 ### If your public IP address is dynamic
 
