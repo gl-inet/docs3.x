@@ -22,12 +22,12 @@ To set up port forwarding, click `Port Forwards`and input the required parameter
 
 **External Zone:** The options for external zone are `wan`, `guestZone`, `wireguard`.
 
-* `wan` is for you want a service can be access in the WAN zone. E.g., a web server is running on a LAN device in your home, it can only access when you at home, but you want it to be accessable outside your home, then you can set the external zone as `wan`.
+* `wan` is selected when you want to allow a service in the WAN zone. E.g., a web server is running on a LAN device in your home, it can only access when you at home, but you want it to be accessable outside your home, then you can set the external zone as `wan`.
 You can access it via `wan_ip`:`external_port`. Note: Access outside your home need public IP.
 
-* `guestZone` is for you want a service can be access by a device connect to the guest Wi-Fi. E.g., a web server is running on a LAN device in your home, it can only access when your device in the LAN. However, the guest LAN is isolated from the default LAN, but you want the web serve can be accessable in guest LAN, then you can set the external zone as `guestZone`. You can access it via `wan_ip`:`external_port`. 
+* `guestZone` is for allowing your service to be accessed by devices connected to the guest Wi-Fi. E.g., when a web server is running on a LAN device in your home, it can only be accessed by your devices in the LAN, but not the guest LAN (which is isolated from the default LAN) by default. If you want the web server to be accessable in the guest LAN, you should set the external zone to `guestZone`. You can access the enabled service via `wan_ip`:`external_port`. 
 
-* `wireguard`, when the router is running WireGuard server, there will has the `wireguard` option. E.g., a web server is running on a LAN device in your home. When you connect in through your router's WireGuard Server configuration, by default you will not be able to access the web server on the intranet. To make it accessable, set the external zone as `wireguard`. You can access it via `wan_ip`:`external_port`.
+* `wireguard`, when the router is running WireGuard server, there will have the `wireguard` option. E.g., a web server is running on a LAN device in your home. When you connect to your router's WireGuard Server, by default your access to the web server on the intranet is not granted. To make it accessable, set the external zone as `wireguard`. Then it can be accessed via `wan_ip`:`external_port`.
 
 **External Ports:** The numbers of external ports. You can enter a specific port number or a range of service ports (E.g **100-300**).
 
