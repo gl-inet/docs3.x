@@ -68,7 +68,6 @@ hide:
 * [What is LuCI?](what_is_luci)
 * [Setup LED Customization](led_customization)
 * [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.
-* [To control Your DSLR Camera Wirelessly](qdslrdashboard).
 * [Connect USB web camera to routers](camera).
 
 ---
