@@ -36,7 +36,7 @@ It has several sub-models:
 |                  DIY Features | UART, GPIO, PCIe, 3.3V & 5V power port                       |
 |      External Antenna Support | Yes (optional)                                               |
 |            PoE Module Support | No                                                           |
-|                   Power Input | 5V/1A                                                        |
+|                   Power Input | 5V/2A                                                        |
 |             Power Consumption | <2W                                                          |
 |             Dimension, Weight | 58mmX58mmX25mm, 39g                                          |
 |                  PCIe headers | Yes                                                          |

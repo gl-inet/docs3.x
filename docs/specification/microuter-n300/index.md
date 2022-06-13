@@ -14,7 +14,7 @@
 |       Ethernet Port | 1 x 10/100M                       |
 |           Frequency | 2.4GHz                            |
 |                 LED | System LED: Blue, Wi-Fi LED: White|
-|         Power Input | 5V/1A                             |
+|         Power Input | 5V/2A                             |
 |   Power Consumption | <2.75W                            |
 | Working Temperature | 0~40°C (32~104°F)                 |
 | Storage Temperature | -20~70°C (-4~158°F)               |

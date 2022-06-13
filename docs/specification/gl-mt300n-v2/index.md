@@ -26,7 +26,7 @@ MT300N-V2 is an upgraded version of MT300N. The differences include:
 |                  DIY Features | UART, 4GPIOs, 3.3V & 5V power port                        |
 |      External Antenna Support | No                                                        |
 |            PoE Module Support | No                                                        |
-|                   Power Input | 5V/1A                                                     |
+|                   Power Input | 5V/2A                                                     |
 |             Power Consumption | <2.75W                                                    |
 |             Dimension, Weight | 58mmX58mmX25mm, 39g                                       |
 
