@@ -80,6 +80,15 @@ Recommended:
     <img alt="nordvpn server utility" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordvpn_server_utility.png" class="glboxshadow">
   </p>
   <p>
+    When setup the connection on router, please use the NordVPN service credentials.
+  </p>
+  <p>
+    You can find your NordVPN service credentials in the Nord Account dashboard. Copy the credentials using the “Copy” buttons on the right.
+  </p>
+  <p>
+    <img alt="nordvpn service credentials" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordvpn_service_credentials.png" class="glboxshadow">
+  </p>
+  <p>
     Of course you can download all servers configs <a href="https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip">here</a>.
   </p>
   <p>
