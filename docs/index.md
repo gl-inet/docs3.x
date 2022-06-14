@@ -183,12 +183,12 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="mini_router/first_time_setup/">
+      <a href="setup/mini_router/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="gl-mifi/first_time_setup/">
+      <a href="setup/gl-mifi/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
       </a>
     </div>
@@ -198,17 +198,17 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	  </a>
   	</div>
     <div class="gl-product-card">
-      <a href="mini_router/first_time_setup/">
+      <a href="setup/mini_router/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300a.png" width=100%>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="mini_router/first_time_setup/">
+      <a href="setup/mini_router/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n.png" width=100%>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="vixmini/first_time_setup/">
+      <a href="setup/vixmini/first_time_setup/">
         <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
       </a>
     </div>
