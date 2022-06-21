@@ -18,6 +18,8 @@ OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN
 
 Access to web Admin Panel, on the left side -> VPN -> OpenVPN Client
 
+Click **Add a New OpenVPN Configuration**.
+
 ![add a new openvpn configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/add_a_new_openvpn_configuration.png){class="glboxshadow"}
 
 ### Upload your OpenVPN configuration file
