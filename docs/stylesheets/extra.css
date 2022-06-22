@@ -21,7 +21,18 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 3px;
   border-style: solid;
-  border-color: #ffffff
+  border-color: #ffffff;
+  text-align: center;
+}
+.gl-product-card img{
+  width: 70%;
+}
+div.gl-product-model{
+  font-weight: bold;
+}
+.gl-product-model-ap1300 {
+  font-size: 12px;
+  font-weight: bold;
 }
 .gl-product-card:hover {
   border-color: #b6bde3 !important;

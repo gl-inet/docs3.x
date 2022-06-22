@@ -9,18 +9,30 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="setup/mini_router/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mini.png" width=100%>
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar300m.jpg" >
+        <div class="gl-product-model">Shadow</div>
+        <div class="gl-product-model">(GL-AR300M)</div>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="setup/microuter-n300/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_microuter-n300.png" width=100%>
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt300n-v2.jpg" >
+        <div class="gl-product-model">Mango</div>
+        <div class="gl-product-model">(GL-MT300N-V2)</div>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="setup/gl-usb150/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_usb150.png" width=100%>
+      <a href="microuter-n300/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_microuter-n300.jpg" >
+        <div class="gl-product-model">microuter-N300</div>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="gl-usb150/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_usb150.jpg" >
+        <div class="gl-product-model">Microuter</div>
+        <div class="gl-product-model">(GL-USB150)</div>
       </a>
   	</div>
   </div>
@@ -31,28 +43,38 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="setup/gl-ar750/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750.png" width=100%>
+      <a href="gl-ar750/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
+        <div class="gl-product-model">Creta</div>
+        <div class="gl-product-model">(GL-AR750)</div>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="setup/gl-ar750s/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_750s.png" width=100%>
+      <a href="gl-ar750s/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750s.jpg" >
+        <div class="gl-product-model">Slate</div>
+        <div class="gl-product-model">(GL-AR750S)</div>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="setup/gl-mt1300/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt1300.png" width=100%>
+      <a href="gl-mt1300/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt1300.jpg" >
+        <div class="gl-product-model">Beryl</div>
+        <div class="gl-product-model">(GL-MT1300)</div>
       </a>
     </div>
   	<div class="gl-product-card">
-      <a href="setup/gl-e750/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_e750.png" width=100%>
+      <a href="gl-e750/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_e750.jpg" >
+        <div class="gl-product-model">Mudi</div>
+        <div class="gl-product-model">(GL-E750)</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
-      <a href="setup/gl-sft1200/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sft1200.png" width=100%>
+      <a href="gl-sft1200/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_sft1200.jpg" >
+        <div class="gl-product-model">Opal</div>
+        <div class="gl-product-model">(GL-SFT1200)</div>
   	  </a>
   	</div>
   </div>
@@ -63,28 +85,31 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="setup/gl-ap1300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
+      <a href="gl-ap1300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ap1300lte.jpg" >
+        <div class="gl-product-model">Cirrus</div>
+        <div class="gl-product-model-ap1300">(GL-AP1300/GL-AP1300LTE)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
-  	  </a>
-  	</div>
-	  <div class="gl-product-card">
-      <a href="setup/gl-x750/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
+      <a href="gl-x750/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x750v2.jpg" >
+        <div class="gl-product-model">Spitz</div>
+        <div class="gl-product-model">(GL-X750)</div>
       </a>
     </div>
 	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/x300b_user-manual_20220527.pdf" target="_blank">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x300b-ble.jpg" >
+        <div class="gl-product-model">Collie</div>
+        <div class="gl-product-model">(GL-X300B)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="setup/gl-xe300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+      <a href="gl-xe300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_xe300.jpg" >
+        <div class="gl-product-model">Puli</div>
+        <div class="gl-product-model">(GL-XE300)</div>
   	  </a>
   	</div>
   </div>
@@ -95,23 +120,30 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="setup/gl-s1300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s1300.png" width=100%>
+      <a href="gl-s1300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
+        <div class="gl-product-model">Convexa-S</div>
+        <div class="gl-product-model">(GL-S1300)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
-      <a href="setup/gl-x750/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x750.png" width=100%>
+      <a href="gl-x750/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x750v2.jpg" >
+        <div class="gl-product-model">Spitz</div>
+        <div class="gl-product-model">(GL-X750)</div>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="setup/gl-xe300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_xe300.png" width=100%>
+      <a href="gl-xe300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_xe300.jpg" >
+        <div class="gl-product-model">Puli</div>
+        <div class="gl-product-model">(GL-XE300)</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
-      <a href="setup/gl-s10/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_s10.png" width=100%>
+      <a href="gl-s10/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s10.jpg" >
+        <div class="gl-product-model">GL-S10</div>
   	  </a>
   	</div>
   </div>
@@ -122,23 +154,30 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="setup/gl-b2200/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b2200.png" width=100%>
+      <a href="gl-b2200/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_b2200.jpg" >
+        <div class="gl-product-model">Velica</div>
+        <div class="gl-product-model">(GL-B2200)</div>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="setup/gl-b1300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_b1300.png" width=100%>
+      <a href="gl-b1300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_b1300.jpg" >
+        <div class="gl-product-model">Convexa-B</div>
+        <div class="gl-product-model">(GL-B1300)</div>
   	  </a>
   	</div>
   	<div class="gl-product-card">
-      <a href="setup/gl-sf1200/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_sf1200.png" width=100%>
+      <a href="gl-sf1200/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_sf1200.jpg" >
+        <div class="gl-product-model">GL-SF1200</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
-      <a href="setup/gl-ax1800/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ax1800.png" width=100%>
+      <a href="gl-ax1800/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ax1800.jpg" >
+        <div class="gl-product-model">Flint</div>
+        <div class="gl-product-model">(GL-AX1800)</div>
   	  </a>
   	</div>
   </div>
@@ -149,13 +188,17 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="setup/gl-ap1300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ap1300.png" width=100%>
+      <a href="gl-ap1300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ap1300lte.jpg" >
+        <div class="gl-product-model">Cirrus</div>
+        <div class="gl-product-model-ap1300">(GL-AP1300/GL-AP1300LTE)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/x300b_user-manual_20220527.pdf" target="_blank">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x300b.png" width=100%>
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x300b-ble.jpg" >
+        <div class="gl-product-model">Collie</div>
+        <div class="gl-product-model">(GL-X300B)</div>
   	  </a>
   	</div>
   </div>
@@ -166,13 +209,17 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
   	<div class="gl-product-card">
-      <a href="setup/gl-mv1000/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000.png" width=100%>
+      <a href="gl-mv1000/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000.jpg" >
+        <div class="gl-product-model">Brume</div>
+        <div class="gl-product-model">(GL-MV1000)</div>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
-      <a href="setup/gl-mv1000w/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mv1000w.png" width=100%>
+      <a href="gl-mv1000w/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000w.jpg" >
+        <div class="gl-product-model">Brume-W</div>
+        <div class="gl-product-model">(GL-MV1000W)</div>
   	  </a>
   	</div>	
   </div>
@@ -183,33 +230,41 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="setup/mini_router/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_ar150.png" width=100%>
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar150.jpg" >
+        <div class="gl-product-model">White</div>
+        <div class="gl-product-model">(GL-AR150)</div>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="setup/gl-mifi/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mifi.png" width=100%>
+      <a href="gl-mifi/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mifi.jpg" >
+        <div class="gl-product-model">GL-MiFi</div>
       </a>
     </div>
 	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
-  	    <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_x1200.png" width=100%>
+  	    <img src="https://static.gl-inet.com/www/images/products/products-list/product-list_x1200.jpg" >
+        <div class="gl-product-model">Amarok</div>
+        <div class="gl-product-model">(GL-X1200)</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
-      <a href="setup/mini_router/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300a.png" width=100%>
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/products-list/product-list_mt300a.jpg" >
+        <div class="gl-product-model">GL-MT300A</div>
       </a>
     </div>
 	  <div class="gl-product-card">
-      <a href="setup/mini_router/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_mt300n.png" width=100%>
+      <a href="mini_router/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt300n-v2.jpg" >
+        <div class="gl-product-model">GL-MT300N</div>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="setup/vixmini/first_time_setup/">
-        <img src="https://static.gl-inet.com/docs/en/3/home/docs_icon_vixmini.png" width=100%>
+      <a href="vixmini/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_vixmini.jpg" >
+        <div class="gl-product-model">VIXMINI</div>
       </a>
     </div>
   </div>
