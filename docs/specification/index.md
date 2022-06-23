@@ -1,6 +1,6 @@
 # Specification of GL.iNet products
 
-### Mini router
+## Mini router
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -34,7 +34,7 @@
   </div>
 </div>
 
-### Travel router
+## Travel router
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -76,7 +76,7 @@
   </div>
 </div>
 
-### 4G LTE router gateway
+## 4G LTE router gateway
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -111,7 +111,7 @@
   </div>
 </div>
 
-### IoT gateway
+## IoT gateway
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -145,7 +145,7 @@
   </div>
 </div>
 
-### Home Wi-Fi
+## Home Wi-Fi
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -179,7 +179,7 @@
   </div>
 </div>
 
-### Enterprise
+## Enterprise
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -200,7 +200,7 @@
   </div>
 </div>
 
-### Edge computing
+## Edge computing
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -221,7 +221,7 @@
   </div>
 </div>
 
-### End of life models
+## End of life models
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
