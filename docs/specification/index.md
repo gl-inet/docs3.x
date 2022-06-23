@@ -7,15 +7,15 @@
 	  <div class="gl-product-card">
       <a href="gl-ar300m/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar300m.jpg" >
-        <div class="gl-product-model">Shadow</div>
-        <div class="gl-product-model">(GL-AR300M)</div>
+        <div class="gl-product-model">GL-AR300M</div>
+        <div class="gl-product-model">(Shadow)</div>
       </a>
     </div>
 	  <div class="gl-product-card">
       <a href="gl-mt300n-v2/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt300n-v2.jpg" >
-        <div class="gl-product-model">Mango</div>
-        <div class="gl-product-model">(GL-MT300N-V2)</div>
+        <div class="gl-product-model">GL-MT300N-V2</div>
+        <div class="gl-product-model">(Mango)</div>
       </a>
     </div>
     <div class="gl-product-card">
@@ -27,8 +27,8 @@
 	  <div class="gl-product-card">
       <a href="gl-usb150/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_usb150.jpg" >
-        <div class="gl-product-model">Microuter</div>
-        <div class="gl-product-model">(GL-USB150)</div>
+        <div class="gl-product-model">GL-USB150</div>
+        <div class="gl-product-model">(Microuter)</div>
       </a>
   	</div>
   </div>
@@ -41,36 +41,36 @@
     <div class="gl-product-card">
       <a href="gl-ar750">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
-        <div class="gl-product-model">Creta</div>
-        <div class="gl-product-model">(GL-AR750)</div>
+        <div class="gl-product-model">GL-AR750</div>
+        <div class="gl-product-model">(Creta)</div>
       </a>
     </div>
     <div class="gl-product-card">
       <a href="gl-ar750s/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750s.jpg" >
-        <div class="gl-product-model">Slate</div>
-        <div class="gl-product-model">(GL-AR750S)</div>
+        <div class="gl-product-model">GL-AR750S</div>
+        <div class="gl-product-model">(Slate)</div>
       </a>
     </div>
   	<div class="gl-product-card">
       <a href="gl-mt1300/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt1300.jpg" >
-        <div class="gl-product-model">Beryl</div>
-        <div class="gl-product-model">(GL-MT1300)</div>
+        <div class="gl-product-model">GL-MT1300</div>
+        <div class="gl-product-model">(Beryl)</div>
       </a>
     </div>
   	<div class="gl-product-card">
       <a href="gl-e750/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_e750.jpg" >
-        <div class="gl-product-model">Mudi</div>
-        <div class="gl-product-model">(GL-E750)</div>
+        <div class="gl-product-model">GL-E750</div>
+        <div class="gl-product-model">(Mudi)</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
       <a href="gl-sft1200/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_sft1200.jpg" >
-        <div class="gl-product-model">Opal</div>
-        <div class="gl-product-model">(GL-SFT1200)</div>
+        <div class="gl-product-model">GL-SFT1200</div>
+        <div class="gl-product-model">(Opal)</div>
   	  </a>
   	</div>
   </div>
@@ -83,29 +83,29 @@
     <div class="gl-product-card">
       <a href="gl-ap1300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ap1300lte.jpg" >
-        <div class="gl-product-model">Cirrus</div>
-        <div class="gl-product-model-ap1300">(GL-AP1300/GL-AP1300LTE)</div>
+        <div class="gl-product-model-ap1300">GL-AP1300/GL-AP1300LTE</div>
+        <div class="gl-product-model">(Cirrus)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
       <a href="gl-x750/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x750v2.jpg" >
-        <div class="gl-product-model">Spitz</div>
-        <div class="gl-product-model">(GL-X750)</div>
+        <div class="gl-product-model">GL-X750</div>
+        <div class="gl-product-model">(Spitz)</div>
       </a>
     </div>
 	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/x300b_user-manual_20220527.pdf">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x300b-ble.jpg" >
-        <div class="gl-product-model">Collie</div>
-        <div class="gl-product-model">(GL-X300B)</div>
+        <div class="gl-product-model">GL-X300B</div>
+        <div class="gl-product-model">(Collie)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
       <a href="gl-xe300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_xe300.jpg" >
-        <div class="gl-product-model">Puli</div>
-        <div class="gl-product-model">(GL-XE300)</div>
+        <div class="gl-product-model">GL-XE300</div>
+        <div class="gl-product-model">(Puli)</div>
   	  </a>
   	</div>
   </div>
@@ -118,22 +118,22 @@
   	<div class="gl-product-card">
       <a href="gl-s1300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
-        <div class="gl-product-model">Convexa-S</div>
-        <div class="gl-product-model">(GL-S1300)</div>
+        <div class="gl-product-model">GL-S1300</div>
+        <div class="gl-product-model">(Convexa-S)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
       <a href="gl-x750/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x750v2.jpg" >
-        <div class="gl-product-model">Spitz</div>
-        <div class="gl-product-model">(GL-X750)</div>
+        <div class="gl-product-model">GL-X750</div>
+        <div class="gl-product-model">(Spitz)</div>
       </a>
     </div>
 	  <div class="gl-product-card">
       <a href="gl-xe300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_xe300.jpg" >
-        <div class="gl-product-model">Puli</div>
-        <div class="gl-product-model">(GL-XE300)</div>
+        <div class="gl-product-model">GL-XE300</div>
+        <div class="gl-product-model">(Puli)</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
@@ -152,15 +152,15 @@
   	<div class="gl-product-card">
       <a href="gl-b2200/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_b2200.jpg" >
-        <div class="gl-product-model">Velica</div>
-        <div class="gl-product-model">(GL-B2200)</div>
+        <div class="gl-product-model">GL-B2200</div>
+        <div class="gl-product-model">(Velica)</div>
   	  </a>
   	</div>
   	<div class="gl-product-card">
       <a href="gl-b1300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_b1300.jpg" >
-        <div class="gl-product-model">Convexa-B</div>
-        <div class="gl-product-model">(GL-B1300)</div>
+        <div class="gl-product-model">GL-B1300</div>
+        <div class="gl-product-model">(Convexa-B)</div>
   	  </a>
   	</div>
   	<div class="gl-product-card">
@@ -172,8 +172,8 @@
     <div class="gl-product-card">
       <a href="gl-ax1800/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ax1800.jpg" >
-        <div class="gl-product-model">Flint</div>
-        <div class="gl-product-model">(GL-AX1800)</div>
+        <div class="gl-product-model">GL-AX1800</div>
+        <div class="gl-product-model">(Flint)</div>
   	  </a>
   	</div>
   </div>
@@ -186,15 +186,15 @@
     <div class="gl-product-card">
       <a href="gl-ap1300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ap1300lte.jpg" >
-        <div class="gl-product-model">Cirrus</div>
-        <div class="gl-product-model-ap1300">(GL-AP1300/GL-AP1300LTE)</div>
+        <div class="gl-product-model-ap1300">GL-AP1300/GL-AP1300LTE</div>
+        <div class="gl-product-model">(Cirrus)</div>
   	  </a>
   	</div>
 	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x300b/x300b_user-manual_20220527.pdf">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x300b-ble.jpg" >
-        <div class="gl-product-model">Collie</div>
-        <div class="gl-product-model">(GL-X300B)</div>
+        <div class="gl-product-model">GL-X300B</div>
+        <div class="gl-product-model">(Collie)</div>
   	  </a>
   	</div>
   </div>
@@ -207,15 +207,15 @@
   	<div class="gl-product-card">
       <a href="gl-mv1000/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000.jpg" >
-        <div class="gl-product-model">Brume</div>
-        <div class="gl-product-model">(GL-MV1000)</div>
+        <div class="gl-product-model">GL-MV1000</div>
+        <div class="gl-product-model">(Brume)</div>
   	  </a>
   	</div>	
   	<div class="gl-product-card">
       <a href="gl-mv1000w/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000w.jpg" >
-        <div class="gl-product-model">Brume-W</div>
-        <div class="gl-product-model">(GL-MV1000W)</div>
+        <div class="gl-product-model">GL-MV1000W</div>
+        <div class="gl-product-model">(Brume-W)</div>
   	  </a>
   	</div>	
   </div>
@@ -228,8 +228,8 @@
     <div class="gl-product-card">
       <a href="gl-ar150/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar150.jpg" >
-        <div class="gl-product-model">White</div>
-        <div class="gl-product-model">(GL-AR150)</div>
+        <div class="gl-product-model">GL-AR150</div>
+        <div class="gl-product-model">(White)</div>
       </a>
     </div>
   	<div class="gl-product-card">
@@ -241,8 +241,8 @@
   	<div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf">
   	    <img src="https://static.gl-inet.com/www/images/products/products-list/product-list_x1200.jpg" >
-        <div class="gl-product-model">Amarok</div>
-        <div class="gl-product-model">(GL-X1200)</div>
+        <div class="gl-product-model">GL-X1200</div>
+        <div class="gl-product-model">(Amarok)</div>
   	  </a>
   	</div>
     <div class="gl-product-card">
