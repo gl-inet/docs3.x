@@ -12,6 +12,8 @@ hide:
 * [How to check the firmware version of the router?](check_firmware_version)
 * [What is web Admin Panel?](web_admin_panel)
 
+---
+
 ## Internet Connection
 
 * [What is Repeater?](repeater) To repeat a Wi-Fi signal.
@@ -26,6 +28,8 @@ hide:
 * [IPv6](ipv6)
 * [EasyTether](tether), share your Internet connection on your Android phone with router.
 
+---
+
 ## VPN
 
 * [Setup OpenVPN Client](openvpn_client).
@@ -36,6 +40,8 @@ hide:
 * [Internet Kill Switch](internet_kill_switch). To let all data go through VPN.
 * [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
 
+---
+
 ## Privacy
 
 * [How to use Cloudflare DNS over TLS on GL.iNet router?](how_to_use_cloudflare_dns_over_tls_on_glinet_router)
@@ -43,11 +49,24 @@ hide:
 * [Setup NextDNS](nextdns), which is the new firewall for the modern Internet.
 * [Tor, for browse privately](tor).
 
+---
+
 ## 4G
 
 * [How to view SMS and send SMS?](sms)
 * [SMS Forward](sms_forward), to forward SMS message to phone or email.
 * [How to check cells info?](cells_info)
+
+---
+
+## Troubleshooting
+
+* [Why can't I access the router through 192.168.8.1?](cannot_access_web_admin_panel)
+* [How to repair network or reset to factory setting?](reset)
+* [What should I do if my router is bricked?](debrick)
+* [Debrick via Uboot](debrick)
+
+---
 
 ## Others
 
@@ -67,7 +86,6 @@ hide:
 * [How to find model number of GL.iNet device?](how_to_find_model)
 * [What is LuCI?](what_is_luci)
 * [Setup LED Customization](led_customization)
-* [BLE MQTT Bridge](ble2mqtt), forward bluetooth data to cloud platform.
 * [Connect USB web camera to routers](camera).
 
 ---
@@ -89,3 +107,5 @@ hide:
 * [How to add IPSEC/L2TP support?](https://forum.gl-inet.com/t/how-to-add-ipsec-l2tp-support/1637){target="_blank"}
 
 * [Difference between VPN Server and VPN client](https://forum.gl-inet.com/t/difference-between-vpn-server-and-vpn-client/10045){target="_blank"}
+
+* [OpenVPN and WireGuard Compatibility Report](https://forum.gl-inet.com/t/openvpn-and-wireguard-compatibility-report/15621){target="_blank"}

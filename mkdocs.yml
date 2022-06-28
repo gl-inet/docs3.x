@@ -330,55 +330,62 @@ nav:
       - More Settings: setup/vixmini/more_settings.md
   - Tutorials:
     - Overview: tutorials/index.md
-    - Repeater: tutorials/repeater.md
-    - Turn off Wi-Fi: tutorials/turn_off_wifi.md
-    - Produce a wired connection: tutorials/produce_a_wired_connection.md
-    - Connect to an existing Wi-Fi: tutorials/connect_to_an_existing_wifi.md
-    - Hide SSID: tutorials/hide_ssid.md
-    - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
-    - Firmware Upgrade: tutorials/firmware_upgrade.md
-    - Check Firmware Version: tutorials/check_firmware_version.md
-    - What is web Admin Panel: tutorials/web_admin_panel.md
-    - SSH to the Router: tutorials/ssh.md
-    - Extensible Authentication Protocol: tutorials/eap.md
-    - Modify files on the router: tutorials/scp.md
-    - OpenVPN Client: tutorials/openvpn_client.md
-    - OpenVPN Server: tutorials/openvpn_server.md
-    - OpenVPN Bridge: tutorials/openvpn_bridge.md
-    - WireGuard Client: tutorials/wireguard_client.md
-    - WireGuard Server: tutorials/wireguard_server.md
-    - Internet Kill Switch: tutorials/internet_kill_switch.md
-    - Change WAN to LAN: tutorials/change_wan_to_lan.md
-    - LED Indicators: tutorials/led.md
-    - VPN Policies: tutorials/vpn_policies.md
-    - Protect Privacy: tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router.md
-    - File Sharing: tutorials/file_sharing.md
-    - Multimedia File Sharing: tutorials/multimedia_file_sharing.md
-    - IPv6: tutorials/ipv6.md
-    - DDNS: tutorials/ddns.md
-    - Cloud: tutorials/cloud.md
-    - Cloudflare: tutorials/how_to_use_cloudflare_dns_over_tls_on_glinet_router.md
-    - NextDNS: tutorials/nextdns.md
-    - Firewall: tutorials/firewall.md
-    - Check IP Address: tutorials/how_to_check_if_isp_assigns_you_a_public_ip_address.md
-    - Internet Priority: tutorials/internet_connection_priority.md
-    - Mobile App: tutorials/mobile_app.md
-    - LuCI: tutorials/what_is_luci.md
-    - Find model number: tutorials/how_to_find_model.md 
-    - Cells Info: tutorials/cells_info.md
-    - SMS: tutorials/sms.md
-    - SMS Forward: tutorials/sms_forward.md
-    - LED Customization: tutorials/led_customization.md
-    - Setup Captive Portal: tutorials/captive_portal.md
-    - Connect to Captive Portal: tutorials/connect_to_a_hotspot_with_captive_portal.md
-    - EasyTether: tutorials/tether.md
-    - Tor: tutorials/tor.md
-    - Camera: tutorials/camera.md
+    - General:
+      - Firmware Upgrade: tutorials/firmware_upgrade.md
+      - Check Firmware Version: tutorials/check_firmware_version.md
+      - What is web Admin Panel: tutorials/web_admin_panel.md
+    - Internet Connection:
+      - Repeater: tutorials/repeater.md
+      - Setup as a bridge: tutorials/setup_the_router_as_a_bridge.md
+      - Produce a wired connection: tutorials/produce_a_wired_connection.md
+      - Connect to an existing Wi-Fi: tutorials/connect_to_an_existing_wifi.md
+      - Turn off Wi-Fi: tutorials/turn_off_wifi.md
+      - Hide SSID: tutorials/hide_ssid.md
+      - Connect to Captive Portal: tutorials/connect_to_a_hotspot_with_captive_portal.md
+      - Extensible Authentication Protocol: tutorials/eap.md
+      - Setup Captive Portal: tutorials/captive_portal.md
+      - IPv6: tutorials/ipv6.md
+      - EasyTether: tutorials/tether.md
+    - VPN:
+      - OpenVPN Client: tutorials/openvpn_client.md
+      - OpenVPN Server: tutorials/openvpn_server.md
+      - OpenVPN Bridge: tutorials/openvpn_bridge.md
+      - WireGuard Client: tutorials/wireguard_client.md
+      - WireGuard Server: tutorials/wireguard_server.md
+      - Internet Kill Switch: tutorials/internet_kill_switch.md
+      - VPN Policies: tutorials/vpn_policies.md
+    - Privacy:
+      - Cloudflare: tutorials/how_to_use_cloudflare_dns_over_tls_on_glinet_router.md
+      - Protect Privacy: tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router.md
+      - NextDNS: tutorials/nextdns.md
+      - Tor: tutorials/tor.md
+    - 4G:
+      - SMS: tutorials/sms.md
+      - SMS Forward: tutorials/sms_forward.md
+      - Cells Info: tutorials/cells_info.md
+    - Troubleshooting:
+      - Can't access web Admin Panel: tutorials/cannot_access_web_admin_panel.md
+      - Repair or Reset: tutorials/reset.md
+      - Debrick via Uboot: tutorials/debrick.md
+    - Others:
+      - Change WAN to LAN: tutorials/change_wan_to_lan.md
+      - LED Indicators: tutorials/led.md
+      - File Sharing: tutorials/file_sharing.md
+      - Multimedia File Sharing: tutorials/multimedia_file_sharing.md
+      - DDNS: tutorials/ddns.md
+      - Cloud: tutorials/cloud.md
+      - Firewall: tutorials/firewall.md
+      - SSH to the Router: tutorials/ssh.md
+      - Modify files on the router: tutorials/scp.md
+      - Check IP Address: tutorials/how_to_check_if_isp_assigns_you_a_public_ip_address.md
+      - Internet Priority: tutorials/internet_connection_priority.md
+      - Mobile App: tutorials/mobile_app.md
+      - Find model number: tutorials/how_to_find_model.md
+      - LuCI: tutorials/what_is_luci.md
+      - LED Customization: tutorials/led_customization.md
+      - Camera: tutorials/camera.md
   - Troubleshooting:
     - Overview: troubleshooting/index.md
-    - Can't access web Admin Panel: troubleshooting/cannot_access_web_admin_panel.md
-    - Repair or Reset: troubleshooting/reset.md
-    - Debrick via Uboot: troubleshooting/debrick.md
     - Repeat Failure: troubleshooting/repeat_failure.md
     - Can't find SSID: troubleshooting/cannot_find_ssid.md
     - Override DNS not take effect: troubleshooting/override_dns_settings_for_all_clients_not_take_effect.md
