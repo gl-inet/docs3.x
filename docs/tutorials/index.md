@@ -62,7 +62,7 @@ hide:
 ## Troubleshooting
 
 * [Why can't I access the router through 192.168.8.1?](cannot_access_web_admin_panel)
-* [How to repair network or reset to factory setting?](reset)
+* [How to repair network or reset to factory setting?](repair_network_or_reset_firmware)
 * [What should I do if my router is bricked?](debrick)
 * [Debrick via Uboot](debrick)
 
