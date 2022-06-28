@@ -365,7 +365,7 @@ nav:
       - Cells Info: tutorials/cells_info.md
     - Troubleshooting:
       - Can't access web Admin Panel: tutorials/cannot_access_web_admin_panel.md
-      - Repair or Reset: tutorials/reset.md
+      - Repair or Reset: tutorials/repair_network_or_reset_firmware.md
       - Debrick via Uboot: tutorials/debrick.md
     - Others:
       - Change WAN to LAN: tutorials/change_wan_to_lan.md
