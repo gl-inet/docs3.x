@@ -1,6 +1,6 @@
 # How to Repair / Reset
 
-All GL.iNet Routers have reset button, you can use it to repair your network or reset your router to factory defult. If you can neither access the web Admin Panel nor the router, you can press the `reset` button.
+All GL.iNet Routers have reset button, you can use it to repair your network or reset your router to factory default. If you can neither access the web Admin Panel nor the router, you can press the `reset` button.
 
 ## Repair network
 
