@@ -18,9 +18,9 @@ You can also refer to video tutorial below.
 
     Some models, such as GL-AR750S-EXT, it is available in two formats of firmware, please use the firmware for uboot, its file name extension is **.img**.
 
-2. Connect your computer to the **Ethernet port (either LAN or WAN)** of the router. You **MUST** leave the other port **unconnected**.
+2. Remove the power of router. Connect your computer to the **Ethernet port (either LAN or WAN)** of the router. You **MUST** leave the other port **unconnected**.
 
-3. Press and hold the Reset button firmly, and then power up the router. If your router doesn't have a power button, plugging it in will power it on automatically.
+3. Press and hold the Reset button firmly, and then power up the router. If your router doesn't have a power button, plugging the power in will power it on automatically.
 
     Then you will see a light flashes in a regular pattern a few times, please release your finger after the pattern changed.
 
