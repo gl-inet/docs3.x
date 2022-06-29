@@ -2,6 +2,8 @@
 
 You may have bricked your router if you were doing some DIY projects or flashed a wrong firmware. You may not be able to access your router but you can re-install the firmware by using Uboot failsafe.
 
+**Note:** The Uboot operation will remove your router's settings and installed plugins.
+
 ---
 
 Please prepare a computer with an ethernet port, if not, please prepare an additional USB Ethernet Adapter.
