@@ -132,7 +132,7 @@ You can also refer to video tutorial below.
 
         1. You need to download the uboot file [here](https://github.com/gl-inet/uboot-for-qca95xx/tree/master/bin){target="_blank"} in advance.
 
-        2. Repeat the above steps until you can access the uboot FIRMWARE UPDATE page.
+        2. Repeat the above steps until you can access the Uboot Web UI.
 
         3. Use browser to visit **http://192.168.1.1/uboot.html**
 
@@ -146,7 +146,7 @@ You can also refer to video tutorial below.
 
         7. At this time you can change the IP setting back in step 4 and try to access the web Admin Panel, if you can access the web Admin Panel normally, it means the router has been rebooted.
 
-        8. Repeate the above steps to upgrade the firmware. If the uboot version is updated successfully, you will see that the uboot FIRMWARE UPDATE page has changed at step 5. 
+        8. Repeate the above steps to upgrade the firmware. If the uboot version is updated successfully, you will see that the Uboot Web UI has changed at step 5. 
 
 6. Click **Choose file** button to find the firmware file. Then click **Update firmware** button.
 
