@@ -30,7 +30,7 @@ Connect your device to the LAN port of the router via Ethernet cable.
 
 ### Connect via Wi-Fi
 
-**Note:** The new version of GL-AX1800, if its firmware version is greater than or equal to 3.213, it is possible to search the SSID when it is set up for the first time. Learn more about [How can I tell if GL-AX1800 is a new version or an old version?](../../../tutorials/gl-ax1800_new_vs_old_version)
+**Note:** The new version of GL-AX1800, if its firmware version is 3.213 or higher, it is possible to search the SSID when it is set up for the first time. Learn more about [How can I tell if GL-AX1800 is a new version or an old version?](../../../tutorials/gl-ax1800_new_vs_old_version)
 
 Search for the SSID of the router in your device and input the password.
 
