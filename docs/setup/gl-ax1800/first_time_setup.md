@@ -28,6 +28,17 @@ Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via LAN](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/connect_to_lan_port_ax1800.png){class="glboxshadow"}
 
+### Connect via Wi-Fi
+
+**Note:** The new version of GL-AX1800, if its firmware version is greater than or equal to 3.213, it is possible to search the SSID when it is set up for the first time. Learn more about [How can I tell if GL-AX1800 is a new version or an old version?](../../../tutorials/gl-ax1800_new_vs_old_version)
+
+Search for the SSID of the router in your device and input the password.
+
+*Note: The SSID and WiFi Key was printed on the bottom label of the router, the SSID is with the following formats:*
+
+- **GL-AX1800-XXX**
+- **GL-AX1800-XXX-5G**
+
 ## 3. Access the web Admin Panel
 
 Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1](http://192.168.8.1). You will be directed to the initial setup of the web Admin Panel.

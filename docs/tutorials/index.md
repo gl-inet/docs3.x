@@ -87,6 +87,7 @@ hide:
 * [What is LuCI?](what_is_luci)
 * [Setup LED Customization](led_customization)
 * [Connect USB web camera to routers](camera).
+* [The difference between the old and new versions of GL-AX1800](gl-ax1800_new_vs_old_version).
 
 ---
 
