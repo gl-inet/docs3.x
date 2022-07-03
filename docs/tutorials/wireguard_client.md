@@ -4,7 +4,7 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes **state
 
 GL.iNet routers have pre-installed WireGuard Client and Server.
 
-If you have already bought WireGuard service from a provider, but you don't know how to get the configuration files, please refer to [get configuration files from WireGuard service providers](#get-configuration-files-from-wireguard-service-providers).
+If you have already bought WireGuard service from a provider, but you don't know how to get the configuration files, please refer to [get configuration files from WireGuard service providers](#get-configuration-files-from-wireguard-service-providers) or ask its support.
 
 You can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, TorGuard VPN, OVPN, WeVPN, StrongVPN, PIA VPN, SpiderVPN.
 
@@ -71,6 +71,10 @@ There is a video tutorial, please check out [here](#video-tutorial).
     If connected, it will show the traffic info of upload and download.
 
 **Note:** It can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
+
+## Setup WireGaurd server on GL.iNet router
+
+You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet router to set as WireGaurd client. For setup WireGaurd server, please check out [here](../wireguard_server).
 
 ## Get configuration files from WireGuard service providers
 
