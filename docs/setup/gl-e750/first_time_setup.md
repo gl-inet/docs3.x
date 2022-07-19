@@ -42,15 +42,17 @@ Make sure you are using a standard **5V/2A** power adapter. Otherwise it may cau
 
 ## 3. Power Off
 
-Press the power button for 5 seconds to turn off the device. When you press the the power button for 3 seconds, the OLED screen will show **Power Saving On** first. **KEEP PRESSING** the power button, you will see **Shut Down** under the **Power Saving On** and it will countdown 3 seconds and turn off the device.
+Press the power button for 5 seconds to turn off the device. When you press the the power button for 3 seconds, the OLED screen will show **Standby Mode On** first. **KEEP PRESSING** the power button, you will see **Shut Down** under the **Standby Mode On** and it will countdown 3 seconds and turn off the device.
 
-## 4. Power Saving
+## 4. Standby Mode
 
-Press the power button for 3 seconds to turn on the power saving mode, you will see **Power Saving On** on the OLED screen.
+In Standby Mode, the GL-E750 will turn off Wi-Fi and 4G to save power. You can't connect to GL-E750 Wi-Fi in this mode.
 
-Also, press the power button for 3 seconds to turn off the power saving mode, you will see **Power Saving Off** on the OLED screen.
+Press the power button for 3 seconds to turn on the Standby Mode, you will see **Standby Mode On** on the OLED screen.
 
-## 5. Connect 
+Also, press the power button for 3 seconds to turn off the Standby Mode, you will see **Standby Mode Off** on the OLED screen.
+
+## 5. Connect
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
