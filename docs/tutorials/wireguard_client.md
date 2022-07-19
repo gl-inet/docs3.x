@@ -126,7 +126,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
         ![remove wireguard ipv6 content](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/ovpn/remove_wireguard_ipv6_content.jpg){class="glboxshadow"}
     
-    4. Then fllow the [guide](#setup-wireguard-client) to continue.
+    4. Then follow the [guide](#setup-wireguard-client) to continue.
 
     5. You can also use <a href="../mobile_app">mobile app</a> to setup OVPN.
 
@@ -146,7 +146,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
         ![torguard vpn username vpn password](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow"}
 
-    3. Then fllow the [guide](#setup-wireguard-client) to continue.
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup TorGuard.
 
@@ -162,7 +162,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
     
         ![VPN.AC create wireguard profiles](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/vpnac/vpn.ac_create_wireguard_profiles.jpg){class="glboxshadow"}
 
-    3. Then fllow the [guide](#setup-wireguard-client) to continue.
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
 
 <div id="strongvpn"></div>
 
@@ -176,7 +176,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
     
         ![strongvpn wireguard configuration generator](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/strongvpn/strongvpn_wireguard_configuration_generator.png){class="glboxshadow"}
     
-    3. Then fllow the [guide](#setup-wireguard-client) to continue.
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup StrongVPN.
 
@@ -194,7 +194,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
     
         ![wevpn manual configuration generator](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wevpn/wevpn_2.jpg){class="glboxshadow"}
 
-    3. Then fllow the [guide](#setup-wireguard-client) to continue.
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup WeVPN.
 
@@ -210,7 +210,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     ![windscribe WireGuard Config Generator](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/windscribe/windscribe_01.jpg){class="glboxshadow"}
 
-    Then fllow the [guide](#setup-wireguard-client) to continue.
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 <div id="privatevpn"></div>
 
@@ -230,7 +230,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
     
         ![generate config](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/privatevpn/privatevpn_wireguard_3.jpg){class="glboxshadow"}
 
-    4. Then fllow the [guide](#setup-wireguard-client) to continue.
+    4. Then follow the [guide](#setup-wireguard-client) to continue.
 
 
 <div id="pia"></div>
@@ -259,7 +259,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
         ![airvpn select server](https://static.gl-inet.com/docs/en/4/tutorials/wireguard_client/airvpn/airvpn_select_server.png){class="glboxshadow" width="600"}
 
-    4. Then fllow the [guide](#setup-wireguard-client) to continue.
+    4. Then follow the [guide](#setup-wireguard-client) to continue.
 
 <div id="proton"></div>
 
@@ -269,7 +269,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     If you are using [Proton VPN](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}, please follow the guide [here](https://protonvpn.com/support/wireguard-configurations/){target="_blank"} to generate the WireGuard configuration file.
 
-    Then fllow the [guide](#setup-wireguard-client) to continue.
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 
 ??? "VPN Unlimited(KeepSolid)"
@@ -304,7 +304,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
         Endpoint = <i>paste Endpoint information</i></br>
         </p>
 
-    4. Then fllow the [guide](#setup-wireguard-client) to continue.
+    4. Then follow the [guide](#setup-wireguard-client) to continue.
  
     [Refer link 1](https://www.vpnunlimited.com/help/manuals/wireguard-setup-on-glinet-router){target="_blank"}
 
@@ -319,7 +319,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     If you are using [12VPX](https://12vpx.com/?aff=1174){target="_blank"}, login then access [this page](https://12vpx.com/setup/wireguard){target="_blank"}, you will see the configs of all servers.
 
-    Then fllow the [guide](#setup-wireguard-client) to continue.
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 
 <div id="ivpn"></div>
@@ -332,7 +332,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Windows](https://www.ivpn.net/setup/windows-10-wireguard/){target="_blank"}, [macOS](https://www.ivpn.net/setup/macos-wireguard/){target="_blank"}, [Linux](https://www.ivpn.net/setup/linux-wireguard/){target="_blank"}
 
-    Then fllow the [guide](#setup-wireguard-client) to continue.
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 
 <div id="trustzone"></div>
@@ -345,7 +345,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
     
     2. Scroll down to the WireGuard section, choose the port you want, then download a config of specific server or a zip file of all configs.
 
-    3. Then fllow the [guide](#setup-wireguard-client) to continue.
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
 
 <div id="anonine"></div>
 
@@ -357,7 +357,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Windows](https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10){target="_blank"}, [macOS](https://help.anonine.com/support/solutions/articles/5000817206-anonine-wireguard-installation-guide-for-macos){target="_blank"}, [Ubuntu](https://help.anonine.com/support/solutions/articles/5000817191--anonine-wireguard-installation-guide-for-ubuntu-18-04){target="_blank"}, [Android](https://help.anonine.com/support/solutions/articles/5000817310--anonine-wireguard-installation-for-android){target="_blank"}, [iOS](https://help.anonine.com/support/solutions/articles/5000823286--anonine-wireguard-installation-for-ios){target="_blank"}
 
-    Then fllow the [guide](#setup-wireguard-client) to continue.
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 
 <div id="nvpn"></div>
@@ -368,7 +368,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     Fellow the guide [here](https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows){target="_blank"} to create the config.
 
-    Then fllow the [guide](#setup-wireguard-client) to continue.
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 <div id="starvpn"></div>
 
@@ -390,7 +390,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
         ![startvpn wireguard configuration remove ipv6 content](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/starvpn/starvpn_wireguard_configuration_remove_ipv6.jpg){class="glboxshadow"}
 
-    4. Then fllow the [guide](#setup-wireguard-client) to continue.
+    4. Then follow the [guide](#setup-wireguard-client) to continue.
 
     [Refer link](https://www.starvpn.com/wireguard-setup-on-gl-inet-router/){target="_blank"}
 
@@ -408,7 +408,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
         ![download spider vpn configuration](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/spidervpn/spidervpn_config_2.jpg){class="glboxshadow"}
 
-    3. Then fllow the [guide](#setup-wireguard-client) to continue.
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
 
 Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
