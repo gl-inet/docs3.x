@@ -98,6 +98,7 @@ nav:
     - GL-MT1300 (Beryl): specification/gl-mt1300/index.md
     - GL-SFT1200 (Opal): specification/gl-sft1200/index.md
     - GL-AX1800 (Flint): specification/gl-ax1800/index.md
+    - GL-AXT1800 (Slate AX): specification/gl-axt1800/index.md
     - GL-MiFi: specification/gl-mifi/index.md
     - GL-XE300 (Puli): specification/gl-xe300/index.md
     - GL-X750 (Spitz): specification/gl-x750/index.md
@@ -180,6 +181,7 @@ nav:
       - VPN: setup/gl-ax1800/vpn.md
       - Applications: setup/gl-ax1800/applications.md
       - More Settings: setup/gl-ax1800/more_settings.md
+    - GL-AXT1800 (Slate AX): setup/gl-axt1800/index.md
     - GL-MiFi:
       - First Time Setup: setup/gl-mifi/first_time_setup.md
       - Internet: setup/gl-mifi/internet.md
