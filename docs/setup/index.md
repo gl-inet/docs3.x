@@ -73,6 +73,20 @@
         <div class="gl-product-model">(Opal)</div>
   	  </a>
   	</div>
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-axt1800/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_axt1800.jpg" >
+        <div class="gl-product-model">GL-AXT1800</div>
+        <div class="gl-product-model">(Slate AX)</div>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-a1300/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_a1300.jpg" >
+        <div class="gl-product-model">GL-A1300</div>
+        <div class="gl-product-model">(Slate Plus)</div>
+      </a>
+    </div>
   </div>
 </div>
 
