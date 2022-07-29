@@ -108,7 +108,7 @@ Follow the steps above, to enable Cloud Management, choose the Data Server which
 
 ### Sign up GoodCloud account
 
- Visit [https://www.goodcloud.xyz](https://www.goodcloud.xyz){target="_blank"}, sign up an account, then sign in. If you don't find the verify email, look in spam or check email later. If you have any difficulty with sign up, please send email to [support@gl-inet.com](mailto:support@gl-inet.com) for help.
+ Visit [https://www.goodcloud.xyz](https://www.goodcloud.xyz){target="_blank"}, sign up an account, then sign in. If you don't find the verify email, look in spam or check email later. If you have any difficulty with sign up, please send email to [support@glinet.biz](mailto:support@glinet.biz) for help.
 
 ### Select server region
 
@@ -193,7 +193,7 @@ Click `View Logs` will show API call logs by GoodCloud.
 
 If you want to unbind router, click `Unbind` button.
 
-If you have encountered any difficulties, please send email to [support@gl-inet.com](mailto:support@gl-inet.com) for help.
+If you have encountered any difficulties, please send email to [support@glinet.biz](mailto:support@glinet.biz) for help.
 
 ## Manage your devices
 

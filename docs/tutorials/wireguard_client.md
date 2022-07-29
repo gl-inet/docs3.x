@@ -410,7 +410,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
-Suggest a WireGuard provider? Please contact [support@gl-inet.com](mailto:support@gl-inet.com)
+Suggest a WireGuard provider? Please contact [support@glinet.biz](mailto:support@glinet.biz)
 
 ## Video Tutorial
 

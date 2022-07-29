@@ -64,7 +64,7 @@ You can get a GL.iNet router to set as OpenVPN server, and get another GL.iNet r
 
 We have tested different VPN service providers. Therefore, if you don't know how to get the configuration file, you can follow the instruction below. However, you have to contact your service provider for the configuration file if they are not listed below. 
 
-If you have any problem in the setup of OpenVPN, please contact [support@gl-inet.com](mailto:support@gl-inet.com) or report in [this forum post](https://forum.gl-inet.com/t/openvpn-and-wireguard-compatibility-report/15621){target="_blank"}.
+If you have any problem in the setup of OpenVPN, please contact [support@glinet.biz](mailto:support@glinet.biz) or report in [this forum post](https://forum.gl-inet.com/t/openvpn-and-wireguard-compatibility-report/15621){target="_blank"}.
 
 Recommended:
 

@@ -339,7 +339,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 
 ## Official Support
 
-We try our best to solve your every technical problem when you use our products. We have built a community for you to share your ideas with other users on our [forum](https://forum.gl-inet.com/). Also, we can also offer helps on our [Facebook](https://www.facebook.com/gl.inet.wifi/) page and our [Twitter](https://twitter.com/GLiNetWiFi) platform. If you have some really in-depth technical questions you want we to work on, please email them to [support@gl-inet.com](mailto:support@gl-inet.com)
+We try our best to solve your every technical problem when you use our products. We have built a community for you to share your ideas with other users on our [forum](https://forum.gl-inet.com/). Also, we can also offer helps on our [Facebook](https://www.facebook.com/gl.inet.wifi/) page and our [Twitter](https://twitter.com/GLiNetWiFi) platform. If you have some really in-depth technical questions you want we to work on, please email them to [support@glinet.biz](mailto:support@glinet.biz)
 
 ## Table of GL.iNet hardware on OpenWrt website
 
