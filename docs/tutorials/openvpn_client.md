@@ -74,11 +74,21 @@ Recommended:
 
     [Official Website](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902){target="_blank"}
 
-    Download OpenVPN client configuration files. We recommend going into [NordVPN recommended server utility here](https://nordvpn.com/servers/tools/){target="_blank"}. It will recommend a server base on your network, click **Show available protocols** to download the UDP or TCP config.
+    1. **Find your login details**
+    
+        NordVPN service credentials are different from your NordVPN account credentials, namely your email address and your password. You'll need NordVPN service credentials to connect to the VPN using the manual OpenVPN configuration method in the router.
 
-    ![nordvpn server utility](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordvpn_server_utility.png){class="glboxshadow"}
+        Login the [Official Website](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902){target="_blank"}, go to the Nord Account dashboard, where you will find the service credentials.
 
-    Of course you can download all servers configs [here](https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip).
+        ![nordvpn service credential](https://static.gl-inet.com/docs/en/4/tutorials/openvpn_client/nordvpn_service_credentials.png){class="glboxshadow"}
+
+    2. **Choose a NordVPN server**
+
+        Go to [NordVPN recommended server utility here](https://nordvpn.com/servers/tools/){target="_blank"}. It will recommend a server base on your network, click **Show available protocols** to download the UDP or TCP config. Click [here](../openvpn_tcp_udp/) to see the difference.
+
+        ![nordvpn server utility](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordvpn_server_utility.png){class="glboxshadow"}
+
+    You can download all servers configs [here](https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip).
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
@@ -100,8 +110,27 @@ Recommended:
 
     [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
 
-    Login and [download](https://api.surfshark.com/v1/server/configurations) directly, or read this [guide](https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-).
+    1. **Find your login details**
 
+        Surfshark service credentials are different from your Surfshark account credentials, namely your email address and your password. You'll need Surfshark service credentials to connect to the VPN using the manual OpenVPN configuration method in the router.
+
+        Login the [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, go to [this page](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"}, where you will find all of the details required for a manual connection.
+
+        ![surfshark service credential](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/surfshark/surfshark_service_credential.png){class="glboxshadow"}
+
+    2. **Choose a Surfshark server**
+
+        Select the **Locations** tab, where you will see all of the Surfshark servers.
+
+        ![surfshark locations](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/surfshark/surfshark_locations.png){class="glboxshadow"}
+
+        It will ask to choose TCP or UDP. Click [here](../openvpn_tcp_udp/) to see the difference.
+
+        ![surfshark tcp udp](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/surfshark/surfshark_udp_tcp.png){class="glboxshadow" width="400"}
+
+    You can download all configs [here](https://api.surfshark.com/v1/server/configurations) directly.
+
+    [Refer link](https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-){target="_blank"}
 
 <div id="purevpn"></div>
 
