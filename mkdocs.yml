@@ -358,6 +358,7 @@ nav:
       - WireGuard Server: tutorials/wireguard_server.md
       - Internet Kill Switch: tutorials/internet_kill_switch.md
       - VPN Policies: tutorials/vpn_policies.md
+      - TCP or UDP: tutorials/openvpn_tcp_udp.md
     - Privacy:
       - Cloudflare: tutorials/how_to_use_cloudflare_dns_over_tls_on_glinet_router.md
       - Protect Privacy: tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router.md
