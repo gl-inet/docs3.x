@@ -160,10 +160,3 @@ Androidテザリングの場合は、ルータのUSBポートに差し込み、�
 
 ![tethering](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/テザリング.png)
 
-
-
-### EasyTether
-
-一部分のキャリアは、データ共有を禁止して、テザリングを使用できない場合は**Easytethering**を試してください。
-
-*注意：Easytetherは無料のサービスではありません。そして、弊社はEasytetherと提携していません。*

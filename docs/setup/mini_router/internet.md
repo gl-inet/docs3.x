@@ -164,11 +164,3 @@ Androidテザリングの場合は、ルータのUSBポートに差し込み、�
 デバイスに差し込む後、テザリングセクションがアップデートして、ごデバイスがデバイスリストで見えます。デバイスの名称は**eth**または**usb**で始まり、例えば**eth2**、**usb0**。 ご使いのデバイスを選択して`接続`をクリックしてください。
 
 ![tethering](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/テザリング.png)
-
-
-
-### EasyTether
-
-一部分のキャリアは、データ共有を禁止して、テザリングを使用できない場合はEasytetheringを試してください。
-
-*注意： Easytetherは無料のサービスではありません。そして、弊社はEasytetherと提携していません。*

@@ -198,8 +198,3 @@ After plugging in your device, the Tethering section will update and your device
 
 ![tethering](https://static.gl-inet.com/docs/en/3/setup/share/internet/tethering/tethering_connect.png){class="glboxshadow"}
 
-### EasyTether
-
-Some carriers prohibit the sharing of the data so that you may not be able to use tethering. However, you can try [easytethering](../../../tutorials/tether). 
-
-*Note: Easytether is not a free service and we have no affiliation with them.*

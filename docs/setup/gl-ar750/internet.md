@@ -159,10 +159,3 @@ SIMカードのIPアドレスが見せる時、接続ができた。
 
 ![tethering](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/テザリング.png)
 
-
-
-### EasyTether
-
-一部の通信事業者は、テザリングを使用できないようにデータの共有を禁止しています。 しかし、あなたはEasytetheringを試すことができます。
-
-*注意： Easytetherは無料のサービスではありません、そして、私たちは彼らと提携していません.*
