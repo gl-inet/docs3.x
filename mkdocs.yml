@@ -349,7 +349,6 @@ nav:
       - Extensible Authentication Protocol: tutorials/eap.md
       - Setup Captive Portal: tutorials/captive_portal.md
       - IPv6: tutorials/ipv6.md
-      - EasyTether: tutorials/tether.md
     - VPN:
       - OpenVPN Client: tutorials/openvpn_client.md
       - OpenVPN Server: tutorials/openvpn_server.md
