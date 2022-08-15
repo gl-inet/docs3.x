@@ -77,6 +77,20 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         <div class="gl-product-model">(Opal)</div>
   	  </a>
   	</div>
+        <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-axt1800/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_axt1800.jpg" >
+        <div class="gl-product-model">GL-AXT1800</div>
+        <div class="gl-product-model">(Slate AX)</div>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-a1300/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_a1300.jpg" >
+        <div class="gl-product-model">GL-A1300</div>
+        <div class="gl-product-model">(Slate Plus)</div>
+      </a>
+    </div>
   </div>
 </div>
 
@@ -339,7 +353,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 
 ## Official Support
 
-We try our best to solve your every technical problem when you use our products. We have built a community for you to share your ideas with other users on our [forum](https://forum.gl-inet.com/). Also, we can also offer helps on our [Facebook](https://www.facebook.com/gl.inet.wifi/) page and our [Twitter](https://twitter.com/GLiNetWiFi) platform. If you have some really in-depth technical questions you want we to work on, please email them to [support@gl-inet.com](mailto:support@gl-inet.com)
+We try our best to solve your every technical problem when you use our products. We have built a community for you to share your ideas with other users on our [forum](https://forum.gl-inet.com/). Also, we can also offer helps on our [Facebook](https://www.facebook.com/gl.inet.wifi/) page and our [Twitter](https://twitter.com/GLiNetWiFi) platform. If you have some really in-depth technical questions you want we to work on, please email them to [support@glinet.biz](mailto:support@glinet.biz)
 
 ## Table of GL.iNet hardware on OpenWrt website
 

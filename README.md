@@ -44,7 +44,7 @@ If the size of image is too big, please use the PhotoSwipe, check out [here](#ab
 ### Use relative path to link internal content
 
 ```
-[easytethering](../../../tutorials/tether)
+[Repeater](../../../tutorials/repeater)
 ```
 
 ## About plugin PhotoSwipe

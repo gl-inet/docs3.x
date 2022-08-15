@@ -98,6 +98,8 @@ nav:
     - GL-MT1300 (Beryl): specification/gl-mt1300/index.md
     - GL-SFT1200 (Opal): specification/gl-sft1200/index.md
     - GL-AX1800 (Flint): specification/gl-ax1800/index.md
+    - GL-AXT1800 (Slate AX): specification/gl-axt1800/index.md
+    - GL-A1300 (Slate Plus): specification/gl-a1300/index.md
     - GL-MiFi: specification/gl-mifi/index.md
     - GL-XE300 (Puli): specification/gl-xe300/index.md
     - GL-X750 (Spitz): specification/gl-x750/index.md
@@ -180,6 +182,8 @@ nav:
       - VPN: setup/gl-ax1800/vpn.md
       - Applications: setup/gl-ax1800/applications.md
       - More Settings: setup/gl-ax1800/more_settings.md
+    - GL-AXT1800 (Slate AX): setup/gl-axt1800/index.md
+    - GL-A1300 (Slate Plus): setup/gl-a1300/index.md
     - GL-MiFi:
       - First Time Setup: setup/gl-mifi/first_time_setup.md
       - Internet: setup/gl-mifi/internet.md
@@ -345,7 +349,6 @@ nav:
       - Extensible Authentication Protocol: tutorials/eap.md
       - Setup Captive Portal: tutorials/captive_portal.md
       - IPv6: tutorials/ipv6.md
-      - EasyTether: tutorials/tether.md
     - VPN:
       - OpenVPN Client: tutorials/openvpn_client.md
       - OpenVPN Server: tutorials/openvpn_server.md
@@ -354,6 +357,7 @@ nav:
       - WireGuard Server: tutorials/wireguard_server.md
       - Internet Kill Switch: tutorials/internet_kill_switch.md
       - VPN Policies: tutorials/vpn_policies.md
+      - TCP or UDP: tutorials/openvpn_tcp_udp.md
     - Privacy:
       - Cloudflare: tutorials/how_to_use_cloudflare_dns_over_tls_on_glinet_router.md
       - Protect Privacy: tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router.md

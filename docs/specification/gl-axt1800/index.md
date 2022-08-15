@@ -1,0 +1,1 @@
+GL-AXT1800(Slate AX) comes pre-installed with firmware 4.x，please refer to [docs 4](https://docs.gl-inet.com/en/4/user_guide/gl-axt1800/hardware_info/).

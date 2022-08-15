@@ -26,7 +26,6 @@ hide:
 * [How to connect to EAP (Extensible Authentication Protocol) Wi-Fi network?](eap)
 * [Setup a Captive Portal](captive_portal)
 * [IPv6](ipv6)
-* [EasyTether](tether), share your Internet connection on your Android phone with router.
 
 ---
 
