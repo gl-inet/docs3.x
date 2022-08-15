@@ -105,8 +105,6 @@ hide:
 
 * [X750 Spitz is there a way to lock to band?](https://forum.gl-inet.com/t/x750-spitz-is-there-a-way-to-lock-to-band/5687){target="_blank"}
 
-* [How to add IPSEC/L2TP support?](https://forum.gl-inet.com/t/how-to-add-ipsec-l2tp-support/1637){target="_blank"}
-
 * [Difference between VPN Server and VPN client](https://forum.gl-inet.com/t/difference-between-vpn-server-and-vpn-client/10045){target="_blank"}
 
 * [OpenVPN and WireGuard Compatibility Report](https://forum.gl-inet.com/t/openvpn-and-wireguard-compatibility-report/15621){target="_blank"}
