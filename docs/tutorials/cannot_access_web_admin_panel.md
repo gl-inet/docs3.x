@@ -10,6 +10,12 @@ Sometimes you may be unable to access 192.168.8.1 to login web Admin Panel, ther
 
 Follow the steps to fix this issue.
 
+1. [Check the connection](#check_the_connection)
+2. [Check router's IP address](#check-routers-ip-address)
+3. [Access the router's IP address](#access-the-routers-ip-address)
+
+Or you can use [the app](../mobile_app) to access the router.
+
 ---
 
 ## Check the connection
