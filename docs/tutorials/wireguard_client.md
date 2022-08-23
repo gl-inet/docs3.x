@@ -150,6 +150,32 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup TorGuard.
 
+??? "Surfshark"
+
+    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
+
+    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGaurd**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_1.png){class="glboxshadow"}
+
+    2. In the next window, select **I don't have a key pair**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_2.png){class="glboxshadow"}
+
+    3. Select **Generate a new key pair**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_3.png){class="glboxshadow"}
+
+    4. Once the key has been generatd, select **Choose a location**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_4.png){class="glboxshadow"}
+
+    5. Lastly, choose a location you would like to set up, and hit the **download** button next to the location.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_5.png){class="glboxshadow"}
+
+    [Refer link](https://support.surfshark.com/hc/en-us/articles/6585805139474-How-to-set-up-a-manual-WireGuard-connection-on-Android-){target="_blank"}
+
 ??? "VPN.AC"
 
     [Official Website](https://vpn.ac/aff.php?aff=1424){target="_blank"}
