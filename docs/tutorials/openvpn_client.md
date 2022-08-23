@@ -104,6 +104,8 @@ Recommended:
 
     [Download](https://www.privateinternetaccess.com/openvpn/openvpn.zip) directly.
 
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
+
 <div id="surfshark"></div>
 
 ??? "Surfshark"
@@ -130,6 +132,8 @@ Recommended:
 
     You can download all configs [here](https://api.surfshark.com/v1/server/configurations) directly.
 
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
+
     [Refer link](https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-){target="_blank"}
 
 <div id="purevpn"></div>
@@ -139,6 +143,8 @@ Recommended:
     [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
 
     [Download](https://d32d3g1fvkpl8y.cloudfront.net/heartbleed/router/Recommended-CA2.zip) directly.
+
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
     [Refer link](https://support.purevpn.com/openvpn-files)
 
@@ -166,6 +172,7 @@ Recommended:
 
     [Download](https://privatevpn.com/client/PrivateVPN-TUN.zip) directly.
 
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
 <div id="protonvpn"></div>
 
@@ -265,6 +272,8 @@ Others:
 
     Login in [Dashboard](https://users.bolehvpn.net/){target="_blank"}, download your configuration files and select the [Linux_iOS inline](https://users.bolehvpn.net/download/inline/6){target="_blank"} format. Extract the zip files after completing the download.
 
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
+
     [Refer link](https://www.bolehvpn.net/clients-installations/#1487691248224-0c435dba-d612){target="_blank"}
 
 
@@ -327,6 +336,8 @@ Others:
     [Official Website](https://go.fastestvpn.com/affiliate/pap?a_aid=5ffd2a3e9d687){target="_blank"}
 
     Download FastestVPN Config Files zip folder for OpenVPN TCP and UDP from [here](https://support.fastestvpn.com/download/openvpn-tcp-udp-config-files/)
+
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
     [Refer link](https://support.fastestvpn.com/tutorials/routers/gl-inet/openvpn){target="_blank"}
 
@@ -396,6 +407,7 @@ Others:
 
     [Download](https://vpn.hidemyass.com/vpn-config/vpn-configs.zip)
 
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
 <div id="ipvanish"></div>
 
@@ -448,7 +460,7 @@ Others:
 
     [Official Website](https://www.ovpn.com/en?ref=glinet){target="_blank"}
     
-    Just login, then you can easy get the OpenVPN configurations file by click the menu below.
+    Just login, then you can easily get the OpenVPN configurations file by click the menu below.
 
     ![get ovpn configuration files](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/ovpn/get_ovpn_configuration_files.jpg){class="glboxshadow"}
 
@@ -458,6 +470,17 @@ Others:
 
     The username and password are the same you login OVPN.
 
+<div id="privadovpn"></div>
+
+??? "PrivadoVPN"
+
+    [Official Website](https://privadovpn){target="_blank"}
+
+    Just login, then you can easily find the **Download VPN Configuration**.
+
+    ![PrivadoVPN OpenVPN configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/privadovpn/privadovpn_openvpn_configuration.png){class="glboxshadow"}
+
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
 <div id="safervpn"></div>
 
