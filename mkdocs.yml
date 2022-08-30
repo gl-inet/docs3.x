@@ -389,6 +389,7 @@ nav:
       - LED Customization: tutorials/led_customization.md
       - Camera: tutorials/camera.md
       - GL-AX1800 new and old version: tutorials/gl-ax1800_new_vs_old_version.md
+      - Set up WireGaurd server via AstroRelay: tutorials/set_up_wireguard_server_via_astrorelay.md
   - Troubleshooting:
     - Overview: troubleshooting/index.md
     - Repeat Failure: troubleshooting/repeat_failure.md
