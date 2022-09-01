@@ -25,3 +25,9 @@ There are two ways to reset the firmware.
     **Note:** All your current settings, applications and data will be lost. The process will take about 3 minutes. DO NOT power off the router during this process.
 
     ![glinet revert firmware](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/revert_firmware.png){class="glboxshadow"}
+
+---
+
+Video guide: How to Reset GL.iNet Router to Factory Default
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ON6PtGH_HJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
