@@ -148,6 +148,7 @@ Recommended:
 
     [Refer link](https://support.purevpn.com/openvpn-files)
 
+    GL.iNet routers don't support the [dedicated IP](https://www.purevpn.com/dedicated-ip){target="_blank"} feature of PureVPN, because it needs PPTP.
 
 <div id="torguard"></div>
 
