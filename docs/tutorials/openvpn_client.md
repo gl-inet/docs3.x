@@ -476,7 +476,7 @@ Others:
 
 ??? "PrivadoVPN"
 
-    [Official Website](https://privadovpn){target="_blank"}
+    [Official Website](https://privadovpn.com/#a_aid=GLINET){target="_blank"}
 
     Just login, then you can easily find the **Download VPN Configuration**.
 
