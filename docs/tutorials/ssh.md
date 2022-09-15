@@ -86,6 +86,20 @@ If this happens, run the command in the red box. Please copy the exact command w
 
 ![ssh update known_hosts](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Removed-Host-keygen.png){class="glboxshadow"}
 
+You may also encounter the following error when connecting:
+
+```
+Unable to negotiate with 10.0.0.1 port 22: no matching host key type found. Their offer: ssh-rsa
+```
+This error is due to a change in the Openssh package from version 8.8. To fix it, open the ~/.ssh/config file with a text editor (you can use for example Nano or Vim) and add the following lines:
+
+```
+host 192.168.8.1
+    HostkeyAlgorithms +ssh-rsa
+    PubkeyAcceptedAlgorithms +ssh-rsa
+```
+Make sure to change the host IP if it is not the default one.
+
 ### 2. Log In Router
 
 Retry the SSH login command: 
