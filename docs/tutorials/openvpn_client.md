@@ -7,7 +7,7 @@ GL.iNet routers have pre-installed OpenVPN Client and Server.
 We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Client, please check out [here](../wireguard_client).
 
 If you have already bought OpenVPN service from a provider, but don't know how to get the configuration file, please refer to [get configuration files from OpenVPN service providers](#get-configuration-files-from-openvpn-service-providers) or ask its support.
-
+1
 We can setup OpenVPN Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated NordVPN.
 
 ## Setup OpenVPN Client
@@ -302,7 +302,7 @@ Others:
 
 ??? "CyberGhost"
 
-    [Official Website](https://support.cyberghostvpn.com/hc/en-us){target="_blank"}
+    [Official Website](https://www.cyberghostvpn.com/en_US/){target="_blank"}
 
     Information quoted from [CyberGhost official instruction](https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0){target="_blank"}
 
