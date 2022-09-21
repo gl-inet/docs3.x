@@ -138,8 +138,6 @@ Here is a list of supported modems that we had tested before.
 
 *Host-less: This modem supports tethering mode, please set up by using Tethering but not 3G/4G modem.
 
-You can also refer to [http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html){target="_blank"} for a well supported modem list.
-
 You can also search on the [forum](https://forum.gl-inet.com){target="_blank"} or create a post for asking.
 
 ---
