@@ -119,10 +119,6 @@ SIMカードのIPアドレスが見せる時、接続ができた。
 
 *ホストレスモード: このモデムがテザリングモードをサポートします。3G/4Gモデムではなく、テザリングを使って設定してください。
 
-  サポートモデムについてに[http://ofmodemsandmen.com/modems.html](http://ofmodemsandmen.com/modems.html)も参考できます。
-
-
-
 ---
 
 ## 3) テザリング
