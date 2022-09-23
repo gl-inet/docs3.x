@@ -302,7 +302,7 @@ Others:
 
 ??? "CyberGhost"
 
-    [Official Website](https://www.cyberghostvpn.com/en_US/){target="_blank"}
+    [Official Website](https://www.cyberghostvpn.com/offer/GLiNet_rem6fdij){target="_blank"}
 
     Information quoted from [CyberGhost official instruction](https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0){target="_blank"}
 
