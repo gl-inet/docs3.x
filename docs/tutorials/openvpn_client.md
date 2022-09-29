@@ -496,9 +496,9 @@ Others:
     ![safervpn openvpn config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/safervpn/safervpn1.png){class="glboxshadow"}
 
 
-<div id="starvpn"></div>
+<!--<div id="starvpn"></div>
 
-??? "StarVPN"
+ ??? "StarVPN"
 
     [Official Website](https://www.starvpn.com/dashboard/aff.php?aff=91){target="_blank"}
 
@@ -526,7 +526,7 @@ Others:
 
         Some GL.iNet routers do not support IPv6 or DNS Leak Protection, as a result you may experience an IP or connection error. Edit the ovpn configuration file and disable IPv6 by performing these simple tasks.
 
-        ![troubleshooting](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg){class="glboxshadow"}
+        ![troubleshooting](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg){class="glboxshadow"} -->
 
 <div id="strongvpn"></div>
 
