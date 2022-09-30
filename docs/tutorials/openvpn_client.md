@@ -160,9 +160,13 @@ Recommended:
 
         ![Generate ovpn](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_menu.jpg){class="glboxshadow"}
 
-    2. The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password below.
+    2. Choose the first OS, and **a VPN Server Hostname** and other options.
 
-        ![torguard vpn username vpn password](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow"}
+        ![torguard config generator](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_config_generator.png){class="glboxshadow"}
+
+    3. The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password at menu **Services** --> **My Services**.
+
+        ![torguard vpn username vpn password](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow" width="700"}
 
 
 <div id="privatevpn"></div>
