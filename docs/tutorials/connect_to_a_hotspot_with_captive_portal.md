@@ -44,7 +44,7 @@ Sometimes, [Solution 1](#solution-1change-dns-settings) is not enough to solve t
 
 2. On the left side of web Admin Panel -> MORE SETTINGS -> MAC Clone.
 
-3. Clone the MAC address of your smartphone or computer to the router.
+3. Clone the MAC address of your smartphone to the router.
 
     ![mac clone](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/mac_clone.png){class="glboxshadow" width="400"}
 
