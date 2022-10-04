@@ -308,31 +308,44 @@ Others:
 
     [Official Website](https://www.cyberghostvpn.com/offer/GLiNet_rem6fdij){target="_blank"}
 
-    Information quoted from [CyberGhost official instruction](https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0){target="_blank"}
+    Information quoted from [CyberGhost official instruction](https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers){target="_blank"}
 
     1. Login your CyberGhost VPN online account.
 
         ![login](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost1.png){class="glboxshadow"}
 
-    2. Click on **My Devices**  > click **Other** > choose **Configure new device**.
+    2. Select "**VPN**" from the left-side menu, then click "**Configure Device**" and create your server configuration, as described below:
 
-        ![config new device](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost2.png){class="glboxshadow"}
+        ![config device](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost2.jpg){class="glboxshadow"}
 
-    3. At the new screen, in the **Server configuration** tab, the desired parameters can be configured. For the purpose of setting OpenVPN for your DD-WRT Router, choose 'OpenVPN' from the Protocol drop down menu. Your desired country and server group, as described below, need to be defined too:
+        ![save config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost3.jpg){class="glboxshadow"}
 
-        ![server configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost3.png){class="glboxshadow"}
+    3. Now create your server configuration, as described below:
 
-        - Protocol: For Router configurations, please choose OpenVPN
+        * **Protocol** : **OpenVPN**
+        * **Country** : Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.
+        * **Server group** : Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use
 
-        - Country: Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.
+        **OpenVPN UDP** allows higher speed than the TCP version but can result in broken downloads in some cases. This is the default setting.
+        
+        **OpenVPN TCP** allows more stable connections than the UDP version but is a bit slower. Choose this version, if you have recurrent connection issues such as sudden disconnections.
 
-        - Server group: Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use:
+        Once the desired parameters are chosen, save them with **Save Configuration**
 
-            UDP allows higher speed than the TCP version, but can result in broken downloads in some cases. This is the default setting.
+    4. To view the **OpenVPN** credentials that are generated for you on the configuration dashboard, press **View Configuration**.
 
-            TCP allows more stable connections than the UDP version, but is a bit slower. Choose this version, if you have recurrent connection issues such as sudden disconnections.
+        ![view configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost4.png){class="glboxshadow"}
 
-        After setting up your preferred settings, save them with **Save and download configuration**.
+    5. After setting up your connection preferences, please take note of the following:
+
+        * **Server Group** : This is the address of the country (server) you want to be connected with, e.g. '12345-1-ca.cg-dialup.net'. This address changes with every country you have chosen in the step before. The actual single server to be used will be chosen automatically by CyberGhost.
+        * **Username** : A solely for this protocol generated user name. This is NOT your regular CyberGhost account user name, it's used only to authenticate with CyberGhost servers via Manual Configurations. You will need this when set up OpenVPN on GL.iNet routers.
+        * **Password** : A solely for protocol usage generated password. This is NOT your regular CyberGhost account password, it's used only to authenticate with CyberGhost servers via Manual Configurations. You will need this when set up OpenVPN on GL.iNet routers.
+
+        Once done, please download the configuration file. For that click on *Download Configuration* and download the config file to your computer
+
+        ![save config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost5.png){class="glboxshadow"}
+
 
 <div id="fastestvpn"></div>
 
