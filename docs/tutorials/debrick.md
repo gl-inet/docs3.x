@@ -16,49 +16,49 @@ You can also refer to video tutorial below.
 
 1. Please download firmware [here](https://dl.gl-inet.com/){target="_blank"} to your computer.
 
-    Some models, such as GL-AR750S-EXT, it is available in two formats of firmware, please use the firmware for Uboot, its file name extension is **.img**.
+    Some models, such as GL-AR750S-EXT, is available in two formats of firmware, please use the firmware for Uboot, its file name extension is **.img**.
 
-2. Remove the power of router. Connect your computer to the **Ethernet port (either LAN or WAN)** of the router. You **MUST** leave the other port **unconnected**.
+2. Remove the power of router. Connect your computer to the **Ethernet port (either LAN or WAN)** of the router. You **MUST** leave all the other ports **unconnected**.
 
 3. Press and hold the Reset button firmly, and then power up the router. If your router doesn't have a power button, plugging the power in will power it on automatically.
 
-    Then you will see a light flashes in a regular pattern a few times, please release your finger after the pattern changed.
+    Then you will see a LED flashing in a regular sequence a few times, please release your finger after the pattern changes.
 
-    The following will give the description of pattern of each model of light flashing.
+    The following will give the description of sequence of each model of LED flashing.
 
-    **Note:** Same router models with different manufacturing dates may have different LED lights colours or flashing pattern, it won't affect the UBoot process. Please pay more attention to the change of the flashing pattern.
+    **Note:** Same router models with different manufacturing dates may have different LED colours or flashing pattern, it won't affect the UBoot process. Please pay more attention to the change of the flashing pattern.
 
-    - For **GL-AR150**, **GL-AR300M**, **GL-USB150(Microuter)**, **GL-AR750(Creta)**, **GL-AR750S-EXT(Slate)**, **GL-X750(Spitz)**, **GL-MT300N-V2(Mango)**, **GL-E750(Mudi)**, **microuter-N300**, the lgiht falshes 5 times.
+    - For **GL-AR150**, **GL-AR300M**, **GL-USB150(Microuter)**, **GL-AR750(Creta)**, **GL-AR750S-EXT(Slate)**, **GL-X750(Spitz)**, **GL-MT300N-V2(Mango)**, **GL-E750(Mudi)**, **microuter-N300**, the lgiht falshed 5 times.
 
-    - For **GL-S1300(Convexa-S), GL-B1300(Convexa-B)**, the light flashes 4 times.
+    - For **GL-S1300(Convexa-S), GL-B1300(Convexa-B)**, the LED flashes 4 times.
         
         The left most LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on.
         
-        (For some old GL-B1300, the left most LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times at the same time then they stay on.)
+        (For some old GL-B1300, the left most LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times simutaneously then they stay on.)
 
     - For **GL-SF1200**, the 5G LED flashes 5 times then stays on.
 
-    - For **GL-AX1800(Flint)**, the blue light flashes 5 times then turns white and stay on.
+    - For **GL-AX1800(Flint)**, the blue LED flashes 5 times then turns white and stay on.
 
-    - For **GL-AXT1800(Slate AX)**, the blue light flashes 5 times then stay on.
+    - For **GL-AXT1800(Slate AX)**, the blue LED flashes 5 times then stay on.
 
-    - For **GL-XE300(Puli)**, the LAN light falshes 5 times then WIFI light stay on.
+    - For **GL-XE300(Puli)**, the LAN LED falshes 5 times then WIFI LED stay on.
 
-    - For **GL-X300B(Collie)**, the WAN light flashes 5 times then WIFI light stay on.
+    - For **GL-X300B(Collie)**, the WAN LED flashes 5 times then WIFI LED stay on.
 
-    - For **GL-SFT1200(Opal)**, the blue light flashes 5 times then turns white and stay on.
+    - For **GL-SFT1200(Opal)**, the blue LED flashes 5 times then turns white and stay on.
 
-    - For **GL-AP1300(Cirrus)**, the power light falshes 5 times then stay on.
+    - For **GL-AP1300(Cirrus)**, the power LED falshes 5 times then stay on.
 
-    - For **GL-MT1300(Beryl)**, the LED is blue at first, flash twice slowly, then light 5 times a bit quick and turn to white and stay on.
+    - For **GL-MT1300(Beryl)**, the LED is blue at first, flash twice slowly, then flash 5 times a bit quick and turn to white and stay on.
 
     - For **GL-B2200(Velica)**, the two LEDs are blue at first, then turn white to flash 5 times, then turn blue and stay on.
 
     - For **GL-MV1000**, no repeat LED flashes signal. (Power and WAN LEDs will stay on the whole time.)
 
-    - For **GL-MiFi**, the lgiht flashes 6 times.
+    - For **GL-MiFi**, the LED flashes 6 times.
 
-    - For **GL-MT300N**, **GL-MT300A**, the light flashes 3 times.
+    - For **GL-MT300N**, **GL-MT300A**, the LED flashes 3 times.
 
 4. Manually set the IP address of your computer to **192.168.1.2**. Please check the step-by-step guide for different operating systems below:
 
