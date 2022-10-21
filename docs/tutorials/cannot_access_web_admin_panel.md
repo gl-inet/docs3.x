@@ -79,5 +79,6 @@ Then follow the steps below to check the router's IP address.
 1. Make sure you are using Chrome/Edge/Safari, then try to access your IP address again.
 2. In order to avoid problems caused by the browser cache and extension, please open the incognito window. Then try to access the IP address of router again.
 3. If you are using a VPN, please turn off then try again.
-4. If above steps failed, try [Reset](../reset) to back to factory default.
-5. If the reset doesn't work, you can try [Debrick via uboot](../debrick).
+4. If you are using a mobile phone, please turn off the mobile data. Some phones will use mobile data instead of WiFi if the router can't access Internet.
+5. If above steps failed, try [Reset](../reset) to back to factory default.
+6. If the reset doesn't work, you can try [Debrick via uboot](../debrick).
