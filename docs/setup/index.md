@@ -231,6 +231,13 @@
         <div class="gl-product-model">GL-MV1000W</div>
         <div class="gl-product-model">(Brume-W)</div>
   	  </a>
+  	</div>
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt2500/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt2500-series.jpg" >
+        <div class="gl-product-model">GL-MT2500/GL-MT2500A</div>
+        <div class="gl-product-model">(Brume 2)</div>
+  	  </a>
   	</div>	
   </div>
 </div>

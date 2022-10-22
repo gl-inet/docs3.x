@@ -109,6 +109,7 @@ nav:
     - GL-S1300 (Convexa-S): specification/gl-s1300/index.md
     - GL-MV1000 (Brume): specification/gl-mv1000/index.md
     - GL-MV1000W (Brume-W): specification/gl-mv1000w/index.md
+    - GL-MT2500/GL-MT2500A (Brume 2): specification/gl-mt2500/index.md
     - GL-X1200 (Amarok): specification/gl-x1200/index.md
     - GL-X300B (Collie): specification/gl-x300b/index.md
     - GL-S10: specification/gl-s10/index.md
@@ -286,6 +287,7 @@ nav:
       - VPN: setup/gl-mv1000w/vpn.md
       - Applications: setup/gl-mv1000w/applications.md
       - More Settings: setup/gl-mv1000w/more_settings.md
+    - GL-MT2500/GL-MT2500A (Brume 2): setup/gl-mt2500/index.md
     - GL-SF1200:
       - First Time Setup: setup/gl-sf1200/first_time_setup.md
       - Internet: setup/gl-sf1200/internet.md
