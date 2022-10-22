@@ -1,6 +1,6 @@
 # Quick setup
 
-## Mini router
+## Mini Router
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -34,7 +34,7 @@
   </div>
 </div>
 
-## Travel router
+## Travel Router
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -90,7 +90,7 @@
   </div>
 </div>
 
-## 4G LTE router gateway
+## 4G LTE Router Gateway
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -125,7 +125,7 @@
   </div>
 </div>
 
-## IoT gateway
+## IoT Gateway
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
@@ -214,7 +214,7 @@
   </div>
 </div>
 
-## Edge computing
+## Security Gateway
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
