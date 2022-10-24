@@ -14,6 +14,10 @@ Usually models with USB ports or TF slots or have big internal storage are suppo
 
 | Router Model | USB Stick | USB Hard Drive | MicroSD Card | Internal Storage |
 | :----------- | :-------: | :---: | :---: | :---: |
+| GL-AXT1800 (Slate AX) | √ | √ | √ | - | 
+| GL-A1300 (Slate Plus) | √ | √ | - | - | 
+| GL-MT2500/GL-MT2500A (Brume 2) | √ | √ | - | - | 
+| GL-SFT1200 | √ | √ | - | - | 
 | GL-MT300N-V2 (Mango) | √ | √ | - | - |
 | GL-AR150 Series | √ | √ | - | - |
 | GL-AR300M Series | √ | √ | - | - |
