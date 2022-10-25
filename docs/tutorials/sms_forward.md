@@ -70,8 +70,6 @@ If you want to forward the SMS via emails, you will need to set a sender account
 
     For Yahoo, you need to set an app password for login, and it supports both port 465 and 587. Please refere to the official guide [POP access settings and instructions for Yahoo Mail](https://help.yahoo.com/kb/SLN4724.html){target="_blank"} and [Generate and manage third-party app passwords](https://help.yahoo.com/kb/SLN15241.html){target="_blank"}.
 
-    ![yahoo smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahooapp.png){class="glboxshadow"}
-
     Example:
 
     ![yahoo smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahoo.png){class="glboxshadow"}
