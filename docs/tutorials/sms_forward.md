@@ -38,47 +38,43 @@ There have no other settings for forwarding the sms to phone via message except 
 
 ## Setup Email Sender
 
-If you want to forward the SMS via emails, you will need to set a sender account first, please follow the guide below.
+If you want to forward the SMS via emails, you will need to set a sender account first, please follow the guide below. For other email provider, please search their smtp settings.
 
+??? "Gmail"
 
-<details>
-  <summary>Gmail</summary>
-  <p>For Gmail, there are two kinds if password to login as the mail sender, password or App password.</p>
-  <p>For the APP Password, you need to login your google account and create it. (Need to enable two-steps verification first)</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/app_password.png"> </p>
-  <p>If you want to use origin password, you need to enable "Less Secure App Access", which is conflict with two-steps verification.</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/less_secure.png"></p>
-Both 465 and 587 ports are useable.
-  <p>Example:</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/gmail.png"></p>
-</details>
+    For Gmail, you need to login your google account and create an **App Passwords**. Please check the official guide [Sign in with App Passwords](https://support.google.com/accounts/answer/185833?hl=en){target="_blank"}. You need to enable two-steps verification before create the App Passwords.
 
+    Both 465 and 587 ports are useable.
 
-<details>
-  <summary>Outlook</summary>
-  <p>For Outlook, you can use password directly without any setting, and it supports port 587.</p>
-  <p>Example:</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/outlook.png"></p>
-</details>
+    Example:
 
+    ![gmail smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/gmail.png){class="glboxshadow"}
 
-<details>
-  <summary>iCloud</summary>
-  <p>For iCloud, you need to set an app password for login, and it supports port 587.</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloudapp.png"></p>
-  <p>Example:</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloud.png"></p>
-</details>
+??? "Outlook"
 
+    For Outlook, you can use password directly without any setting, and it supports port 587. Please chck the official guide [POP, IMAP, and SMTP settings for Outlook.com](https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outlook-com-d088b986-291d-42b8-9564-9c414e2aa040){target="_blank"}
 
-<details>
-  <summary>Yahoo</summary>
-  <p>For Yahoo, you need to set an app password for login, and it supports both port 465 and 587.</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahooapp.png"></p>
-  <p>Example:</p>
-  <p><img alt="sms" src="https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahoo.png"></p>
-</details>
+    Example:
 
+    ![outlook smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/outlook.png){class="glboxshadow"}
+
+??? "iCloud"
+
+    For iCloud, you need to create an app-specific passwords for login, and it supports port 587. Please refer to the official guide [iCloud Mail server settings for other email client apps](https://support.apple.com/en-hk/HT202304){target="_blank"} and [Generate an app-specific password](https://support.apple.com/en-gb/HT204397){target="_blank"}.
+
+    Example:
+
+    ![icloud smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/icloud.png){class="glboxshadow"}
+
+??? "Yahoo"
+
+    For Yahoo, you need to set an app password for login, and it supports both port 465 and 587. Please refere to the official guide [POP access settings and instructions for Yahoo Mail](https://help.yahoo.com/kb/SLN4724.html){target="_blank"} and [Generate and manage third-party app passwords](https://help.yahoo.com/kb/SLN15241.html){target="_blank"}.
+
+    ![yahoo smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahooapp.png){class="glboxshadow"}
+
+    Example:
+
+    ![yahoo smtp](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/yahoo.png){class="glboxshadow"}
 
 ## Verification Email
 
@@ -91,3 +87,5 @@ Once you setup the sender account, the router will send an email to your email a
 Then the SMS that router received will be automatically forwarded to the phone numbers and email address that you set. The mail subject depends on your setting.
 
 ![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/forward_email.png){class="glboxshadow"}
+
+**Note**: Each emailer may has a limit on smtp, limiting the number of emails that can be sent per day. Please consult with your service provider.
