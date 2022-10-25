@@ -86,4 +86,4 @@ Then the SMS that router received will be automatically forwarded to the phone n
 
 ![sms_forward](https://static.gl-inet.com/docs/en/3/tutorials/sms_forward/forward_email.png){class="glboxshadow"}
 
-**Note**: Each emailer may has a limit on smtp, limiting the number of emails that can be sent per day. Please consult with your service provider.
+**Note**: Each emailer may has a limit on SMTP, limiting the number of emails that can be sent per day. Please consult with your service provider.
