@@ -1,18 +1,18 @@
-# How to set up WireGaurd server via AstroRelay?
+# How to set up WireGuard server via AstroRelay?
 
-Scenario: If you want to set up WireGaurd server in GL.iNet router at home/office to remote access your local service, but your ISP doesn't provide a public IP address.
+Scenario: If you want to set up WireGuard server in GL.iNet router at home/office to remote access your local service, but your ISP doesn't provide a public IP address.
 
 [AstroRelay](https://www.astrorelay.com){target="_blank"} can provide a secure reverse proxy tunnel, which you can access your resources behind NAT and firewall.
 
-1. Fellow the guide [here](../wireguard_server) to set up WireGaurd server and ignoring that your don't have a public IP address. Please enalbe **Allow Access Local Network**.
+1. Follow the guide [here](../wireguard_server) to set up WireGuard server and ignoring that your don't have a public IP address. Please enalbe **Allow Access Local Network**.
 
     ![set up wireguard server](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/start_wireguard_server.png){class="glboxshadow"}
 
-    Then create a WireGaurd configuration. Below image is an example.
+    Then create a WireGuard configuration. Below image is an example.
 
     ![wireguard config](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/wireguard_config.png){class="glboxshadow"}
 
-2. Please sign up an AstroRelay account and fellow the [tutorial](https://www.astrorelay.com/tutorial.html){target="_blank"}.
+2. Please sign up an AstroRelay account and Follow the [tutorial](https://www.astrorelay.com/tutorial.html){target="_blank"}.
 
     When add a new domain, please choose the server closest to your router.
 
@@ -26,9 +26,9 @@ Scenario: If you want to set up WireGaurd server in GL.iNet router at home/offic
 
     ![astrorelay link](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/astrorelay_link.png){class="glboxshadow"}
 
-3. Replace this link with the **Endpoint** in the WireGaurd configuration. Then you can use the modified config in WireGaurd cient app.
+3. Replace this link with the **Endpoint** in the WireGuard configuration. Then you can use the modified config in WireGuard cient app.
 
     ![replace link in wireguard config](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/replace_endpoint_in_wireguard_config.png){class="glboxshadow"}
 
-4. When you are not at home/office, you can use the WireGaurd client app with the configuration created above to access your home/office local service as you at home/office.
+4. When you are not at home/office, you can use the WireGuard client app with the configuration created above to access your home/office local service as you at home/office.
 

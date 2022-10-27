@@ -87,7 +87,7 @@ hide:
 * [Setup LED Customization](led_customization)
 * [Connect USB web camera to routers](camera).
 * [The difference between the old and new versions of GL-AX1800](gl-ax1800_new_vs_old_version).
-* [How to set up WireGaurd server via AstroRelay?](set_up_wireguard_server_via_astrorelay)
+* [How to set up WireGuard server via AstroRelay?](set_up_wireguard_server_via_astrorelay)
 
 ---
 

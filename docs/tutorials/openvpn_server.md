@@ -12,7 +12,7 @@ We recommend WireGuard over OpenVPN because it is much faster. For setup a WireG
 
 Please check if you Internet Service Provider assigns you a public IP address [here](../how_to_check_if_isp_assigns_you_a_public_ip_address).
 
-**If no, you can't connect to the WireGaurd Server.**
+**If no, you can't connect to the WireGuard Server.**
 
 An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}.
 

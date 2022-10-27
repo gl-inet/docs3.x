@@ -10,7 +10,7 @@ GL.iNet routers have pre-installed WireGuard Server and Client.
 
 Please check if you Internet Service Provider assigns you a public IP address [here](../how_to_check_if_isp_assigns_you_a_public_ip_address).
 
-**If no, you can't connect to the WireGaurd Server.**
+**If no, you can't connect to the WireGuard Server.**
 
 An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}, check the tutorial [here](../set_up_wireguard_server_via_astrorelay).
 
@@ -58,9 +58,9 @@ You can now check the list of the clients you added. You can `Delete` any unwant
 
 ### To check if WireGuard Server is working properly
 
-To check if WireGaurd Server is working properly, we can use another device connected to another network and use the WireGuard configuration we exported earlier to connect and see whether it connects properly and whether the IP address is the IP of WireGuard Server.
+To check if WireGuard Server is working properly, we can use another device connected to another network and use the WireGuard configuration we exported earlier to connect and see whether it connects properly and whether the IP address is the IP of WireGuard Server.
 
-The simpliest way is to use a cell phone with [WireGuard official client app](https://www.wireguard.com/install){target="_blank"} installed, turn off its Wi-Fi connection, and only connect to Internet via 3G/4G/5G. Then open the WireGaurd app, import the WireGaurd configuration from QR code. Enable the connection, check if the phone has Internet access and whether its IP address is the IP of your WireGuard Server.
+The simpliest way is to use a cell phone with [WireGuard official client app](https://www.wireguard.com/install){target="_blank"} installed, turn off its Wi-Fi connection, and only connect to Internet via 3G/4G/5G. Then open the WireGuard app, import the WireGuard configuration from QR code. Enable the connection, check if the phone has Internet access and whether its IP address is the IP of your WireGuard Server.
 
 There are several common reasons cause failed:
 
@@ -84,7 +84,7 @@ Some Internet Service Providers may change your IP address sometimes. To overcom
 
 3. Copy the revised content to [generate a QRCode](https://www.google.com/search?q=qr+code+generator+online&sxsrf=AOaemvIsNI2H6dKtGyc_vGGsJpQYcPT8jA%3A1631499580792&ei=PLU-Yd3tL7yB1e8P5f6CqAk&oq=qrcode+generator+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgoIABCABBCHAhAUMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKOgcIIxCwAxAnOgcIABBHELADOgcIABCwAxBDSgQIQRgAUO8fWO8fYK8uaAFwAngAgAFDiAFDkgEBMZgBAKABAcgBCsABAQ&sclient=gws-wiz-serp){target="_blank"}, or save it as `.conf` file.
 
-The WireGuard connection may down a while when the public IP address changes, after the DDNS url update to the new public IP address, the conneciton will resume. The DDNS is updated every 10 minutes. If the connection doesn't resume, please make sure the DDNS url is point to tne new public IP address, then turn off the WireGaurd connection and turn on again.
+The WireGuard connection may down a while when the public IP address changes, after the DDNS url update to the new public IP address, the conneciton will resume. The DDNS is updated every 10 minutes. If the connection doesn't resume, please make sure the DDNS url is point to tne new public IP address, then turn off the WireGuard connection and turn on again.
 
 ## WireGuard Client App
 

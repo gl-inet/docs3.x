@@ -16,7 +16,7 @@ For setup via web Admin Panel, please follow the guide below.
 
 [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blank"} is privacy-minded VPN service providing secure, modern and robust tunnels such as WireGuard.
 
-Firmware 3.x has integrated AzireVPN WireGaurd service.
+Firmware 3.x has integrated AzireVPN WireGuard service.
 
 1. Click **Now set up**.
 
@@ -72,9 +72,9 @@ There is a video tutorial, please check out [here](#video-tutorial).
 
 **Note:** It can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
-## Setup WireGaurd server on GL.iNet router
+## Setup WireGuard server on GL.iNet router
 
-You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet router to set as WireGaurd client. For setup WireGaurd server, please check out [here](../wireguard_server).
+You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet router to set as WireGuard client. For setup WireGuard server, please check out [here](../wireguard_server).
 
 ## Get configuration files from WireGuard service providers
 
@@ -102,7 +102,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Official Website](https://mullvad.net/){target="_blank"}
 
-    1. Access [Mullvad Official Website](https://mullvad.net/){target="_blank"} and login, then access the [WireGaurd configuration file generator](https://mullvad.net/en/account/#/wireguard-config){target="_blank"}
+    1. Access [Mullvad Official Website](https://mullvad.net/){target="_blank"} and login, then access the [WireGuard configuration file generator](https://mullvad.net/en/account/#/wireguard-config){target="_blank"}
 
     2. Then follow the [guide](#setup-wireguard-client) to continue.
 
@@ -160,7 +160,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
 
-    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGaurd**.
+    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGuard**.
 
         ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_1.png){class="glboxshadow"}
 
@@ -273,7 +273,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
 
-    It can't downlaod the WireGaurd configs from its website, please use [mobile app](../mobile_app) to setup PIA VPN.
+    It can't downlaod the WireGuard configs from its website, please use [mobile app](../mobile_app) to setup PIA VPN.
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Fc7NTdQ9QFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -390,7 +390,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Official Website](https://anonine.com/){target="_blank"}
 
-    Fellow the guide below to generate WireGuard configs.
+    Follow the guide below to generate WireGuard configs.
 
     [Windows](https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10){target="_blank"}, [macOS](https://help.anonine.com/support/solutions/articles/5000817206-anonine-wireguard-installation-guide-for-macos){target="_blank"}, [Ubuntu](https://help.anonine.com/support/solutions/articles/5000817191--anonine-wireguard-installation-guide-for-ubuntu-18-04){target="_blank"}, [Android](https://help.anonine.com/support/solutions/articles/5000817310--anonine-wireguard-installation-for-android){target="_blank"}, [iOS](https://help.anonine.com/support/solutions/articles/5000823286--anonine-wireguard-installation-for-ios){target="_blank"}
 
@@ -403,7 +403,7 @@ You can get a GL.iNet router to set as WireGaurd server, and get another GL.iNet
 
     [Official Website](https://www.nvpn.net/){target="_blank"}
 
-    Fellow the guide [here](https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows){target="_blank"} to create the config.
+    Follow the guide [here](https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows){target="_blank"} to create the config.
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
