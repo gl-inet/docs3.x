@@ -22,11 +22,11 @@ You can also refer to video tutorial below.
 
 3. Press and hold the Reset button firmly, and then power up the router. If your router doesn't have a power button, plugging the power in will power it on automatically.
 
-    Then you will see a LED flashing in a regular sequence a few times, please release your finger after the pattern changes.
+    Then you will see a LED flashing in a regular sequence a few times, please release your finger after the sequence changes.
 
     The following will give the description of sequence of each model of LED flashing.
 
-    **Note:** Same router models with different manufacturing dates may have different LED colours or flashing pattern, it won't affect the UBoot process. Please pay more attention to the change of the flashing pattern.
+    **Note:** Same router models with different manufacturing dates may have different LED colours or flashing sequences, it won't affect the UBoot process. Please pay more attention to the change of the flashing LED.
 
     - For **GL-AR150**, **GL-AR300M**, **GL-USB150(Microuter)**, **GL-AR750(Creta)**, **GL-AR750S-EXT(Slate)**, **GL-X750(Spitz)**, **GL-MT300N-V2(Mango)**, **GL-E750(Mudi)**, **microuter-N300**, the LED falshed 5 times.
 
