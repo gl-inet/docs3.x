@@ -374,7 +374,7 @@ nav:
       - Can't access web Admin Panel: tutorials/cannot_access_web_admin_panel.md
       - Repair or Reset: tutorials/repair_network_or_reset_firmware.md
       - Debrick via Uboot: tutorials/debrick.md
-      - Can't find SSID: troubleshooting/cannot_find_ssid.md
+      - Can't find SSID: tutorials/cannot_find_ssid.md
     - Others:
       - Change WAN to LAN: tutorials/change_wan_to_lan.md
       - LED Indicators: tutorials/led.md
