@@ -299,14 +299,14 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     Please check <a href="setup/mini_router/first_time_setup/">setup</a> to make sure you have connected to the router properly. Then, use <b>Chrome</b> or <b>Edge</b> or <b>Firefox</b> to visit 192.168.8.1. Don't use Internet Explorer. Or try using incognito mode.
   </p>
   <p>
-    If the problem still exists, <a href="troubleshooting/reset/">reset</a> the router or re-install the firmware by <a href="troubleshooting/debrick/">Uboot.</a>
+    If the problem still exists, <a href="tutorials/repair_network_or_reset_firmware/#reset-to-factory">reset</a> the router or re-install the firmware by <a href="tutorials/debrick/">Uboot.</a>
   </p>
 </details>
 
 <details>
   <summary>What should I do if my router is bricked?</summary>
   <p>
-    Please re-install the firmware by <a href="troubleshooting/debrick/">Uboot.</a>
+    Please re-install the firmware by <a href="tutorials/debrick/">Uboot.</a>
   </p>
 </details>
 

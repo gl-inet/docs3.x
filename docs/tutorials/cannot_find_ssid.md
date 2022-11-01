@@ -5,4 +5,4 @@
     ![ssid visibility](https://static.gl-inet.com/docs/en/3/troubleshooting/cannot_find_ssid/ssid_visibility_is_shown.jpg){class="glboxshadow"}
 3. Try to turn off and turn on to let your device rescan Wi-Fi.
 4. Try to restart router.
-5. Try to [reset](../reset) router.
+5. Try to [reset](../repair_network_or_reset_firmware/#reset-to-factory) router.

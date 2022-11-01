@@ -374,6 +374,7 @@ nav:
       - Can't access web Admin Panel: tutorials/cannot_access_web_admin_panel.md
       - Repair or Reset: tutorials/repair_network_or_reset_firmware.md
       - Debrick via Uboot: tutorials/debrick.md
+      - Can't find SSID: troubleshooting/cannot_find_ssid.md
     - Others:
       - Change WAN to LAN: tutorials/change_wan_to_lan.md
       - LED Indicators: tutorials/led.md
@@ -396,7 +397,6 @@ nav:
   - Troubleshooting:
     - Overview: troubleshooting/index.md
     - Repeat Failure: troubleshooting/repeat_failure.md
-    - Can't find SSID: troubleshooting/cannot_find_ssid.md
     - Override DNS not take effect: troubleshooting/override_dns_settings_for_all_clients_not_take_effect.md
     - GoodCloud issues: troubleshooting/goodcloud.md
     - Modem FAQ: troubleshooting/modem_faq.md

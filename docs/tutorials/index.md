@@ -64,6 +64,7 @@ hide:
 * [How to repair network or reset to factory setting?](repair_network_or_reset_firmware)
 * [What should I do if my router is bricked?](debrick)
 * [Debrick via Uboot](debrick)
+* [Why can't find the default SSID of the router on my device?](cannot_find_ssid)
 
 ---
 
