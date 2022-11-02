@@ -21,6 +21,8 @@ The DDNS domain printed on the back label of router has changed. If your DDNS ur
 
 DDNS update frequency is once every 10 minutes.
 
+**Note**: If the DDNS and VPN Client(OpenVPN Client or WireGuard Client) connection are both enabled at the same time, the DDNS url will map to the IP address of VPN, so please enable the [VPN Policies](../vpn_policies) and disable the **Use VPN for all process on the router**.
+
 ## Check if DDNS is enabled
 
 Use `nslookup` command to check if your DDNS is enabled. You need to change `xx5007c.glddns.com` to your DDNS url when use `nslookup` command.
