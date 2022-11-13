@@ -38,7 +38,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: UA-108265653-5
+    property: G-CB08JFHVHT
   social:
     - icon: fontawesome/solid/globe
       link: https://www.gl-inet.com
