@@ -431,6 +431,16 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link](https://www.starvpn.com/wireguard-setup-on-gl-inet-router/){target="_blank"}
 
+<div id="purevpn"></div>
+
+??? "PureVPN"
+
+    [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
+
+    Please follow the guide [here](https://support.purevpn.com/setup-wireguard-on-linux){target="_blank"} to get the WireGuard configuration file.
+
+    **Note**: Not all the users have upgrade to their new dashboard which can generate the WireGuard configuration file. Please make sure to copy the file and activate the connection within 5 minutes once the profile is downloaded, otherwise the configuration will expire and you will have to redownload a fresh configuration file. After connecting, if you stop connecting for 15 minutes or so, when you connect again, you will not be able to connect and will need to regenerate a new WireGuard configuration.
+
 <div id="spidervpn"></div>
 
 ??? "SpiderVPN"
