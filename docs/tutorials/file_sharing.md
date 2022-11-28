@@ -166,23 +166,27 @@ If you are using Windows 10, you also need to enable SMB 1.0.
 
 ### iOS
 
-You have to use file manage app to access the contents of your external storage device.
+You have to use a file manage app to access the contents of your external storage device. Please try [Documents](https://apps.apple.com/us/app/documents-file-reader-browser/id364901807){target="_blank"}, [Owlfiles](https://apps.apple.com/gr/app/owlfiles-file-explorer/id510282524){target="_blank"}.
 
-You may use **FE File Explorer**:
+The next section describes how to connect to Samba using the **Documents** app.
 
-**1)** Click `+` to create a `Windows` connection.
+Click the plus button in the lower right corner.
 
-![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios11.jpg){class="glboxshadow"}
+![documents samba](https://static.gl-inet.com/docs/en/4/tutorials/network_storage/webdav_client/documents_1.png){class="glboxshadow" width="560"}
 
-![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios12.jpg){class="glboxshadow"}
+Click **Add Connection**.
 
-**2)** Enter the **IP address** of your router (192.168.8.1). The **User Name** is root and the **Password** is the one that you use to login the web Admin Panel. Finally, click `Save`.
+![documents samba](https://static.gl-inet.com/docs/en/4/tutorials/network_storage/webdav_client/documents_2.png){class="glboxshadow" width="560"}
 
-![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios13.jpg){class="glboxshadow"}
+Click **Windows SMB**.
 
-**3)** Click your newly created connection to access the contents.
+![documents samba](https://static.gl-inet.com/docs/en/4/tutorials/network_storage/webdav_client/documents_3.png){class="glboxshadow" width="560"}
 
-![IOS1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ios14.jpg){class="glboxshadow"}
+The **Title** is for a name of this connection. **URL** is the access link, default is `smb://192.168.8.1`. leave **Login** and **Password** empty.
+
+Click **Done** button to complete this setup.
+
+![documents samba](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/documents_windows_smb.png){class="glboxshadow" width="560"}
 
 ### Linux
 
