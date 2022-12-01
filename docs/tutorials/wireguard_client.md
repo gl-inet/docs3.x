@@ -441,6 +441,28 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     **Note**: Not all the users have upgrade to their new dashboard which can generate the WireGuard configuration file. Please make sure to copy the file and activate the connection within 5 minutes once the profile is downloaded, otherwise the configuration will expire and you will have to redownload a fresh configuration file. After connecting, if you stop connecting for 15 minutes or so, when you connect again, you will not be able to connect and will need to regenerate a new WireGuard configuration.
 
+<div id="hidemevpn"></div>
+
+??? "Hide.me VPN"
+
+    [Official Website](https://hide.me/?friend=glinet){target="_blank"}
+
+    Hide.me VPN providers a simple way to use their WireGuard service in GL.iNet router.
+
+    1. [SSH](https://docs.gl-inet.com/en/3/tutorials/ssh/){target="_blank"} to router.
+
+    2. Copy the install url below, then paste it to the terminal, hit the Enter key. (Right click the mouse will paste it.)
+
+        `curl -fsSL https://raw.githubusercontent.com/eventure/hide.client.routers/master/glinet_v3/hidemevpn | sh -s install`
+
+    3. It will start installing, then ask for the username and password. When typing or pasting the password, no change is visible on the terminal, just hit the Enter key after typing.
+
+    4. Once you're done, go to the web Admin Panel and you'll see that configuration files already in it. Just connect as you would any other configuration file.
+
+    **Note:** The key in the Hide.me VPN configuration file is regenerated before each connection and becomes invalid after disconnection, so copying this configuration file to other devices will not connect successfully.
+
+    [Refer link](https://github.com/eventure/hide.client.routers){target="_blank"}
+
 <div id="spidervpn"></div>
 
 ??? "SpiderVPN"
