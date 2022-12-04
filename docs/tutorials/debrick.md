@@ -108,13 +108,21 @@ You can also refer to video tutorial below.
 
     ??? "macOS"
 
-        1. Go to System Preferences -> Network.
+        1. Click the **Apple** icon in the top left corner of the screen, and select **System Preferences**.
 
-        2. Chooose Ethernet -> Advanced -> TCP/IP.
+            ![macos system preferences](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_system_preferences.png){class="glboxshadow"}
 
-        3. In Configure IPv4, choose Manually.
+        2. Click **Network**.
 
-        4. Set the IPv4 Address to 192.168.1.2 manually.
+            ![macos system preferences network](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_system_preferences_network.png){class="glboxshadow"}
+
+        3. Click **Ethernet** on the left and then click the drop-down box next to **Configure IPv4** and select **Manually**. If you are using a USB Ethernet Adapter, Ethernet may not be found and it may show up as the name of the USB Ethernet Adapter.
+
+            ![macos ip manually](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_ip_manually_1.png){class="glboxshadow"}
+
+        4. Enter the **IPv4 Address** to `192.168.1.2`, **Subnet Mask** to `255.255.255.0`, **Router** to `192.168.1.1`, then click the Apply button in the lower right corner.
+
+            ![macos ip manually](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_ip_manually_2.png){class="glboxshadow"}
 
 5. Use browser to visit **http://192.168.1.1**, this is the Uboot Web UI.
 
