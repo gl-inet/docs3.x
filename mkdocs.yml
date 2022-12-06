@@ -377,7 +377,7 @@ nav:
       - Can't find SSID: tutorials/cannot_find_ssid.md
     - Others:
       - Change WAN to LAN: tutorials/change_wan_to_lan.md
-      - LED Indicators: tutorials/led.md
+      - LED Indication: tutorials/led.md
       - File Sharing: tutorials/file_sharing.md
       - Multimedia File Sharing: tutorials/multimedia_file_sharing.md
       - DDNS: tutorials/ddns.md
