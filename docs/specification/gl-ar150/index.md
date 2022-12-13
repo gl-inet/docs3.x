@@ -19,7 +19,7 @@ AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 |                  DIY Features | UART, GPIO,  3.3V & 5V power port                            |
 |      External Antenna Support | Yes (optional)                                               |
 |            PoE Module Support | Yes (optional)                                               |
-|                   Power Input | 5V/1A                                                        |
+|                   Power Input | 5V/2A                                                        |
 |             Power Consumption | <1.5W                                                        |
 |             Dimension, Weight | 58mmX58mmX25mm, 39g                                          |
 
