@@ -18,19 +18,6 @@
         <div class="gl-product-model">(Mango)</div>
       </a>
     </div>
-    <div class="gl-product-card">
-      <a href="microuter-n300/first_time_setup/">
-        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_microuter-n300.jpg" >
-        <div class="gl-product-model">microuter-N300</div>
-      </a>
-    </div>
-    <div class="gl-product-card">
-      <a href="gl-usb150/first_time_setup/">
-        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_usb150.jpg" >
-        <div class="gl-product-model">GL-USB150</div>
-        <div class="gl-product-model">(Microuter)</div>
-      </a>
-  	</div>
   </div>
 </div>
 
@@ -43,13 +30,6 @@
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
         <div class="gl-product-model">GL-AR750</div>
         <div class="gl-product-model">(Creta)</div>
-      </a>
-    </div>
-    <div class="gl-product-card">
-      <a href="gl-ar750s/first_time_setup/">
-        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750s.jpg" >
-        <div class="gl-product-model">GL-AR750S</div>
-        <div class="gl-product-model">(Slate)</div>
       </a>
     </div>
   	<div class="gl-product-card">
@@ -85,6 +65,13 @@
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_a1300.jpg" >
         <div class="gl-product-model">GL-A1300</div>
         <div class="gl-product-model">(Slate Plus)</div>
+      </a>
+    </div>
+      <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt3000/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg" >
+        <div class="gl-product-model">GL-MT3000</div>
+        <div class="gl-product-model">(Beryl AX)</div>
       </a>
     </div>
   </div>
@@ -218,20 +205,6 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
-  	<div class="gl-product-card">
-      <a href="gl-mv1000/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000.jpg" >
-        <div class="gl-product-model">GL-MV1000</div>
-        <div class="gl-product-model">(Brume)</div>
-  	  </a>
-  	</div>	
-  	<div class="gl-product-card">
-      <a href="gl-mv1000w/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000w.jpg" >
-        <div class="gl-product-model">GL-MV1000W</div>
-        <div class="gl-product-model">(Brume-W)</div>
-  	  </a>
-  	</div>
     <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt2500/first_time_setup/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt2500-series.jpg" >
@@ -247,6 +220,33 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
+      <a href="microuter-n300/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_microuter-n300.jpg" >
+        <div class="gl-product-model">microuter-N300</div>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="gl-ar750s/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750s.jpg" >
+        <div class="gl-product-model">GL-AR750S</div>
+        <div class="gl-product-model">(Slate)</div>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="gl-mv1000/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000.jpg" >
+        <div class="gl-product-model">GL-MV1000</div>
+        <div class="gl-product-model">(Brume)</div>
+  	  </a>
+  	</div>	
+  	<div class="gl-product-card">
+      <a href="gl-mv1000w/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000w.jpg" >
+        <div class="gl-product-model">GL-MV1000W</div>
+        <div class="gl-product-model">(Brume-W)</div>
+  	  </a>
+  	</div>
+    <div class="gl-product-card">
       <a href="mini_router/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar150.jpg" >
         <div class="gl-product-model">GL-AR150</div>
@@ -259,6 +259,13 @@
         <div class="gl-product-model">GL-MiFi</div>
       </a>
     </div>
+    <div class="gl-product-card">
+      <a href="gl-usb150/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_usb150.jpg" >
+        <div class="gl-product-model">GL-USB150</div>
+        <div class="gl-product-model">(Microuter)</div>
+      </a>
+  	</div>
 	  <div class="gl-product-card">
       <a href="https://static.gl-inet.com/www/images/products/gl-x1200/GL-X1200_user-manual.pdf" target="_blank">
   	    <img src="https://static.gl-inet.com/www/images/products/products-list/product-list_x1200.jpg" >
