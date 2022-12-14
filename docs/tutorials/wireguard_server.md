@@ -71,7 +71,7 @@ There are several common reasons cause failed:
 
 ### If your public IP address is dynamic
 
-Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](../ddns), then edit the configuration to replace DDNS url with your public IP address.
+Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](../ddns), then edit the configuration to replace public IP address with your DDNS url.
 
 1. Copy the content of the configuration to a text editor(e.g. [Atom](https://atom.io/){target="_blank"}, [Sublime](https://www.sublimetext.com/){target="_blank"}).
 2. Edit the configuration to replace DDNS url with your public IP address.
