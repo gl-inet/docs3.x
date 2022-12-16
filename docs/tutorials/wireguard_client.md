@@ -238,7 +238,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
 ??? "Windscribe"
 
-    [Official Website](https://windscribe.com/){target="_blank"}
+    [Official Website](https://windscribe.com/yo/1u2h9ndl){target="_blank"}
 
     Login then access the [WireGuard Config Generator](https://windscribe.com/getconfig/wireguard){target="_blank"}. Select location and port you'd like to use, then click Download Config.
 
