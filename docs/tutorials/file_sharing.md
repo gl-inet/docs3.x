@@ -10,8 +10,6 @@ Usually models with USB ports or TF slots or have big internal storage are suppo
 
 *Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
 
-**Supported external storage models**
-
 | Router Model | USB Stick | USB Hard Drive | MicroSD Card | Internal Storage |
 | :----------- | :-------: | :---: | :---: | :---: |
 | GL-MT3000 (Beryl AX) | √ | √ | - | - | 
