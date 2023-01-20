@@ -545,6 +545,20 @@ Others:
 
         ![troubleshooting](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg){class="glboxshadow"} -->
 
+<div id="streamvpn"></div>
+
+??? "StreamVPN"
+
+    [Official Website](https://streamvpn.com/){target="_blank"}
+
+    1. Login with your [StreamVPN](https://streamvpn.com){target="_blank"} account and then you will be able to see your subscription information. Click **Install & Guides**.
+
+        ![streamvpn subscription info](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/streamvpn/streamvpn_subscription.png){class="glboxshadow"}
+
+    2. Click **VPN Router**, it will download a .zip archive file called `StreamVPN.zip`.
+
+        ![streamvpn guide, vpn router](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/streamvpn/streamvpn_guide_router.png){class="glboxshadow"}
+
 <div id="strongvpn"></div>
 
 ??? "StrongVPN"
