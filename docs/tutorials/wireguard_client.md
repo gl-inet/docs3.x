@@ -307,6 +307,16 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
+<div id="astrill"></div>
+
+??? "Astrill"
+
+    [Official Website](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}
+
+    If you are using [Astrill](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}, please log in then access [this page](https://www.astrill.com/member-zone/tools/wireguard-configuration){target="_blank"} to generate WireGuard configurations.
+
+    Then follow the [guide](#setup-wireguard-client) to continue.
+
 <div id="vpnunlimited"></div>
 
 ??? "VPN Unlimited(KeepSolid)"
