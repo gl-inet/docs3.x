@@ -8,7 +8,7 @@ site_description: Documentation for GL.iNet Productions
 site_author: GL.iNet
 site_url: https://docs.gl-inet.com/en/3/
 site_dir: /home/ubuntu/docs-build/en/3/
-copyright: Copyright &copy; 2022 GL Technologies & Microuter Technologies
+copyright: Copyright &copy; 2023 GL Technologies & Microuter Technologies
 
 theme: 
   name: material
