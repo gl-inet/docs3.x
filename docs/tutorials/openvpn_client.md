@@ -549,15 +549,17 @@ Others:
 
 ??? "StreamVPN"
 
-    [Official Website](https://streamvpn.com/){target="_blank"}
+    [Official Website](https://billing.streamvpn.com/account/signup?aff_t=aaf341756f7b94ed3f040f78292b80f1db1adf3318eacb87dd9c4ad4e08fde11a%3A2%3A%7Bs%3A6%3A%22aff_id%22%3Bs%3A6%3A%22645311%22%3Bs%3A6%3A%22off_id%22%3Bi%3A10%3B%7D){target="_blank"}
 
-    1. Login with your [StreamVPN](https://streamvpn.com){target="_blank"} account and then you will be able to see your subscription information. Click **Install & Guides**.
+    1. Login with your [StreamVPN](https://billing.streamvpn.com/account/signup?aff_t=aaf341756f7b94ed3f040f78292b80f1db1adf3318eacb87dd9c4ad4e08fde11a%3A2%3A%7Bs%3A6%3A%22aff_id%22%3Bs%3A6%3A%22645311%22%3Bs%3A6%3A%22off_id%22%3Bi%3A10%3B%7D){target="_blank"} account and then you will be able to see your subscription information. Click **Install & Guides**.
 
         ![streamvpn subscription info](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/streamvpn/streamvpn_subscription.png){class="glboxshadow"}
 
     2. Click **VPN Router**, it will download a .zip archive file called `StreamVPN.zip`.
 
         ![streamvpn guide, vpn router](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/streamvpn/streamvpn_guide_router.png){class="glboxshadow"}
+
+    **Note:** Only the configuration file name contains "Primary" work.
 
 <div id="strongvpn"></div>
 
