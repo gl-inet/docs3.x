@@ -117,3 +117,7 @@ Input your router password: (you can set this password when you first connect to
 ![ssh login successfully](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/1522205896331.png){class="glboxshadow"}
 
 Finally, you login the router when the above message displayed.
+
+## Troubleshooting
+
+[No matching host key type found. Their offer: ssh-rsa](https://forum.gl-inet.com/t/can-no-longer-ssh-into-router-no-matching-host-key-type-found-their-offer-ssh-rsa/20915/12)
