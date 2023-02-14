@@ -28,33 +28,41 @@ You can also refer to video tutorial below.
 
     **Note:** Same router models with different manufacturing dates may have different LED colours or flashing sequences, it won't affect the UBoot process. Please pay more attention to the change of the flashing LED.
 
+    - For **GL-MT3000(Beryl AX)**, the blue LED flashes 6 times then turns white and stays on.
+
+    - For **GL-MT2500/GL-MT2500A(Brume 2)**, the blue LED flashes 5 times then turns white and stays on.
+
+    - For **GL-S200**, the cyan LED flashes 5 times, then briefly turns purple, then turns cyan and stays on.
+
+    - For **GL-A1300(Slate Plus)**, the LED flashes slowly 5 times, then stays on for a short while, then flashes quickly all the time.
+
     - For **GL-AR150**, **GL-AR300M**, **GL-USB150(Microuter)**, **GL-AR750(Creta)**, **GL-AR750S-EXT(Slate)**, **GL-X750(Spitz)**, **GL-MT300N-V2(Mango)**, **GL-E750(Mudi)**, **microuter-N300**, the LED falshes 5 times.
 
     - For **GL-S1300(Convexa-S), GL-B1300(Convexa-B)**, the LED flashes 4 times.
         
         The left most LED may stay on the whole time while the rightmost LED flashes 4 times, then the middle LED turns on and stays on.
         
-        (For some old GL-B1300, the left most LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times simutaneously then they stay on.)
+        (For some old GL-B1300, the left most LED stays on the whole time, and both the middle LED and the rightmost LED flash 5 times simutaneously then they stays on.)
 
     - For **GL-SF1200**, the 5G LED flashes 5 times then stays on.
 
-    - For **GL-AX1800(Flint)**, the blue LED flashes 5 times then turns white and stay on.
+    - For **GL-AX1800(Flint)**, the blue LED flashes 5 times then turns white and stays on.
 
-    - For **GL-AXT1800(Slate AX)**, the blue LED flashes 5 times then stay on.
+    - For **GL-AXT1800(Slate AX)**, the blue LED flashes 5 times then stays on.
 
-    - For **GL-XE300(Puli)**, the LAN LED falshes 5 times then WIFI LED stay on.
+    - For **GL-XE300(Puli)**, the LAN LED falshes 5 times then WIFI LED stays on.
 
-    - For **GL-X300B(Collie)**, the WAN LED flashes 5 times then WIFI LED stay on.
+    - For **GL-X300B(Collie)**, the WAN LED flashes 5 times then WIFI LED stays on.
 
-    - For **GL-SFT1200(Opal)**, the blue LED flashes 5 times then turns white and stay on.
+    - For **GL-SFT1200(Opal)**, the blue LED flashes 5 times then turns white and stays on.
 
-    - For **GL-AP1300(Cirrus)**, the power LED falshes 5 times then stay on.
+    - For **GL-AP1300(Cirrus)**, the power LED flashes slowly 5 times, then stays on for a short while, then flashes quickly all the time.
 
-    - For **GL-MT1300(Beryl)**, the LED is blue at first, flash twice slowly, then flash 5 times a bit quick and turn to white and stay on.
+    - For **GL-MT1300(Beryl)**, the LED is blue at first, flash twice slowly, then flash 5 times a bit quick and turn to white and stays on.
 
-    - For **GL-B2200(Velica)**, the two LEDs are blue at first, then turn white to flash 5 times, then turn blue and stay on.
+    - For **GL-B2200(Velica)**, the two LEDs are blue at first, then turn white to flash 5 times, then turn blue and stays on.
 
-    - For **GL-MV1000**, no repeat LED flashes signal. (Power and WAN LEDs will stay on the whole time.)
+    - For **GL-MV1000/GL-MV1000W(Brume)**, no repeat LED flashes signal. (Power and WAN LEDs will stays on the whole time.)
 
     - For **GL-MiFi**, the LED flashes 6 times.
 
