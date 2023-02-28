@@ -82,6 +82,13 @@
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt3000/hardware_info/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s200.jpg" >
+        <div class="gl-product-model">GL-S200</div>
+        <div class="gl-product-model"></div>
+      </a>
+    </div>
+    <div class="gl-product-card">
       <a href="gl-ap1300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ap1300lte.jpg" >
         <div class="gl-product-model-ap1300">GL-AP1300/GL-AP1300LTE</div>

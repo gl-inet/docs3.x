@@ -100,6 +100,7 @@ nav:
     - GL-AX1800 (Flint): specification/gl-ax1800/index.md
     - GL-AXT1800 (Slate AX): specification/gl-axt1800/index.md
     - GL-A1300 (Slate Plus): specification/gl-a1300/index.md
+    - GL-S200: specification/gl-s200/index.md
     - GL-MiFi: specification/gl-mifi/index.md
     - GL-XE300 (Puli): specification/gl-xe300/index.md
     - GL-X750 (Spitz): specification/gl-x750/index.md
@@ -185,6 +186,7 @@ nav:
       - More Settings: setup/gl-ax1800/more_settings.md
     - GL-AXT1800 (Slate AX): setup/gl-axt1800/index.md
     - GL-A1300 (Slate Plus): setup/gl-a1300/index.md
+    - GL-S200: setup/gl-s200/index.md
     - GL-MiFi:
       - First Time Setup: setup/gl-mifi/first_time_setup.md
       - Internet: setup/gl-mifi/internet.md
