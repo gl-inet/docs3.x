@@ -214,14 +214,23 @@ Recommended:
 
         **Enter the verification code** that is sent to your email.
 
-    2. On the right, with **OpenVPN** already selected for you, you will see your **username**, **password**, and a list of **OpenVPN configuration files**.
+    2. In the "Set up your devices" section, click on **More**.
 
-        ![](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn-account-manual-configuation-openvpn.jpg){class="glboxshadow"}
+    ![expressvpn, set up your devices, more](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/set_up_your_devices_more.png){class="glboxshadow"}
+
+    3. Click on **Manual Configuration**.
+
+    ![expressvpn, set up your devices, manual configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/set_up_your_devices_manual_configuration.png){class="glboxshadow"}
+
+    4. You will see your **username**, **password**, and a list of **OpenVPN configuration files**.
+
+        ![expressvpn, setup info](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/setup_info.pngg){class="glboxshadow"}
 
         Click the location(s) you want in order to download the .ovpn file(s).
 
         **Keep this browser window open**. You will need this information for the setup later.
 
+    [Refer link](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download){rel="sponsored" target="_blank"}
 
 Others:
 
