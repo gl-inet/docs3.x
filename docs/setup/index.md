@@ -67,7 +67,7 @@
         <div class="gl-product-model">(Slate Plus)</div>
       </a>
     </div>
-      <div class="gl-product-card">
+    <div class="gl-product-card">
       <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt3000/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg" >
         <div class="gl-product-model">GL-MT3000</div>
@@ -116,6 +116,19 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-s200/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s200.jpg" >
+        <div class="gl-product-model">GL-S200</div>
+        <div class="gl-product-model"></div>
+      </a>
+    </div>
+    <div class="gl-product-card">
+      <a href="gl-s10/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s10.jpg" >
+        <div class="gl-product-model">GL-S10</div>
+  	  </a>
+  	</div>
   	<div class="gl-product-card">
       <a href="gl-s1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
@@ -135,12 +148,6 @@
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_xe300.jpg" >
         <div class="gl-product-model">GL-XE300</div>
         <div class="gl-product-model">(Puli)</div>
-  	  </a>
-  	</div>
-    <div class="gl-product-card">
-      <a href="gl-s10/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s10.jpg" >
-        <div class="gl-product-model">GL-S10</div>
   	  </a>
   	</div>
   </div>
@@ -238,7 +245,7 @@
         <div class="gl-product-model">GL-MV1000</div>
         <div class="gl-product-model">(Brume)</div>
   	  </a>
-  	</div>	
+  	</div>
   	<div class="gl-product-card">
       <a href="gl-mv1000w/first_time_setup/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mv1000w.jpg" >
