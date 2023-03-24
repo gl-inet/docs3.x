@@ -29,13 +29,6 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
-    <div class="gl-product-card">
-      <a href="setup/gl-ar750/first_time_setup/">
-        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
-        <div class="gl-product-model">GL-AR750</div>
-        <div class="gl-product-model">(Creta)</div>
-      </a>
-    </div>
   	<div class="gl-product-card">
       <a href="setup/gl-mt1300/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt1300.jpg" >
@@ -188,6 +181,13 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="setup/gl-ar750/first_time_setup/">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
+        <div class="gl-product-model">GL-AR750</div>
+        <div class="gl-product-model">(Creta)</div>
+      </a>
+    </div>
     <div class="gl-product-card">
       <a href="setup/gl-ap1300/first_time_setup/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ap1300lte.jpg" >

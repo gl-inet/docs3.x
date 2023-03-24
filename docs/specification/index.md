@@ -25,13 +25,6 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
-    <div class="gl-product-card">
-      <a href="gl-ar750">
-        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
-        <div class="gl-product-model">GL-AR750</div>
-        <div class="gl-product-model">(Creta)</div>
-      </a>
-    </div>
   	<div class="gl-product-card">
       <a href="gl-mt1300/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt1300.jpg" >
@@ -219,6 +212,13 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="gl-ar750">
+        <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_ar750.jpg" >
+        <div class="gl-product-model">GL-AR750</div>
+        <div class="gl-product-model">(Creta)</div>
+      </a>
+    </div>
     <div class="gl-product-card">
       <a href="gl-s1300/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
