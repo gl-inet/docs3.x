@@ -2,44 +2,46 @@
 
 You can use GL.iNet routers with external storage device such as USB stick, MicroSD card, etc, and some models have big internal storage, thus the contents can be shared among all your connected clients. You can easily read or modify its contents. 
 
+Some models are shipped with firmware 4.x or already have 4.x firmware, please refer to the [4.x documentation for Network Storage](https://docs.gl-inet.com/en/4/tutorials/network_storage/).
+
+**Note**: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.
+
 ---
 
 ## Supported models
 
 Usually models with USB ports or TF slots or have big internal storage are supported for file sharing.
 
-*Note: The power consumption of USB hard drive is quite high. You should use it with an external power supply. Otherwise, it may cause malfunction.*
-
-| Router Model | USB Stick | USB Hard Drive | MicroSD Card | Internal Storage |
-| :----------- | :-------: | :---: | :---: | :---: |
-| GL-MT3000 (Beryl AX) | √ | √ | - | - | 
-| GL-AXT1800 (Slate AX) | √ | √ | √ | - | 
-| GL-A1300 (Slate Plus) | √ | √ | - | - | 
-| GL-MT2500/GL-MT2500A (Brume 2) | √ | √ | - | - | 
-| GL-SFT1200 | √ | √ | - | - | 
-| GL-MT300N-V2 (Mango) | √ | √ | - | - |
-| GL-AR150 Series | √ | √ | - | - |
-| GL-AR300M Series | √ | √ | - | - |
-| GL-USB150 | - | - | - | - |
-| GL-MiFi | √ | √ | √ | - |
-| GL-AR750 (Creta) | √ | √ | √ | - |
-| GL-AR750S-EXT (Slate) | √ | √ | √ | - |
-| GL-B1300 (Convexa-B) | √ | √ | - | - |
-| GL-S1300 (Convexa-S) | √ | √ | - | - |
-| GL-X750 (Spitz) | √ | √ | √ | - |
-| GL-X1200 (Amarok) | √ | √ | √ | - |
-| GL-E750 (Mudi) | √ | √ | √ | - |
-| GL-MV1000 (Brume) | √ | √ | √ | - |
-| GL-MV1000W (Brume-W) | √ | √ | √ | - |
-| GL-MT1300 (Beryl) | √ | √ | √ | - |
-| GL-XE300 (Puli) | √ | √ | √ | - |
-| GL-AX1800 (Flint) | √ | √ | - | - |
-| GL-AP1300 (Cirrus) | - | - | - | - |
-| GL-B2200 (Velica) | - | - | - | √ |
-| GL-X300B (Collie) | - | - | - | - |
-| GL-SF1200 | - | - | - | - |
-| microuter-N300 | - | - | - | - |
-| VIXMINI | - | - | - | - |
+| Router Model | USB Port | MicroSD Card | Internal Storage |
+| :----------- | :------: | :----------: | :--------------: |
+| GL-MT3000 (Beryl AX) | √ | - | - | 
+| GL-AXT1800 (Slate AX) | √ | √ | - | 
+| GL-A1300 (Slate Plus) | √ | - | - | 
+| GL-MT2500/GL-MT2500A (Brume 2) | √ | - | - | 
+| GL-SFT1200 | √ | - | - | 
+| GL-MT300N-V2 (Mango) | √ | - | - |
+| GL-AR150 Series | √ | - | - |
+| GL-AR300M Series | √ | - | - |
+| GL-USB150 | - | - | - |
+| GL-MiFi | √ | √ | - |
+| GL-AR750 (Creta) | √ | √ | - |
+| GL-AR750S-EXT (Slate) | √ | √ | - |
+| GL-B1300 (Convexa-B) | √ | - | - |
+| GL-S1300 (Convexa-S) | √ | - | - |
+| GL-X750 (Spitz) | √ | √ | - |
+| GL-X1200 (Amarok) | √ | √ | - |
+| GL-E750 (Mudi) | √ | √ | - |
+| GL-MV1000 (Brume) | √ | √ | - |
+| GL-MV1000W (Brume-W) | √ | √ | - |
+| GL-MT1300 (Beryl) | √ | √ | - |
+| GL-XE300 (Puli) | √ | √ | - |
+| GL-AX1800 (Flint) | √ | - | - |
+| GL-AP1300 (Cirrus) | - | - | - |
+| GL-B2200 (Velica) | - | - | √ |
+| GL-X300B (Collie) | - | - | - |
+| GL-SF1200 | - | - | - |
+| microuter-N300 | - | - | - |
+| VIXMINI | - | - | - |
 
 ---
 
