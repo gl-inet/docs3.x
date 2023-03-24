@@ -19,7 +19,6 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 |                 Ethernet Port | 2 x 10/100M                                                  |
 |                          LEDs | Power / 2.4G Wi-Fi / 5G Wi-Fi / 4G / WAN                     |
 |             MicroSD Card Slot | Up to 128GB                                                  |
-|                        Zigbee | Optional                                                     |
 |                   Power Input | 12V/1.5A                                                     |
 |             Power Consumption | <6W                                                          |
 |           Working Temperature | -20~40°C (-4~104°F)                                          |
