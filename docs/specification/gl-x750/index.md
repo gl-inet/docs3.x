@@ -1,6 +1,6 @@
 #  GL-X750 (Spitz)
 
-GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and IoT area. 300Mbps (2.4G) + 433Mbps (5G) Combined Wi-Fi Speed, 128GB MicroSD Capacity, PCIe 4G LTE Modem, Built-in Bluetooth or Zigbee Module.
+GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and IoT area. 300Mbps (2.4G) + 433Mbps (5G) Combined Wi-Fi Speed, 128GB MicroSD Capacity, PCIe 4G LTE Modem.
 
 ## Hardware Specification
 
@@ -19,7 +19,6 @@ GL-X750 is a 3G/4G dual-band wireless router, , widely used for smart home and I
 |                 Ethernet Port | 2 x 10/100M                                                  |
 |                          LEDs | Power / 2.4G Wi-Fi / 5G Wi-Fi / 4G / WAN                     |
 |             MicroSD Card Slot | Up to 128GB                                                  |
-|                     Bluetooth | Optional                                                     |
 |                        Zigbee | Optional                                                     |
 |                   Power Input | 12V/1.5A                                                     |
 |             Power Consumption | <6W                                                          |
