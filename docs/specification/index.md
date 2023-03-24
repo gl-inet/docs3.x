@@ -129,13 +129,6 @@
         <div class="gl-product-model">GL-S10</div>
   	  </a>
   	</div>
-  	<div class="gl-product-card">
-      <a href="gl-s1300/">
-  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
-        <div class="gl-product-model">GL-S1300</div>
-        <div class="gl-product-model">(Convexa-S)</div>
-  	  </a>
-  	</div>
 	  <div class="gl-product-card">
       <a href="gl-x750/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x750v2.jpg" >
@@ -226,6 +219,13 @@
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="gl-s1300/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
+        <div class="gl-product-model">GL-S1300</div>
+        <div class="gl-product-model">(Convexa-S)</div>
+  	  </a>
+  	</div>
     <div class="gl-product-card">
       <a href="microuter-n300/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_microuter-n300.jpg" >

@@ -133,13 +133,6 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
         <div class="gl-product-model">GL-S10</div>
   	  </a>
   	</div>
-  	<div class="gl-product-card">
-      <a href="setup/gl-s1300/first_time_setup/">
-  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
-        <div class="gl-product-model">GL-S1300</div>
-        <div class="gl-product-model">(Convexa-S)</div>
-  	  </a>
-  	</div>
 	  <div class="gl-product-card">
       <a href="setup/gl-x750/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_x750v2.jpg" >
@@ -230,6 +223,13 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
+    <div class="gl-product-card">
+      <a href="setup/gl-s1300/first_time_setup/">
+  	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s1300.jpg" >
+        <div class="gl-product-model">GL-S1300</div>
+        <div class="gl-product-model">(Convexa-S)</div>
+  	  </a>
+  	</div>
     <div class="gl-product-card">
       <a href="setup/microuter-n300/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_microuter-n300.jpg" >
