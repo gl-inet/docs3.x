@@ -204,11 +204,11 @@ Recommended:
 
 ??? "ExpressVPN"
 
-    [Official Website](https://www.xvbelink.com/?a_fid=glinet){target="_blank"}
+    [Official Website](https://go.expressvpn.com/c/4130682/1645813/16063){target="_blank"}
 
     Information quoted from [Expressvpn official instruction](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download){rel="sponsored" target="_blank"}
 
-    1. Go to [ExpressVPN](https://www.xvbelink.com/?a_fid=glinet){rel="sponsored" target="_blank"} website, and log in with your ExpressVPN credentials.
+    1. Go to [ExpressVPN](https://go.expressvpn.com/c/4130682/1645813/16063){rel="sponsored" target="_blank"} website, and log in with your ExpressVPN credentials.
 
         ![expressvpn account click sign in](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/expressvpn-account-click-sign-in.jpg){target="_blank"}
 
