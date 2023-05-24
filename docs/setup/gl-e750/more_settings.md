@@ -107,7 +107,7 @@ Configure the contents displayed on OLED including **main screen**, **WiFi infom
 
 **Show the LAN IP**：Whether or not to show the forth (LAN IP info) screen.
 
-**Show the VPN info**：Whether or not to show the forth (LAN IP info) screen.
+**Show the VPN info**：Whether or not to show the fifth (VPN info) screen.
 
 **Show customized**：The content of the user customized screen.
 
