@@ -224,7 +224,7 @@ Recommended:
 
     4. You will see your **username**, **password**, and a list of **OpenVPN configuration files**.
 
-        ![expressvpn, setup info](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/setup_info.pngg){class="glboxshadow"}
+        ![expressvpn, setup info](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/expressvpn/setup_info.png){class="glboxshadow"}
 
         Click the location(s) you want in order to download the .ovpn file(s).
 
