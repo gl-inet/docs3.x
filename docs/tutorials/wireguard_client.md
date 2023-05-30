@@ -459,7 +459,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Hide.me VPN providers a simple way to use their WireGuard service in GL.iNet router.
 
-    1. [SSH](https://docs.gl-inet.com/en/3/tutorials/ssh/){target="_blank"} to router.
+    1. [SSH](https://docs.gl-inet.com/router/en/3/tutorials/ssh/){target="_blank"} to router.
 
     2. Copy the install url below, then paste it to the terminal, hit the Enter key. (Right click the mouse will paste it.)
 

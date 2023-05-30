@@ -51,21 +51,21 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   	  </a>
   	</div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-axt1800/first_time_setup/">
+      <a href="https://docs.gl-inet.com/router/en/4/user_guide/gl-axt1800/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_axt1800.jpg" >
         <div class="gl-product-model">GL-AXT1800</div>
         <div class="gl-product-model">(Slate AX)</div>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-a1300/first_time_setup/">
+      <a href="https://docs.gl-inet.com/router/en/4/user_guide/gl-a1300/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_a1300.jpg" >
         <div class="gl-product-model">GL-A1300</div>
         <div class="gl-product-model">(Slate Plus)</div>
       </a>
     </div>
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt3000/first_time_setup/">
+      <a href="https://docs.gl-inet.com/router/en/4/user_guide/gl-mt3000/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg" >
         <div class="gl-product-model">GL-MT3000</div>
         <div class="gl-product-model">(Beryl AX)</div>
@@ -114,7 +114,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-s200/first_time_setup/">
+      <a href="https://docs.gl-inet.com/router/en/4/user_guide/gl-s200/first_time_setup/">
         <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_s200.jpg" >
         <div class="gl-product-model">GL-S200</div>
         <div class="gl-product-model"></div>
@@ -210,7 +210,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
 <div class="gl-product-row">
   <div class="gl-product-row-box">
     <div class="gl-product-card">
-      <a href="https://docs.gl-inet.com/en/4/user_guide/gl-mt2500/first_time_setup/">
+      <a href="https://docs.gl-inet.com/router/en/4/user_guide/gl-mt2500/first_time_setup/">
   	    <img src="https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt2500-series.jpg" >
         <div class="gl-product-model">GL-MT2500/GL-MT2500A</div>
         <div class="gl-product-model">(Brume 2)</div>
