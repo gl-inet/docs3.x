@@ -12,7 +12,7 @@ Using [python 3.x virtual environment](https://docs.python.org/3/tutorial/venv.h
 
 ## Online View
 
-Please view the docs online at https://docs.gl-inet.com/en/3/ 
+Please view the docs online at [https://docs.gl-inet.com/router/en/3/](https://docs.gl-inet.com/router/en/3/) 
 
 ## Guide
 
