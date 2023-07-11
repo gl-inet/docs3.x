@@ -92,24 +92,52 @@ We can use another GL.iNet router as WireGuard Client, or use their official app
 
 - Please refer to WireGuard Official Website: [https://www.wireguard.com/install](https://www.wireguard.com/install){target="_blank"}
 
-## Visit Client’s LAN Subnet
+## Visit WireGuard Client’s LAN Subnet
 
-Visit Client’s LAN Subnet from WireGuard Server LAN Subnet
+### Topology Using GL-AX1800 as server and GL-SFT1200 as client
 
-1) Change WireGuard clients LAN IP to avoid IP confliction with Server
+![3xtopology](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/3xtopology.jpg){class="glboxshadow"}
 
-2) Modify Wireguard_Server Configuration
+1) Change WireGuard client LAN IP to **192.168.10.1** avoid IP confliction with Server
 
-WinSCP or SSH into your the WireGuard Server (router) find and modify the file
-
-```shell
-/etc/config/wireguard_server
-```
-
-Add a line to the end of the config file of clients you want to visit.
+2) WinSCP or SSH into your the WireGuard Server (GL-AX1800) find and modify the file
 
 ```shell
-list subnet '192.168.xxx.0/24'
+cat /etc/config/wireguard_server
 ```
 
-**Save and Exit**
+![wireguardconfig](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/wireguardconfig.jpg){class="glboxshadow"}
+
+Add the subnet route **192.168.10.0/24** into the configuration file
+
+```shell
+vi /etc/config/wireguard_server
+```
+![viconfig](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/viconfig.jpg){class="glboxshadow"}
+
+3) Restart the server and double confirm the subnet is added in the allowed ips line
+
+```shell
+/etc/init.d/wireguard_server restart
+```
+```shell
+wg
+```
+![serverrestart](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/serverrestart.png){class="glboxshadow"}
+
+3) Add a static route into the server route table
+
+```shell
+ip route add 192.168.10.0/24 dev wg0
+```
+```shell
+route -n
+```
+![addroute](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/addroute.jpg){class="glboxshadow"}
+
+4) Add a boot lock to avoid the route reset during the reboot
+
+```shell
+sed -i "/rm \/var\/run\/glwgserver.lock -rf/a\ip route add 192.168.10.0\/24 dev wg0" /etc/init.d/wireguard_server
+```
+
