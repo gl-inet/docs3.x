@@ -102,49 +102,39 @@ We can use another GL.iNet router as WireGuard Client, or use their official app
 
 2. [SSH](../ssh) into your the WireGuard Server (GL-AX1800) find and modify the file.
 
-    ```
-    cat /etc/config/wireguard_server
-    ```
+        cat /etc/config/wireguard_server
 
     ![wireguardconfig](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/wireguardconfig.jpg){class="glboxshadow"}
 
     Add the subnet route **192.168.10.0/24** into the configuration file
 
-    ```
-    vi /etc/config/wireguard_server
-    ```
+        vi /etc/config/wireguard_server
 
     ![viconfig](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/viconfig.jpg){class="glboxshadow"}
 
 3. Restart the server and double confirm the subnet is added in the allowed ips line.
 
-    ```
-    /etc/init.d/wireguard_server restart
-    ```
+        /etc/init.d/wireguard_server restart
 
-    ```
-    wg
-    ```
+    <span></span>
+
+        wg
 
     ![serverrestart](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/serverrestart.png){class="glboxshadow"}
 
 4. Add a static route into the server route table.
 
-    ```
-    ip route add 192.168.10.0/24 dev wg0
-    ```
+        ip route add 192.168.10.0/24 dev wg0
 
-    ```
-    route -n
-    ```
+    <span></span>
+
+        route -n
 
     ![addroute](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_server/addroute.jpg){class="glboxshadow"}
 
 5. Add a boot lock to avoid the route reset during the reboot.
 
-```shell
-sed -i "/rm \/var\/run\/glwgserver.lock -rf/a\ip route add 192.168.10.0\/24 dev wg0" /etc/init.d/wireguard_server
-```
+        sed -i "/rm \/var\/run\/glwgserver.lock -rf/a\ip route add 192.168.10.0\/24 dev wg0" /etc/init.d/wireguard_server
 
 ---
 
