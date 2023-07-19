@@ -38,6 +38,7 @@ hide:
 * [Setup WireGuard Server](wireguard_server).
 * [Internet Kill Switch](internet_kill_switch). To let all data go through VPN.
 * [VPN Policies](vpn_policies). To configure some clients using or not using VPN, filter by Mac Address or IP Address. 
+* [How to access client from server in WireGuard tunnel?](wireguard_server_access_to_client_lan_side)
 
 ---
 
