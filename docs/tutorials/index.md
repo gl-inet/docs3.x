@@ -66,6 +66,7 @@ hide:
 * [What should I do if my router is bricked?](debrick)
 * [Debrick via Uboot](debrick)
 * [Why can't find the default SSID of the router on my device?](cannot_find_ssid)
+* [Upgrade GL-AR750 and GL-AR750S with Firmware 3.025 failed](firmware_upgrade_for_old_version_ar750)
 
 ---
 
