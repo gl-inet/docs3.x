@@ -378,7 +378,7 @@ nav:
       - Repair or Reset: tutorials/repair_network_or_reset_firmware.md
       - Debrick via Uboot: tutorials/debrick.md
       - Can't find SSID: tutorials/cannot_find_ssid.md
-      - Upgrade old version AR750_AR750S: troubleshooting/firmware_upgrade_for_old_version_ar750.md
+      - Upgrade old version failed: tutorials/firmware_upgrade_for_old_version_ar750.md
     - Others:
       - Change WAN to LAN: tutorials/change_wan_to_lan.md
       - LED Indication: tutorials/led.md
