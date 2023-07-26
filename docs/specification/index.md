@@ -70,7 +70,7 @@
   </div>
 </div>
 
-## 4G LTE Router Gateway
+## Cellular Router
 
 <div class="gl-product-row">
   <div class="gl-product-row-box">
