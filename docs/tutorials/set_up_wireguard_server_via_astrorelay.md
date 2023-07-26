@@ -22,7 +22,7 @@ Scenario: If you want to set up WireGuard server in GL.iNet router at home/offic
 
     ![link for wireguard server](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/astrorelay_wg_server.png){class="glboxshadow"}
 
-    You can get a link finally, like **wg_server_test.arlab1.cc:35701**.
+    You can get a link finally, like **wg_server_test.arlab1.cc:33331**.
 
     ![astrorelay link](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/astrorelay_link.png){class="glboxshadow"}
 
