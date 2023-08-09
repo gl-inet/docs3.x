@@ -80,6 +80,10 @@ Recommended:
 
         Login the [Official Website](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902){target="_blank"}, go to the Nord Account dashboard, where you will find the service credentials.
 
+        ![nordacc](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordacc.jpg){class="glboxshadow"}
+
+        ![nordlogin](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordlogin.jpg){class="glboxshadow"}
+
         ![nordvpn service credential](https://static.gl-inet.com/docs/en/4/tutorials/openvpn_client/nordvpn_service_credentials.png){class="glboxshadow"}
 
     2. **Choose a NordVPN server**
