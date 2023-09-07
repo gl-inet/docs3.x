@@ -14,7 +14,7 @@ Please check if you Internet Service Provider assigns you a public IP address [h
 
 **If no, you can't connect to the OpenVPN Server.**
 
-An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}, check the tutorial [here](../set_up_wireguard_server_via_astrorelay).
+An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}.
 
 ## Network Topology
 
