@@ -26,7 +26,7 @@ Scenario: If you want to set up WireGuard server in GL.iNet router at home/offic
 
     ![astrorelay link](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/astrorelay_link.png){class="glboxshadow"}
 
-3. Replace this link with the **Endpoint** in the WireGuard configuration. Then you can use the modified config in WireGuard cient app.
+3. Replace this link with the **Endpoint** in the WireGuard configuration. Then you can use the modified config in WireGuard client app.
 
     ![replace link in wireguard config](https://static.gl-inet.com/docs/en/3/tutorials/set_up_wireguard_server_via_astrorelay/replace_endpoint_in_wireguard_config.png){class="glboxshadow"}
 
