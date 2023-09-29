@@ -657,18 +657,6 @@ Others:
 
     The provided zip file contains two folders with the .ovpn files. One called OpenVPN160 one OpenVPN256. Just delete the OpenVPN160 folder from the zip file then upload it to GL.iNet router as usual.
 
-<div id="wevpn"></div>
-
-??? "Wevpn"
-
-    [Official Website](https://www.wevpn.com/aff/glinet){target="_blank"}
-
-    1. Access the Members Area to make a custom config using the Config Generator.
-
-        ![wevpn manual configuration generator](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/wevpn/wevpn_manual_configuration_generator.jpg){class="glboxshadow"}
-
-    2. Choose the Protocal to UDP or TCP, the OpenVPN version, and the location. Then to download the configuration.
-
 <div id="zoogvpn"></div>
 
 ??? "ZoogVPN"

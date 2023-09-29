@@ -6,7 +6,7 @@ GL.iNet routers have pre-installed WireGuard Client and Server.
 
 If you have already bought WireGuard service from a provider, but you don't know how to get the configuration files, please refer to [get configuration files from WireGuard service providers](#get-configuration-files-from-wireguard-service-providers) or ask its support.
 
-You can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, TorGuard VPN, OVPN, WeVPN, StrongVPN, PIA VPN, SpiderVPN.
+You can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, TorGuard VPN, OVPN, StrongVPN, PIA VPN, SpiderVPN.
 
 For setup via web Admin Panel, please follow the guide below.
 
@@ -213,26 +213,6 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup StrongVPN.
-
-<div id="wevpn"></div>
-
-??? "WeVPN"
-
-    [Official Website](https://www.wevpn.com/aff/glinet){target="_blank"}
-
-    1. Access the Members Area to make a custom config using the Config Generator.
-    
-        ![wevpn manual configuration generator](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wevpn/wevpn_1.jpg){class="glboxshadow"}
-    
-    2. When you select the WireGuard protocol, you will need to select **Add device** for the region selected.
-    
-        ![wevpn manual configuration generator](https://static.gl-inet.com/docs/en/3/tutorials/wireguard_client/wevpn/wevpn_2.jpg){class="glboxshadow"}
-
-    3. Then follow the [guide](#setup-wireguard-client) to continue.
-
-    4. You can also use <a href="../mobile_app">mobile app</a> to setup WeVPN.
-
-    [Refer link](https://wevpn.com/support/hc/en-us/search/click?data=BAh7CjoHaWRsKwgmhcHUUwA6CXR5cGVJIgxhcnRpY2xlBjoGRVQ6CHVybEkiTWh0dHBzOi8vd2V2cG4uemVuZGVzay5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDUxNzM3ODk0LVdpcmVndWFyZC1TZXR1cAY7B1Q6DnNlYXJjaF9pZEkiKTg1MzYyYTliLTFiNjQtNDgxZi1hOTZiLTIzMTE3NzQ4ZGMwMwY7B0Y6CXJhbmtpBg%3D%3D--708754fd43f05b5496036ebe0747c5a6dac84bf3){target="_blank"}
 
 <div id="windscribe"></div>
 
