@@ -379,6 +379,7 @@ nav:
       - Debrick via Uboot: tutorials/debrick.md
       - Can't find SSID: tutorials/cannot_find_ssid.md
       - Upgrade old version failed: tutorials/firmware_upgrade_for_old_version_ar750.md
+      - MacOS cannot write in Samba: troubleshooting/macos_cannot_write_samba.md
     - Others:
       - Change WAN to LAN: tutorials/change_wan_to_lan.md
       - LED Indication: tutorials/led.md
@@ -397,7 +398,9 @@ nav:
       - LED Customization: tutorials/led_customization.md
       - Camera: tutorials/camera.md
       - GL-AX1800 new and old version: tutorials/gl-ax1800_new_vs_old_version.md
+      - Set up OpenVPN server via AstroRelay: tutorials/set_up_openvpn_server_via_astrorelay.md
       - Set up WireGuard server via AstroRelay: tutorials/set_up_wireguard_server_via_astrorelay.md
+      
   - Troubleshooting:
     - Overview: troubleshooting/index.md
     - Repeat Failure: troubleshooting/repeat_failure.md
