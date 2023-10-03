@@ -2,6 +2,8 @@
 
 All GL.iNet Routers have a reset button, you can use it to repair your network or reset your router to factory default. If you can neither access the web Admin Panel nor the router, you can press the **reset** button.
 
+It is important to note you should have your router completely boot up before you perform a **reset**. Don't start any **reset** once the power is pluged and the router still in the boot up stage. It will leads you to the uboot failsafe mode.
+
 ## Repair network
 
 Press and hold the reset button for **4 seconds** then release to repair your network.
