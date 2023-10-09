@@ -68,9 +68,8 @@ If you have any problem in the setup of OpenVPN, please contact [support@glinet.
 
 Recommended:
 
-<div id="nordvpn"></div>
-
 ??? "NordVPN"
+    ### NordVPN
 
     [Official Website](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=12016&amp;url_id=902){target="_blank"}
 
@@ -100,9 +99,8 @@ Recommended:
 
     You can also use [mobile app](../mobile_app) to setup NordVPN.
 
-<div id="pia"></div>
-
 ??? "PIA (Private Internet Access)"
+    ### PIA (Private Internet Access)
 
     [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
 
@@ -110,9 +108,8 @@ Recommended:
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
-<div id="surfshark"></div>
-
 ??? "Surfshark"
+    ### Surfshark
 
     [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
 
@@ -140,9 +137,8 @@ Recommended:
 
     [Refer link](https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-){target="_blank"}
 
-<div id="purevpn"></div>
-
 ??? "PureVPN"
+    ### PureVPN
 
     [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
 
@@ -154,9 +150,8 @@ Recommended:
 
     GL.iNet routers don't support the [dedicated IP](https://www.purevpn.com/dedicated-ip){target="_blank"} feature of PureVPN, because it needs PPTP.
 
-<div id="torguard"></div>
-
 ??? "TorGuard"
+    ### TorGuard
 
     [Official Website](https://torguard.net/aff.php?aff=3040){target="_blank"}
 
@@ -172,10 +167,8 @@ Recommended:
 
         ![torguard vpn username vpn password](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow" width="700"}
 
-
-<div id="privatevpn"></div>
-
 ??? "PrivateVPN"
+    ### PrivateVPN
 
     [Official Website](https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3){target="_blank"}
 
@@ -183,9 +176,8 @@ Recommended:
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
-<div id="protonvpn"></div>
-
 ??? "Proton VPN"
+    ### Proton VPN
 
     [Official Website](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}
 
@@ -203,10 +195,8 @@ Recommended:
 
         ![protonvpn openvpn credential](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/protonvpn/protonvpn_openvpn_credential.jpg){class="glboxshadow"}
 
-
-<div id="expressvpn"></div>
-
 ??? "ExpressVPN"
+    ### ExpressVPN
 
     [Official Website](https://go.expressvpn.com/c/4130682/1645813/16063){target="_blank"}
 
@@ -238,9 +228,8 @@ Recommended:
 
 Others:
 
-<div id="airvpn"></div>
-
 ??? "AirVPN"
+    ### AirVPN
 
     [Official Website](https://airvpn.org/?referred_by=402389){target="_blank"}
 
@@ -256,10 +245,8 @@ Others:
 
         ![download config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/airvpn/airvpn3.png){class="glboxshadow"}
 
-
-<div id="astrill"></div>
-
-??? "Astrill"
+??? "Astrill" 
+    ### Astrill
 
     [Official Website](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}
 
@@ -281,10 +268,8 @@ Others:
 
         ![download certificate](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/astrillvpn/astrill4.png){class="glboxshadow"}
 
-
-<div id="bolevpn"></div>
-
 ??? "bolehvpn"
+    ### bolehvpn
 
     [Official Website](https://www.bolehvpn.net/){target="_blank"}
 
@@ -294,10 +279,8 @@ Others:
 
     [Refer link](https://www.bolehvpn.net/clients-installations/#1487691248224-0c435dba-d612){target="_blank"}
 
-
-<div id="cactusvpn"></div>
-
 ??? "CactusVPN"
+    ### CactusVPN
 
     [Official Website](https://billing.cactusvpn.com/aff.php?aff=2310){target="_blank"}
 
@@ -305,19 +288,15 @@ Others:
 
     ![download cactusvpn openvpn profiles](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cactusvpn/cactusvpn1.jpg){class="glboxshadow"}
 
-
-<div id="cryptostorm"></div>
-
 ??? "Cryptostorm"
+    ### Cryptostorm
 
     [Official Website](https://cryptostorm.is/){target="_blank"}
 
     [Download](https://cryptostorm.is/configs/ecc/){target="_blank"} directly.
 
-
-<div id="cyberghost"></div>
-
 ??? "CyberGhost"
+    ### CyberGhost
 
     [Official Website](https://www.cyberghostvpn.com/offer/GLiNet_rem6fdij){target="_blank"}
 
@@ -359,10 +338,8 @@ Others:
 
         ![save config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/cyberghost/cyberghost5.png){class="glboxshadow"}
 
-
-<div id="fastestvpn"></div>
-
 ??? "FastestVPN"
+    ### FastestVPN
 
     [Official Website](https://go.fastestvpn.com/affiliate/pap?a_aid=5ffd2a3e9d687){target="_blank"}
 
@@ -372,9 +349,8 @@ Others:
 
     [Refer link](https://support.fastestvpn.com/tutorials/routers/gl-inet/openvpn){target="_blank"}
 
-<div id="finchvpn"></div>
-
 ??? "FinchVPN"
+    ### FinchVPN
 
     [Official Website](https://www.finchvpn.com/){target="_blank"}
 
@@ -398,9 +374,8 @@ Others:
 
         ![finchvpn](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/finchvpn/finchvpn5.jpg){class="glboxshadow"}
 
-<div id="hideipvpn"></div>
-
 ??? "HideIPVPN"
+    ### HideIPVPN
 
     [Official Website](https://www.hideipvpn.com/){target="_blank"}
 
@@ -418,9 +393,8 @@ Others:
 
         ![hideipvpn client area](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/hideipvpn/openvpn_config_files.jpg){class="glboxshadow"}
 
-<div id="hidemevpn"></div>
-
 ??? "Hide.me VPN"
+    ### Hide.me VPN
 
     [Official Website](https://hide.me/?friend=glinet){target="_blank"}
 
@@ -430,9 +404,8 @@ Others:
 
         ![hide.me vpn dashboard](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/hideme/hideme_dashboard.jpg){class="glboxshadow"}
 
-<div id="hidemyass"></div>
-
 ??? "HideMyAss"
+    ### HideMyAss
 
     [Official Website](https://click.hmavpn.com/aff_c?offer_id=1&aff_id=861){target="_blank"}
 
@@ -440,9 +413,8 @@ Others:
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
-<div id="ipvanish"></div>
-
 ??? "IPVANISH"
+    ### IPVANISH
 
     [Official Website](https://www.ipvanish.com/){target="_blank"}
 
@@ -456,10 +428,8 @@ Others:
 
     [Refer link](https://support.ipvanish.com/hc/en-us/articles/360001329813-Android-OpenVPN-Setup)
 
-
-<div id="ivacy"></div>
-
 ??? "IVACY"
+    ### IVACY
 
     [Official Website](https://billing.ivacy.com/page/22852){target="_blank"}
 
@@ -469,10 +439,8 @@ Others:
 
     [Refer link](https://support.ivacy.com/setup_guide/how-to-setup-ivacy-on-gl-inet-router/)
 
-
-<div id="ivpn"></div>
-
 ??? "IVPN"
+    ### IVPN
 
     [Official Website](https://www.ivpn.net/){target="_blank"}
 
@@ -486,10 +454,8 @@ Others:
 
     [Refer link](https://www.ivpn.net/setup/gnu-linux-terminal.html)
 
-
-<div id="ovpn"></div>
-
 ??? "OVPN"
+    ### OVPN
 
     [Official Website](https://www.ovpn.com/en?ref=glinet){target="_blank"}
     
@@ -503,9 +469,8 @@ Others:
 
     The username and password are the same you login OVPN.
 
-<div id="privadovpn"></div>
-
 ??? "PrivadoVPN"
+    ### PrivadoVPN
 
     [Official Website](https://privadovpn.com/#a_aid=GLINET){target="_blank"}
 
@@ -515,9 +480,8 @@ Others:
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
-<div id="safervpn"></div>
-
 ??? "SaferVPN"
+    ### SaferVPN
 
     [Official Website](https://safervpn.com/?a_aid=563){target="_blank"}
 
@@ -558,9 +522,8 @@ Others:
 
         ![troubleshooting](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/starvpn/troubleshooting.jpg){class="glboxshadow"} -->
 
-<div id="streamvpn"></div>
-
 ??? "StreamVPN"
+    ### StreamVPN
 
     [Official Website](https://billing.streamvpn.com/account/signup?aff_t=aaf341756f7b94ed3f040f78292b80f1db1adf3318eacb87dd9c4ad4e08fde11a%3A2%3A%7Bs%3A6%3A%22aff_id%22%3Bs%3A6%3A%22645311%22%3Bs%3A6%3A%22off_id%22%3Bi%3A10%3B%7D){target="_blank"}
 
@@ -574,9 +537,8 @@ Others:
 
     **Note:** Only the configuration file name contains "Primary" work.
 
-<div id="strongvpn"></div>
-
 ??? "StrongVPN"
+    ### StrongVPN
 
     [Official Website](https://strongvpn.com/?tr_aid=5ac44bd241ca7){target="_blank"}
 
@@ -588,10 +550,8 @@ Others:
 
         ![strongvpn get config](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_02.jpg){class="glboxshadow"}
 
-
-<div id="vpnac"></div>
-
 ??? "VPN.AC"
+    ### VPN.AC
 
     [Official Website](https://vpn.ac/aff.php?aff=1424){target="_blank"}
 
@@ -599,9 +559,8 @@ Others:
 
     <img class="glboxshadow" alt="vpn.ac donwoad configuration" src="https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpn.ac/vpn.ac1.png" />
 
-<div id="vpngate"></div>
-
 ??? "VPNGate"
+    ### VPNGate
 
     [Official Website](https://www.vpngate.net/en/){target="_blank"}
 
@@ -615,10 +574,8 @@ Others:
 
         ![VPNGate download page](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpngate/vpngate2.png){class="glboxshadow"}
 
-
-<div id="vpnunlimited"></div>
-
 ??? "VPN Unlimited(KeepSolid)"
+    ### VPN Unlimited(KeepSolid)
 
     [Official Website](https://keepsolid.g2afse.com/click?pid=270&offer_id=7){target="_blank"}
 
@@ -648,18 +605,15 @@ Others:
 
         ![vpn unlimited generate configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/vpnunlimited/keepsolid3.png){class="glboxshadow"}
 
-
-<div id="vyprvpn"></div>
-
 ??? "VyprVPN"
+    ### VyprVPN
 
     VyprVPN offers the OpenVPN files here: [Where can I find the OpenVPN files? – VyprVPN Support](https://support.vyprvpn.com/hc/en-us/articles/360038096131-Where-can-I-find-the-OpenVPN-files-){target="_blank"}
 
     The provided zip file contains two folders with the .ovpn files. One called OpenVPN160 one OpenVPN256. Just delete the OpenVPN160 folder from the zip file then upload it to GL.iNet router as usual.
 
-<div id="zoogvpn"></div>
-
 ??? "ZoogVPN"
+    ### ZoogVPN
 
     [Official Website](https://zoogvpn.com/pricing?ref=xrsyzx){target="_blank"}
 

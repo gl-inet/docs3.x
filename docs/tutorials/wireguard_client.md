@@ -78,9 +78,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
 ## Get configuration files from WireGuard service providers
 
-<div id="azirevpn"></div>
-
 ??? "AzireVPN"
+    ### AzireVPN
 
     [Official Website](https://www.azirevpn.com/aff/9x7wisg4){target="_blank"}
 
@@ -96,9 +95,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. You can also use [mobile app](../mobile_app) to setup AzireVPN.
 
-<div id="mullvad"></div>
-
 ??? "Mullvad"
+    ### Mullvad
 
     [Official Website](https://mullvad.net/){target="_blank"}
 
@@ -108,9 +106,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     3. You can also use [mobile app](../mobile_app) to setup Mullvad.
 
-<div id="ovpn"></div>
-
 ??? "OVPN"
+    ### OVPN
 
     [Official Website](https://www.ovpn.com/en?ref=glinet){target="_blank"}
 
@@ -132,9 +129,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     5. You can also use <a href="../mobile_app">mobile app</a> to setup OVPN.
 
-<div id="torguard"></div>
-
 ??? "TorGuard"
+    ### TorGuard
 
     [Official Website](https://torguard.net/aff.php?aff=3040){target="_blank"}
 
@@ -154,9 +150,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup TorGuard.
 
-<div id="surfshark"></div>
-
 ??? "Surfshark"
+    ### Surfshark
 
     [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
 
@@ -182,9 +177,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link](https://support.surfshark.com/hc/en-us/articles/6585805139474-How-to-set-up-a-manual-WireGuard-connection-on-Android-){target="_blank"}
 
-<div id="vpnac"></div>
-
 ??? "VPN.AC"
+    ### VPN.AC
 
     [Official Website](https://vpn.ac/aff.php?aff=1424){target="_blank"}
 
@@ -198,9 +192,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="strongvpn"></div>
-
 ??? "StrongVPN"
+    ### StrongVPN
 
     [Official Website](https://strongvpn.com/?tr_aid=5ac44bd241ca7){target="_blank"}
 
@@ -214,9 +207,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. You can also use <a href="../mobile_app">mobile app</a> to setup StrongVPN.
 
-<div id="windscribe"></div>
-
 ??? "Windscribe"
+    ### Windscribe
 
     [Official Website](https://windscribe.com/yo/1u2h9ndl){target="_blank"}
 
@@ -226,9 +218,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="privatevpn"></div>
-
 ??? "PrivateVPN"
+    ### PrivateVPN
 
     [Official Website](https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3){target="_blank"}
 
@@ -246,10 +237,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. Then follow the [guide](#setup-wireguard-client) to continue.
 
-
-<div id="pia"></div>
-
 ??? "PIA (Private Internet Access)"
+    ### PIA (Private Internet Access)
 
     [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
 
@@ -257,9 +246,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Fc7NTdQ9QFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div id="airvpn"></div>
-
 ??? "AirVPN"
+    ### AirVPN
 
     [Official Website](https://airvpn.org/?referred_by=402389){target="_blank"}
 
@@ -277,9 +265,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="proton"></div>
-
 ??? "Proton VPN"
+    ### Proton VPN
 
     [Official Website](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}
 
@@ -287,9 +274,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="astrill"></div>
-
 ??? "Astrill"
+    ### Astrill
 
     [Official Website](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}
 
@@ -297,9 +283,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="vpnunlimited"></div>
-
 ??? "VPN Unlimited(KeepSolid)"
+    ### VPN Unlimited(KeepSolid)
 
     [Official Website](https://keepsolid.g2afse.com/click?pid=270&offer_id=7){target="_blank"}
 
@@ -337,10 +322,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link 2](https://www.vpnunlimited.com/help/manuals/wireguard/windows){target="_blank"}
 
-
-<div id="12vpx"></div>
-
 ??? "12VPX"
+    ### 12VPX
 
     [Official Website](https://12vpx.com/?aff=1174){target="_blank"}
 
@@ -348,10 +331,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-
-<div id="ivpn"></div>
-
 ??? "IVPN"
+    ### IVPN
 
     [Official Website](https://www.ivpn.net/){target="_blank"}
 
@@ -361,10 +342,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-
-<div id="trustzone"></div>
-
 ??? "TRUST.ZONE"
+    ### TRUST.ZONE
 
     [Official Website](https://trust.zone/){target="_blank"}
 
@@ -374,9 +353,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="anonine"></div>
-
 ??? "ANONINE"
+    ### ANONINE
 
     [Official Website](https://anonine.com/){target="_blank"}
 
@@ -386,10 +364,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-
-<div id="nvpn"></div>
-
 ??? "NVPN"
+    ### NVPN
 
     [Official Website](https://www.nvpn.net/){target="_blank"}
 
@@ -397,9 +373,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-<div id="starvpn"></div>
-
 ??? "StarVPN"
+    ### StarVPN
 
     [Official Website](https://www.starvpn.com/dashboard/aff.php?aff=91){target="_blank"}
 
@@ -421,9 +396,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link](https://www.starvpn.com/wireguard-setup-on-gl-inet-router/){target="_blank"}
 
-<div id="purevpn"></div>
-
 ??? "PureVPN"
+    ### PureVPN
 
     [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
 
@@ -431,9 +405,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     **Note**: Please make sure to copy the file and activate the connection within 30 minutes once the profile is downloaded, otherwise the configuration will expire and you will have to redownload a fresh configuration file.
 
-<div id="hidemevpn"></div>
-
 ??? "Hide.me VPN"
+    ### Hide.me VPN
 
     [Official Website](https://hide.me/?friend=glinet){target="_blank"}
 
@@ -453,9 +426,8 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link](https://github.com/eventure/hide.client.routers){target="_blank"}
 
-<div id="spidervpn"></div>
-
 ??? "SpiderVPN"
+    ### SpiderVPN
 
     [Official Website](https://spidervpn.org/#a_aid=5ddfa0372e7ff){target="_blank"}
 
