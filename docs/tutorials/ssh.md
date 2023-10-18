@@ -82,7 +82,7 @@ If you have ever connected to another router, host key verification failed may d
 
 If this happens, run the command in the red box. Please copy the exact command which is displayed in your terminal.
 
-`ssh-kengen -f "~/.ssh/known_hosts" -R "192.168.8.1"`
+`ssh-keygen -f "~/.ssh/known_hosts" -R "192.168.8.1"`
 
 ![ssh update known_hosts](https://static.gl-inet.com/docs/en/2.x/app/src/ssh/Removed-Host-keygen.png){class="glboxshadow"}
 
