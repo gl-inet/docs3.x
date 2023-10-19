@@ -56,7 +56,7 @@ Our web page only supports few EAP types for now so you may need to connect via 
 
 ### 1. Visit the LuCI page
 
-Please [login to LuCI](../../tutorials/what_is_luci/).
+Please [login to LuCI](../tutorials/what_is_luci.md).
 
 ### 2. Connect to EAP Wi-Fi
 

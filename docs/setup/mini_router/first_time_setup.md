@@ -24,14 +24,14 @@ Plug the Micro USB power cable into the power port of the router. Make sure you 
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
-*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
+*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
 ![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/connect.jpg){class="glboxshadow"}
 
-*Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN by default. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](../internet#1-cable) so that you can connect to it via Ethernet cable.*
+*Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN by default. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](internet.md#1-cable) so that you can connect to it via Ethernet cable.*
 
 ### Connect via Wi-Fi
 

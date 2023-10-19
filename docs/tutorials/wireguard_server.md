@@ -8,11 +8,11 @@ GL.iNet routers have pre-installed WireGuard Server and Client.
 
 ## Make sure Internet Service Provider assigns you a public IP address
 
-Please check if you Internet Service Provider assigns you a public IP address [here](../how_to_check_if_isp_assigns_you_a_public_ip_address).
+Please check if you Internet Service Provider assigns you a public IP address [here](how_to_check_if_isp_assigns_you_a_public_ip_address.md).
 
 **If no, you can't connect to the WireGuard Server.**
 
-An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com){target="_blank"}, check the tutorial [here](../set_up_wireguard_server_via_astrorelay).
+An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com){target="_blank"}, check the tutorial [here](set_up_wireguard_server_via_astrorelay.md).
 
 ## Network Topology
 
@@ -71,7 +71,7 @@ There are several common reasons cause failed:
 
 ### If your public IP address is dynamic
 
-Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](../ddns), then edit the configuration to replace public IP address with your DDNS url.
+Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](ddns.md), then edit the configuration to replace public IP address with your DDNS url.
 
 1. Copy the content of the configuration to a text editor(e.g. [Atom](https://atom.io/){target="_blank"}, [Sublime](https://www.sublimetext.com/){target="_blank"}).
 2. Edit the configuration to replace DDNS url with your public IP address.
@@ -97,7 +97,7 @@ We can use another GL.iNet router as WireGuard Client, or use their official app
 
 Related Articles
 
-- [How to visit WireGuard client LAN side from Server](../wireguard_server_access_to_client_lan_side)
+- [How to visit WireGuard client LAN side from Server](wireguard_server_access_to_client_lan_side.md)
 
 ---
 

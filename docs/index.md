@@ -360,7 +360,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
   </ol>
 </details>
 
-[For more FAQ](troubleshooting/faq/)
+[For more FAQ](troubleshooting/faq.md)
 
 ## Tools
 

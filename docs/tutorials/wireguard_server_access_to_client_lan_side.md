@@ -6,7 +6,7 @@
 
 1. Change WireGuard client LAN IP to **192.168.10.1** avoid IP confliction with Server.
 
-2. [SSH](../ssh) into your the WireGuard Server (GL-AX1800) find and modify the file.
+2. [SSH](ssh.md) into your the WireGuard Server (GL-AX1800) find and modify the file.
 
         cat /etc/config/wireguard_server
 

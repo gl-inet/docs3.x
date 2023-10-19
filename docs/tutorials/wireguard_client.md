@@ -6,7 +6,7 @@ GL.iNet routers have pre-installed WireGuard Client and Server.
 
 If you have already bought WireGuard service from a provider, but you don't know how to get the configuration files, please refer to [get configuration files from WireGuard service providers](#get-configuration-files-from-wireguard-service-providers) or ask its support.
 
-You can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, TorGuard VPN, OVPN, StrongVPN, PIA VPN, SpiderVPN.
+You can setup WireGuard Client via web Admin Panel and [mobile app](mobile_app.md). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, TorGuard VPN, OVPN, StrongVPN, PIA VPN, SpiderVPN.
 
 For setup via web Admin Panel, please follow the guide below.
 
@@ -74,7 +74,7 @@ There is a video tutorial, please check out [here](#video-tutorial).
 
 ## Setup WireGuard server on GL.iNet router
 
-You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet router to set as WireGuard client. For setup WireGuard server, please check out [here](../wireguard_server).
+You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet router to set as WireGuard client. For setup WireGuard server, please check out [here](wireguard_server.md).
 
 ## Get configuration files from WireGuard service providers
 
@@ -93,7 +93,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
-    4. You can also use [mobile app](../mobile_app) to setup AzireVPN.
+    4. You can also use [mobile app](mobile_app.md) to setup AzireVPN.
 
 ??? "Mullvad"
     ### Mullvad
@@ -104,7 +104,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     2. Then follow the [guide](#setup-wireguard-client) to continue.
 
-    3. You can also use [mobile app](../mobile_app) to setup Mullvad.
+    3. You can also use [mobile app](mobile_app.md) to setup Mullvad.
 
 ??? "OVPN"
     ### OVPN
@@ -127,7 +127,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
     
     4. Then follow the [guide](#setup-wireguard-client) to continue.
 
-    5. You can also use <a href="../mobile_app">mobile app</a> to setup OVPN.
+    5. You can also use [mobile app](mobile_app.md) to setup OVPN.
 
 ??? "TorGuard"
     ### TorGuard
@@ -148,7 +148,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
-    4. You can also use <a href="../mobile_app">mobile app</a> to setup TorGuard.
+    4. You can also use [mobile app](mobile_app.md) to setup TorGuard.
 
 ??? "Surfshark"
     ### Surfshark
@@ -205,7 +205,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
     
     3. Then follow the [guide](#setup-wireguard-client) to continue.
 
-    4. You can also use <a href="../mobile_app">mobile app</a> to setup StrongVPN.
+    4. You can also use [mobile app](mobile_app.md) to setup StrongVPN.
 
 ??? "Windscribe"
     ### Windscribe
@@ -242,7 +242,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
 
-    It can't downlaod the WireGuard configs from its website, please use [mobile app](../mobile_app) to setup PIA VPN.
+    It can't downlaod the WireGuard configs from its website, please use [mobile app](mobile_app.md) to setup PIA VPN.
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Fc7NTdQ9QFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

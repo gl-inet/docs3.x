@@ -62,7 +62,7 @@ Note: If you have questions about versions, please ask here or in the forum.
 
 All the firmwares is available at [here](https://dl.gl-inet.com/). Select your device model and select the type to `tor`. Download the latest firmware.
 
-You need to refer to [Setup](../../setup/mini_router/first_time_setup/) for instructions to flash the firmware to the router. 
+You need to refer to [Setup](../setup/mini_router/first_time_setup.md) for instructions to flash the firmware to the router. 
 
 ## Using the firmware UI
 

@@ -18,7 +18,7 @@ Microuter can be powered up with a computer, power bank, or any power adapter wi
 
 You can connect to the router via USB Ethernet or Wi-Fi.
 
-*Note: This step only connects your devices to the local are network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
+*Note: This step only connects your devices to the local are network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 ### Connect via USB Ethernet
 

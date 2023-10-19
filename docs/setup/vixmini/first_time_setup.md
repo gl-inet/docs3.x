@@ -16,7 +16,7 @@ Plug the Micro USB power cable into the power port of the router. Make sure you 
 
 You can connect to the router via Wi-Fi.
 
-*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
+*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 ### Connect via Wi-Fi 
 
@@ -26,7 +26,7 @@ Search for the SSID of the router in your device and input the default password:
 
 - **VIXMINI-XXX**
 
-*Note: **VIXMINI** has only 1 Ethernet port which works as WAN. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](../internet#1-cable) so that you can connect to it via LAN.*
+*Note: **VIXMINI** has only 1 Ethernet port which works as WAN. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](internet.md#1-cable) so that you can connect to it via LAN.*
 
 ## 3. Access the web Admin Panel
 

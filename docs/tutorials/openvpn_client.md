@@ -4,11 +4,11 @@ OpenVPN is an open-source VPN protocol that makes use of virtual private network
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
-We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Client, please check out [here](../wireguard_client).
+We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Client, please check out [here](wireguard_client.md).
 
 If you have already bought OpenVPN service from a provider, but don't know how to get the configuration file, please refer to [get configuration files from OpenVPN service providers](#get-configuration-files-from-openvpn-service-providers) or ask its support.
 
-We can setup OpenVPN Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated NordVPN.
+We can setup OpenVPN Client via web Admin Panel and [mobile app](mobile_app.md). For the mobile app, it has already integrated NordVPN.
 
 ## Setup OpenVPN Client
 
@@ -58,7 +58,7 @@ Click **Management** to check the list of configuration files. You can modify th
 
 ## Setup OpenVPN server on GL.iNet router
 
-You can get a GL.iNet router to set as OpenVPN server, and get another GL.iNet router to set as OpenVPN client. For setup OpenVPN server, please check out [here](../openvpn_server).
+You can get a GL.iNet router to set as OpenVPN server, and get another GL.iNet router to set as OpenVPN client. For setup OpenVPN server, please check out [here](openvpn_server.md).
 
 ## Get configuration files from OpenVPN service providers
 
@@ -87,7 +87,7 @@ Recommended:
 
     2. **Choose a NordVPN server**
 
-        Go to [NordVPN recommended server utility here](https://nordvpn.com/servers/tools/){target="_blank"}. It will recommend a server base on your network, click **Show available protocols** to download the UDP or TCP config. Click [here](../openvpn_tcp_udp/) to see the difference.
+        Go to [NordVPN recommended server utility here](https://nordvpn.com/servers/tools/){target="_blank"}. It will recommend a server base on your network, click **Show available protocols** to download the UDP or TCP config. Click [here](openvpn_tcp_udp.md) to see the difference.
 
         ![nordvpn server utility](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/nordvpn/nordvpn_server_utility.png){class="glboxshadow"}
 
@@ -97,7 +97,7 @@ Recommended:
 
     [Refer link](https://support.nordvpn.com/Connectivity/Router/1047409122/GL-iNet-setup-with-NordVPN.htm){target="_blank"}
 
-    You can also use [mobile app](../mobile_app) to setup NordVPN.
+    You can also use [mobile app](mobile_app.md) to setup NordVPN.
 
 ??? "PIA (Private Internet Access)"
     ### PIA (Private Internet Access)
@@ -127,7 +127,7 @@ Recommended:
 
         ![surfshark locations](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/surfshark/surfshark_locations.png){class="glboxshadow"}
 
-        It will ask to choose TCP or UDP. Click [here](../openvpn_tcp_udp/) to see the difference.
+        It will ask to choose TCP or UDP. Click [here](openvpn_tcp_udp.md) to see the difference.
 
         ![surfshark tcp udp](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_client/surfshark/surfshark_udp_tcp.png){class="glboxshadow" width="400"}
 
@@ -181,7 +181,7 @@ Recommended:
 
     [Official Website](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}
 
-    **Proton VPN has WireGuard service, we recommend to use WireGuard, checkout [here](../wireguard_client/#wireguard-providers)**.
+    **Proton VPN has WireGuard service, we recommend to use WireGuard, checkout [here](wireguard_client.md#wireguard-providers)**.
 
     1. Login your [Proton VPN](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"} account.
 

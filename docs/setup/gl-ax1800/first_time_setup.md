@@ -18,7 +18,7 @@ Plug the power cable into the power port of the router. Make sure you are using 
 
 You can connect to the router via Ethernet cable.
 
-*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
+*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 Or you can initialize via mobile app, please access [this](https://www.gl-inet.com/app/){target="_blank"} to get the app.
 
@@ -30,7 +30,7 @@ Connect your device to the LAN port of the router via Ethernet cable.
 
 ### Connect via Wi-Fi
 
-**Note:** The new version of GL-AX1800, if its firmware version is 3.213 or higher, it is possible to search the SSID when it is set up for the first time. Learn more about [How can I tell if GL-AX1800 is a new version or an old version?](../../../tutorials/gl-ax1800_new_vs_old_version)
+**Note:** The new version of GL-AX1800, if its firmware version is 3.213 or higher, it is possible to search the SSID when it is set up for the first time. Learn more about [How can I tell if GL-AX1800 is a new version or an old version?](../../tutorials/gl-ax1800_new_vs_old_version.md)
 
 Search for the SSID of the router in your device and input the password.
 

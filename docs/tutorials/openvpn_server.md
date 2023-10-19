@@ -4,17 +4,17 @@ OpenVPN is an open-source VPN protocol that makes use of virtual private network
 
 GL.iNet routers have pre-installed OpenVPN Client and Server.
 
-We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Server, please check out [here](../wireguard_server).
+We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Server, please check out [here](wireguard_server.md).
 
 ---
 
 ## Make sure Internet Service Provider assigns you a public IP address
 
-Please check if you Internet Service Provider assigns you a public IP address [here](../how_to_check_if_isp_assigns_you_a_public_ip_address).
+Please check if you Internet Service Provider assigns you a public IP address [here](how_to_check_if_isp_assigns_you_a_public_ip_address.md).
 
 **If no, you can't connect to the OpenVPN Server.**
 
-An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}, check the tutorial [here](../set_up_openvpn_server_via_astrorelay).
+An alternative method is to use a reverse proxy solution, we suggest [AstroRelay](https://www.astrorelay.com/){target="_blank"}, check the tutorial [here](set_up_openvpn_server_via_astrorelay.md).
 
 ## Network Topology
 
@@ -71,7 +71,7 @@ There are several common reasons cause failed:
 
 ### If your public IP address is dynamic
 
-Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](../ddns), then edit the configuration to replace DDNS url with your public IP address.
+Some Internet Service Providers may change your IP address sometimes. To overcome this, enable the [DDNS](ddns.md), then edit the configuration to replace DDNS url with your public IP address.
 
 1. Open the configuration file(.ovpn) with a text editor(e.g. [Atom](https://atom.io/){target="_blank"}, [Sublime](https://www.sublimetext.com/){target="_blank"}).
 2. Edit the configuration to replace DDNS url with your public IP address.

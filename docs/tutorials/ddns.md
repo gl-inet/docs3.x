@@ -21,7 +21,7 @@ The DDNS domain printed on the back label of router has changed. If your DDNS ur
 
 DDNS update frequency is once every 10 minutes.
 
-**Note**: If the DDNS and VPN Client(OpenVPN Client or WireGuard Client) connection are both enabled at the same time, the DDNS url will map to the IP address of VPN, so please enable the [VPN Policies](../vpn_policies) and disable the **Use VPN for all process on the router**.
+**Note**: If the DDNS and VPN Client(OpenVPN Client or WireGuard Client) connection are both enabled at the same time, the DDNS url will map to the IP address of VPN, so please enable the [VPN Policies](vpn_policies.md) and disable the **Use VPN for all process on the router**.
 
 ## Check if DDNS is enabled
 
@@ -35,7 +35,7 @@ The output above means the DDNS url has maped to a IP address.
 
 ## HTTP Remote Access
 
-This function requires a public IP address. To check if your Internet Provider Service assign your a public IP address, please check [here](../how_to_check_if_isp_assigns_you_a_public_ip_address/).
+This function requires a public IP address. To check if your Internet Provider Service assign your a public IP address, please check [here](how_to_check_if_isp_assigns_you_a_public_ip_address.md).
 
 If your router is behind NAT, you may need to set up port forward in higher level router. It use port 80.
 
@@ -49,7 +49,7 @@ After you enable HTTP Remote Access, you can access Admin Panel anywhere by your
 
 ## HTTPS Remote Access
 
-This function requires a public IP address. To check if your Internet Provider Service assign your a public IP address, please check [here](../how_to_check_if_isp_assigns_you_a_public_ip_address/).
+This function requires a public IP address. To check if your Internet Provider Service assign your a public IP address, please check [here](how_to_check_if_isp_assigns_you_a_public_ip_address.md).
 
 If your router is behind NAT, you may need to set up port forward in higher level router. It use port 443.
 
@@ -69,7 +69,7 @@ After you enable HTTPS Remote Access, you can access Admin Panel anywhere by you
 
 ## SSH Remote Access
 
-This function requires a public IP address. To check if your Internet Provider Service assign your a public IP address, please check [here](../how_to_check_if_isp_assigns_you_a_public_ip_address/).
+This function requires a public IP address. To check if your Internet Provider Service assign your a public IP address, please check [here](how_to_check_if_isp_assigns_you_a_public_ip_address.md).
 
 If your router is behind NAT, you may need to set up port forward in higher level router. It use port 22.
 

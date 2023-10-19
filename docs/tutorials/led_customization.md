@@ -2,7 +2,7 @@
  
 Support models: GL-AR150 series, GL-AR300 series, GL-MT300N-V2.
 
-To configure the LED of GL.iNet routers, please [login to LuCI](../what_is_luci/).
+To configure the LED of GL.iNet routers, please [login to LuCI](what_is_luci.md).
 
 Then please choose **System** > **LED Configuration**.
 

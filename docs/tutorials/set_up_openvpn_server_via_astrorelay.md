@@ -4,7 +4,7 @@ Scenario: If you want to set up OpenVPN server in GL.iNet router at home/office 
 
 [AstroRelay](https://www.astrorelay.com){target="_blank"} can provide a secure reverse proxy tunnel, which you can access your resources behind NAT and firewall.
 
-1. Follow the guide [here](../openvpn_server) to set up OpenVPN server and ignoring that your don't have a public IP address. Please enalbe **Allow Access Local Network**.
+1. Follow the guide [here](openvpn_server.md) to set up OpenVPN server and ignoring that your don't have a public IP address. Please enalbe **Allow Access Local Network**.
 
     ![set up openvpnd server](https://static.gl-inet.com/docs/en/3/tutorials/set_up_openvpn_server_via_astrorelay/start_ovpn_server.jpg){class="glboxshadow"}
 

@@ -10,13 +10,13 @@ VPN(virtual private network), it creates a secure tunnel for your data between y
 
 GL.iNet router has pre-installed two VPN protocols: WireGuard and OpenVPN. There are many [articles talk about their comparison](https://www.google.com/search?q=openvpn+vs+wireguard&sxsrf=AOaemvLFXOIOcZPQ9hw26cc31ar0Yac1tA%3A1633663082696&ei=arhfYa33KaqIwbkPuJGAwAE&ved=0ahUKEwit1Oed7bnzAhUqRDABHbgIABgQ4dUDCA4&oq=openvpn+vs+wireguard&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQAFgAYKYjaABwAngAgAEAiAEAkgEAmAEA&sclient=gws-wiz){target="_blank"}, it depends on your personal choice.
 
-For WireGuard, there are [some WireGuard service providers](../wireguard_client#wireguard-providers) we haved tested, then please refer to [Setup WireGuard Client](../wireguard_client).
+For WireGuard, there are [some WireGuard service providers](wireguard_client.md#wireguard-providers) we haved tested, then please refer to [Setup WireGuard Client](wireguard_client.md).
 
-For OpenVPN, there are [some OpenVPN service providers](../openvpn_client/#get-your-configuration-file) we have tested, then please refer to [Setup OpenVPN Client](../openvpn_client).
+For OpenVPN, there are [some OpenVPN service providers](openvpn_client.md#get-your-configuration-file) we have tested, then please refer to [Setup OpenVPN Client](openvpn_client.md).
 
 When the VPN is connecting, make sure your current IP address is the VPN provider's IP address.
 
-For make sure you always using VPN connect to Internet, please [Enable Internet Kill Switch](../internet_kill_switch).
+For make sure you always using VPN connect to Internet, please [Enable Internet Kill Switch](internet_kill_switch.md).
 
 ## DNS leak test
 
@@ -30,7 +30,7 @@ Access [dnsleaktest](https://www.dnsleaktest.com) to do a **Standard test**, if 
 
 ## Setup DNS encryption on GL.iNet routers
 
-If you have DNS leak issue, please follow [this tutorial](../how_to_use_cloudflare_dns_over_tls_on_glinet_router) to setup Clourflare DNS over TLS on GL.iNet router.
+If you have DNS leak issue, please follow [this tutorial](how_to_use_cloudflare_dns_over_tls_on_glinet_router.md) to setup Clourflare DNS over TLS on GL.iNet router.
 
 After setup then do DNS leak test again, you can find the Cloudflare on ISP column, that indicates the DNS leak issue has been solved.
 

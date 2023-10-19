@@ -6,15 +6,15 @@ GL.iNet routers have pre-installed VPN server and client in OpenVPN and WireGuar
 
 Please refer to the links below for the detailed setup instruction:
 
-- [**Setup OpenVPN Client**](../../../tutorials/openvpn_client/)
-- [**Setup OpenVPN Server**](../../../tutorials/openvpn_server/)
+- [**Setup OpenVPN Client**](../../tutorials/openvpn_client.md)
+- [**Setup OpenVPN Server**](../../tutorials/openvpn_server.md)
 
 ## WireGuard
 
 Please refer to the links below for the detailed setup instruction:
 
-- [**Setup WireGuard Client**](../../../tutorials/wireguard_client/)
-- [**Setup WireGuard Server**](../../../tutorials/wireguard_server/)
+- [**Setup WireGuard Client**](../../tutorials/wireguard_client.md)
+- [**Setup WireGuard Server**](../../tutorials/wireguard_server.md)
 
 ---
 
@@ -22,7 +22,7 @@ Please refer to the links below for the detailed setup instruction:
 
 Please refer to the link below for the detailed setup instruction:
 
-- [**Internet Kill Switch**](../../../tutorials/internet_kill_switch/)
+- [**Internet Kill Switch**](../../tutorials/internet_kill_switch.md)
 
 ---
 
@@ -30,4 +30,4 @@ Please refer to the link below for the detailed setup instruction:
 
 Please refer to the link below for the detailed setup instruction:
 
-- [**VPN Policies**](../../../tutorials/vpn_policies/)
+- [**VPN Policies**](../../tutorials/vpn_policies.md)

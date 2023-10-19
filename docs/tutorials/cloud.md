@@ -319,7 +319,7 @@ Senerio 3: A family has IP camera and when they are not at home, the Site to Sit
 
 ### Conditions
 
-It requires at least two routers, each in a different location, one of which has a public IP address. Please [check if your ISP assigns you a public IP address](../how_to_check_if_isp_assigns_you_a_public_ip_address). It requires firmware version 3.026 and above.
+It requires at least two routers, each in a different location, one of which has a public IP address. Please [check if your ISP assigns you a public IP address](how_to_check_if_isp_assigns_you_a_public_ip_address.md). It requires firmware version 3.026 and above.
 
 Note: It is not recommended to run Site to Site while its nodes are also running VPN client, which can make the network particularly complex.
 

@@ -83,7 +83,7 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 ![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/smb1.0.png){class="glboxshadow"}
 
-1). [SSH](../ssh/) into your router, you can gain control of both the router and the network that the rotuer is controlling.
+1). [SSH](ssh.md) into your router, you can gain control of both the router and the network that the rotuer is controlling.
 
 2). Modify the Samba configuration file, type the following command:
 
@@ -105,7 +105,7 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 **1)** Your network must be Home/Private. Otherwise you may not be able to see your router in **Network**. 
 
-3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](../../tutorials/scp/), edit `/etc/samba/smb.conf.template`. 
+3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](../tutorials/scp.md), edit `/etc/samba/smb.conf.template`. 
 
 ![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/winscpsmb.jpg){class="glboxshadow"}
 

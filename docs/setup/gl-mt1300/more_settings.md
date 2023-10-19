@@ -59,7 +59,7 @@ Clone the MAC address of your current client to the router. It is used especiall
 
 On the left side of web Admin Panel -> MORE SETTINGS -> IPv6
 
-Please refer to [IPv6 for the detail](../../../tutorials/ipv6/).
+Please refer to [IPv6 for the detail](../../tutorials/ipv6.md).
 
 ![ipv6](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/ipv6.png){class="glboxshadow"}
 
@@ -77,7 +77,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **DNS over TLS (Cloudflare or NextDNS)**: 
 **Cloudflare DNS** over TLS uses the TLS security protocol for encrypting DNS queries, which helps increase privacy and prevent eavesdropping.
-**NextDNS** protects from all kinds of security threats, blocks ads and trackers in websites and apps and provides a safe and supervised Internet for kids. Please go to [**NextDNS**](../../../tutorials/nextdns/) for settings details. 
+**NextDNS** protects from all kinds of security threats, blocks ads and trackers in websites and apps and provides a safe and supervised Internet for kids. Please go to [**NextDNS**](../../tutorials/nextdns.md) for settings details. 
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 

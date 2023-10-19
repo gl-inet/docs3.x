@@ -164,7 +164,7 @@ If you brick your router and it cannot boot, you can try to save it using uboot.
 
 ### Using uboot web UI
 
-Follow [this guide](../../troubleshooting/debrick/) for a general instruction to get access of uboot web UI.
+Follow [this guide](../../tutorials/debrick.md) for a general instruction to get access of uboot web UI.
 
 Here is a video guide for entering AR300M uboot failsafe.
 

@@ -30,7 +30,7 @@ Below is the Portal on iPhone, click the "GET CONNECTED" button to access the in
 
 ## 2. Change the default page
 
-The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access [this](../../tutorials/ssh/). You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a> or other sites.
+The default page is located `/etc/nodogsplash/htdocs/`, use SSH or WinSCP to change this page. For more information about how to use SSH and WinSCP, please access [this](../tutorials/ssh.md). You may need basic HTML and CSS knowledge to change this page, please learn these from <a href="https://www.w3schools.com/" target="_blank">w3school</a> or other sites.
 
 If you want to change the picture on the default page, just replace the image on `/etc/nodogsplash/htdocs/images/portal_login.png`.
 

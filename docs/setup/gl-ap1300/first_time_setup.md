@@ -41,7 +41,7 @@ The power cable **(12V/2A DC)** can be found in the package.
 
 You can connect to the router via Ethernet cable or Wi-Fi.
 
-*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](../internet) to set up an Internet connection.*
+*Note: This step only connects your devices to the local area network (LAN) of the router. You cannot access the Internet currently. In order to connect to the Internet, please finish the setup procedures below and then follow [Internet](internet.md) to set up an Internet connection.*
 
 ### Connect via LAN
 
