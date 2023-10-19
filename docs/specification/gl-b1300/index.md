@@ -39,7 +39,7 @@ It has a Mesh button which is used to paire routers. You don't need an APP for t
 
 B1300 has an internal USB2.0 connector. You can uses this connect to connect various devices inside of the case.
 
-![gl-b1300 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/b1300/src/GL-B1300_V1.31_PINOUT.jpg) 
+![gl-b1300 pcb pinout](https://static.gl-inet.com/docs/router/en/2/hardware/b1300/src/GL-B1300_V1.31_PINOUT.jpg) 
 
    
 

@@ -38,7 +38,7 @@ MT300N-V2はMT300Nのアップグレード版です。 違いは次のとおり�
 
 左側のピンは、実際にはイーサネットポートまたはEMMCに使用できます。 GPIOとして使用することはできません。
 
-![gl-mt300n-v2 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg)
+![gl-mt300n-v2 pcb pinout](https://static.gl-inet.com/docs/router/en/2/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg)
 
    
 

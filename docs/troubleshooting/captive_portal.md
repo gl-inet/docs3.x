@@ -10,8 +10,8 @@
 <ol type="1">
 <li>
 	<p>キャプティブポータルを介した認証が必要な公衆ホットスポットに接続します。</p>
-    <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/1.jpg"/>
-    <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/6.jpg"/>
+    <img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/1.jpg"/>
+    <img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/6.jpg"/>
 </li>
 <li>
     <p>「管理者パネル」 -> 「その他の設定」 -> 「カスタマDNSサーバー」、<b>DNS再バインド攻撃防御</b>を無効にします。</p>
@@ -22,7 +22,7 @@
     </p>
     <p>スマホを使用する時、ウェブブラウザーがキャプティブポータルにリダイレクトしない場合は、スマートフォンのWi-Fiをオフにしてからオンにして、ルーターのWi-Fiに再接続してください。Wi-Fiパスワードを入力した直後にキャプティブポータルが表示されます。
     </p>
-	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/7.jpg"/>
+	<img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/7.jpg"/>
 </li>
 </ol>
 

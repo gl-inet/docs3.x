@@ -39,7 +39,7 @@ AR300Mは当社一番のミニルーターとして、小さくて強力です�
 
 ## PCB ピン配置
 
-![gl-ar300m pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg)
+![gl-ar300m pcb pinout](https://static.gl-inet.com/docs/router/en/2/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg)
 
 **注意: 過去の一部のバージョンでI2C が使用できないです.**
 

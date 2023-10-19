@@ -35,7 +35,7 @@ PoEオプションがありますし、手頃な価格WiFiのカバレッジの�
 
 ## PCB ピン配置
 
-![gl-ar750 pcb pinout](https://static.gl-inet.com/docs/en/2.x/hardware/ar750/src/AR750-V1.0-PINOUT-1.jpg) 
+![gl-ar750 pcb pinout](https://static.gl-inet.com/docs/router/en/2/hardware/ar750/src/AR750-V1.0-PINOUT-1.jpg) 
 
 
 
