@@ -30,7 +30,7 @@ Micro USBパワーケーブルをルーターのパワーポートに差し込�
 
 イーサネットケーブルでデバイスを接続します。
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/first_time_setup/connect.jpg)
 
 *注意：**GL-AR300M-Lite**には、イーサネットポートが一つしかない。そして、WANとして使います。最初にルーターを設定するたびに、WiFiだけで接続することができます。WiFiに接続した後、ネットワークでWANポートをLANポートに転換して、LANでルーターに接続できるようになります。*
 

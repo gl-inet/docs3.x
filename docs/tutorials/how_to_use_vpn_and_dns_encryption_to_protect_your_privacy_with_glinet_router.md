@@ -26,7 +26,7 @@ Learn more about [what is a DNS leak and why should I care](https://www.dnsleakt
 
 Access [dnsleaktest](https://www.dnsleaktest.com) to do a **Standard test**, if ANY of the servers below are not provided by the VPN service then you have a DNS leak. NordVPN is owned by Tefincom S.A., so this test result doesn't have DNS leak.
 
-![dns leak test nordvpn](https://static.gl-inet.com/docs/en/3/tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router/dns_leak_test_nordvpn.png)
+![dns leak test nordvpn](https://static.gl-inet.com/docs/router/en/3/tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router/dns_leak_test_nordvpn.png)
 
 ## Setup DNS encryption on GL.iNet routers
 
@@ -34,4 +34,4 @@ If you have DNS leak issue, please follow [this tutorial](../how_to_use_cloudfla
 
 After setup then do DNS leak test again, you can find the Cloudflare on ISP column, that indicates the DNS leak issue has been solved.
 
-![dns leak test nordvpn](https://static.gl-inet.com/docs/en/3/tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router/dns_leak_test_cloudflare.png)
+![dns leak test nordvpn](https://static.gl-inet.com/docs/router/en/3/tutorials/how_to_use_vpn_and_dns_encryption_to_protect_your_privacy_with_glinet_router/dns_leak_test_cloudflare.png)

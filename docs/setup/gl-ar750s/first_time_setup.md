@@ -12,7 +12,7 @@ GL-AR750S-Ext
 
 Micro USBパワーケーブルをルーターのパワーポートに差し込みます。**5V/2A**のパワーアダプターを利用することを確認してください。それはなければ、故障になるかもしれません。
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first_time_setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-ar750s/first_time_setup/power1.jpg)
 
 *注意:TFカードホットプラグがサポート**しません**。TFカードが利用ほしい場合は、充電前、カードをルーターに挿入してください。*
 
@@ -26,7 +26,7 @@ Micro USBパワーケーブルをルーターのパワーポートに差し込�
 
 イーサネットケーブルでデバイスをルーターのLAN ポートに接続します。
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ar750s/first_time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/router/en/3/setup/gl-ar750s/first_time_setup/connect.jpg)
 
 ### WiFiで接続
 

@@ -26,7 +26,7 @@ GL-B1300
 
 イーサネットケーブルであなたのデバイスを接続します。
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-b1300/first_time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/router/en/3/setup/gl-b1300/first_time_setup/connect.jpg)
 
 ### WiFiで接続
 

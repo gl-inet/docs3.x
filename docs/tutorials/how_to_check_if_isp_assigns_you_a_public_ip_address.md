@@ -26,4 +26,4 @@ If they are the same, then you have a public IP address.
 
 If the main router is GL.iNet router, the WAN IP address is the `IP Address` on the Internet page.
 
-![is public ip address](https://static.gl-inet.com/docs/en/3/tutorials/how_to_check_if_isp_assigns_you_a_public_ip_address/is_public_ip_address.png)
+![is public ip address](https://static.gl-inet.com/docs/router/en/3/tutorials/how_to_check_if_isp_assigns_you_a_public_ip_address/is_public_ip_address.png)

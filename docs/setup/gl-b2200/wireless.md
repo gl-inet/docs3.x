@@ -12,17 +12,17 @@ If you inatialize GL-B2200 via [mobile app](https://www.gl-inet.com/app/){target
 
 If you inatialize GL-B2200 via [mobile app](https://www.gl-inet.com/app/){target="_blank"}, it will be Mesh mode.
 
-![Wi-Fi mesh status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_mesh_b2200.png){class="glboxshadow"}
+![Wi-Fi mesh status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_mesh_b2200.png){class="glboxshadow"}
 
 It also shows the Mesh main node and sub nodes.
 
-![Wi-Fi mesh status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_mesh_clients_b2200.png){class="glboxshadow"}
+![Wi-Fi mesh status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_mesh_clients_b2200.png){class="glboxshadow"}
 
 ## MESH Guest
 
 Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-![Wi-Fi mesh status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_mesh_guest_b2200.png){class="glboxshadow"}
+![Wi-Fi mesh status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_mesh_guest_b2200.png){class="glboxshadow"}
 
 ## Wireless
 
@@ -30,11 +30,11 @@ If you inatialize via ethernet cable, it will be normal wireless.
 
 2.4G Wi-Fi:
 
-![Wi-Fi status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_2.4g_b2200.png){class="glboxshadow"}
+![Wi-Fi status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_2.4g_b2200.png){class="glboxshadow"}
 
 5G Wi-Fi:
 
-![Wi-Fi status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_5g_b2200.png){class="glboxshadow"}
+![Wi-Fi status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_5g_b2200.png){class="glboxshadow"}
 
 In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
@@ -62,8 +62,8 @@ Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-
 
 2.4G Guest Wi-Fi:
 
-![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_2.4g_guest_b2200.png){class="glboxshadow"}
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_2.4g_guest_b2200.png){class="glboxshadow"}
 
 5G Guest Wi-Fi:
 
-![guest Wi-Fi 5g status](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/wireless/wifi_status_5g_guest_b2200.png){class="glboxshadow"}
+![guest Wi-Fi 5g status](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/wireless/wifi_status_5g_guest_b2200.png){class="glboxshadow"}

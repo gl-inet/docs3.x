@@ -6,7 +6,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/applications/plug-ins_b2200.png){class="glboxshadow"} 
+![Plug-ins](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/applications/plug-ins_b2200.png){class="glboxshadow"} 
 
 ---
 
@@ -16,7 +16,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> File Shar
 
 You can use an external USB storage or a MicroSD card with GL.iNet router, and some models have big internal storage. For sharing the external or internal storage please check out [file sharing](../../../tutorials/file_sharing/).
 
-![file sharing](https://static.gl-inet.com/docs/en/3/setup/share/applications/file_sharing.png){class="glboxshadow"}
+![file sharing](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/file_sharing.png){class="glboxshadow"}
 
 ---
 
@@ -28,7 +28,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Ma
 
 Please refer to [Cloud for the detail](../../../tutorials/cloud/).
 
-![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
+![goodcloud](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
 ---
 
@@ -40,7 +40,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic 
 
 Please refer to [DDNS for the detail](../../../tutorials/ddns/).
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
+![DDNS](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
 
 ---
 
@@ -52,7 +52,7 @@ You can set a **captive portal** in our routers, when newly users connect to the
 
 Please refer to [Set a Captive portal for the detail](../../../tutorials/captive_portal/).
 
-![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
+![Captive Portal](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
 
 ---
 
@@ -62,4 +62,4 @@ On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
 
 AdGuard Home is a network-wide software for blocking ads & tracking.
 
-![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
+![adguard home](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}

@@ -28,7 +28,7 @@
 
 ## PCB ピン配置
 
-![GL-AR750S PINOUT](https://static.gl-inet.com/docs/en/3/specification/ar750s/AR750S-V1.0-PINOUT-01.jpg)
+![GL-AR750S PINOUT](https://static.gl-inet.com/docs/router/en/3/specification/ar750s/AR750S-V1.0-PINOUT-01.jpg)
 
 
 

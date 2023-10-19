@@ -52,15 +52,15 @@ On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> Multimedi
 
 The Multimedia File sharing packages may not installed. Click `Install` to continue.
 
-![multimedia file sharing no installed](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/multimedia_file_sharing_no_installed.png){class="glboxshadow"}
+![multimedia file sharing no installed](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/multimedia_file_sharing_no_installed.png){class="glboxshadow"}
 
 After installed.
 
-![multimedia file sharing installed](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/multimedia_file_sharing_installed.png){class="glboxshadow"}
+![multimedia file sharing installed](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/multimedia_file_sharing_installed.png){class="glboxshadow"}
 
 Enable `Share via DLNA` then click `Apply`.
 
-![multimedia file sharing enabled](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/multimedia_file_sharing_enabled.png){class="glboxshadow"}
+![multimedia file sharing enabled](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/multimedia_file_sharing_enabled.png){class="glboxshadow"}
 
 ## Setup the DLNA Server on various OS/software
 
@@ -71,11 +71,11 @@ Enable `Share via DLNA` then click `Apply`.
 
         In Windows Media Player:
 
-        ![dlna windows media player](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/dlna_windows_media_player.png){class="glboxshadow"}
+        ![dlna windows media player](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/dlna_windows_media_player.png){class="glboxshadow"}
 
         In Windows File Explorer -> Network
         
-        ![dlna windows network](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/dlna_windows_network.png){class="glboxshadow"}
+        ![dlna windows network](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/dlna_windows_network.png){class="glboxshadow"}
 
     - On iOS & Android: Install VLC or other app that support DLNA
 
@@ -87,6 +87,6 @@ Enable `Share via DLNA` then click `Apply`.
 
         Step 1 | Step 2
         - | - 
-        ![vlc local network](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/vlc_local_network.png){class="glboxshadow" width="400"} | ![dlna server on local network](https://static.gl-inet.com/docs/en/3/tutorials/multimedia_file_sharing/vlc_local_network_dlna_server.png){class="glboxshadow" width="400"}
+        ![vlc local network](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/vlc_local_network.png){class="glboxshadow" width="400"} | ![dlna server on local network](https://static.gl-inet.com/docs/router/en/3/tutorials/multimedia_file_sharing/vlc_local_network_dlna_server.png){class="glboxshadow" width="400"}
 
 It is also easy for other devices find the OpenWrt DLNA Server.

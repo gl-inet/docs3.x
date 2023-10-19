@@ -6,11 +6,11 @@ The IPv6 function allows you to enable and configure IPv6 on this router.
 
 _**Note: If you use functions of both VPN and IPv6 at the same time, it's likely to cause IPv6 data leakage.**_
 
-![ipv6](https://static.gl-inet.com/docs/en/3/tutorials/ipv6/ipv6.png){class="glboxshadow"}
+![ipv6](https://static.gl-inet.com/docs/router/en/3/tutorials/ipv6/ipv6.png){class="glboxshadow"}
 
 Enable it.
 
-![ivp6](https://static.gl-inet.com/docs/en/3/tutorials/ipv6/ipv6_enabled.png){class="glboxshadow"}
+![ivp6](https://static.gl-inet.com/docs/router/en/3/tutorials/ipv6/ipv6_enabled.png){class="glboxshadow"}
 
 * WAN
 

@@ -58,7 +58,7 @@ Then input your admin password
 
 *Note: You need to use your password which you set up the router at the first time*
 
-![ssh successfully](https://static.gl-inet.com/docs/en/3/tutorials/ssh/ar750s_ssh_successfully.jpg){class="glboxshadow"}
+![ssh successfully](https://static.gl-inet.com/docs/router/en/3/tutorials/ssh/ar750s_ssh_successfully.jpg){class="glboxshadow"}
 
 When you see above picture, that means you are now SSH login the router successfully.  
 

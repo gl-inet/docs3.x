@@ -4,7 +4,7 @@
 
 GL-MV1000
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/first_time_setup/mv1000.png)
+![router](https://static.gl-inet.com/docs/router/en/3/setup/gl-mv1000/first_time_setup/mv1000.png)
 
 ---
 
@@ -12,7 +12,7 @@ GL-MV1000
 
 マイクロUSBパワーケーブルをルーターのパワーポートに差し込みます。**5V/2A**のパワーアダプターを利用することを確認してください、そうでなければ故障の原因になるかもしれません。
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first_time_setup/power1.jpg)
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-ar750/first_time_setup/power1.jpg)
 
 *注意:TFカードホットプラグがサポート**しません**。TFカードが使いたい場合は、電源を入れる後、それをルーターにインサートしてください。*
 
@@ -26,7 +26,7 @@ GL-MV1000
 
 イーサネットケーブルであなたのデバイスを接続します。
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ar750/first_time_setup/connect.jpg)
+![connect via lan](https://static.gl-inet.com/docs/router/en/3/setup/gl-ar750/first_time_setup/connect.jpg)
 
 ## 3.Web管理パネルをアクセスします
 

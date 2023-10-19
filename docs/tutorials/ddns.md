@@ -8,14 +8,14 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access
 
 ## Enable DDNS 
 
-![enable-ddns](https://static.gl-inet.com/docs/en/3/tutorials/ddns/enable-ddns.png){class="glboxshadow"}
+![enable-ddns](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/enable-ddns.png){class="glboxshadow"}
 
 At the left sidebar, APPLICATIONS -> Remote Access, toggle "Enabled DDNS", agree Terms of Services & Privacy Policy, click "Apply" button.
 Generally it take several minutes to take effect.
 
 Move mouse to hover the icon besides "Enabled DDNS", it will display the DDNS url of your device.
 
-![ddns-url](https://static.gl-inet.com/docs/en/3/tutorials/ddns/ddns-url.png){class="glboxshadow"}
+![ddns-url](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/ddns-url.png){class="glboxshadow"}
 
 The DDNS domain printed on the back label of router has changed. If your DDNS url is `xxxxxxx.gl-inet.com` on the back of router, new DDNS url will be `xxxxxxx.glddns.com`.
 
@@ -27,7 +27,7 @@ Use `nslookup` command to check if your DDNS is enabled. You need to change `xx5
 
 `nslookup xx5007c.glddns.com 8.8.8.8`
 
-![nslookup](https://static.gl-inet.com/docs/en/3/tutorials/ddns/nslookup.png){class="glboxshadow"}
+![nslookup](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/nslookup.png){class="glboxshadow"}
 
 The output above means the DDNS url has maped to a IP address.
 
@@ -37,7 +37,7 @@ This function requires a public IP address. To check if your Internet Provider S
 
 If your router is behind NAT, you may need to set up port forward in higher level router. It use port 80.
 
-![HTTP-Remote-Access](https://static.gl-inet.com/docs/en/3/tutorials/ddns/HTTP-Remote-Access.png){class="glboxshadow"}
+![HTTP-Remote-Access](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/HTTP-Remote-Access.png){class="glboxshadow"}
 
 Follow the steps above, to enable HTTP Remote Access. 
 
@@ -51,15 +51,15 @@ This function requires a public IP address. To check if your Internet Provider S
 
 If your router is behind NAT, you may need to set up port forward in higher level router. It use port 443.
 
-![HTTPS-Remote-Access](https://static.gl-inet.com/docs/en/3/tutorials/ddns/HTTPS-Remote-Access.png){class="glboxshadow"}
+![HTTPS-Remote-Access](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/HTTPS-Remote-Access.png){class="glboxshadow"}
 
 This function use self-signed certificates, so the browers will indicate that "Your connection is not private". I will show you how to use it anyway on Chrome iOS. Other browers are the similar process.
 
-![HTTPS-Remote-Access-on-iOS-Chrome](https://static.gl-inet.com/docs/en/3/tutorials/ddns/https-remote-access-ios-chrome-1.png){class="glboxshadow" width="400"}
+![HTTPS-Remote-Access-on-iOS-Chrome](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/https-remote-access-ios-chrome-1.png){class="glboxshadow" width="400"}
 
 As show above, click "Advanced".
 
-![HTTPS-Remote-Access-on-iOS-Chrome](https://static.gl-inet.com/docs/en/3/tutorials/ddns/https-remote-access-ios-chrome-2.png){class="glboxshadow" width="400"}
+![HTTPS-Remote-Access-on-iOS-Chrome](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/https-remote-access-ios-chrome-2.png){class="glboxshadow" width="400"}
 
 As show above, click "Processed to xxxxxxx.glddns.com (unsafe)".
 
@@ -71,7 +71,7 @@ This function requires a public IP address. To check if your Internet Provider S
 
 If your router is behind NAT, you may need to set up port forward in higher level router. It use port 22.
 
-![SSH-Remote-Access](https://static.gl-inet.com/docs/en/3/tutorials/ddns/SSH-Remote-Access.png){class="glboxshadow"}
+![SSH-Remote-Access](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/SSH-Remote-Access.png){class="glboxshadow"}
 
 Follow the steps above, to enable SSH Remote Access, then you can ssh to your router anywhere. 
 
@@ -79,8 +79,8 @@ Follow the steps above, to enable SSH Remote Access, then you can ssh to your ro
 
 If you don't want to use DDNS, just disable it.
 
-![disable ddns](https://static.gl-inet.com/docs/en/3/tutorials/ddns/disable-ddns.png){class="glboxshadow"}
+![disable ddns](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/disable-ddns.png){class="glboxshadow"}
 
-![after disable ddns](https://static.gl-inet.com/docs/en/3/tutorials/ddns/after-disable-ddns.png){class="glboxshadow"}
+![after disable ddns](https://static.gl-inet.com/docs/router/en/3/tutorials/ddns/after-disable-ddns.png){class="glboxshadow"}
 
 After disable DDNS, the interface is like above.

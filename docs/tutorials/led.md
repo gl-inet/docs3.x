@@ -44,7 +44,7 @@
 
 ## GL-MT1300 / GL-SFT1200
 
-![gl-mt1300 led](https://static.gl-inet.com/docs/en/3/troubleshooting/led/mt1300_light.jpg){class="glboxshadow"}
+![gl-mt1300 led](https://static.gl-inet.com/docs/router/en/3/troubleshooting/led/mt1300_light.jpg){class="glboxshadow"}
 
 - **Solid blue light**: Device is powering up.
 - **Solid white light**: Network is connected.
@@ -54,7 +54,7 @@
 
 ## GL-B2200
 
-![gl-b2200 led](https://static.gl-inet.com/docs/en/3/troubleshooting/led/b2200_light.jpg){class="glboxshadow"}
+![gl-b2200 led](https://static.gl-inet.com/docs/router/en/3/troubleshooting/led/b2200_light.jpg){class="glboxshadow"}
 
 ### Power Up
 

@@ -13,7 +13,7 @@ However, you may find that you are not able to enter the captive portal so that 
 
 2. Go to web Admin Panel -> MORE SETTINGS -> Custom DNS Server. Then, disable **DNS Rebinding Attack Protection**.
 
-    ![custom dns server](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/custom_dns_server.png){class="glboxshadow"}
+    ![custom dns server](https://static.gl-inet.com/docs/router/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/custom_dns_server.png){class="glboxshadow"}
 
 3. Use your web browser to visit a webpage, it will be redirected to the captive portal of the hotspot automatically.
 
