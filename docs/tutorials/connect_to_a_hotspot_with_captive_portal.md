@@ -12,21 +12,21 @@ However, you may find that you are not able to enter the captive portal so that 
 
     Click **Scan** in the repeater sector.
 
-    ![repeater](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/repeater.png){class="glboxshadow"}
+    ![repeater](https://static.gl-inet.com/docs/router/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/repeater.png){class="glboxshadow"}
 
     Select the public network which you want to connect, click **Join** button.
 
-    ![repeater](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/repeater_selected.png){class="glboxshadow"}
+    ![repeater](https://static.gl-inet.com/docs/router/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/repeater_selected.png){class="glboxshadow"}
 
 2. Go to web Admin Panel -> MORE SETTINGS -> Custom DNS Server. Then, disable **DNS Rebinding Attack Protection**.
 
-    ![custom dns server](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/custom_dns_server.png){class="glboxshadow"}
+    ![custom dns server](https://static.gl-inet.com/docs/router/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/custom_dns_server.png){class="glboxshadow"}
 
 3. Go to web Admin Panel -> VPN -> OpenVPN Client & WireGuard Client. Make sure the connection of OpenVPN and WireGuard client is disable.
 
 4. Go to web Admin Panel -> APPLICATIONS -> AdGuard Home (if appropriate). Make sure the AdGuard Home is stopped.
 
-    ![adguard home is disable](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/adguardhome_is_disable.png){class="glboxshadow"}
+    ![adguard home is disable](https://static.gl-inet.com/docs/router/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/adguardhome_is_disable.png){class="glboxshadow"}
 
 5. Use your web browser to visit a webpage, it will be redirected to the captive portal of the hotspot automatically.
 
@@ -46,7 +46,7 @@ Sometimes, [Solution 1](#solution-1change-dns-settings) is not enough to solve t
 
 3. Clone the MAC address of your smartphone to the router.
 
-    ![mac clone](https://static.gl-inet.com/docs/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/mac_clone.png){class="glboxshadow" width="400"}
+    ![mac clone](https://static.gl-inet.com/docs/router/en/3/tutorials/connect_to_a_hotspot_with_captive_portal/mac_clone.png){class="glboxshadow" width="400"}
 
 4. It may need to reboot the router to take effect.
 

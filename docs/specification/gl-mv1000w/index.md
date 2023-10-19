@@ -23,8 +23,8 @@ Brume_W is a router with strong performance and stable operation, designed for h
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/specification/mv1000/mv1000.png" itemprop="contentUrl" data-size="1786x1328">
-      <img src="https://static.gl-inet.com/docs/en/3/specification/mv1000/mv1000.png" itemprop="thumbnail" alt="gl-mv1000 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/3/specification/mv1000/mv1000.png" itemprop="contentUrl" data-size="1786x1328">
+      <img src="https://static.gl-inet.com/docs/router/en/3/specification/mv1000/mv1000.png" itemprop="thumbnail" alt="gl-mv1000 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

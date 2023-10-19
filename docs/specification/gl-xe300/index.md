@@ -29,16 +29,16 @@ XE300 also supports OpenVPN, WireGuard and customized DNS server in order to lev
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-1.jpg" itemprop="contentUrl" data-size="3167x2480">
-      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-1.jpg" itemprop="thumbnail" alt="gl-xe300 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-1.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/router/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-1.jpg" itemprop="thumbnail" alt="gl-xe300 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-2.jpg" itemprop="contentUrl" data-size="3167x2480">
-      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-2.jpg" itemprop="thumbnail" alt="gl-xe300 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-2.jpg" itemprop="contentUrl" data-size="3167x2480">
+      <img src="https://static.gl-inet.com/docs/router/en/3/specification/gl-xe300/GL-XE300-PINOUT-0308-2.jpg" itemprop="thumbnail" alt="gl-xe300 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

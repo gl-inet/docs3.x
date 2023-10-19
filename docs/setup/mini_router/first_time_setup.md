@@ -8,7 +8,7 @@ GL-AR150, GL-AR150-PoE, GL-AR150-Ext-2, GL-AR150-Ext-PoE-2
 
 GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
-![router](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/router.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/first_time_setup/router.jpg){class="glboxshadow"}
 
 *Note: **GL-AR300M-Lite** has one Ethernet port only.*
 
@@ -18,7 +18,7 @@ GL-AR300M, GL-AR300M-Ext, GL-AR300M16, GL-AR300M16-Ext, GL-AR300M-Lite
 
 Plug the Micro USB power cable into the power port of the router. Make sure you are using a standard 5V/2A power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/power.jpg){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/first_time_setup/power.jpg){class="glboxshadow"}
 
 ## 2. Connect 
 
@@ -29,7 +29,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 ### Connect via LAN 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/connect.jpg){class="glboxshadow"}
+![connect via lan](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/first_time_setup/connect.jpg){class="glboxshadow"}
 
 *Note: **GL-AR300M-Lite** has only 1 Ethernet port which works as WAN by default. You can only connect to it via Wi-Fi when you first set up the router. Once you have connected to it, you can change the WAN port to LAN port in [Internet](internet.md#1-cable) so that you can connect to it via Ethernet cable.*
 
@@ -53,18 +53,18 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/welcome_page_mt300n-v2.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/first_time_setup/welcome_page_mt300n-v2.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
 ### 2) Admin Password Setting
 There is no default password for this Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
-![password](https://static.gl-inet.com/docs/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
+![password](https://static.gl-inet.com/docs/router/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
 ### 3) Admin Panel
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/admin_panel_mt300n-v2.png){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/first_time_setup/admin_panel_mt300n-v2.png){class="glboxshadow"}

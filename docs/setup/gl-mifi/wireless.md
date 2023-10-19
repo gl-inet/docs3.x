@@ -6,7 +6,7 @@ GL-MiFi only has 2.4G Wi-Fi.
 
 ## Wireless
 
-![wireless](https://static.gl-inet.com/docs/en/3/setup/gl-mifi/wireless/wifi_status_2.4g_mifi.png){class="glboxshadow"}
+![wireless](https://static.gl-inet.com/docs/router/en/3/setup/gl-mifi/wireless/wifi_status_2.4g_mifi.png){class="glboxshadow"}
 
 In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
@@ -34,4 +34,4 @@ Click `Channel Optimization` will automatically select the most suitable channel
 
 Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-mifi/wireless/wifi_status_2.4g_guest_mifi.png){class="glboxshadow"}
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/router/en/3/setup/gl-mifi/wireless/wifi_status_2.4g_guest_mifi.png){class="glboxshadow"}

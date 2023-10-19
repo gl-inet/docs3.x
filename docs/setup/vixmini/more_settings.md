@@ -6,7 +6,7 @@
 
 Change the password of the web Admin Panel, which must be at least 5 characters. You have to input your current password in order to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/admin_password.jpg){class="glboxshadow"}
+![admin password](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/admin_password.jpg){class="glboxshadow"}
 
 
 
@@ -16,7 +16,7 @@ Change the password of the web Admin Panel, which must be at least 5 characters.
 
 LAN IP is the IP address that you use to connect to this router. The default IP address of is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/lan_ip.jpg){class="glboxshadow"}
+![lan ip](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/lan_ip.jpg){class="glboxshadow"}
 
 
 
@@ -26,7 +26,7 @@ LAN IP is the IP address that you use to connect to this router. The default IP 
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/time_zone.jpg){class="glboxshadow"}
+![time zone](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/time_zone.jpg){class="glboxshadow"}
 
 
 
@@ -36,7 +36,7 @@ The time of the router's activities will be recorded according to the router tim
 
 Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
 
-![mac clone](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/mac_clone1.jpg){class="glboxshadow"}
+![mac clone](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/mac_clone1.jpg){class="glboxshadow"}
 
 
 
@@ -52,7 +52,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/custom_dns_server.jpg){class="glboxshadow"}
+![custom dns server](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/custom_dns_server.jpg){class="glboxshadow"}
 
 
 
@@ -70,7 +70,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **WDS**: Extend the Wi-Fi coverage of an existing wireless network. Make sure your main router supports WDS.
 
-![network mode](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/network_mode.jpg){class="glboxshadow"}
+![network mode](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/network_mode.jpg){class="glboxshadow"}
 
 
 
@@ -80,7 +80,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 Revert the router to factory default settings. All your settings, applications and data will be erased.
 
-![revert firmware](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/revert_firmware.jpg){class="glboxshadow"}
+![revert firmware](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/revert_firmware.jpg){class="glboxshadow"}
 
 
 
@@ -90,6 +90,6 @@ Revert the router to factory default settings. All your settings, applications a
 
 Click `Advanced` to direct to LuCI which is the default web interface of OpenWrt. You can check the detailed system log or conduct more advanced configurations there.
 
-![advanced](https://static.gl-inet.com/docs/en/3/setup/vixmini/more_settings/advanced.jpg){class="glboxshadow"}
+![advanced](https://static.gl-inet.com/docs/router/en/3/setup/vixmini/more_settings/advanced.jpg){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

@@ -42,4 +42,4 @@ Please refer to the links below for the detailed setup instruction:
 
 - [**Tor**](../../tutorials/tor.md)
 
-![Tor](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png){class="glboxshadow"}
+![Tor](https://static.gl-inet.com/docs/router/en/3/tutorials/tor/tor_interface.png){class="glboxshadow"}

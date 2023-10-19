@@ -6,7 +6,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/mini_router/applications/plug-ins_mt300n-v2.png){class="glboxshadow"}
+![Plug-ins](https://static.gl-inet.com/docs/router/en/3/setup/mini_router/applications/plug-ins_mt300n-v2.png){class="glboxshadow"}
 
 ---
 
@@ -16,7 +16,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> File Shar
 
 You can use an external USB storage or a MicroSD card with GL.iNet router, and some models have big internal storage. For sharing the external or internal storage please check out [file sharing](../../tutorials/file_sharing.md).
 
-![file sharing](https://static.gl-inet.com/docs/en/3/setup/share/applications/file_sharing.png){class="glboxshadow"}
+![file sharing](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/file_sharing.png){class="glboxshadow"}
 
 ---
 
@@ -28,7 +28,7 @@ You can use an external USB storage or a MicroSD card with GL.iNet router, to se
 
 Please refer to [Multimedia File Sharing for the detail](../../tutorials/multimedia_file_sharing.md).
 
-![multimedia file sharing](https://static.gl-inet.com/docs/en/3/setup/share/applications/multimedia_file_sharing_enabled.png){class="glboxshadow"}
+![multimedia file sharing](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/multimedia_file_sharing_enabled.png){class="glboxshadow"}
 
 ---
 
@@ -40,7 +40,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Ma
 
 Please refer to [Cloud for the detail](../../tutorials/cloud.md).
 
-![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
+![goodcloud](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
 ---
 
@@ -52,7 +52,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic 
 
 Please refer to [DDNS for the detail](../../tutorials/ddns.md).
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
+![DDNS](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
 
 ---
 
@@ -64,4 +64,4 @@ You can set a **captive portal** in our routers, when newly users connect to the
 
 Please refer to [Set a Captive portal for the detail](../../tutorials/captive_portal.md).
 
-![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
+![Captive Portal](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}

@@ -8,7 +8,7 @@ GL-MV1000W only has 2.4G Wi-Fi.
 
 In `WIRELESS`, you can check the current status and change the settings of the wireless network created by the router. The wireless network can be turned on or off by switching the `ON/OFF` button.
 
-![gl-mv1000w wireless](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/wireless/wifi_status_2.4g_mv1000w.png){class="glboxshadow"}
+![gl-mv1000w wireless](https://static.gl-inet.com/docs/router/en/3/setup/gl-mv1000w/wireless/wifi_status_2.4g_mv1000w.png){class="glboxshadow"}
 
 **Wi-Fi Name (SSID)**: The name of the Wi-Fi.
 
@@ -41,7 +41,7 @@ Here is a list of supported dongles that we had tested before.
 
 When you insert the dongle, you will see the dongle under `WIRELESS`.
 
-![gl-mv1000w with dongle](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/wireless/wifi_status_5g_dongle_mv1000w.png){class="glboxshadow"}
+![gl-mv1000w with dongle](https://static.gl-inet.com/docs/router/en/3/setup/gl-mv1000w/wireless/wifi_status_5g_dongle_mv1000w.png){class="glboxshadow"}
 
 Click `Modify` to change the settings of the wireless network.
 
@@ -49,4 +49,4 @@ Click `Modify` to change the settings of the wireless network.
 
 Guest Wi-Fi is turned off by default, you can turn on it for visitors. Guest Wi-Fi is separated from the default Wi-Fi. That is, you can only access the Internet in Guest Wi-Fi, not the web Admin Panel.
 
-![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000w/wireless/wifi_status_2.4g_guest_mv1000w.png){class="glboxshadow"}
+![guest Wi-Fi 2.4g status](https://static.gl-inet.com/docs/router/en/3/setup/gl-mv1000w/wireless/wifi_status_2.4g_guest_mv1000w.png){class="glboxshadow"}

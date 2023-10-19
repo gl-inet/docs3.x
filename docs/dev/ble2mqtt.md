@@ -122,9 +122,9 @@ root@GL-S1300:~#
 
 Login the [GoodCloud](https://www.goodcloud.xyz)，find the registered device in "device list", click the device name and you will find your message in timeline.
 
-![goodcloud device list](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/find-device.png){class="glboxshadow"}
+![goodcloud device list](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/find-device.png){class="glboxshadow"}
 
-![goodcloud timeline](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/find-log.jpg){class="glboxshadow"}
+![goodcloud timeline](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/find-log.jpg){class="glboxshadow"}
 
 ### Send Data to AWS IoT
 
@@ -134,19 +134,19 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
 
 1) On the **Welcome to the AWS IoT Console** page, in the navigation pane, choose **Manage->Things** , then **Register a thing**. 
 
-![aws IoT register a things](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image001.png){class="glboxshadow"}
+![aws IoT register a things](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image001.png){class="glboxshadow"}
 
 2) On the **Creating AWS IoT things** page, choose **Create a single thing**.
 
-![create aws IoT things](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image002.png){class="glboxshadow"}
+![create aws IoT things](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image002.png){class="glboxshadow"}
 
 3) On the **Create a thing** page, in the **Name** field, type a name for your thing, such as **x750**. Choose **Next**.
 
-![aws IoT add your device to the thing registry](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image003.png){class="glboxshadow"}
+![aws IoT add your device to the thing registry](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image003.png){class="glboxshadow"}
 
 4) On the **Add a certificate for your thing** page, choose **Create certificate**. This generates an X.509 certificate and key pair.
 
-![aws IoT add a certificate for your thing](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image004.png){class="glboxshadow"}
+![aws IoT add a certificate for your thing](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image004.png){class="glboxshadow"}
 
 5) On the **Certificate created!** page, download your public and private keys, certificate, and root certificate authority (CA):
 
@@ -158,27 +158,27 @@ Amazon AWS IoT is a good choice for business applications. AWS seems to have goo
 
   Most web browsers save downloaded files into a Downloads directory. You will copy these files to a different directory when you run the sample applications. Choose **Activate** to activate the X.509 certificate, and then choose **Attach a policy**.
 
-![aws IoT certificate created](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image005.png){class="glboxshadow"}
+![aws IoT certificate created](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image005.png){class="glboxshadow"}
 
 The **RSA 2048 bit key: Amazon Root CA1** download web page:
 
-![amazon trust services endpoints](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image007.png){class="glboxshadow"}
+![amazon trust services endpoints](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image007.png){class="glboxshadow"}
 
 6) Active your thing
 
 Back to the previous site, click "**Activate**", then click "**Done**". 
 
-![activate your thing](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image008.png){class="glboxshadow"}
+![activate your thing](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image008.png){class="glboxshadow"}
 
 #### 2. Attach Policy
 
 1) After you register your thing, you will need to create and attach a new **policy** to the **certificate**.
 
-![aws IoT create policy](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image009.png){class="glboxshadow"}
+![aws IoT create policy](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image009.png){class="glboxshadow"}
 
 2) Enter a Name for the policy,such as x750_policy, then **Advance mode**
 
-![aws IoT create a policy](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image010.png){class="glboxshadow"}
+![aws IoT create a policy](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image010.png){class="glboxshadow"}
 
 3) Delete the automatically created policy code, then paste the policy below. 
 
@@ -204,16 +204,16 @@ Back to the previous site, click "**Activate**", then click "**Done**".
 
 4) **Create** Policy after you pasted policy code. 
 
-![aws IoT create policy](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image012.png){class="glboxshadow"}
+![aws IoT create policy](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image012.png){class="glboxshadow"}
 
 5) On the left side, Secure --> Certificates, Select the certificate you just created, Actions
 --> Attach policy
 
-![aws IoT attach policy](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image013.png){class="glboxshadow"}
+![aws IoT attach policy](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image013.png){class="glboxshadow"}
 
 6) Choose the policy you created(x750_policy) and choose **Attach**.
 
-![aws IoT attach policy](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image014.png){class="glboxshadow"}
+![aws IoT attach policy](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image014.png){class="glboxshadow"}
 
 #### 3. Config GL.iNet devices to connect to AWS IoT
 
@@ -270,11 +270,11 @@ config service 'cloud'
 
 The sample of glconfig file: 
 
-![example of glconfig file](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image016.png){class="glboxshadow"}
+![example of glconfig file](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image016.png){class="glboxshadow"}
 
 If you already setup GoodCloud on router before, just add the code at the end of **config service 'cloud'**
 
-![edit glconfig file](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image017.png){class="glboxshadow"}
+![edit glconfig file](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image017.png){class="glboxshadow"}
 
 ```shell
 option log '1'
@@ -319,11 +319,11 @@ The message broker supports clients connecting with the HTTP protocol using a RE
 
 At the left side of AWS IoT, **Manage -> Things**
 
-![aws IoT manage things](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image019.png){class="glboxshadow"}
+![aws IoT manage things](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image019.png){class="glboxshadow"}
 
 You can find your AWT IoT endpoints at **Interact**. 
 
-![aws IoT thing interact](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image020.png){class="glboxshadow"}
+![aws IoT thing interact](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image020.png){class="glboxshadow"}
 
 **5) Connect your devices to AWS IoT Cloud**
 
@@ -345,7 +345,7 @@ Check mqtt process status
 ps | grep gl_mqtt
 ```
 
-![check gl_mqtt process](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image021.png){class="glboxshadow"}
+![check gl_mqtt process](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image021.png){class="glboxshadow"}
 
 ####4. MQTT Communication Testing
 
@@ -365,15 +365,15 @@ Subscription Topic:  '/sys/a1rLNyG2VK5/mqtt_demo/thing/event/property/post'
 Publish topic:  '/a1rLNyG2VK5/mqtt_demo/user/get'
 ```
 
-![aws IoT subscribe to topic](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image022.png){class="glboxshadow"}
+![aws IoT subscribe to topic](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image022.png){class="glboxshadow"}
 
 Try **Subscribe to topic**, a message published by your router will be received in few seconds.
 
-![receive message from router](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image023.png){class="glboxshadow"}
+![receive message from router](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image023.png){class="glboxshadow"}
 
 Or **Publish topic to your router a message**:
 
-![publish topic to your router a message](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image024.png){class="glboxshadow"}
+![publish topic to your router a message](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image024.png){class="glboxshadow"}
 
 A message published by AWS IoT Cloud will be received on your router in few seconds. 
 
@@ -381,7 +381,7 @@ A message published by AWS IoT Cloud will be received on your router in few seco
 logread
 ```
 
-![router receive message](https://static.gl-inet.com/docs/en/3/dev/ble_bridge/image025.png){class="glboxshadow"}
+![router receive message](https://static.gl-inet.com/docs/router/en/3/dev/ble_bridge/image025.png){class="glboxshadow"}
 
 ## Application and Demo
 

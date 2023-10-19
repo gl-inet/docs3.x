@@ -6,7 +6,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/application/plug-ins_ap1300.png){class="glboxshadow"}
+![Plug-ins](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/application/plug-ins_ap1300.png){class="glboxshadow"}
 
 ---
 
@@ -18,7 +18,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Ma
 
 Please refer to [Cloud for the detail](../../tutorials/cloud.md).
 
-![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
+![goodcloud](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
 ---
 
@@ -30,7 +30,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic 
 
 Please refer to [DDNS for the detail](../../tutorials/ddns.md).
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
+![DDNS](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
 
 ---
 
@@ -42,7 +42,7 @@ You can set a **captive portal** in our routers, when newly users connect to the
 
 Please refer to [Set a Captive portal for the detail](../../tutorials/captive_portal.md).
 
-![Captive Portal](https://static.gl-inet.com/docs/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
+![Captive Portal](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/captive_portal.png){class="glboxshadow"}
 
 ---
 
@@ -52,7 +52,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> AdGuardHome
 
 AdGuard Home is a network-wide software for blocking ads & tracking.
 
-![adguard home](https://static.gl-inet.com/docs/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
+![adguard home](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/adguard_home.png){class="glboxshadow"}
 
 ---
 
@@ -66,4 +66,4 @@ _**IGMP Snooping**_ listens to the IGMP protocol package, extracts the correspon
 
 _**IGMP V3**_ is compatible with _**v1**_ and _**v2**_, you can try _**v3**_ first and change it if you find any problem. 
 
-![igmp snooping](https://static.gl-inet.com/docs/en/3/setup/share/applications/igmp_snooping.png){class="glboxshadow"}
+![igmp snooping](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/igmp_snooping.png){class="glboxshadow"}

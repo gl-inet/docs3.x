@@ -4,7 +4,7 @@ Model:
 
 GL-USB150
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/first_time_setup/router.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/router/en/3/setup/gl-usb150/first_time_setup/router.jpg){class="glboxshadow"}
 
 ---
 
@@ -12,7 +12,7 @@ GL-USB150
 
 Microuter can be powered up with a computer, power bank, or any power adapter with USB port. Simply plug it into the USB port of your device or adapter. However, please disable the internal Wi-Fi if you are using laptop.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/first_time_setup/power2.jpg){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-usb150/first_time_setup/power2.jpg){class="glboxshadow"}
 
 ## 2. Connect 
 
@@ -24,7 +24,7 @@ You can connect to the router via USB Ethernet or Wi-Fi.
 
 This only works on computer with USB port. Plug in Microuter and then your computer will install the driver automatically. Lastly, it will create a **USB to Ethernet** network. For special situation, <a href="https://static.gl-inet.com/www/images/products/gl-usb150/GL-USB150_Windows_Drivers.zip">here</a> are drivers for Windows.
 
-![connect via USB](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/first_time_setup/connect.jpg){class="glboxshadow"}
+![connect via USB](https://static.gl-inet.com/docs/router/en/3/setup/gl-usb150/first_time_setup/connect.jpg){class="glboxshadow"}
 
 ### Connect via Wi-Fi
 
@@ -42,7 +42,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/first_time_setup/welcome_page_gl-usb150.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/router/en/3/setup/gl-usb150/first_time_setup/welcome_page_gl-usb150.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -50,7 +50,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
-![Welcome](https://static.gl-inet.com/docs/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
+![Welcome](https://static.gl-inet.com/docs/router/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
@@ -58,4 +58,4 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-usb150/first_time_setup/admin_panel_gl-usb150.png){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/router/en/3/setup/gl-usb150/first_time_setup/admin_panel_gl-usb150.png){class="glboxshadow"}

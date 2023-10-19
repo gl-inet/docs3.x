@@ -6,7 +6,7 @@ On the left side of web Admin Panel -> MORE SETTINGS -> Admin Password
 
 Change the password of the web Admin Panel, which must be at least 5 characters. You have to input your current password to change it.
 
-![admin password](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/admin_password.png){class="glboxshadow"}
+![admin password](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/admin_password.png){class="glboxshadow"}
 
 ---
 
@@ -16,11 +16,11 @@ On the left side of web Admin Panel -> MORE SETTINGS -> LAN IP
 
 LAN IP is the IP address that you use to connect to this router. The default IP address of GL.iNet router is 192.168.8.1. If it conflicts with the IP address of your main router, you can change it.
 
-![lan ip](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/lan_ip.png){class="glboxshadow"}
+![lan ip](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/lan_ip.png){class="glboxshadow"}
 
 Guest IP is the IP address for Guest Wi-Fi, default is 192.168.9.1.
 
-![guest ip](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/guest_ip.png){class="glboxshadow"}
+![guest ip](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/guest_ip.png){class="glboxshadow"}
 
 ---
 
@@ -31,7 +31,7 @@ On the left side of web Admin Panel -> MORE SETTINGS -> LAN IP -> Static IP Addr
 Usually your computer's IP address is dynamically assigned by the router. If you want your computer to have a static IP address, you can manually add your computer's MAC address and the static IP address you want to use.
 Note the configured client has to reconnect the router to take effect.
 
-![static ip address binding](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/static_ip_address_binding.png){class="glboxshadow"}
+![static ip address binding](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/static_ip_address_binding.png){class="glboxshadow"}
 
 ---
 
@@ -41,7 +41,7 @@ On the left side of web Admin Panel -> MORE SETTINGS -> Time Zone
 
 The time of the router's activities will be recorded according to the router time. Therefore, choosing the time zone of your location is recommended.
 
-![time zone](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/time_zone.png){class="glboxshadow"}
+![time zone](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/time_zone.png){class="glboxshadow"}
 
 ---
 
@@ -51,7 +51,7 @@ On the left side of web Admin Panel -> MORE SETTINGS -> MAC Clone
 
 Clone the MAC address of your current client to the router. It is used especially in hotel when the network checks your MAC address. For example, if you got your smartphone registered on the network, you can clone the MAC address of your smartphone to the router so that the router can also connect to the network.
 
-![mac clone](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/mac_clone.png){class="glboxshadow"}
+![mac clone](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/mac_clone.png){class="glboxshadow"}
 
 ---
 
@@ -71,7 +71,7 @@ You can configure the DNS server of the router in order to prevent DNS leak or o
 
 **Manual DNS Server Settings**: Input a custom DNS server manually.
 
-![custom dns server](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/custom_dns_server.png){class="glboxshadow"}
+![custom dns server](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/custom_dns_server.png){class="glboxshadow"}
 
 ---
 
@@ -91,7 +91,7 @@ Be aware that you may not be able to access the web Admin Panel with the default
 
 **WDS**: Similar to Extender, please choose WDS if your main router supports WDS mode.
 
-![network mode](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/network_mode.png){class="glboxshadow"}
+![network mode](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/network_mode.png){class="glboxshadow"}
 
 ---
 
@@ -101,7 +101,7 @@ On the left side of web Admin Panel -> MORE SETTINGS -> Revert Firmware
 
 Revert the router to factory default settings. All your settings, applications and data will be erased.
 
-![revert firmware](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/revert_firmware.png){class="glboxshadow"}
+![revert firmware](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/revert_firmware.png){class="glboxshadow"}
 
 ---
 
@@ -113,14 +113,14 @@ On the left side of web Admin Panel -> MORE SETTINGS -> Advanced
 
 For some models, LuCI is not preinstalled, click `Install LuCI` to continue.
 
-![luci no installed](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/luci/luci_no_installed.png){class="glboxshadow"}
+![luci no installed](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/luci/luci_no_installed.png){class="glboxshadow"}
 
 After installed.
 
-![luci installed](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/luci/luci_installed.png){class="glboxshadow"}
+![luci installed](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/luci/luci_installed.png){class="glboxshadow"}
 
 Click the `192.168.8.1/cgi-bin/luci` will go to LuCI login page.
 
-![luci login](https://static.gl-inet.com/docs/en/3/setup/share/more_settings/luci/luci_login.png){class="glboxshadow"}
+![luci login](https://static.gl-inet.com/docs/router/en/3/setup/share/more_settings/luci/luci_login.png){class="glboxshadow"}
 
 *Note: The username is **root**. The password is same as the one that you use to access the web Admin Panel.*

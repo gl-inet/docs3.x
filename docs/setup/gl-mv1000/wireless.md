@@ -15,7 +15,7 @@ Here is a list of supported dongles that we had tested before.
 
 When you insert the dongle, you will see the dongle under "WIRELESS". And also you could set up as Access Point or repeater.
 
-![MV1000 with dongle](https://static.gl-inet.com/docs/en/3/setup/gl-mv1000/wireless/mv1000_dongle.png){class="glboxshadow"}
+![MV1000 with dongle](https://static.gl-inet.com/docs/router/en/3/setup/gl-mv1000/wireless/mv1000_dongle.png){class="glboxshadow"}
 
 Click `Modify` to change the settings of the wireless network.
 

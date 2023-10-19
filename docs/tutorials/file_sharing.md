@@ -51,7 +51,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> File Sharing -> File Shar
 
 The file sharing packages may not installed. Click `Install` to continue.
 
-![file sharing not installed](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/file_sharing_not_installed.png){class="glboxshadow"}
+![file sharing not installed](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/file_sharing_not_installed.png){class="glboxshadow"}
 
 After installed, it will share via LAN by default. 
 
@@ -61,7 +61,7 @@ After installed, it will share via LAN by default.
 
 **Writable**: The contents of the external storage device can be edited. For writable, it recommend using NTFS or EXT4 file systems.
 
-![file sharing installed](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/file_sharing_installed.png){class="glboxshadow"}
+![file sharing installed](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/file_sharing_installed.png){class="glboxshadow"}
 
 ---
 
@@ -81,7 +81,7 @@ We suggest Samba 2.0 support for Windows 10 users.
 
 Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not enabled by default in Window 10. You may modify the router Samba configuration.
 
-![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/smb1.0.png){class="glboxshadow"}
+![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/smb1.0.png){class="glboxshadow"}
 
 1). [SSH](ssh.md) into your router, you can gain control of both the router and the network that the rotuer is controlling.
 
@@ -93,11 +93,11 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 `/etc/init.d/samba restart`
 
-![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/ssh2.png){class="glboxshadow"}
+![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/ssh2.png){class="glboxshadow"}
 
 4). Open 'This PC' and type `\\your router IP Address`, such as `\\192.168.8.1`.
 
-![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/Filesharing.png){class="glboxshadow"}
+![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/Filesharing.png){class="glboxshadow"}
 
 5). You can view files in your USB flash drive through GL.iNet router now.
 
@@ -107,7 +107,7 @@ Due to the security vulunerabilitiy of the Samba1.0 protocol, Samba1.0 is not en
 
 3.0 firmware supports SMB2, and if you need SMB3, use [WinSCP to router](../tutorials/scp.md), edit `/etc/samba/smb.conf.template`. 
 
-![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/winscpsmb.jpg){class="glboxshadow"}
+![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/winscpsmb.jpg){class="glboxshadow"}
 
 Change the "max protocol = SMB2" to 
 
@@ -115,7 +115,7 @@ Change the "max protocol = SMB2" to
 
 "max protocol = SMB3", then **save** and **exit** WinSCP. 
 
-![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/changesmbtemp.jpg){class="glboxshadow"}
+![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/changesmbtemp.jpg){class="glboxshadow"}
 
 If you are using Windows 10, you also need to enable SMB 1.0. 
 
@@ -129,11 +129,11 @@ If you are using Windows 10, you also need to enable SMB 1.0.
 
   Go to Control Panel -> Programs and Features -> Turn Windows features on or off -> Find SMB 1.0/CIFS file sharing support, check all SMB1 related items, click apply and restart your computer.
   
-  ![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/Win10SMB1.jpg){class="glboxshadow"}
+  ![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/Win10SMB1.jpg){class="glboxshadow"}
 
 **2)** Open a Windows explorer, you can find **Network** in the folder directory. Double click your router to access its contents.
 
-![Network](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/network.jpg){class="glboxshadow"}
+![Network](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/network.jpg){class="glboxshadow"}
 
 ### Mac OS
 
@@ -141,23 +141,23 @@ If you are using Windows 10, you also need to enable SMB 1.0.
 
 **1)** Open Finder, Menu -> Go -> Connect to Server... 
 
-![finder_connect_to_server](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/finder_connect_to_server.png){class="glboxshadow"}
+![finder_connect_to_server](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/finder_connect_to_server.png){class="glboxshadow"}
 
 **2)** Input `smb://192.168.8.1`, you need to change this if your router IP address is not 192.168.8.1
 
-![connect_to_server](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/connect_to_server.png){class="glboxshadow"}
+![connect_to_server](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/connect_to_server.png){class="glboxshadow"}
 
 **3)** Click Connect.
 
-![confirm_connect_to_server](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/confirm_connect_to_server.png){class="glboxshadow"}
+![confirm_connect_to_server](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/confirm_connect_to_server.png){class="glboxshadow"}
 
 **4)** Input username and password, they are the same when you login web Admin Panel.
 
-![input_server_username_password](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/input_server_username_password.png){class="glboxshadow"}
+![input_server_username_password](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/input_server_username_password.png){class="glboxshadow"}
 
 **5)** Then Finder will display files of USB disk.
 
-![finder_connect_to_router_usb_disk](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/finder_connect_to_router_usb_disk.png){class="glboxshadow"}
+![finder_connect_to_router_usb_disk](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/finder_connect_to_router_usb_disk.png){class="glboxshadow"}
 
 **Method 2**
 
@@ -187,7 +187,7 @@ The **Title** is for a name of this connection. **URL** is the access link, defa
 
 Click **Done** button to complete this setup.
 
-![documents samba](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/documents_windows_smb.png){class="glboxshadow" width="560"}
+![documents samba](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/documents_windows_smb.png){class="glboxshadow" width="560"}
 
 ### Linux
 
@@ -215,32 +215,32 @@ Here I'm going to use **Solid Explorer File Manager** as an example:
 
 **1)** Open the app.
 
-![android1](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android01.jpg){class="glboxshadow"}
+![android1](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android01.jpg){class="glboxshadow"}
 
 **2)** Click the `Plus sign button` on the right bottom of page, then choose `New cloud connection`.
 
-![android2](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android02.jpg){class="glboxshadow"}
+![android2](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android02.jpg){class="glboxshadow"}
 
 **3)** Choose `LAN / SMB`.
 
-![android3](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android03.jpg){class="glboxshadow"}
+![android3](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android03.jpg){class="glboxshadow"}
 
 **4)** Choose the Server, the IP address of your device.
 
-![android4](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android04.jpg){class="glboxshadow"}
+![android4](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android04.jpg){class="glboxshadow"}
 
 **5)** Choose `Guest`.
 
-![android5](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android05.jpg){class="glboxshadow"}
+![android5](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android05.jpg){class="glboxshadow"}
 
 **6)** Choose `Yes`.
 
-![android6](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android06.jpg){class="glboxshadow"}
+![android6](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android06.jpg){class="glboxshadow"}
 
 **7)** Choose `SMB 1`.
 
-![android7](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android07.jpg){class="glboxshadow"}
+![android7](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android07.jpg){class="glboxshadow"}
 
 **8)** Click `NEXT`.
 
-![android8](https://static.gl-inet.com/docs/en/3/tutorials/file_sharing/android08.jpg){class="glboxshadow"}
+![android8](https://static.gl-inet.com/docs/router/en/3/tutorials/file_sharing/android08.jpg){class="glboxshadow"}

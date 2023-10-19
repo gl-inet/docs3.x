@@ -6,7 +6,7 @@
 
 Remember to click `Update` whenever you access this packages repository.
 
-![Plug-ins](https://static.gl-inet.com/docs/en/3/setup/gl-sf1200/applications/plug-ins_sf1200.png){class="glboxshadow"}
+![Plug-ins](https://static.gl-inet.com/docs/router/en/3/setup/gl-sf1200/applications/plug-ins_sf1200.png){class="glboxshadow"}
 
 ---
 
@@ -18,7 +18,7 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Cloud Ma
 
 Please refer to [Cloud for the detail](../../tutorials/cloud.md).
 
-![goodcloud](https://static.gl-inet.com/docs/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
+![goodcloud](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/cloud.png){class="glboxshadow"}
 
 ---
 
@@ -30,4 +30,4 @@ On the left side of web Admin Panel -> APPLICATIONS -> Remote Access -> Dynamic 
 
 Please refer to [DDNS for the detail](../../tutorials/ddns.md).
 
-![DDNS](https://static.gl-inet.com/docs/en/3/setup/share/applications/ddns.png){class="glboxshadow"}
+![DDNS](https://static.gl-inet.com/docs/router/en/3/setup/share/applications/ddns.png){class="glboxshadow"}

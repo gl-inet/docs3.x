@@ -2,7 +2,7 @@
 
 Model: GL-AX1800 (Flint)
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/gl-ax1800.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/router/en/3/setup/gl-ax1800/first_time_setup/gl-ax1800.jpg){class="glboxshadow"}
 
 ---
 
@@ -12,7 +12,7 @@ There is a video tutorial about the setup, please check out [here](#video-tutori
 
 Plug the power cable into the power port of the router. Make sure you are using a standard **12V/1.5A** power adapter. Otherwise it may cause malfunction.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/power_on_ax1800.png){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-ax1800/first_time_setup/power_on_ax1800.png){class="glboxshadow"}
 
 ## 2. Connect
 
@@ -26,7 +26,7 @@ Or you can initialize via mobile app, please access [this](https://www.gl-inet.c
 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via LAN](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/connect_to_lan_port_ax1800.png){class="glboxshadow"}
+![connect via LAN](https://static.gl-inet.com/docs/router/en/3/setup/gl-ax1800/first_time_setup/connect_to_lan_port_ax1800.png){class="glboxshadow"}
 
 ### Connect via Wi-Fi
 
@@ -47,7 +47,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**. 
 
-![welcome page of gl-ax1800](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/welcome_page_ax1800.png){class="glboxshadow"}
+![welcome page of gl-ax1800](https://static.gl-inet.com/docs/router/en/3/setup/gl-ax1800/first_time_setup/welcome_page_ax1800.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -55,7 +55,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
-![set up admin password for gl-ax1800](https://static.gl-inet.com/docs/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
+![set up admin password for gl-ax1800](https://static.gl-inet.com/docs/router/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
@@ -63,7 +63,7 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel of gl-ax1800](https://static.gl-inet.com/docs/en/3/setup/gl-ax1800/first_time_setup/admin_panel_ax1800.png){class="glboxshadow"}
+![admin panel of gl-ax1800](https://static.gl-inet.com/docs/router/en/3/setup/gl-ax1800/first_time_setup/admin_panel_ax1800.png){class="glboxshadow"}
 
 ## Video Tutorial
 

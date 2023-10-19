@@ -29,8 +29,8 @@ Collie (GL-X300B) is an industrial cellular gateway designed to operate under hi
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-x300b/gl-x300b-pinout.jpg" itemprop="contentUrl" data-size="1317x1031">
-      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-x300b/gl-x300b-pinout.jpg" itemprop="thumbnail" alt="gl-x300b pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/3/specification/gl-x300b/gl-x300b-pinout.jpg" itemprop="contentUrl" data-size="1317x1031">
+      <img src="https://static.gl-inet.com/docs/router/en/3/specification/gl-x300b/gl-x300b-pinout.jpg" itemprop="thumbnail" alt="gl-x300b pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

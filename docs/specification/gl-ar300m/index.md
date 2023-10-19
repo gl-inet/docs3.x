@@ -180,7 +180,7 @@ There is a bug in AR300M uboot and in some computers the connection will always 
 
 The following figure is the web UI of the `new` uboot.
 
-![AR300M uboot web ui](https://static.gl-inet.com/docs/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg){class="glboxshadow"}
+![AR300M uboot web ui](https://static.gl-inet.com/docs/router/en/3/specification/gl-ar300m/gl-ar300m_uboot_2021.jpg){class="glboxshadow"}
 
 ### Using uboot console
 

@@ -26,7 +26,7 @@ An alternative method is to use a reverse proxy solution, we suggest [AstroRelay
 
 Access to web Admin Panel, on the left side -> VPN -> OpenVPN Server. Click `Generate a Configuration File`.
 
-![initialize openvpn server](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/initialize_openvpn_server.png){class="glboxshadow"}
+![initialize openvpn server](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/initialize_openvpn_server.png){class="glboxshadow"}
 
 ## Setup OpenVPN Server
 
@@ -34,7 +34,7 @@ Access to web Admin Panel, on the left side -> VPN -> OpenVPN Server. Click `Gen
 
 There are preset OpenVPN server configurations. You can also click `Modify` to change them manually. Click `Apply` when you finish.
 
-![openvpn server configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_settings.png){class="glboxshadow"}
+![openvpn server configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/openvpn_server_settings.png){class="glboxshadow"}
 
 **Allow Access Local Network:** Enable this will allow every client that connect to this OpenVPN Server be able to access your LAN. Please use with caution.
 
@@ -44,17 +44,17 @@ There are preset OpenVPN server configurations. You can also click `Modify` to c
 
 Click `Export Config` on the bottom right to download the OpenVPN configuration file.
 
-![openvpn server export configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_export_config.png){class="glboxshadow"}
+![openvpn server export configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/openvpn_server_export_config.png){class="glboxshadow"}
 
 ### Start the OpenVPN server
 
 Click `Start` to start your OpenVPN server. Otherwise, you will not be able to connect to the OpenVPN server by using its configuration file.
 
-![openvpn server configuration](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_settings.png){class="glboxshadow"}
+![openvpn server configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/openvpn_server_settings.png){class="glboxshadow"}
 
 It started.
 
-![started](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/openvpn_server_started.png){class="glboxshadow"}
+![started](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/openvpn_server_started.png){class="glboxshadow"}
 
 ### To check if OpenVPN Server is working properly
 
@@ -76,11 +76,11 @@ Some Internet Service Providers may change your IP address sometimes. To overcom
 1. Open the configuration file(.ovpn) with a text editor(e.g. [Atom](https://atom.io/){target="_blank"}, [Sublime](https://www.sublimetext.com/){target="_blank"}).
 2. Edit the configuration to replace DDNS url with your public IP address.
 
-    ![ddns replace ip](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/ddns_replace_ip.png){class="glboxshadow"}
+    ![ddns replace ip](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/ddns_replace_ip.png){class="glboxshadow"}
 
     After replaced.
 
-    ![ddns replaced ip](https://static.gl-inet.com/docs/en/3/tutorials/openvpn_server/ddns_replaced_ip.png){class="glboxshadow"}
+    ![ddns replaced ip](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_server/ddns_replaced_ip.png){class="glboxshadow"}
 
 3. Save the `.ovpn` file.
 

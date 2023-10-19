@@ -6,7 +6,7 @@ GL-AX1800, GL-B2200, GL-MT1300, GL-E750, GL-AR750S, GL-B1300, GL-S1300, GL-MV100
 
 This feature is builded in from V3.100.
 
-![tor interface](https://static.gl-inet.com/docs/en/3/tutorials/tor/tor_interface.png){class="glboxshadow"}
+![tor interface](https://static.gl-inet.com/docs/router/en/3/tutorials/tor/tor_interface.png){class="glboxshadow"}
 
 If you don't want to upgrade, please read below.
 

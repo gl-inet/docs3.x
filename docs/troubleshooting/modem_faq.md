@@ -24,11 +24,11 @@ This prompt indicates that there is a problem with the contact between SIM card 
 
 1.  Enter the AT instruction page and execute the command **AT+QPRTPARA=3**
 
-   <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/ATT_Network_Fix/attfix0.png"/>
+   <img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/ATT_Network_Fix/attfix0.png"/>
 
    
 
-   <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/ATT_Network_Fix/attfix1.png"/>
+   <img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/ATT_Network_Fix/attfix1.png"/>
 
    Wait for about 30 seconds to check whether the device is registered with the network.
 
@@ -48,7 +48,7 @@ Different types of SIM cards  may have different APN settings, so you can check 
 
 Auto Setup will try all the possible methods to build a connection. In case Auto Setup fails to connect, please try manually setting and selecting the appropriate connection protocol.
 
-<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/manual_2.png"/>
+<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/manual_2.png"/>
 
 
 
@@ -56,7 +56,7 @@ Auto Setup will try all the possible methods to build a connection. In case Auto
 
 Select device as **/dev/cdc-wdmX** and fill in the correct [APN](modem_faq.md#how-to-get-your-apn).
 
-<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/qmi.png"/>
+<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/qmi.png"/>
 
 
 
@@ -68,7 +68,7 @@ For **MIFI,E750,X750,X300B**, select **ttyUSB3**.
 
 For **XE300** and **AP1300**, select **ttyUSB4**.
 
-<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/pppd.png"/>
+<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/pppd.png"/>
 
 
 
@@ -76,7 +76,7 @@ For **XE300** and **AP1300**, select **ttyUSB4**.
 
 QCM protocol is supported in versions after 3.200. Please select device as **/dev/cdc-wdmX**, fill in the correct  [[APN](modem_faq.md#how-to-get-your-apn)) settings, and then click More to select protocol as QCM
 
-<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/qcm.png"/>
+<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/qcm.png"/>
 
 
 
@@ -92,9 +92,9 @@ Please note: generally the 4G router cannot beat your smartphone in speed test. 
 
 3. The signal may not be good. Click Cell Info to check the signal-related parameters, such as RSSI, RSRP, RSRQ,SINR, etc. Please refer to the [wiki](https://wiki.teltonika.lt/view/Mobile_Signal_Strength_Recommendations#4G_.28LTE.29) for parameter range determination. If the device's signal is poor, try moving the device to another location and check that the antenna is properly connected.
 
-   <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/cells_info.png"/>
+   <img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/cells_info.png"/>
 
-   <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/cells.png"/>
+   <img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/cells.png"/>
 
    
 
@@ -102,7 +102,7 @@ Please note: generally the 4G router cannot beat your smartphone in speed test. 
 
    In LTE mode, the bandwidth of each band is as follows, which is a parameter that 3GPP has already defined, so there is no way to change it.
 
-   <img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/bandwidth.png"/>
+   <img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/bandwidth.png"/>
    
    
 
@@ -114,9 +114,9 @@ Some customers may encounter the situation that the mobile phone can work in 4G+
 
 For EP06-E, the following band combinations are supported
 
-<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/ep06e_ca_band.png"/>
+<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/ep06e_ca_band.png"/>
 
 For EP06-A, the following band combinations are supported
 
-<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/modem_faq/ep06a_ca_band.png"/>
+<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/modem_faq/ep06a_ca_band.png"/>
 

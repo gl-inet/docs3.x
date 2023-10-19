@@ -33,8 +33,8 @@ Please choose the correct 4G module for your region.
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/specification/mifi/mifi.png" itemprop="contentUrl" data-size="2265x2087">
-      <img src="https://static.gl-inet.com/docs/en/3/specification/mifi/mifi.png" itemprop="thumbnail" alt="gl-mifi pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/3/specification/mifi/mifi.png" itemprop="contentUrl" data-size="2265x2087">
+      <img src="https://static.gl-inet.com/docs/router/en/3/specification/mifi/mifi.png" itemprop="thumbnail" alt="gl-mifi pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

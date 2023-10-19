@@ -4,4 +4,4 @@
 2. Click **Wireless**, choose the Wi-Fi you want to change, click **Modify**
 Change SSID Visibility to Hidden, then click **Apply** button.
 
-    ![change ssid visibility to hidden](https://static.gl-inet.com/docs/en/3/tutorials/hide_ssid/hide_ssid.jpg){class="glboxshadow"}
+    ![change ssid visibility to hidden](https://static.gl-inet.com/docs/router/en/3/tutorials/hide_ssid/hide_ssid.jpg){class="glboxshadow"}

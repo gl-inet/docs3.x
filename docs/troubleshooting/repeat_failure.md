@@ -13,28 +13,28 @@ However, you can change **Country Code** in LuCI to get full channel.(Don't supp
 </li>
 <li>
 	<p>Go to MORE SETTINGS -> Advanced.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/1.png"/>
+	<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/repeat_failure/1.png"/>
 </li>
 <li>
     <p>Input web page password and you will enter LuCI page.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/2.png"/>
+	<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/repeat_failure/2.png"/>
 </li>
 <li>
 	<p>Go to Network -> Wireless.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/3.png"/>
+	<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/repeat_failure/3.png"/>
 </li>
 <li>
     <p>click <b>Edit</b> on 2.4G Wi-Fi section.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/4.png"/>
+	<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/repeat_failure/4.png"/>
 </li>
 <li>
 	<p>Click <b>Advanced Settings</b>, change the <b>Country Code</b> to your country or Japan. Click <b>Save&Apply</b>.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/5.png"/>
+	<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/repeat_failure/5.png"/>
 	
 </li>
 <li>
     <p>Refresh your web UI page and you will see 12/13 section in 2.4G Wi-Fi channel. Scan again and now you will be able to see other SSIDs.</p>
-	<img src="https://static.gl-inet.com/docs/en/3/troubleshooting/repeat_failure/6.png"/>
+	<img src="https://static.gl-inet.com/docs/router/en/3/troubleshooting/repeat_failure/6.png"/>
 </li>
 </ol>
 

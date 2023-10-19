@@ -4,11 +4,11 @@ Model:
 
 GL-AP1300(Cirrus)
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/AP1300.png){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/AP1300.png){class="glboxshadow"}
 
 GL-AP1300LTE(Cirrus)
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/AP1300LTE.png){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/AP1300LTE.png){class="glboxshadow"}
 
 ---
 
@@ -25,17 +25,17 @@ PoE (Power over Ethernet)
 
 The PoE injector should be compatible with **48V 802.3at** standard. PoE only works on the **WAN port**.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/power1.png){class="glboxshadow" width="600"}
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/power1.png){class="glboxshadow" width="600"}
 
 Power cable
 
 The power cable **(12V/2A DC)** can be found in the package.
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/power2.png){class="glboxshadow" width="600"}
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/power2.png){class="glboxshadow" width="600"}
 
 *IMPORTANT NOTE: For GL-AP1300LTE, you **MUST** insert Nano SIM Card and attach the antennas before connecting to a power supply.*
 
-![Power on](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/AP1300_insert.png){class="glboxshadow"}
+![Power on](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/AP1300_insert.png){class="glboxshadow"}
 
 ## 2. Connect 
 
@@ -47,7 +47,7 @@ You can connect to the router via Ethernet cable or Wi-Fi.
 
 Connect your device to the LAN port of the router via Ethernet cable.
 
-![connect via lan](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/AP1300_connect.png){class="glboxshadow" width="600"}
+![connect via lan](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/AP1300_connect.png){class="glboxshadow" width="600"}
 
 ### Connect via Wi-Fi
 
@@ -66,7 +66,7 @@ Open a web browser (we recommend Chrome, firefox) and visit [http://192.168.8.1]
 
 You need to choose the display language of the Admin Panel. Currently, our routers support **English**, **简体中文**, **繁體中文**, **Deutsch**, **Français**, **Español**, **Italiano** **日本語**, **한국어** and **Русский**.
 
-![initial setup](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/welcome_page_gl-ap1300.png){class="glboxshadow"}
+![initial setup](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/welcome_page_gl-ap1300.png){class="glboxshadow"}
 
 *Note: If your browser always redirects to LuCI (http://192.168.8.1/cgi-bin/luci), you can  visit: [http://192.168.8.1/index](http://192.168.8.1/index) instead of [http://192.168.8.1](http://192.168.8.1).*
 
@@ -74,7 +74,7 @@ You need to choose the display language of the Admin Panel. Currently, our route
 
 There is no default password for the Admin Panel. You have to set your own password, which must be at least 5 characters. Then, click `Submit` to proceed.
 
-![setup admin password](https://static.gl-inet.com/docs/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
+![setup admin password](https://static.gl-inet.com/docs/router/en/3/setup/share/first_time_setup/setup_admin_password.png){class="glboxshadow"}
 
 *Note: This password is for this web Admin Panel and the embedded Linux system. It will not change your Wi-Fi password.*
 
@@ -82,7 +82,7 @@ There is no default password for the Admin Panel. You have to set your own passw
 
 After the initial setup, you will enter the web Admin Panel of the router. It allows you to check the status and manage the settings of the router.
 
-![admin panel](https://static.gl-inet.com/docs/en/3/setup/gl-ap1300/first_time_setup/admin_panel_gl-ap1300.png){class="glboxshadow"}
+![admin panel](https://static.gl-inet.com/docs/router/en/3/setup/gl-ap1300/first_time_setup/admin_panel_gl-ap1300.png){class="glboxshadow"}
 
 ## Video Tutorial
 

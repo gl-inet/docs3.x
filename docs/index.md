@@ -330,7 +330,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     <li>Access web Admin Panel via 192.168.8.1.</li>
     <li>Click <b>Upgrade</b> and check <b>Current Version</b>
       <p>
-        <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/upgrade/firmware.jpg" />
+        <img src="https://static.gl-inet.com/docs/router/en/3/setup/mini_router/upgrade/firmware.jpg" />
       </p>
     </li>
   </ol>
@@ -356,7 +356,7 @@ GL.iNet is devoted to make hardware working easily with open-sourced software. T
     <li>
       Change the network mode to <b>Access Point</b>, <b>Extender</b> or <b>WDS</b>.
     </li>
-    <img src="https://static.gl-inet.com/docs/en/3/setup/mini_router/more_settings/network_mode.jpg">
+    <img src="https://static.gl-inet.com/docs/router/en/3/setup/mini_router/more_settings/network_mode.jpg">
   </ol>
 </details>
 

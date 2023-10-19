@@ -6,18 +6,18 @@ If your GL-AR750 or GL-AR750S are running the firmware version 3.025, they may h
 
 1. Login the admin panel and go to Upgrade to check your version
 
-    ![750s3025](https://static.gl-inet.com/docs/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3025.jpg){class="glboxshadow"}
+    ![750s3025](https://static.gl-inet.com/docs/router/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3025.jpg){class="glboxshadow"}
 
 2. Click Local Upgrade and drag the 3.105 firmware to the box.
 
-    ![750s3025up](https://static.gl-inet.com/docs/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3025up.jpg){class="glboxshadow"}
+    ![750s3025up](https://static.gl-inet.com/docs/router/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3025up.jpg){class="glboxshadow"}
 
 3. Disable the Keep Settings, then click install.
 
-    ![750s3025setting](https://static.gl-inet.com/docs/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3025setting.jpg){class="glboxshadow"}
+    ![750s3025setting](https://static.gl-inet.com/docs/router/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3025setting.jpg){class="glboxshadow"}
 
 4. Double confirm your version is now 3.105.
 
-    ![750s3105](https://static.gl-inet.com/docs/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3125.jpg){class="glboxshadow"}
+    ![750s3105](https://static.gl-inet.com/docs/router/en/3/tutorials/firmware_upgrade_for_old_version_ar750/750s3125.jpg){class="glboxshadow"}
 
 You can enable Auto Upgrade now or you can manual upgrade to the latest version found in our official website if you want a higher version.

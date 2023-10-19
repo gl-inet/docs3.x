@@ -21,8 +21,8 @@
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/3/specification/gl-sft1200/gl-sft1200-pinout.jpg" itemprop="contentUrl" data-size="1500x1500">
-      <img src="https://static.gl-inet.com/docs/en/3/specification/gl-sft1200/gl-sft1200-pinout.jpg" itemprop="thumbnail" alt="GL-SFT1200 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/3/specification/gl-sft1200/gl-sft1200-pinout.jpg" itemprop="contentUrl" data-size="1500x1500">
+      <img src="https://static.gl-inet.com/docs/router/en/3/specification/gl-sft1200/gl-sft1200-pinout.jpg" itemprop="thumbnail" alt="GL-SFT1200 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

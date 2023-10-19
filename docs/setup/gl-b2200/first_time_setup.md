@@ -2,7 +2,7 @@
 
 Model: GL-B2200
 
-![router](https://static.gl-inet.com/docs/en/3/setup/gl-b2200/first_time_setup/router.jpg){class="glboxshadow"}
+![router](https://static.gl-inet.com/docs/router/en/3/setup/gl-b2200/first_time_setup/router.jpg){class="glboxshadow"}
 
 ---
 
