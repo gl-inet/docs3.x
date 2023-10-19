@@ -4,7 +4,7 @@
 
 接続しているデバイスのクライアントのネームやIP/MACアドレスや接続方法が表示されます。
 
-![clients](https://static.gl-inet.com/docs/jp/3/setup/mini_router/clients/clients.png)
+![clients](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/clients/clients.png)
 
 リアルタイム速度とトラフィック統計を開けて、QoSが設定できます。
 
@@ -12,7 +12,7 @@
 
 右のボタンをクリックして、クライアントをブロックできます。
 
-![qos](https://static.gl-inet.com/docs/jp/3/setup/mini_router/clients/qos.png)
+![qos](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/clients/qos.png)
 
 **設定**をクリックして、あるクライアントにQoSを設定できます。
 

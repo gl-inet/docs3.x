@@ -2,13 +2,13 @@
 
 四つのインターネットにアクセスする方法があります：**有線接続**、**無線中継**、**3G/4Gモデル**、**テザリング**。
 
-![connection method](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/first_time_setup/method.jpg)
+![connection method](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750s/first_time_setup/method.jpg)
 
 
 
 `ネットワーク`をクリックして、ネットワークに繋がります。
 
-![internet](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/first_time_setup/main_ui.png)
+![internet](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750s/first_time_setup/main_ui.png)
 
   
 
@@ -20,13 +20,13 @@
 
 イーサネットケーブルをルーターのWANポートに入れる前、`LANポートとして使用` をクリックして、WANポートをLANポートに変更して利用することができます。それはルーターを無線中継に利用する時に役立ちます。もう一つのLANポートを利用できるようになります。
 
-![cable](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/ケーブル.png)
+![cable](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/ケーブル.png)
 
 
 
 イーサネットケーブルをルーターのWANポートに入れる後、接続情報が有線セクションに表示されます。DHCPがデフォルトのプロトコルです。`修正`をクリックして、プロトコルを変更できます。
 
-![cable](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/ケーブルセクション.png)
+![cable](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/ケーブルセクション.png)
 
 
 
@@ -34,7 +34,7 @@
 
 DHCPはデフォルトと一般的なプロトコルです。手動で設定する必要はありません。
 
-![dhcp](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/デフォルトプロトコル.png)
+![dhcp](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/デフォルトプロトコル.png)
 
 
 ### Static
@@ -43,7 +43,7 @@ DHCPはデフォルトと一般的なプロトコルです。手動で設定す�
 
 Staticを選択する時、自分の望みに設定を変更して、`適用`をクリックしてください。
 
-![static](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/せいたい.png)
+![static](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/せいたい.png)
 
 
 
@@ -55,7 +55,7 @@ PPPoEが多くのインターネットサーバープロバイダー(ISP)に要�
 
 PPPoEを選択し、ユーザー名とパスワードを入力して、`適用`をクリックします。
 
-![PPPoE](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/PPPoE.png)
+![PPPoE](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/PPPoE.png)
 
 
 
@@ -69,13 +69,13 @@ PPPoEを選択し、ユーザー名とパスワードを入力して、`適用`�
 
 中継セクションで、`スキャン`をクリックして近くの無線ネットワークを検索します。
 
-![repeater scan](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/中継.png)
+![repeater scan](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/中継.png)
 
 
 
 リストの中で一つのSSIDを選択し、パスワードを入力します。**ネットワークを保存**を開いて、使用しているの無線ネットワークを保存することができます。最後に、参加を`クリック`します。
 
-![connect wifi](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/中継スキャン.png)
+![connect wifi](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/中継スキャン.png)
 
 
 
@@ -95,22 +95,22 @@ USB 3G/4Gモデムでインターネットに接続できます。SIMカード�
 - **サービスタイプ**：SIMカードのサービスタイプを示します。
 - **APN**:SIMカードキャリアと確認します。
 
-![modem](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/3G4G.png)
+![modem](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/3G4G.png)
 
 高級設定:
 
 - **ナンバー**：一般に、ここはデフォルト設定であり、手動でセットする必要がありません。しかしながら、この情報があったら、入力してください。
 - **ピンコード、ユーザーネーム、パスワード**：一般に、ロックされていないSIMカードはここで入力必要がないです。でも、ロックされているSIMカードが使用していったら、ごサービスプロバイダーと連絡してください。
 
-![modem](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/3G4Gセット.png)
+![modem](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/3G4Gセット.png)
 
 
 
 SIMカードのIPアドレスが見せる時、接続ができました。
 
-![modem connect](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/modem2.jpg)
+![modem connect](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/modem2.jpg)
 
-![modem connected](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/modem3.jpg)
+![modem connected](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/modem3.jpg)
 
 
 
@@ -154,5 +154,5 @@ Androidテザリングの場合は、ルータのUSBポートに差し込み、�
 
 デバイスに差し込む後、テザリングセクションがアップデートして、ごデバイスがデバイスリストで見えます。デバイスの名称は**eth**または**usb**で始まり、例えば**eth2**、**usb0**。 ご使いのデバイスを選択して`接続`をクリックしてください。
 
-![tethering](https://static.gl-inet.com/docs/jp/3/setup/mini_router/internet/テザリング.png)
+![tethering](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/internet/テザリング.png)
 

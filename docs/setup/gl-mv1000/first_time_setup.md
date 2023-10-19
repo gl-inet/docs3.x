@@ -36,7 +36,7 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 
 管理パネルで言語をセットすることが必要です。現在、ルーターが**日本語**、**English**、**简体中文**、**繁體中文**、**Deutsch**、**Français**、**Español**をサポートします。
 
-![initial setup](https://static.gl-inet.com/docs/jp/3/setup/gl-mv1000/first_time_setup/welcome.png)
+![initial setup](https://static.gl-inet.com/docs/router/jp/3/setup/gl-mv1000/first_time_setup/welcome.png)
 
 *注意: ブラウザが常にLuci（http://192.168.8.1/cgi-bin/luci)にリダイレクトされる場合は、次のURLにアクセスしてください: [http://192.168.8.1/index](http://192.168.8.1/index)*
 
@@ -44,10 +44,10 @@ webブラウザ(Firefox,Chromeがおすすめ)を開いて、[http://192.168.8.1
 
 ルーターはデフォルトパスワードがありません、パスワードをセットすることが必要です。パスワードは5文字以上でなければなりません。`続き`をクリックして確認します。
 
-![Welcome](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750/first_time_setup/password.png)
+![Welcome](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750/first_time_setup/password.png)
 
 ### 3) 管理パネル
 
 以上のセットが完了後、あなたがルーターの管理者パネルに入ります。状況を確認したり、ルーターの設定を変更することができます。
 
-![admin panel](https://static.gl-inet.com/docs/jp/3/setup/gl-mv1000/first_time_setup/main_ui.png)
+![admin panel](https://static.gl-inet.com/docs/router/jp/3/setup/gl-mv1000/first_time_setup/main_ui.png)

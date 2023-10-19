@@ -9,7 +9,7 @@
 
 このパッケージレポジトリにアクセスするときに、いつも`更新`をクリックするのを忘れないでください。
 
-![Plug ins](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750/applications/plus-ins.png)
+![Plug ins](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750/applications/plus-ins.png)
 
 
 
@@ -24,7 +24,7 @@
 
 **書けます**: 外部記憶装置の内容を編集できます。
 
-![File sharing](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750/applications/file_sharing.png)
+![File sharing](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750/applications/file_sharing.png)
 
 
 

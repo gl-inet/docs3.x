@@ -15,7 +15,7 @@
 </li>
 <li>
     <p>「管理者パネル」 -> 「その他の設定」 -> 「カスタマDNSサーバー」、<b>DNS再バインド攻撃防御</b>を無効にします。</p>
-	<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/captive_portal/1.png"/>
+	<img src="https://static.gl-inet.com/docs/router/jp/3/troubleshooting/captive_portal/1.png"/>
 </li>
 <li>
 	<p>ウェブブラウザーを使用してウェブページを訪問し、ホットスポットのキャプティブポータルに自動的にリダイレクトされます。

@@ -6,8 +6,8 @@
 
 右のボタンをクリックして、不要なクライアントをブロックできます。
 
-![clients](https://static.gl-inet.com/docs/jp/3/setup/mini_router/clients/clients.png)
+![clients](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/clients/clients.png)
 
 リアルタイム速度とトラフィック統計を有効にすれば、QoSが設定できます。
 
-![qos](https://static.gl-inet.com/docs/jp/3/setup/mini_router/clients/qos.png)
+![qos](https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/clients/qos.png)

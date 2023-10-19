@@ -17,7 +17,7 @@
 <ol type="1">
 <li>管理者パネルにアクセスする</li>
 <li><b>アップグレード</b>をクリックして<b>現在のバージョン</b>をチェックしてください
-<p><img src="https://static.gl-inet.com/docs/jp/3/setup/mini_router/upgrade/アップグレード.png"</p>
+<p><img src="https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/upgrade/アップグレード.png"</p>
 </ol>
 </details>
 
@@ -33,7 +33,7 @@
 <li>管理者パネルにアクセスします</li>
 <li><b>その他の設定</b> -> <b>ネットワークモード</b></li>
 <li>ネットワークモードに<b>APモード</b>、<b>無線拡張モード</b>または<b>WDSモード</b>に切り替えます</li>
-<img src="https://static.gl-inet.com/docs/jp/3/setup/mini_router/more_settings/ネットワークモード.png">
+<img src="https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/more_settings/ネットワークモード.png">
 </details>
 
 <details>
@@ -45,15 +45,15 @@
 </li>
 <li>
 <p>デバイスをルーターに接続し、管理者パネルにアクセス</p>
-<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/internet.png"/>
+<img src="https://static.gl-inet.com/docs/router/jp/3/troubleshooting/wantolan/internet.png"/>
 </li>
 <li>
 <p><b>ネットワーク</b>に行って,有線セクションで<b>「LANポートとして使用」</b>をクリック</p>
-<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/lan.png"/>
+<img src="https://static.gl-inet.com/docs/router/jp/3/troubleshooting/wantolan/lan.png"/>
 </li>
 <li>
 <p><b>はい</b>をクリックして確認</p>
-<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/wantolan/cable.png"/>
+<img src="https://static.gl-inet.com/docs/router/jp/3/troubleshooting/wantolan/cable.png"/>
 </li>
 </ol>
 </details>
@@ -77,7 +77,7 @@
 <ol type="1">
 <li>管理者パネルにアクセス</li>
 <li><b>無線</b>をクリックして、<b>ON/OFF</b> ボタンをクリックします</li>
-<p><img src="https://static.gl-inet.com/docs/jp/3/setup/mini_router/wireless/無線.png"</p>
+<p><img src="https://static.gl-inet.com/docs/router/jp/3/setup/mini_router/wireless/無線.png"</p>
 </ol>
 </details>
 
@@ -122,7 +122,7 @@
 </li>
 <li>
     <p>管理者パネルに行く -> 「その他の設定」 -> 「カスタマDNSサーバー」。<b>「DNS再バインド攻撃防御」</b>を無効にします。</p>
-	<img src="https://static.gl-inet.com/docs/jp/3/troubleshooting/captive_portal/1.png"/>
+	<img src="https://static.gl-inet.com/docs/router/jp/3/troubleshooting/captive_portal/1.png"/>
 </li>
 <li>
 	<p>ウェブブラウザーを使用してウェブページを訪問する、これがキャプティブポータルに自動的にリダイレクトします。</p>

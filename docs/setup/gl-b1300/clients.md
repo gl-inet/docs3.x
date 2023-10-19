@@ -4,13 +4,13 @@
 
 接続しているデバイスのクライアントのネームやIPアドレスやMACアドレスや接続方法が表示されます。
 
-![clients](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/clients/clients.png)
+![clients](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750s/clients/clients.png)
 
 リアルタイム速度とトラフィック統計を開けて、QoSが設定できます。
 
 すべてのクライアントのトラフィックとレート情報を見えます。右のボタンをクリックして、クライアントをブロックできます。
 
-![qos](https://static.gl-inet.com/docs/jp/3/setup/gl-ar750s/clients/qos.png)
+![qos](https://static.gl-inet.com/docs/router/jp/3/setup/gl-ar750s/clients/qos.png)
 
 `設定`をクリックして、あるクライアントにQoSを設定できます。
 
