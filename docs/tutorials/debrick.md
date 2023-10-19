@@ -96,21 +96,21 @@ You can also refer to video tutorial below.
 
         3. Click the **Ethernet** tab.
 
-            ![windows 11 ethernet](https://static.gl-inet.com/docs/en/4/tutorials/debrick/windwos11_ethernet.png){class="glboxshadow"}
+            ![windows 11 ethernet](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/windwos11_ethernet.png){class="glboxshadow"}
 
         4. Under the "IP settings" section, click the **Edit** button.
 
-            ![windows 11 ethernet edit](https://static.gl-inet.com/docs/en/4/tutorials/debrick/windows11_ethernet_ip_assignment_edit.png){class="glboxshadow"}
+            ![windows 11 ethernet edit](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/windows11_ethernet_ip_assignment_edit.png){class="glboxshadow"}
 
         5. Select the **Manual** option.
 
-            ![windows 11 ethernet edit](https://static.gl-inet.com/docs/en/4/tutorials/debrick/windows11_ethernet_edit_ip_settings.png){class="glboxshadow"}
+            ![windows 11 ethernet edit](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/windows11_ethernet_edit_ip_settings.png){class="glboxshadow"}
 
         6. Turn on the **IPv4 toggle** switch.
 
         7. Set the static **IP address** as **192.168.1.2**.
 
-            ![windows 11 ethernet edit](https://static.gl-inet.com/docs/en/4/tutorials/debrick/windows11_ethernet_edit_ip_settings_2.png){class="glboxshadow"}
+            ![windows 11 ethernet edit](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/windows11_ethernet_edit_ip_settings_2.png){class="glboxshadow"}
 
         8. Specify the **Subnet mask** as **255.255.255.0**.
 
@@ -120,23 +120,23 @@ You can also refer to video tutorial below.
 
         1. Click the **Apple** icon in the top left corner of the screen, and select **System Preferences**.
 
-            ![macos system preferences](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_system_preferences.png){class="glboxshadow"}
+            ![macos system preferences](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/macos_system_preferences.png){class="glboxshadow"}
 
         2. Click **Network**.
 
-            ![macos system preferences network](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_system_preferences_network.png){class="glboxshadow"}
+            ![macos system preferences network](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/macos_system_preferences_network.png){class="glboxshadow"}
 
         3. Click **Ethernet** on the left and then click the drop-down box next to **Configure IPv4** and select **Manually**. If you are using a USB Ethernet Adapter, Ethernet may not be found and it may show up as the name of the USB Ethernet Adapter.
 
-            ![macos ip manually](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_ip_manually_1.png){class="glboxshadow"}
+            ![macos ip manually](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/macos_ip_manually_1.png){class="glboxshadow"}
 
         4. Enter the **IPv4 Address** to `192.168.1.2`, **Subnet Mask** to `255.255.255.0`, **Router** to `192.168.1.1`, then click the Apply button in the lower right corner.
 
-            ![macos ip manually](https://static.gl-inet.com/docs/en/4/tutorials/debrick/macos_ip_manually_2.png){class="glboxshadow"}
+            ![macos ip manually](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/macos_ip_manually_2.png){class="glboxshadow"}
 
 5. Use browser to visit **http://192.168.1.1**, this is the Uboot Web UI.
 
-    ![Uboot web ui](https://static.gl-inet.com/docs/en/4/tutorials/debrick/uboot_ui.png){class="glboxshadow" width="700"}
+    ![Uboot web ui](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/uboot_ui.png){class="glboxshadow" width="700"}
 
     **Note:** The Uboot Web UI above may not be exactly the same as what you see, because the Uboot version is different for different production dates. In some cases, we recommend upgrading the Uboot version. Please refer to the tutorial below.
 
@@ -146,7 +146,7 @@ You can also refer to video tutorial below.
 
         For example, the following figure shows the Web UI of the old Uboot version of GL-AR750S. It has two **Choose file** buttons, which can be confusing for users.
 
-        ![gl-ar750s old Uboot version](https://static.gl-inet.com/docs/en/4/tutorials/debrick/gl-ar750s_firmware_update_page_of_old_uboot_version.png){class="glboxshadow" width="700"}
+        ![gl-ar750s old Uboot version](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/gl-ar750s_firmware_update_page_of_old_uboot_version.png){class="glboxshadow" width="700"}
 
         1. You need to download the Uboot file [here](https://github.com/gl-inet/uboot-for-qca95xx/tree/master/bin){target="_blank"} in advance.
 
@@ -154,7 +154,7 @@ You can also refer to video tutorial below.
 
         3. Use browser to visit **http://192.168.1.1/uboot.html**
 
-            ![gl-ar750s u-boot update page](https://static.gl-inet.com/docs/en/4/tutorials/debrick/u-boot_update.png){class="glboxshadow" width="700"}
+            ![gl-ar750s u-boot update page](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/u-boot_update.png){class="glboxshadow" width="700"}
 
         4. Click the **Choose file** button and choose the Uboot file you just downloaded.
 

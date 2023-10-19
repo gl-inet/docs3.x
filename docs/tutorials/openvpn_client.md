@@ -83,7 +83,7 @@ Recommended:
 
         ![nordlogin](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/nordvpn/nordlogin.jpg){class="glboxshadow"}
 
-        ![nordvpn service credential](https://static.gl-inet.com/docs/en/4/tutorials/openvpn_client/nordvpn_service_credentials.png){class="glboxshadow"}
+        ![nordvpn service credential](https://static.gl-inet.com/docs/router/en/4/tutorials/openvpn_client/nordvpn_service_credentials.png){class="glboxshadow"}
 
     2. **Choose a NordVPN server**
 

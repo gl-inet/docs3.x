@@ -4,7 +4,7 @@ The old version of GL-AX1800 does not have SSID and WiFi Key on the bottom label
 
 The picture below is a comparison of the bottom labels of the old and new versions of the GL-AX1800.
 
-![gl-ax1800 new old label](https://static.gl-inet.com/docs/en/4/tutorials/gl-ax1800_new_vs_old_version/gl-ax1800_new_old_label.png){class="glboxshadow"}
+![gl-ax1800 new old label](https://static.gl-inet.com/docs/router/en/4/tutorials/gl-ax1800_new_vs_old_version/gl-ax1800_new_old_label.png){class="glboxshadow"}
 
 - For firmware 3.x
 
