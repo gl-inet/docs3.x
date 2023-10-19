@@ -8,7 +8,7 @@ site_description: Documentation for GL.iNet Productions
 site_author: Shan
 site_url: https://docs.gl-inet.com/jp/3/
 site_dir: /root/docs-build/jp/3/
-copyright: 'Copyright &copy; 2021 GL Technologies & Microuter Technologies'
+copyright: 'Copyright &copy; 2023 GL Technologies & Microuter Technologies'
 
 theme: 
   name: material
