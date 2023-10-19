@@ -10,6 +10,22 @@ Using [python 3.x virtual environment](https://docs.python.org/3/tutorial/venv.h
 
 `pip install -r requirements.txt`
 
+## Installation
+
+Create a new python virtualenv
+
+`python3 -m venv docs-venv`
+
+Activate the virtualenv, then
+
+`pip install mkdocs-material` or `pip install mkdocs-material=="9.*" `
+
+Or use the requirements.txt in the root of the project
+
+`pip install -r requirements.txt`
+
+Refer: [https://squidfunk.github.io/mkdocs-material/getting-started/#with-pip](https://squidfunk.github.io/mkdocs-material/getting-started/#with-pip)
+
 ## Online View
 
 Please view the docs online at [https://docs.gl-inet.com/router/en/3/](https://docs.gl-inet.com/router/en/3/) 
@@ -78,3 +94,32 @@ Reference:
 [Setting up versioning](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/)
 
 [https://squidfunk.github.io/mkdocs-material-example-versioning/](https://squidfunk.github.io/mkdocs-material-example-versioning/)
+
+## Jenkins integration
+
+```
+# go to docs-build path to get latest git commit
+# incase some guys build on their computer
+cd /root/docs-build/
+git reset --hard HEAD
+git pull
+# activate virtualenv
+cd /root/docs-venv/
+. ./bin/activate
+# git pull latest commit
+cd docs3.x
+git checkout master
+git reset --hard HEAD
+git pull
+# build docs to /root/docs-build/router/en/3/
+mkdocs build
+# deactivate virtualenv
+deactivate
+echo "finish building"
+#
+cd /root/docs-build/
+git add .
+git commit -m "docs3 build"
+git push
+echo "done"
+```
