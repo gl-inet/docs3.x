@@ -29,8 +29,8 @@ AR150 Series includes AR150, AR150-Ext, AR150-PoE and AR150-Ext-PoE.
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg" itemprop="contentUrl" data-size="960x720">
-      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-V4.4-PINOUT.jpg" itemprop="thumbnail" alt="gl-ar150 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/2/hardware/ar150/src/AR150-V4.4-PINOUT.jpg" itemprop="contentUrl" data-size="960x720">
+      <img src="https://static.gl-inet.com/docs/router/en/2/hardware/ar150/src/AR150-V4.4-PINOUT.jpg" itemprop="thumbnail" alt="gl-ar150 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>
@@ -41,8 +41,8 @@ You can use a RTC (Real-time control) module in GL-AR150 mini router.
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/rtc_1200x1200.jpg" itemprop="contentUrl" data-size="786x478">
-      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/rtc_1200x1200.jpg" itemprop="thumbnail" alt="gl-ar150 use RTC module" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/2/hardware/ar150/src/rtc_1200x1200.jpg" itemprop="contentUrl" data-size="786x478">
+      <img src="https://static.gl-inet.com/docs/router/en/2/hardware/ar150/src/rtc_1200x1200.jpg" itemprop="thumbnail" alt="gl-ar150 use RTC module" loading="lazy" />
     </a>
   </figure>
 </div>
@@ -110,7 +110,7 @@ PoE only works on the ***WAN Port only***
 
 
 
-![AR150 PoE Connection](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/AR150-PoE_setup.png){class="glboxshadow"}
+![AR150 PoE Connection](https://static.gl-inet.com/docs/router/en/2/hardware/ar150/src/AR150-PoE_setup.png){class="glboxshadow"}
 
 
 
@@ -120,7 +120,7 @@ The following PoE injector is widely availabe in the market and it is very affor
 
 ***For PoE Version Only***
 
-![PoE switch and Ethernet cable](https://static.gl-inet.com/docs/en/2.x/hardware/ar150/src/white_1000x1000_PoE_2.jpg){class="glboxshadow"} 
+![PoE switch and Ethernet cable](https://static.gl-inet.com/docs/router/en/2/hardware/ar150/src/white_1000x1000_PoE_2.jpg){class="glboxshadow"} 
 
 
 

@@ -2,7 +2,7 @@
 
 ## Mini Router
 
-![mini router led](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mini_led.jpg){class="glboxshadow" width="800"}
+![mini router led](https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/ledlight/mini_led.jpg){class="glboxshadow" width="800"}
 
 - **Power**: Solid white(green for old version) LED that indicates the router is powered up.
 - **Wireless**:  Solid white(red for old version) LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
@@ -10,14 +10,14 @@
 
 ## GL-USB150 Microuter
 
-![gl-usb150 led](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/microuter.jpg){class="glboxshadow" width="800"}
+![gl-usb150 led](https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/ledlight/microuter.jpg){class="glboxshadow" width="800"}
 
 - **Power**: Solid green LED that indicates the router is powered up.
 - **Hotspot**:  Solid green LED that indicates the router is broadcasting Wi-Fi. It will flash when there is wireless data transfer.
 
 ## GL-MiFi
 
-![gl-mifi led](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/mifi.jpg){class="glboxshadow" width="800"}
+![gl-mifi led](https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/ledlight/mifi.jpg){class="glboxshadow" width="800"}
 
 - **Battery**: Indicate the battery, it will blink when the device is charging until fully charged.
 - **Power**: This router is powered on
@@ -28,7 +28,7 @@
 
 ## GL-AR750
 
-![gl-ar750 led](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/ar750.jpg){class="glboxshadow" width="800"}
+![gl-ar750 led](https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/ledlight/ar750.jpg){class="glboxshadow" width="800"}
 
 - **Power**: Solid white LED that indicates the router is powered up.
 - **2.4GHz Wi-Fi**: Solid white LED that indicates the router is broadcasting 2.4GHz Wi-Fi. It will flash when there is wireless data transfer
@@ -36,7 +36,7 @@
 
 ## GL-B1300
 
-![gl-b1300 led](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/ledlight/b1300.jpg){class="glboxshadow"}
+![gl-b1300 led](https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/ledlight/b1300.jpg){class="glboxshadow"}
 
 - **Power**: Solid green LED that indicates the router is powered up.
 - **Mesh**: Flash green LED indicates that the router is pairing with another router. It will turn solid green when the Mesh network has been created.

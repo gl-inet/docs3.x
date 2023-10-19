@@ -36,8 +36,8 @@ The pins on the left side can be actually used for Ethernet port or EMMC. They c
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1654">
-      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg" itemprop="thumbnail" alt="gl-mt300n-v2 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/2/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1654">
+      <img src="https://static.gl-inet.com/docs/router/en/2/hardware/mt300n-v2/src/GL-MT300N-V2_PINOUT-1.jpg" itemprop="thumbnail" alt="gl-mt300n-v2 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

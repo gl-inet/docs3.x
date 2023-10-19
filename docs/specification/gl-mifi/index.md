@@ -41,4 +41,4 @@ Please choose the correct 4G module for your region.
 
 ##  PCIe Modem Module List
 
-![gl-mifi PCIe Modem Module list](https://static.gl-inet.com/docs/en/2.x/hardware/mifi/src/MiFi-PCIeModem_info.jpg){class="glboxshadow"}
+![gl-mifi PCIe Modem Module list](https://static.gl-inet.com/docs/router/en/2/hardware/mifi/src/MiFi-PCIeModem_info.jpg){class="glboxshadow"}

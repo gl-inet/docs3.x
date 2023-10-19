@@ -47,8 +47,8 @@ It has several sub-models:
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1654">
-      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ar300m pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/2/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg" itemprop="contentUrl" data-size="2339x1654">
+      <img src="https://static.gl-inet.com/docs/router/en/2/hardware/ar300m/src/GL-AR300M-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-ar300m pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>
@@ -65,7 +65,7 @@ By adding a fast NAND flash, you can feel how the performance is improved compar
 
 The performance comparision between AR300M (NAND) with AR150 is below:
 
-![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/ar300m-performance.jpg){class="glboxshadow"}
+![performance comparison gl-ar300m vs gl-ar150](https://static.gl-inet.com/docs/router/en/2/hardware/ar300m/src/ar300m-performance.jpg){class="glboxshadow"}
 
 It only takes 6 seconds to upload and process 250 ovpn files. When installing packages to the router, it takes no more than 20% for the time spent than using NOR flash, including the time to download resource from the Internet. So everything just happends in seconds.
 
@@ -95,13 +95,13 @@ $ make
 
 If you want to build the firmware for NOR flash, choose `GL-AR300M` as the target.
 
-![AR300M generic](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m.jpg){class="glboxshadow"}
+![AR300M generic](https://static.gl-inet.com/docs/router/en/2/hardware/ar300m/src/meunconfig-ar300m.jpg){class="glboxshadow"}
 
 ### Build the NAND firmware for NAND flash
 
 If you want to build the firmware for nand flash, first choose subtarget `Generic devices with NAND flash` then choose `GL-AR300M NAND` as the target.
 
-![AR300M NAND](https://static.gl-inet.com/docs/en/2.x/hardware/ar300m/src/meunconfig-ar300m-nand.jpg){class="glboxshadow"}
+![AR300M NAND](https://static.gl-inet.com/docs/router/en/2/hardware/ar300m/src/meunconfig-ar300m-nand.jpg){class="glboxshadow"}
 
 The make process will takes around 1 hour for the first time because it needs to download a lot of data from t he Internet. After compiling finished, you will find the following firmware files in `bin/ar71xx/`
 

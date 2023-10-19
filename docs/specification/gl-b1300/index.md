@@ -35,8 +35,8 @@ B1300 has an internal USB2.0 connector. You can uses this connect to connect var
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/b1300/src/GL-B1300_V1.31_PINOUT.jpg" itemprop="contentUrl" data-size="960x720">
-      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/b1300/src/GL-B1300_V1.31_PINOUT.jpg" itemprop="thumbnail" alt="gl-b1300 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/2/hardware/b1300/src/GL-B1300_V1.31_PINOUT.jpg" itemprop="contentUrl" data-size="960x720">
+      <img src="https://static.gl-inet.com/docs/router/en/2/hardware/b1300/src/GL-B1300_V1.31_PINOUT.jpg" itemprop="thumbnail" alt="gl-b1300 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

@@ -22,18 +22,18 @@
 <ol type="1">
 <li>
 	<p>Connect to the public hotspot which requires authentication through captive portal.</p>
-    <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/1.jpg"/>
-    <img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/6.jpg"/>
+    <img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/1.jpg"/>
+    <img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/6.jpg"/>
 </li>
 <li>
     <p>Go to Admin Panel -> MORE SETTINGS -> Custom DNS Server. Then, disable <b>DNS Rebinding Attack Protection</b>.</p>
-	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/4.jpg"/>
+	<img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/4.jpg"/>
 </li>
 <li>
 	<p>Use your web browser to visit a webpage, it will be redirected to the captive portal of the hotspot automatically.</p>
     <p>If you are using smartphone but your web browser doesn't redirect to the captive portal. Please turn off the Wi-Fi of your smartphone and then turn it on and reconnect to the Wi-Fi of your router again. The captive portal should be popped up directly after you entered the Wi-Fi password.
     </p>
-	<img src="https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/7.jpg"/>
+	<img src="https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/7.jpg"/>
 </li>
 </ol>
 </details>

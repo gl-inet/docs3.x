@@ -25,8 +25,8 @@ It is mainly used to replace the Wi-Fi card of your PC or work as repeater. It i
 
 <div class="gl-lightbox" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="https://static.gl-inet.com/docs/en/2.x/hardware/usb150/src/GL-USB150-PINOUT-1.jpg" itemprop="contentUrl" data-size="2000x1500">
-      <img src="https://static.gl-inet.com/docs/en/2.x/hardware/usb150/src/GL-USB150-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-usb150 pcb pinout" loading="lazy" />
+    <a href="https://static.gl-inet.com/docs/router/en/2/hardware/usb150/src/GL-USB150-PINOUT-1.jpg" itemprop="contentUrl" data-size="2000x1500">
+      <img src="https://static.gl-inet.com/docs/router/en/2/hardware/usb150/src/GL-USB150-PINOUT-1.jpg" itemprop="thumbnail" alt="gl-usb150 pcb pinout" loading="lazy" />
     </a>
   </figure>
 </div>

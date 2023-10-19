@@ -32,7 +32,7 @@ However, you may find that you are not able to enter the captive portal so that 
 
     If you are using smartphone but your web browser doesn't redirect to the captive portal. Please turn off the Wi-Fi of your smartphone and then turn it on and reconnect to the Wi-Fi of your router again. The captive portal should be popped up directly after you entered the Wi-Fi password.
 
-    ![captive portal](https://static.gl-inet.com/docs/en/2.x/troubleshooting/src/captive_portal/7.jpg){class="glboxshadow" width="500"}
+    ![captive portal](https://static.gl-inet.com/docs/router/en/2/troubleshooting/src/captive_portal/7.jpg){class="glboxshadow" width="500"}
 
 ---
 
