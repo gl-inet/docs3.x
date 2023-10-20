@@ -80,10 +80,13 @@ extra_javascript:
 
 markdown_extensions:
   - attr_list
-  - pymdownx.tabbed
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
   - toc:
       permalink: true
-  - pymdownx.details
 
 nav:
   - Home:
