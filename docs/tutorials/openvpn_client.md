@@ -163,7 +163,7 @@ Recommended:
 
         ![torguard config generator](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_config_generator.png){class="glboxshadow"}
 
-    3. The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password at menu **Services** --> **My Services**. Click into **Manage** you can get your new updated password.
+    3. The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password at menu **Services** --> **My Services**, click on **My Services** then click into **Manage** you can get your new updated password.
 
         ![torguard vpn username vpn password](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow" width="700"}
 
