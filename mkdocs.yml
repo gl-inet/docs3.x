@@ -57,10 +57,10 @@ extra:
     provider: mike
   alternate:
     - name: English
-      link: /router/en/
+      link: /router/en/3/
       lang: en
     - name: Japanese
-      link: /router/jp/
+      link: /router/jp/3/
       lang: ja
 
 extra_css:
