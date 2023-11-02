@@ -16,9 +16,9 @@ Then please choose **System** > **LED Configuration**.
 
     ![luci menu led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/config1.png){class="glboxshadow"}
 
-2. Choose the **gl-mt300n-v2:blue:wan** which stand for the middle light in the LED Name list. The other two are power light(unchangeable) and Wi-Fi light(changeable).
+2. Choose the **gl-mt300n-v2:green:wan** which stand for the middle light in the LED Name list. The other two are power light(unchangeable) and Wi-Fi light(changeable).
 
-    ![luci led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/config2.png){class="glboxshadow"}
+    ![luci led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/customwanled.png){class="glboxshadow"}
 
 3. Keep the **Trigger** in **netdev**. And you can select which interface you want the middle light stand for: 
 
@@ -28,14 +28,14 @@ Then please choose **System** > **LED Configuration**.
 
     apclio - repeater Wi-Fi
 
-    tun0 - vpn(this option will show up when vpn is on) 
+    tun0/wg0 - vpn(this option will show up when Open or WireGuard vpn is on) 
 
     You can select the one you want. This function mainly use for vpn indication.
 
-    ![luci led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/config3.png){class="glboxshadow"}
+    ![luci led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/customwg0led.png){class="glboxshadow"}
 
 4. Next one is **Trigger Mode**, the **Link on** means solid light and if you enable **Transmit** and **Receive** the light will blink when having data transmission.
 
-    ![luci led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/config4.png){class="glboxshadow"}
+    ![luci led configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/led_configuration/customledon.png){class="glboxshadow"}
 
-5. Have fun with your cusomized router.
+5. Reboot your mini GL-Router and having fun with your cusomized router.
