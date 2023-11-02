@@ -172,7 +172,9 @@ Recommended:
 
     [Official Website](https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3){target="_blank"}
 
-    [Download](https://privatevpn.com/client/PrivateVPN-TUN.zip) directly.
+    [Download](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/privatevpn/PrivateVPN-TUN.zip){target="_blank} directly.
+
+    [Here](https://privatevpn.com/client/PrivateVPN-TUN.zip) is the official download link. Due to a bug encountered while importing the router, the file name inside contains special characters 'Bogotá'. We have renamed it and provided the download link above. We will fix this bug in future versions.
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
