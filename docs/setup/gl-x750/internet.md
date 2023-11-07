@@ -90,7 +90,7 @@ If you insert a SIM card at power on, it will not automatically connect. You can
 
     ![4g modem auto setup](https://static.gl-inet.com/docs/router/en/3/setup/share/internet/4g_modem/4g_modem_auto_setup.png){class="glboxshadow"}
 
-3. Wait a moment, it will be connecting(the button is `Abrot`).
+3. Wait a moment, it will be connecting(the button is `Abort`).
 
     ![4g modem connecting](https://static.gl-inet.com/docs/router/en/3/setup/share/internet/4g_modem/4g_modem_connecting.png){class="glboxshadow"}
 
