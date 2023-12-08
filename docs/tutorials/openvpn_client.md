@@ -99,6 +99,37 @@ Recommended:
 
     You can also use [mobile app](mobile_app.md) to setup NordVPN.
 
+??? "ExpressVPN"
+    ### ExpressVPN
+
+    [Official Website](https://go.expressvpn.com/c/4130682/1645813/16063){target="_blank"}
+
+    Information quoted from [Expressvpn official instruction](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download){rel="sponsored" target="_blank"}
+
+    1. Go to [ExpressVPN](https://go.expressvpn.com/c/4130682/1645813/16063){rel="sponsored" target="_blank"} website, and log in with your ExpressVPN credentials.
+
+        ![expressvpn account click sign in](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn-account-click-sign-in.jpg){target="_blank"}
+
+        **Enter the verification code** that is sent to your email.
+
+    2. In the "Set up your devices" section, click on **More**.
+
+    ![expressvpn, set up your devices, more](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/set_up_your_devices_more.png){class="glboxshadow"}
+
+    3. Click on **Manual Configuration**.
+
+    ![expressvpn, set up your devices, manual configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/set_up_your_devices_manual_configuration.png){class="glboxshadow"}
+
+    4. You will see your **username**, **password**, and a list of **OpenVPN configuration files**.
+
+        ![expressvpn, setup info](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/setup_info.png){class="glboxshadow"}
+
+        Click the location(s) you want in order to download the .ovpn file(s).
+
+        **Keep this browser window open**. You will need this information for the setup later.
+
+    [Refer link](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download){rel="sponsored" target="_blank"}
+
 ??? "PIA (Private Internet Access)"
     ### PIA (Private Internet Access)
 
@@ -107,65 +138,6 @@ Recommended:
     [Download](https://www.privateinternetaccess.com/openvpn/openvpn.zip) directly.
 
     Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
-
-??? "Surfshark"
-    ### Surfshark
-
-    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
-
-    1. **Find your login details**
-
-        Surfshark service credentials are different from your Surfshark account credentials, namely your email address and your password. You'll need Surfshark service credentials to connect to the VPN using the manual OpenVPN configuration method in the router.
-
-        Login the [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, go to [this page](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"}, where you will find all of the details required for a manual connection.
-
-        ![surfshark service credential](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_service_credential.png){class="glboxshadow"}
-
-    2. **Choose a Surfshark server**
-
-        Select the **Locations** tab, where you will see all of the Surfshark servers.
-
-        ![surfshark locations](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_locations.png){class="glboxshadow"}
-
-        It will ask to choose TCP or UDP. Click [here](openvpn_tcp_udp.md) to see the difference.
-
-        ![surfshark tcp udp](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_udp_tcp.png){class="glboxshadow" width="400"}
-
-    You can download all configs [here](https://api.surfshark.com/v1/server/configurations) directly.
-
-    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
-
-    [Refer link](https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-){target="_blank"}
-
-??? "PureVPN"
-    ### PureVPN
-
-    [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
-
-    [Download](https://d32d3g1fvkpl8y.cloudfront.net/heartbleed/router/Recommended-CA2.zip) directly.
-
-    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
-
-    [Refer link](https://support.purevpn.com/openvpn-files)
-
-    GL.iNet routers don't support the [dedicated IP](https://www.purevpn.com/dedicated-ip){target="_blank"} feature of PureVPN, because it needs PPTP.
-
-??? "TorGuard"
-    ### TorGuard
-
-    [Official Website](https://torguard.net/aff.php?aff=3040){target="_blank"}
-
-    1. If you are using [TorGuard](https://torguard.net/aff.php?aff=3040){target="_blank"}, you need to login the control panel and find **Config Generator** from the **Tools** menu. Choose the **VPN Server** and some other options. Then click **Generate Config** a config file will be downloaded automatically.
-
-        ![Generate ovpn](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_menu.jpg){class="glboxshadow"}
-
-    2. Choose the first OS, and **a VPN Server Hostname** and other options.
-
-        ![torguard config generator](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_config_generator.png){class="glboxshadow"}
-
-    3. The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password at menu **Services** --> **My Services**, click on **My Services** then click into **Manage** you can get your new updated password.
-
-        ![torguard vpn username vpn password](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow" width="700"}
 
 ??? "PrivateVPN"
     ### PrivateVPN
@@ -197,36 +169,64 @@ Recommended:
 
         ![protonvpn openvpn credential](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/protonvpn/protonvpn_openvpn_credential.jpg){class="glboxshadow"}
 
-??? "ExpressVPN"
-    ### ExpressVPN
+??? "PureVPN"
+    ### PureVPN
 
-    [Official Website](https://go.expressvpn.com/c/4130682/1645813/16063){target="_blank"}
+    [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
 
-    Information quoted from [Expressvpn official instruction](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download){rel="sponsored" target="_blank"}
+    [Download](https://d32d3g1fvkpl8y.cloudfront.net/heartbleed/router/Recommended-CA2.zip) directly.
 
-    1. Go to [ExpressVPN](https://go.expressvpn.com/c/4130682/1645813/16063){rel="sponsored" target="_blank"} website, and log in with your ExpressVPN credentials.
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
 
-        ![expressvpn account click sign in](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn-account-click-sign-in.jpg){target="_blank"}
+    [Refer link](https://support.purevpn.com/openvpn-files)
 
-        **Enter the verification code** that is sent to your email.
+    GL.iNet routers don't support the [dedicated IP](https://www.purevpn.com/dedicated-ip){target="_blank"} feature of PureVPN, because it needs PPTP.
 
-    2. In the "Set up your devices" section, click on **More**.
+??? "Surfshark"
+    ### Surfshark
 
-    ![expressvpn, set up your devices, more](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/set_up_your_devices_more.png){class="glboxshadow"}
+    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
 
-    3. Click on **Manual Configuration**.
+    1. **Find your login details**
 
-    ![expressvpn, set up your devices, manual configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/set_up_your_devices_manual_configuration.png){class="glboxshadow"}
+        Surfshark service credentials are different from your Surfshark account credentials, namely your email address and your password. You'll need Surfshark service credentials to connect to the VPN using the manual OpenVPN configuration method in the router.
 
-    4. You will see your **username**, **password**, and a list of **OpenVPN configuration files**.
+        Login the [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, go to [this page](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"}, where you will find all of the details required for a manual connection.
 
-        ![expressvpn, setup info](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/setup_info.png){class="glboxshadow"}
+        ![surfshark service credential](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_service_credential.png){class="glboxshadow"}
 
-        Click the location(s) you want in order to download the .ovpn file(s).
+    2. **Choose a Surfshark server**
 
-        **Keep this browser window open**. You will need this information for the setup later.
+        Select the **Locations** tab, where you will see all of the Surfshark servers.
 
-    [Refer link](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download){rel="sponsored" target="_blank"}
+        ![surfshark locations](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_locations.png){class="glboxshadow"}
+
+        It will ask to choose TCP or UDP. Click [here](openvpn_tcp_udp.md) to see the difference.
+
+        ![surfshark tcp udp](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_udp_tcp.png){class="glboxshadow" width="400"}
+
+    You can download all configs [here](https://api.surfshark.com/v1/server/configurations) directly.
+
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
+
+    [Refer link](https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-){target="_blank"}
+
+??? "TorGuard"
+    ### TorGuard
+
+    [Official Website](https://torguard.net/aff.php?aff=3040){target="_blank"}
+
+    1. If you are using [TorGuard](https://torguard.net/aff.php?aff=3040){target="_blank"}, you need to login the control panel and find **Config Generator** from the **Tools** menu. Choose the **VPN Server** and some other options. Then click **Generate Config** a config file will be downloaded automatically.
+
+        ![Generate ovpn](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_menu.jpg){class="glboxshadow"}
+
+    2. Choose the first OS, and **a VPN Server Hostname** and other options.
+
+        ![torguard config generator](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_config_generator.png){class="glboxshadow"}
+
+    3. The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password at menu **Services** --> **My Services**, click on **My Services** then click into **Manage** you can get your new updated password.
+
+        ![torguard vpn username vpn password](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow" width="700"}
 
 Others:
 
