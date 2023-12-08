@@ -10,6 +10,15 @@ Sometimes you may be unable to access [http://192.168.8.1](http://192.168.8.1) t
 * You are using a VPN client which handle your LAN traffic.
 * The router is bricked.
 
+Follow these steps to set it up.
+
+1.  Power up the router without connecting to any device.
+2.  Use your mobile/Laptop to scan the SSID GL-XXXX-xxx and input the WiFi key printed on the label. (if you are using a laptop, don't connect it to the internet)
+3.  Plug a cable to the LAN port of the router. (Don't connect it to any WiFi)
+4.  Open a browser and type 192.168.8.1.
+5.  Create your password.
+6.  Scan your home WiFi in Repeater option or plug a cable to the WAN from your home router.
+
 Follow the steps to fix this issue.
 
 1. [Check the connection](#check_the_connection)
