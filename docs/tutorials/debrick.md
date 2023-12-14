@@ -28,6 +28,8 @@ You can also refer to video tutorial below.
 
     **Note:** Same router models with different manufacturing dates may have different LED colours or flashing sequences, it won't affect the UBoot process. Please pay more attention to the change of the flashing LED.
 
+    - For **GL-MT6000(Flint 2)**, the blue LED flashes 6 times then turns white and stays on.
+
     - For **GL-MT3000(Beryl AX)**, the blue LED flashes 6 times then turns white and stays on.
 
     - For **GL-MT2500/GL-MT2500A(Brume 2)**, the blue LED flashes 5 times then turns white and stays on.
@@ -53,6 +55,10 @@ You can also refer to video tutorial below.
     - For **GL-AXT1800(Slate AX)**, the blue LED flashes 5 times then stays on.
 
     - For **GL-XE300(Puli)**, the LAN LED falshes 5 times then WIFI LED stays on.
+
+    - For **GL-X3000(Spitz AX)**, the LAN LED falshes 5 times then WIFI LED stays on.
+
+    - For **GL-XE3000(Puli AX)**, the LAN LED falshes 5 times then WIFI LED stays on.
 
     - For **GL-X300B(Collie)**, the WAN LED flashes 5 times then WIFI LED stays on.
 
