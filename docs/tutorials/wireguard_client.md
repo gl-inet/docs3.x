@@ -6,7 +6,7 @@ GL.iNet routers have pre-installed WireGuard Server and Client.
 
 If you are looking for a WireGuard provider, [check out this directly](#wireguard-providers).
 
-We can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, MullvadVPN, TorGuardVPN, OVPN, WeVPN, StrongVPN, PIA VPN, SpiderVPN.
+We can setup WireGuard Client via web Admin Panel and [mobile app](../mobile_app). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, MullvadVPN, OVPN, WeVPN, StrongVPN, PIA VPN, SpiderVPN.
 
 For setup via web Admin Panel, please follow the guide below.
 
@@ -210,74 +210,6 @@ Other recommended WireGuard provider:
     </li>
 </details>
 
-<details>
-  <summary>TorGuard</summary>
-  <p>
-    <a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a>
-  </p>
-  <ol type="1">
-    <li>
-      <p>
-        If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find <b>Config Generator</b> from the <b>Tools</b> menu. 
-      </p>
-      <p>
-        <img class="glboxshadow" alt="torguard enable wireguard access" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/torguard/torguard_menu.jpg" />
-      </p>
-    </li>
-    <li>
-      <p>
-        On the Config Generator page, choose <b>VPN Tunnel type</b> to WireGuard, select <b>VPN Server</b>, input <b>VPN Username</b> and <b>VPN Password</b>, click <b>Generate Config</b> button, wait a second, you will find the config on <b>Config Output</b> section.
-      </p>
-      <p>
-        <img class="glboxshadow" alt="torguard generate wireguard config" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/torguard/torguard_generate_wireguard_config.png" />
-      </p>
-      <p>
-        You can find the <b>VPN Username</b> and <b>VPN Password</b> below
-      </p>
-      <p>
-        <img class="glboxshadow" alt="torguard vpn username vpn password" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/torguard/torguard_vpnusername_vpnpassword.png" />
-      </p>
-    </li>
-    <li>
-      <p>
-        Copy the config content. Please note that the first line is <b># TorGuard WireGuard Config</b>, delete the first line before copy it.
-      </p>
-    </li>
-    <li>
-      <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
-      <p>
-        <img class="glboxshadow" alt="setup wireguard manually" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/setup_wireguard_manually.png" />
-      </p>
-    </li>
-    <li>
-      <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
-      <p>
-        <img class="glboxshadow" alt="paste wireguard config" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/add_a_new_wireguard_config.png" />
-      </p>
-    </li>
-    <li>
-      <p>Specify the name of your server and click <b>Add</b></p>
-      <p>
-        <img class="glboxshadow" alt="input config name" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/input_config_name.png" />
-      </p>
-    </li>
-    <li>
-      <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
-      <p>
-        <img class="glboxshadow" alt="connect wireguard" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/wireguard_connect.png" />
-      </p>
-    </li>
-    <li>
-      <p>You will see the upload and download traffic when it is connected successfully.</p>
-      <p>
-        <img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/wireguard_connected.png" />
-      </p>
-    </li>
-  </ol>
-  <p>
-    <a href="https://torguard.net/knowledgebase.php?action=displayarticle&id=250" target="_blank">Refer link</a>
-  </p>
-</details>
 
 <details>
   <summary>VPN.AC</summary>

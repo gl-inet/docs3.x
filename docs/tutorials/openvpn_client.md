@@ -125,31 +125,6 @@ Recommended:
 
 
 <details>
-<summary>TorGuard</summary>
-  <p>
-    <a href="https://torguard.net/aff.php?aff=3040" target="_blank">Official Website</a>
-  </p>
-  <ol type="1">
-    <li>
-      <p>
-        If you are using <a href="https://torguard.net/aff.php?aff=3040" target="_blank">TorGuard</a>, you need to login the control panel and find <b>Config Generator</b> from the <b>Tools</b> menu. Choose the <b>VPN Server</b> and some other options. Then click <b>Generate Config</b> a config file will be downloaded automatically.</p>
-      <p>
-        <img alt="Generate ovpn" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_menu.jpg" class="glboxshadow">
-      </p>
-    </li>
-    <li>
-      <p>
-        The username and password for OpenVPN connection is different from your control panel login. You can find the VPN username and VPN password below.
-      </p>
-      <p>
-        <img alt="torguard vpn username vpn password" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/torguard/torguard_vpnusername_vpnpassword.png" class="glboxshadow">
-      </p>
-    </li>
-  </ol>
-</details>
-
-
-<details>
 <summary>PrivateVPN</summary>
   <p>
     <a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5e3a511658bc3" target="_blank">Official Website</a>
