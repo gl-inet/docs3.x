@@ -316,7 +316,7 @@ Others:
 
     3. Now create your server configuration, as described below:
 
-        * **Protocol** : **OpenVPN**
+        * **Protocol** : **OpenVPN 2.3**
         * **Country** : Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.
         * **Server group** : Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use
 
