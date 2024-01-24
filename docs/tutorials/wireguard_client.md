@@ -6,7 +6,7 @@ GL.iNet routers have pre-installed WireGuard Client and Server.
 
 If you have already bought WireGuard service from a provider, but you don't know how to get the configuration files, please refer to [get configuration files from WireGuard service providers](#get-configuration-files-from-wireguard-service-providers) or ask its support.
 
-You can setup WireGuard Client via web Admin Panel and [mobile app](mobile_app.md). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, TorGuard VPN, OVPN, StrongVPN, PIA VPN, SpiderVPN.
+You can setup WireGuard Client via web Admin Panel and [mobile app](mobile_app.md). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, OVPN, StrongVPN, PIA VPN, SpiderVPN.
 
 For setup via web Admin Panel, please follow the guide below.
 
@@ -334,27 +334,6 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
         ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_5.png){class="glboxshadow"}
 
     [Refer link](https://support.surfshark.com/hc/en-us/articles/6585805139474-How-to-set-up-a-manual-WireGuard-connection-on-Android-){target="_blank"}
-
-??? "TorGuard"
-    ### TorGuard
-
-    [Official Website](https://torguard.net/aff.php?aff=3040){target="_blank"}
-
-    1. If you are using [TorGuard](https://torguard.net/aff.php?aff=3040){target="_blank"}, you need to login the control panel and find **Config Generator** from the **Tools** menu. 
-
-        ![torguard enable wireguard access](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/torguard/torguard_menu.jpg){class="glboxshadow"}
-
-    2. On the Config Generator page, choose **VPN Tunnel type** to WireGuard, select **VPN Server**, input **VPN Username** and **VPN Password**, click **Generate Config** button, wait a second, you will find the config on **Config Output** section.
-
-        ![torguard generate wireguard config](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/torguard/torguard_generate_wireguard_config.png){class="glboxshadow"}
-
-        You can find the **VPN Username** and **VPN Password** below
-
-        ![torguard vpn username vpn password](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/torguard/torguard_vpnusername_vpnpassword.png){class="glboxshadow"}
-
-    3. Then follow the [guide](#setup-wireguard-client) to continue.
-
-    4. You can also use [mobile app](mobile_app.md) to setup TorGuard.
 
 ??? "TRUST.ZONE"
     ### TRUST.ZONE
