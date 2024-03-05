@@ -389,15 +389,6 @@ Others:
 
         ![hide.me vpn dashboard](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/hideme/hideme_dashboard.jpg){class="glboxshadow"}
 
-??? "HideMyAss"
-    ### HideMyAss
-
-    [Official Website](https://click.hmavpn.com/aff_c?offer_id=1&aff_id=861){target="_blank"}
-
-    [Download](https://vpn.hidemyass.com/vpn-config/vpn-configs.zip)
-
-    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
-
 ??? "IPVANISH"
     ### IPVANISH
 
