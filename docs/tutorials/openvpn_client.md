@@ -94,7 +94,7 @@ Recommended:
 <details>
 <summary>PIA (Private Internet Access)</summary>
   <p>
-    <a href="https://www.privateinternetaccess.com/pages/buy-vpn/glinet" target="_blank">Official Website</a>
+    <a href="https://www.privateinternetaccess.com/offer/save-now?coupon=2Y2M&aff_id=15122&source=General" target="_blank">Official Website</a>
   </p>
   <p>
     <a href="https://www.privateinternetaccess.com/openvpn/openvpn.zip">Download</a> directly.
