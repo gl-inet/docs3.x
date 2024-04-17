@@ -212,7 +212,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 ??? "PIA (Private Internet Access)"
     ### PIA (Private Internet Access)
 
-    [Official Website](https://www.privateinternetaccess.com/offer/save-now?coupon=2Y2M&aff_id=15122&source=General){target="_blank"}
+    [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
 
     It can't downlaod the WireGuard configs from its website, please use [mobile app](mobile_app.md) to setup PIA VPN.
 
