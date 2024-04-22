@@ -125,17 +125,6 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. Then follow the [guide](#setup-wireguard-client) to continue.
 
-??? "ANONINE"
-    ### ANONINE
-
-    [Official Website](https://anonine.com/){target="_blank"}
-
-    Follow the guide below to generate WireGuard configs.
-
-    [Windows](https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10){target="_blank"}, [macOS](https://help.anonine.com/support/solutions/articles/5000817206-anonine-wireguard-installation-guide-for-macos){target="_blank"}, [Ubuntu](https://help.anonine.com/support/solutions/articles/5000817191--anonine-wireguard-installation-guide-for-ubuntu-18-04){target="_blank"}, [Android](https://help.anonine.com/support/solutions/articles/5000817310--anonine-wireguard-installation-for-android){target="_blank"}, [iOS](https://help.anonine.com/support/solutions/articles/5000823286--anonine-wireguard-installation-for-ios){target="_blank"}
-
-    Then follow the [guide](#setup-wireguard-client) to continue.
-
 ??? "Astrill"
     ### Astrill
 
