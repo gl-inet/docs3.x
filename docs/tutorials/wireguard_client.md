@@ -566,42 +566,6 @@ Other recommended WireGuard provider:
   </ol>
 </details>
 
-
-<details>
-  <summary>ANONINE</summary>
-  <p><a href="https://anonine.com/" target="_blank">Official Website</a></p>
-  <ol type="1">
-    <li>
-      <p>Fellow the guide below to generate WireGuard configs.
-      <p><a href="https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10" target="_blank">Windows</a>, <a href="https://help.anonine.com/support/solutions/articles/5000817206-anonine-wireguard-installation-guide-for-macos" target="_blank">macOS</a>, <a href="https://help.anonine.com/support/solutions/articles/5000817191--anonine-wireguard-installation-guide-for-ubuntu-18-04" target="_blank">Ubuntu</a>, <a href="https://help.anonine.com/support/solutions/articles/5000817310--anonine-wireguard-installation-for-android" target="_blank">Android</a>, <a href="https://help.anonine.com/support/solutions/articles/5000823286--anonine-wireguard-installation-for-ios" target="_blank">iOS</a></p>
-    </li>
-    <li>
-      <p>After generated the config, copy it.</p>
-    </li>
-    <li>
-      <p>Login web Admin Panel, VPN --> WireGuard Client --> Set up WireGuard Manually</p>
-      <p><img class="glboxshadow" alt="setup wireguard manually" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/setup_wireguard_manually.png" /></p>
-    </li>
-    <li>
-      <p>Paste the configuration text to the Configuration windows. Click <b>Next</b></p>
-      <p><img class="glboxshadow" alt="paste wireguard config" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/add_a_new_wireguard_config.png" /></p>
-    </li>
-    <li>
-      <p>Specify the name of your server and click <b>Add</b></p>
-      <p><img class="glboxshadow" alt="input config name" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/input_config_name.png" /></p>
-    </li>
-    <li>
-      <p>Connect to the WireGuard server by clicking <b>Connect</b></p>
-      <p><img class="glboxshadow" alt="connect wireguard" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/wireguard_connect.png" /></p>
-    </li>
-    <li>
-      <p>You will see the upload and download traffic when it is connected successfully.</p>
-      <p><img class="glboxshadow" alt="wiregaurd connected" src="https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/wireguard_connected.png" /></p>
-    </li>
-  </ol>
-</details>
-
-
 <details>
   <summary>NVPN</summary>
   <p><a href="https://www.nvpn.net/" target="_blank">Official Website</a></p>
