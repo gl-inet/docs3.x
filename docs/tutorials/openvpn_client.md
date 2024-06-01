@@ -66,8 +66,6 @@ We have tested different VPN service providers. Therefore, if you don't know how
 
 If you have any problem in the setup of OpenVPN, please contact [support@gl-inet.com](mailto:support@gl-inet.com)
 
-Recommended:
-
 <details>
 <summary>NordVPN</summary>
   <p>
@@ -90,6 +88,38 @@ Recommended:
   </p>
 </details>
 
+<details>
+<summary>ExpressVPN</summary>
+  <p>
+    <a href="https://www.xvbelink.com/?a_fid=glinet" rel="sponsored" target="_blank">Official Website</a>
+  </p>
+  <p>
+    *Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download" rel="sponsored">Expressvpn official instruction</a>
+  </p>
+  <ol type="1">
+    <li>Log in to your <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank" rel="sponsored">ExpressVPN</a> account.</li>
+    <p>
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn1.jpg" />
+    </p>
+    <li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
+    <p>
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn2.png" />
+    </p>
+    <li>
+      Click on Manual Config on the left side of the screen and then select the OpenVPN tab on the right. You will first see your username and password and then a list of OpenVPN configuration files.
+    </li>
+    <p>
+      Find the location(s) you want to connect to (e.g., Los Angeles, New York, Hong Kong), then download and save the .ovpn file(s) to your desktop.
+    </p>
+    <p>
+      Note: Please have your username and password ready, as you will be asked to enter them later in the setup process.
+    </p>
+    <p>
+      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn3.png" />
+    </p>
+</ol>
+</details>
+
 
 <details>
 <summary>PIA (Private Internet Access)</summary>
@@ -103,24 +133,38 @@ Recommended:
 
 
 <details>
-<summary>Surfshark</summary>
+<summary>CyberGhost</summary>
   <p>
-    <a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400" target="_blank">Official Website</a>
+    <a href="https://support.cyberghostvpn.com/hc/en-us" target="_blank">Official Website</a>
   </p>
   <p>
-    Login and <a href="https://api.surfshark.com/v1/server/configurations">Download</a> directly, or read this <a href="https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-" target="_blank">guide</a>.
+    *Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0" target="_blank">CyberGhost official instruction</a>
   </p>
-</details>
-
-
-<details>
-<summary>PureVPN</summary>
-  <p>
-    <a href="https://billing.purevpn.com/aff.php?aff=35535" target="_blank">Official Website</a>
-  </p>
-  <p>
-    <a href="https://s3-us-west-1.amazonaws.com/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
-  </p>
+  <ol type="1">
+    <li>Login your CyberGhost VPN online account.</li>
+    <p>
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/cyberghost/cyberghost1.png" />
+    </p>
+    <li>Click on 'My Devices'  > click 'Other' > choose 'Configure new device'.</li>
+    <p>
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/cyberghost/cyberghost2.png" />
+    </p>
+    <li>At the new screen, in the 'Server configuration' tab, the desired parameters can be configured. For the purpose of setting OpenVPN for your DD-WRT Router, choose 'OpenVPN' from the Protocol drop down menu. Your desired country and server group, as described below, need to be defined too:</li>
+    <p>
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/cyberghost/cyberghost3.png" />
+    </p>
+    <ul>
+      <li>Protocol: For Router configurations, please choose OpenVPN</li>
+      <li>
+        Country: Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.
+      </li>
+      <li>Server group: Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use:
+        <p>UDP allows higher speed than the TCP version, but can result in broken downloads in some cases. This is the default setting.</p>
+        <p>TCP allows more stable connections than the UDP version, but is a bit slower. Choose this version, if you have recurrent connection issues such as sudden disconnections.</p>
+      </li>
+    </ul>
+  <p>After setting up your preferred settings, save them with 'Save and download configuration'.</p>
+</ol>
 </details>
 
 
@@ -162,39 +206,63 @@ Recommended:
 
 
 <details>
-<summary>ExpressVPN</summary>
+<summary>PureVPN</summary>
   <p>
-    <a href="https://www.xvbelink.com/?a_fid=glinet" rel="sponsored" target="_blank">Official Website</a>
+    <a href="https://billing.purevpn.com/aff.php?aff=35535" target="_blank">Official Website</a>
   </p>
   <p>
-    *Information quoted from <a href="https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/#download" rel="sponsored">Expressvpn official instruction</a>
+    <a href="https://s3-us-west-1.amazonaws.com/heartbleed/router/Recommended-CA2.zip">Download</a> directly.
   </p>
-  <ol type="1">
-    <li>Log in to your <a href="https://www.xvbelink.com/?a_fid=glinet" target="_blank" rel="sponsored">ExpressVPN</a> account.</li>
-    <p>
-      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn1.jpg" />
-    </p>
-    <li>Once you’ve logged in to the website, click on Set Up ExpressVPN on the Active Subscriptions page. This will take you to the Downloads page.</li>
-    <p>
-      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn2.png" />
-    </p>
-    <li>
-      Click on Manual Config on the left side of the screen and then select the OpenVPN tab on the right. You will first see your username and password and then a list of OpenVPN configuration files.
-    </li>
-    <p>
-      Find the location(s) you want to connect to (e.g., Los Angeles, New York, Hong Kong), then download and save the .ovpn file(s) to your desktop.
-    </p>
-    <p>
-      Note: Please have your username and password ready, as you will be asked to enter them later in the setup process.
-    </p>
-    <p>
-      <img alt="ovpn manager" class="glboxshadow" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/expressvpn/expressvpn3.png" />
-    </p>
-</ol>
 </details>
 
 
-Others:
+<details>
+<summary>Surfshark</summary>
+  <p>
+    <a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400" target="_blank">Official Website</a>
+  </p>
+  <p>
+    Login and <a href="https://api.surfshark.com/v1/server/configurations">Download</a> directly, or read this <a href="https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-" target="_blank">guide</a>.
+  </p>
+</details>
+
+
+<details>
+<summary>StrongVPN</summary>
+  <p>
+    <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a>
+  </p>
+  <ol type="1">
+    <li>Login with your <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a> account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
+    <p>
+      <img class="glboxshadow" alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_01.jpg" />
+    </p>
+    <li>Find the Manual setup section, follow the steps to get configuration.</li>
+    <p>
+      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_02.jpg" />
+    </p>
+  </ol>
+</details>
+
+
+<details>
+<summary>OVPN</summary>
+  <p>
+    <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a>
+  </p>
+  <p>
+    Just login, then you can easy get the OpenVPN configurations file by click the menu below.
+  </p>
+  <p>
+    <img class="glboxshadow" alt="get ovpn configuration files" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/ovpn/get_ovpn_configuration_files.jpg"/>
+  </p>
+  <p>Choose the server and download.</p>
+  <p>
+    <img class="glboxshadow" alt="download ovpn openvpn configuration files" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/ovpn/download_configuration_files.jpg"/>
+  </p>
+  <p>The username and password are the same you login OVPN.</p>
+</details>
+
 
 <details>
 <summary>AirVPN</summary>
@@ -285,41 +353,6 @@ Others:
   </p>
 </details>
 
-
-<details>
-<summary>CyberGhost</summary>
-  <p>
-    <a href="https://support.cyberghostvpn.com/hc/en-us" target="_blank">Official Website</a>
-  </p>
-  <p>
-    *Information quoted from <a href="https://support.cyberghostvpn.com/hc/en-us/articles/213811885-Router-How-to-configure-OpenVPN-for-flashed-DD-WRT-routers?fbclid=IwAR0_IicBlnNzVqlKh0mAHFyM6uvsGgBQooYfMyJ0bHgb13Eidn8KhXnd6Y0" target="_blank">CyberGhost official instruction</a>
-  </p>
-  <ol type="1">
-    <li>Login your CyberGhost VPN online account.</li>
-    <p>
-      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/cyberghost/cyberghost1.png" />
-    </p>
-    <li>Click on 'My Devices'  > click 'Other' > choose 'Configure new device'.</li>
-    <p>
-      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/cyberghost/cyberghost2.png" />
-    </p>
-    <li>At the new screen, in the 'Server configuration' tab, the desired parameters can be configured. For the purpose of setting OpenVPN for your DD-WRT Router, choose 'OpenVPN' from the Protocol drop down menu. Your desired country and server group, as described below, need to be defined too:</li>
-    <p>
-      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/cyberghost/cyberghost3.png" />
-    </p>
-    <ul>
-      <li>Protocol: For Router configurations, please choose OpenVPN</li>
-      <li>
-        Country: Since native protocol connections may only be used with exactly one server you now have to choose the country you want to surf from; the server to be used in this country will be chosen by CyberGhost automatically.
-      </li>
-      <li>Server group: Choose the server group and the OpenVPN protocol (UDP or TCP) you want to use:
-        <p>UDP allows higher speed than the TCP version, but can result in broken downloads in some cases. This is the default setting.</p>
-        <p>TCP allows more stable connections than the UDP version, but is a bit slower. Choose this version, if you have recurrent connection issues such as sudden disconnections.</p>
-      </li>
-    </ul>
-  <p>After setting up your preferred settings, save them with 'Save and download configuration'.</p>
-</ol>
-</details>
 
 <details>
 <summary>FastestVPN</summary>
@@ -454,25 +487,6 @@ Others:
 
 
 <details>
-<summary>OVPN</summary>
-  <p>
-    <a href="https://www.ovpn.com/en?ref=glinet" target="_blank">Office Website</a>
-  </p>
-  <p>
-    Just login, then you can easy get the OpenVPN configurations file by click the menu below.
-  </p>
-  <p>
-    <img class="glboxshadow" alt="get ovpn configuration files" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/ovpn/get_ovpn_configuration_files.jpg"/>
-  </p>
-  <p>Choose the server and download.</p>
-  <p>
-    <img class="glboxshadow" alt="download ovpn openvpn configuration files" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/ovpn/download_configuration_files.jpg"/>
-  </p>
-  <p>The username and password are the same you login OVPN.</p>
-</details>
-
-
-<details>
 <summary>Proxpn</summary>
   <p>
     <a href="https://secure.proxpn.com/?a_aid=5ac450e27df6f" target="_blank">Official Website</a>
@@ -494,24 +508,6 @@ Others:
   <p>
     <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/safervpn/safervpn1.png" />
   </p>
-</details>
-
-
-<details>
-<summary>StrongVPN</summary>
-  <p>
-    <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">Official Website</a>
-  </p>
-  <ol type="1">
-    <li>Login with your <a href="https://strongvpn.com/?tr_aid=5ac44bd241ca7" target="_blank">StrongVPN</a> account and then you will be able to see VPN Accounts Summary. Click Account Setup Instructions”.</li>
-    <p>
-      <img class="glboxshadow" alt="strongvpnsetup 1" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_01.jpg" />
-    </p>
-    <li>Find the Manual setup section, follow the steps to get configuration.</li>
-    <p>
-      <img class="glboxshadow" alt="ovpn manager" src="https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/strongvpn/strong_vpn_setup_02.jpg" />
-    </p>
-  </ol>
 </details>
 
 
