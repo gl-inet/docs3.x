@@ -338,7 +338,7 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 ??? "TRUST.ZONE"
     ### TRUST.ZONE
 
-    [Official Website](https://trust.zone/){target="_blank"}
+    [Official Website](https://trustzonevpn.info/join.php?user=U-HRfLr-MDAxNzE3NjgxMjM4){target="_blank"}
 
     1. Access [https://trust.zone/setup](https://trust.zone/setup) and login.
     
