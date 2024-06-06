@@ -392,7 +392,7 @@ Other recommended WireGuard provider:
 
 <details>
   <summary>TRUST.ZONE</summary>
-  <p><a href="https://trust.zone/" target="_blank">Official Website</a></p>
+  <p><a href="https://trustzonevpn.info/join.php?user=U-HRfLr-MDAxNzE3NjgxMjM4" target="_blank">Official Website</a></p>
   <ol type="1">
     <li>
       <p>Access <a href="https://trust.zone/setup">https://trust.zone/setup</a> and login</p>
