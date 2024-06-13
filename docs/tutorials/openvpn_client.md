@@ -471,7 +471,19 @@ If you have any problem in the setup of OpenVPN, please contact [support@glinet.
 
     [Refer link](https://www.ivpn.net/setup/gnu-linux-terminal.html)
 
+??? "OysterVPN"
+    ### OysterVPN
 
+    [Official Website](https://oystervpn.com/){target="_blank"}
+
+    1. Access [the OysterVPN server list page](https://support.oystervpn.com/server-list/){target="_blank"}, click **Download .ovpn file** to download the configuration file.
+
+        ![download oystervpn .ovpn file](https://static.gl-inet.com/docs/router/en/4/interface_guide/openvpn_client/oystervpn/download_ovpn_file.png){class="glboxshadow"}
+
+    2. The username and password for OpenVPN connection are the same as the one you use to login OysterVPN.
+
+    Tips: if the zip file is too big to upload, you can delete some .ovpn in .zip file or upload single .ovpn file.
+    
 ??? "PrivadoVPN"
     ### PrivadoVPN
 
