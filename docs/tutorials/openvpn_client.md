@@ -474,7 +474,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@glinet.
 ??? "OysterVPN"
     ### OysterVPN
 
-    [Official Website](https://oystervpn.com/){target="_blank"}
+    [Official Website](https://go.oystervpn.net?a_aid=glinet){target="_blank"}
 
     1. Access [the OysterVPN server list page](https://support.oystervpn.com/server-list/){target="_blank"}, click **Download .ovpn file** to download the configuration file.
 
