@@ -167,6 +167,18 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 </ol>
 </details>
 
+??? "OysterVPN"
+    ### OysterVPN
+
+    [公式ウェブサイト](https://go.oystervpn.net?a_aid=glinet){target="_blank"}
+
+    1. [OysterVPNサーバーリストページ](https://support.oystervpn.com/server-list/){target="_blank}にアクセスし、**Download .ovpn file**をクリックして設定ファイルをダウンロードします。
+
+        ![oystervpn .ovpnファイルをダウンロード](https://static.gl-inet.com/docs/router/en/4/interface_guide/openvpn_client/oystervpn/download_ovpn_file.png){class="glboxshadow"}
+
+    2. OpenVPN接続のためのユーザー名とパスワードは、OysterVPNにログインする際に使用するものと同じです。
+
+    ヒント: zipファイルが大きすぎてアップロードできない場合、.zipファイル内のいくつかの.ovpnファイルを削除するか、単一の.ovpnファイルをアップロードすることができます。
 
 <details>
 <summary>PrivateVPN</summary>
