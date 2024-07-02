@@ -433,7 +433,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@glinet.
 ??? "IPVANISH"
     ### IPVANISH
 
-    [Official Website](https://www.ipvanish.com/){target="_blank"}
+    [Official Website](https://affiliate.ipvanish.com/aff_c?offer_id=1&aff_id=3073){target="_blank"}
 
     - You can download all of the config files for all of the servers from [here](https://configs.ipvanish.com/configs/configs.zip), it contain all the server config file(.ovpn) and a certificate file(.crt). The .zip file maybe a little big for some models, please delete the configuration(.ovpn) of the server that you will not use.
 
