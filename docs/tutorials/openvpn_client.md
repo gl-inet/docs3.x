@@ -445,7 +445,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 <details>
 <summary>IPVANISH</summary>
   <p>
-    <a href="https://www.ipvanish.com/" target="_blank">Official Website</a>
+    <a href="https://affiliate.ipvanish.com/aff_c?offer_id=1&aff_id=3073" target="_blank">Official Website</a>
   </p>
   <p>
     You can download all of the config files for all of the servers from <a href="https://www.ipvanish.com/software/configs/configs.zip">here</a>, then should upload this <strong>config.zip</strong> on the OpenVPN Client of web Admin Panel. Before uploading, please remove the servers in the .zip file that you will not use to reduce the file size.
