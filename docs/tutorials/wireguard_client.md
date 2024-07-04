@@ -106,44 +106,14 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     3. You can also use [mobile app](mobile_app.md) to setup Mullvad.
 
-??? "AirVPN"
-    ### AirVPN
+??? "PIA (Private Internet Access)"
+    ### PIA (Private Internet Access)
 
-    [Official Website](https://airvpn.org/?referred_by=402389){target="_blank"}
+    [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
 
-    1. If you are using [AirVPN](https://airvpn.org/?referred_by=402389){target="_blank"}, sign in to their website, go to the [Client Area](https://airvpn.org/client/){target="_blank"}, click the [Config Generator](https://airvpn.org/generator/){target="_blank"}
+    It can't downlaod the WireGuard configs from its website, please use [mobile app](mobile_app.md) to setup PIA VPN.
 
-        ![airvpn configuration generator](https://static.gl-inet.com/docs/router/en/4/tutorials/wireguard_client/airvpn/airvpn_config_generator.png){class="glboxshadow" width="400"}
-
-    2. At the Config Generator page, select WireGuard at the Protocols sector.
-
-        ![airvpn protocols](https://static.gl-inet.com/docs/router/en/4/tutorials/wireguard_client/airvpn/airvpn_protocols.png){class="glboxshadow" width="600"}
-
-    3. Select a server, then scroll down to the end, click **Generate** button. It will download the configuration file.
-
-        ![airvpn select server](https://static.gl-inet.com/docs/router/en/4/tutorials/wireguard_client/airvpn/airvpn_select_server.png){class="glboxshadow" width="600"}
-
-    4. Then follow the [guide](#setup-wireguard-client) to continue.
-
-??? "ANONINE"
-    ### ANONINE
-
-    [Official Website](https://anonine.com/){target="_blank"}
-
-    Follow the guide below to generate WireGuard configs.
-
-    [Windows](https://help.anonine.com/support/solutions/articles/5000817193-anonine-wireguard-installation-guide-for-windows-10){target="_blank"}, [macOS](https://help.anonine.com/support/solutions/articles/5000817206-anonine-wireguard-installation-guide-for-macos){target="_blank"}, [Ubuntu](https://help.anonine.com/support/solutions/articles/5000817191--anonine-wireguard-installation-guide-for-ubuntu-18-04){target="_blank"}, [Android](https://help.anonine.com/support/solutions/articles/5000817310--anonine-wireguard-installation-for-android){target="_blank"}, [iOS](https://help.anonine.com/support/solutions/articles/5000823286--anonine-wireguard-installation-for-ios){target="_blank"}
-
-    Then follow the [guide](#setup-wireguard-client) to continue.
-
-??? "Astrill"
-    ### Astrill
-
-    [Official Website](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}
-
-    If you are using [Astrill](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}, please log in then access [this page](https://www.astrill.com/member-zone/tools/wireguard-configuration){target="_blank"} to generate WireGuard configurations.
-
-    Then follow the [guide](#setup-wireguard-client) to continue.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Fc7NTdQ9QFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ??? "Hide.me VPN"
     ### Hide.me VPN
@@ -166,25 +136,67 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link](https://github.com/eventure/hide.client.routers){target="_blank"}
 
-??? "IVPN"
-    ### IVPN
+??? "Proton VPN"
+    ### Proton VPN
 
-    [Official Website](https://www.ivpn.net/){target="_blank"}
+    [Official Website](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}
 
-    If you are using [IVPN](https://www.ivpn.net/){target="_blank"}, you need to generate the WireGuard config manually. Follow the guide base on your OS.
-
-    [Windows](https://www.ivpn.net/setup/windows-10-wireguard/){target="_blank"}, [macOS](https://www.ivpn.net/setup/macos-wireguard/){target="_blank"}, [Linux](https://www.ivpn.net/setup/linux-wireguard/){target="_blank"}
+    If you are using [Proton VPN](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}, please follow the guide [here](https://protonvpn.com/support/wireguard-configurations/){target="_blank"} to generate the WireGuard configuration file.
 
     Then follow the [guide](#setup-wireguard-client) to continue.
 
-??? "NVPN"
-    ### NVPN
+??? "Windscribe"
+    ### Windscribe
 
-    [Official Website](https://www.nvpn.net/){target="_blank"}
+    [Official Website](https://windscribe.com/yo/1u2h9ndl){target="_blank"}
 
-    Follow the guide [here](https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows){target="_blank"} to create the config.
+    Login then access the [WireGuard Config Generator](https://windscribe.com/getconfig/wireguard){target="_blank"}. Select location and port you'd like to use, then click Download Config.
+
+    ![windscribe WireGuard Config Generator](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/windscribe/windscribe_01.jpg){class="glboxshadow"}
 
     Then follow the [guide](#setup-wireguard-client) to continue.
+
+??? "Surfshark"
+    ### Surfshark
+
+    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
+
+    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGuard**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_1.png){class="glboxshadow"}
+
+    2. In the next window, select **I don't have a key pair**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_2.png){class="glboxshadow"}
+
+    3. Select **Generate a new key pair**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_3.png){class="glboxshadow"}
+
+    4. Once the key has been generatd, select **Choose a location**.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_4.png){class="glboxshadow"}
+
+    5. Lastly, choose a location you would like to set up, and hit the **download** button next to the location.
+
+        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_5.png){class="glboxshadow"}
+
+    [Refer link](https://support.surfshark.com/hc/en-us/articles/6585805139474-How-to-set-up-a-manual-WireGuard-connection-on-Android-){target="_blank"}
+
+??? "StrongVPN"
+    ### StrongVPN
+
+    [Official Website](https://strongvpn.com/?tr_aid=5ac44bd241ca7){target="_blank"}
+
+    1. If you are using [StrongVPN](https://strongvpn.com/?tr_aid=5ac44bd241ca7){target="_blank"}, sign in at [https://wg.strongvpn.com](https://wg.strongvpn.com){target="_blank"}
+    
+    2. Select a location from the drop down menu, click **GENERATE**, open the downloaded text file.
+    
+        ![strongvpn wireguard configuration generator](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/strongvpn/strongvpn_wireguard_configuration_generator.png){class="glboxshadow"}
+    
+    3. Then follow the [guide](#setup-wireguard-client) to continue.
+
+    4. You can also use [mobile app](mobile_app.md) to setup StrongVPN.
 
 ??? "OVPN"
     ### OVPN
@@ -209,23 +221,14 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     5. You can also use [mobile app](mobile_app.md) to setup OVPN.
 
-??? "PIA (Private Internet Access)"
-    ### PIA (Private Internet Access)
+??? "PureVPN"
+    ### PureVPN
 
-    [Official Website](https://privateinternetaccess.com/offer/GLiNET_71dx4t8bl){target="_blank"}
+    [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
 
-    It can't downlaod the WireGuard configs from its website, please use [mobile app](mobile_app.md) to setup PIA VPN.
+    Please follow the guide [here](https://support.purevpn.com/setup-wireguard-on-linux){target="_blank"} to get the WireGuard configuration file.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Fc7NTdQ9QFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-??? "Proton VPN"
-    ### Proton VPN
-
-    [Official Website](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}
-
-    If you are using [Proton VPN](https://go.getproton.me/aff_c?offer_id=26&aff_id=1612){target="_blank"}, please follow the guide [here](https://protonvpn.com/support/wireguard-configurations/){target="_blank"} to generate the WireGuard configuration file.
-
-    Then follow the [guide](#setup-wireguard-client) to continue.
+    **Note**: Please make sure to copy the file and activate the connection within 30 minutes once the profile is downloaded, otherwise the configuration will expire and you will have to redownload a fresh configuration file.
 
 ??? "PrivateVPN"
     ### PrivateVPN
@@ -246,14 +249,53 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     4. Then follow the [guide](#setup-wireguard-client) to continue.
 
-??? "PureVPN"
-    ### PureVPN
+??? "AirVPN"
+    ### AirVPN
 
-    [Official Website](https://billing.purevpn.com/aff.php?aff=35535){target="_blank"}
+    [Official Website](https://airvpn.org/?referred_by=402389){target="_blank"}
 
-    Please follow the guide [here](https://support.purevpn.com/setup-wireguard-on-linux){target="_blank"} to get the WireGuard configuration file.
+    1. If you are using [AirVPN](https://airvpn.org/?referred_by=402389){target="_blank"}, sign in to their website, go to the [Client Area](https://airvpn.org/client/){target="_blank"}, click the [Config Generator](https://airvpn.org/generator/){target="_blank"}
 
-    **Note**: Please make sure to copy the file and activate the connection within 30 minutes once the profile is downloaded, otherwise the configuration will expire and you will have to redownload a fresh configuration file.
+        ![airvpn configuration generator](https://static.gl-inet.com/docs/router/en/4/tutorials/wireguard_client/airvpn/airvpn_config_generator.png){class="glboxshadow" width="400"}
+
+    2. At the Config Generator page, select WireGuard at the Protocols sector.
+
+        ![airvpn protocols](https://static.gl-inet.com/docs/router/en/4/tutorials/wireguard_client/airvpn/airvpn_protocols.png){class="glboxshadow" width="600"}
+
+    3. Select a server, then scroll down to the end, click **Generate** button. It will download the configuration file.
+
+        ![airvpn select server](https://static.gl-inet.com/docs/router/en/4/tutorials/wireguard_client/airvpn/airvpn_select_server.png){class="glboxshadow" width="600"}
+
+    4. Then follow the [guide](#setup-wireguard-client) to continue.
+
+??? "Astrill"
+    ### Astrill
+
+    [Official Website](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}
+
+    If you are using [Astrill](https://www.astrill.com/a/dik2masnw6ig){target="_blank"}, please log in then access [this page](https://www.astrill.com/member-zone/tools/wireguard-configuration){target="_blank"} to generate WireGuard configurations.
+
+    Then follow the [guide](#setup-wireguard-client) to continue.
+
+??? "IVPN"
+    ### IVPN
+
+    [Official Website](https://www.ivpn.net/){target="_blank"}
+
+    If you are using [IVPN](https://www.ivpn.net/){target="_blank"}, you need to generate the WireGuard config manually. Follow the guide base on your OS.
+
+    [Windows](https://www.ivpn.net/setup/windows-10-wireguard/){target="_blank"}, [macOS](https://www.ivpn.net/setup/macos-wireguard/){target="_blank"}, [Linux](https://www.ivpn.net/setup/linux-wireguard/){target="_blank"}
+
+    Then follow the [guide](#setup-wireguard-client) to continue.
+
+??? "NVPN"
+    ### NVPN
+
+    [Official Website](https://www.nvpn.net/){target="_blank"}
+
+    Follow the guide [here](https://support.nvpn.net/Knowledgebase/Article/View/428/0/how-to-use-our-wireguard#windows){target="_blank"} to create the config.
+
+    Then follow the [guide](#setup-wireguard-client) to continue.
 
 ??? "SpiderVPN"
     ### SpiderVPN
@@ -293,52 +335,10 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 
     [Refer link](https://www.starvpn.com/wireguard-setup-on-gl-inet-router/){target="_blank"}
 
-??? "StrongVPN"
-    ### StrongVPN
-
-    [Official Website](https://strongvpn.com/?tr_aid=5ac44bd241ca7){target="_blank"}
-
-    1. If you are using [StrongVPN](https://strongvpn.com/?tr_aid=5ac44bd241ca7){target="_blank"}, sign in at [https://wg.strongvpn.com](https://wg.strongvpn.com){target="_blank"}
-    
-    2. Select a location from the drop down menu, click **GENERATE**, open the downloaded text file.
-    
-        ![strongvpn wireguard configuration generator](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/strongvpn/strongvpn_wireguard_configuration_generator.png){class="glboxshadow"}
-    
-    3. Then follow the [guide](#setup-wireguard-client) to continue.
-
-    4. You can also use [mobile app](mobile_app.md) to setup StrongVPN.
-
-??? "Surfshark"
-    ### Surfshark
-
-    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
-
-    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGuard**.
-
-        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_1.png){class="glboxshadow"}
-
-    2. In the next window, select **I don't have a key pair**.
-
-        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_2.png){class="glboxshadow"}
-
-    3. Select **Generate a new key pair**.
-
-        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_3.png){class="glboxshadow"}
-
-    4. Once the key has been generatd, select **Choose a location**.
-
-        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_4.png){class="glboxshadow"}
-
-    5. Lastly, choose a location you would like to set up, and hit the **download** button next to the location.
-
-        ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_5.png){class="glboxshadow"}
-
-    [Refer link](https://support.surfshark.com/hc/en-us/articles/6585805139474-How-to-set-up-a-manual-WireGuard-connection-on-Android-){target="_blank"}
-
 ??? "TRUST.ZONE"
     ### TRUST.ZONE
 
-    [Official Website](https://trust.zone/){target="_blank"}
+    [Official Website](https://trustzonevpn.info/r.php?RID=B-byr1v-MDAxNzE3NjgxMjM4){target="_blank"}
 
     1. Access [https://trust.zone/setup](https://trust.zone/setup) and login.
     
@@ -399,17 +399,6 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
     [Refer link 1](https://www.vpnunlimited.com/help/manuals/wireguard-setup-on-glinet-router){target="_blank"}
 
     [Refer link 2](https://www.vpnunlimited.com/help/manuals/wireguard/windows){target="_blank"}
-
-??? "Windscribe"
-    ### Windscribe
-
-    [Official Website](https://windscribe.com/yo/1u2h9ndl){target="_blank"}
-
-    Login then access the [WireGuard Config Generator](https://windscribe.com/getconfig/wireguard){target="_blank"}. Select location and port you'd like to use, then click Download Config.
-
-    ![windscribe WireGuard Config Generator](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/windscribe/windscribe_01.jpg){class="glboxshadow"}
-
-    Then follow the [guide](#setup-wireguard-client) to continue.
     
 ??? "12VPX"
     ### 12VPX
