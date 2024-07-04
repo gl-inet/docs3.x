@@ -144,13 +144,15 @@ You can also refer to video tutorial below.
 
     ![Uboot web ui](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/uboot_ui.png){class="glboxshadow" width="700"}
 
-    **Note:** The Uboot Web UI above may not be exactly the same as what you see, because the Uboot version is different for different production dates. In some cases, we recommend upgrading the Uboot version. Please refer to the tutorial below.
+    **Note:** The Uboot Web UI above may not be exactly the same as what you see, because the Uboot version is different for different production dates. In some extreme cases, we recommend upgrading the Uboot version. Please refer to the tutorial below.
 
     ??? "Upgrade the Uboot version"
 
-        Some Uboot versions are too old or its Web UI is not easy for users to understand, so we recommend upgrading the Uboot version.
+        Upgrading uboot is very danerous and may brick your router. Only do this when it is necessary or being instructed.
 
-        For example, the following figure shows the Web UI of the old Uboot version of GL-AR750S. It has two **Choose file** buttons, which can be confusing for users.
+        Mark sure you are using the correct **uboot file** 
+        
+        Following figure shows the Web UI of the old Uboot version of GL-AR750S. It has two **Choose file** buttons, which can be confusing for users.
 
         ![gl-ar750s old Uboot version](https://static.gl-inet.com/docs/router/en/4/tutorials/debrick/gl-ar750s_firmware_update_page_of_old_uboot_version.png){class="glboxshadow" width="700"}
 
