@@ -36,9 +36,9 @@ theme:
 
 # Customization
 extra:
-  analytics:
-    provider: google
-    property: G-CB08JFHVHT
+  # analytics:
+  #   provider: google
+  #   property: G-34T6Q5NL0V
   social:
     - icon: fontawesome/solid/globe
       link: https://www.gl-inet.com
