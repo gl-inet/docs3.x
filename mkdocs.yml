@@ -8,7 +8,7 @@ site_description: Documentation for GL.iNet Router Productions
 site_author: GL.iNet
 site_url: https://docs.gl-inet.com/router/en/3/
 site_dir: /root/docs-build/router/en/3/
-copyright: Copyright &copy; 2024 GL Technologies & Microuter Technologies
+copyright: Copyright &copy; 2025 GL Technologies & Microuter Technologies
 
 theme: 
   name: material
