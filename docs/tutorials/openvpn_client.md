@@ -231,7 +231,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@gl-inet
 <details>
 <summary>Surfshark</summary>
   <p>
-    <a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400" target="_blank">Official Website</a>
+    <a href="https://get.surfshark.net/aff_c?offer_id926&aff_id=1400" target="_blank">Official Website</a>
   </p>
   <p>
     Login and <a href="https://api.surfshark.com/v1/server/configurations">Download</a> directly, or read this <a href="https://support.surfshark.com/hc/en-us/articles/360011856259-How-to-set-up-Surfshark-on-GL-iNet-router-3-x-firmware-" target="_blank">guide</a>.
