@@ -226,13 +226,13 @@ If you have any problem in the setup of OpenVPN, please contact [support@glinet.
 ??? "Surfshark"
     ### Surfshark
 
-    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
+    [Official Website](https://get.surfshark.net/aff_c?offer_id=926&aff_id=1400){target="_blank"}
 
     1. **Find your login details**
 
         Surfshark service credentials are different from your Surfshark account credentials, namely your email address and your password. You'll need Surfshark service credentials to connect to the VPN using the manual OpenVPN configuration method in the router.
 
-        Login the [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, go to [this page](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"}, where you will find all of the details required for a manual connection.
+        Login the [Official Website](https://get.surfshark.net/aff_c?offer_id=926&aff_id=1400){target="_blank"}, go to [this page](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"}, where you will find all of the details required for a manual connection.
 
         ![surfshark service credential](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/surfshark/surfshark_service_credential.png){class="glboxshadow"}
 

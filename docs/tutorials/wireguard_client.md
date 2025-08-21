@@ -159,9 +159,9 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
 ??? "Surfshark"
     ### Surfshark
 
-    [Official Website](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}
+    [Official Website](https://get.surfshark.net/aff_c?offer_id=926&aff_id=1400){target="_blank"}
 
-    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGuard**.
+    1. If you are using [Surfshark](https://get.surfshark.net/aff_c?offer_id=926&aff_id=1400){target="_blank"}, login then go to [this](https://my.surfshark.com/vpn/manual-setup/router){target="_blank"} page, click on **Router**, and select **WireGuard**.
 
         ![surfshark wireguard manual setup](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/surfshark/surfshark_wireguard_manual_setup_1.png){class="glboxshadow"}
 
