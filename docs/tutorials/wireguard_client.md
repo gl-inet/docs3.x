@@ -1,24 +1,28 @@
-# Setup WireGuard on GL.iNet router
+# Set up WireGuard on GL.iNet router
 
-WireGuard® is an extremely simple yet fast and modern VPN that utilizes **state-of-the-art cryptography**. It aims to be [faster](https://www.wireguard.com/performance/){target="_blank"}, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. 
+WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN.
 
-GL.iNet routers have pre-installed WireGuard Client and Server.
-
-If you have already bought WireGuard service from a provider, but you don't know how to get the configuration files, please refer to [get configuration files from WireGuard service providers](#get-configuration-files-from-wireguard-service-providers) or ask its support.
-
-You can setup WireGuard Client via web Admin Panel and [mobile app](mobile_app.md). For the mobile app, it has already integrated some WireGuard Service Providers, they are AzireVPN, Mullvad VPN, OVPN, StrongVPN, PIA VPN, SpiderVPN.
-
-For setup via web Admin Panel, please follow the guide below.
+GL.iNet routers have pre-installed WireGuard Server and Client. You can set a GL.iNet router as an WireGuard server or client and establish VPN connection.
 
 ---
 
-## Setup AzireVPN
+Before you start, ensure you have an active subscription with a VPN service provider that supports WireGuard manual configuration. Click [here](https://www.gl-inet.com/solutions/vpn/){target="_blank"} to check the WireGuard providers compatible with GL.iNet.
+
+Generally, you need to visit the official website of the VPN service provider you subscribed first, obtain the configuration file, and upload it to the router to set it as a WireGuard client. If you don't know how to get the configuration file, refer to [here]((#get-configuration-files-from-wireguard-service-providers)) or contact their support.
+
+You can set up a WireGuard client via the web Admin Panel or mobile app. Both have integrated some WireGuard Service Providers for easy setup, such as AzireVPN and Mullvad.
+
+Below are steps to set up via the web admin panel.
+
+---
+
+## Set up AzireVPN
 
 [AzireVPN](https://www.azirevpn.com/aff/9x7wisg4){target="_blank"} is privacy-minded VPN service providing secure, modern and robust tunnels such as WireGuard.
 
 Firmware 3.x has integrated AzireVPN WireGuard service.
 
-1. Click **Now set up**.
+1. Log in to the web Admin Panel and navigate to VPN -> WireGuard Client. Select **azirevpn** then click **Now set up**.
 
     ![wireguard client azirevpn set up](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/azirevpn/wireguard_client_azirevpn_now_set_up.png){class="glboxshadow" width="700"}
 
@@ -28,9 +32,9 @@ Firmware 3.x has integrated AzireVPN WireGuard service.
 
     It will take several minutes to get configs, please be patient.
 
-## Setup Mullvad
+## Set up Mullvad
 
-1. Select as **mullvad** then click **Now set up**.
+1. Log in to the web Admin Panel and navigate to VPN -> WireGuard Client. Select **mullvad** then click **Now set up**.
 
     ![wireguard client mullvad vpn set up](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/mullvadvpn/wireguard_client_mullvadvpn_now_set_up.png){class="glboxshadow" width="700"}
 
@@ -40,11 +44,11 @@ Firmware 3.x has integrated AzireVPN WireGuard service.
 
     It will take a little longer, please be patient.
 
-## Setup WireGuard Client
+## Set Up WireGuard Client Manually (for other providers)
 
-There is a video tutorial, please check out [here](#video-tutorial).
+Check a video tutorial [here](#video-tutorial), or follow the steps below.
 
-1. Please click **+ Set up WireGuard Manually**.
+1. Log in to the web Admin Panel and navigate to VPN -> WireGuard Client. Click **Set up WireGuard Manually**.
 
     ![setup wireguard manually](https://static.gl-inet.com/docs/router/en/3/tutorials/wireguard_client/setup_wireguard_manually.png){class="glboxshadow"}
 
@@ -72,7 +76,7 @@ There is a video tutorial, please check out [here](#video-tutorial).
 
 **Note:** It can't running VPN Client and Server at the same time, and also can't running OpenVPN Client and WireGuard Client at the same time.
 
-## Setup WireGuard server on GL.iNet router
+## Set up WireGuard server on GL.iNet router
 
 You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet router to set as WireGuard client. For setup WireGuard server, please check out [here](wireguard_server.md).
 
@@ -408,8 +412,6 @@ You can get a GL.iNet router to set as WireGuard server, and get another GL.iNet
     If you are using [12VPX](https://12vpx.com/?aff=1174){target="_blank"}, login then access [this page](https://12vpx.com/setup/wireguard){target="_blank"}, you will see the configs of all servers.
 
     Then follow the [guide](#setup-wireguard-client) to continue.
-
-Suggest a WireGuard provider? Please contact [support@glinet.biz](mailto:support@glinet.biz)
 
 ## Video Tutorial
 

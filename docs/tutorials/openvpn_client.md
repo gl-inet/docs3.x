@@ -1,28 +1,28 @@
-# How to Setup OpenVPN Client on GL.iNet router
+# How to set up OpenVPN Client on GL.iNet router
 
-OpenVPN is an open-source VPN protocol that makes use of virtual private network (VPN) techniques to establish safe site-to-site or point-to-point connections. 
+OpenVPN is an open-source VPN protocol that uses virtual private network (VPN) techniques to establish secure site-to-site or point-to-point connections. 
 
-GL.iNet routers have pre-installed OpenVPN Client and Server.
+GL.iNet routers have pre-installed OpenVPN Server and Client. You can set a GL.iNet router as an OpenVPN server or client and establish VPN connection.
 
-We recommend WireGuard over OpenVPN because it is much faster. For setup a WireGuard Client, please check out [here](wireguard_client.md).
+We recommend WireGuard over OpenVPN because it is much faster. For setting up a WireGuard client, please check [here](wireguard_client.md).
 
-If you have already bought OpenVPN service from a provider, but don't know how to get the configuration file, please refer to [get configuration files from OpenVPN service providers](#get-configuration-files-from-openvpn-service-providers) or ask its support.
+---
 
-We can setup OpenVPN Client via web Admin Panel and [mobile app](mobile_app.md). For the mobile app, it has already integrated NordVPN.
+Before you start, ensure you have an active subscription with a VPN service provider that supports OpenVPN manual configuration. Click [here](https://www.gl-inet.com/solutions/vpn/){target="_blank"} to check the OpenVPN providers compatible with GL.iNet.
 
-## Setup OpenVPN Client
+Generally, you need to visit the official website of the VPN service provider you subscribed first, obtain the configuration file, and upload it to the router to set it as an OpenVPN client. If you don't know how to get the configuration file, refer to [here](#get-configuration-files-from-openvpn-service-providers) or contact their support.
 
-There is a video tutorial as ExpressVPN as example, please check out [here](#video-tutorial).
+You can set up an OpenVPN client via the web admin panel or mobile app. Below are steps to set up via the web admin panel.
 
-OpenVPN client requires OpenVPN configuration file (.ovpn) to create the OpenVPN connection.
+## Set up OpenVPN Client
 
-1. Access to web Admin Panel, on the left side -> VPN -> OpenVPN Client
+1. Log in to web Admin Panel and navigate to VPN -> OpenVPN Client.
 
 2. Click **Add a New OpenVPN Configuration**.
 
     ![add a new openvpn configuration](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/add_a_new_openvpn_configuration.png){class="glboxshadow"}
 
-3. Upload your OpenVPN configuration file
+3. Upload your OpenVPN configuration file.
 
     Simply drag and drop your file to the pop up windows. It can be a single .ovpn file or a zip/tar.gz file which contains multiple .ovpn files.
 
@@ -56,7 +56,7 @@ Click **Management** to check the list of configuration files. You can modify th
 
 ![edit openvpn config](https://static.gl-inet.com/docs/router/en/3/tutorials/openvpn_client/edit_openvpn_config.png){class="glboxshadow"}
 
-## Setup OpenVPN server on GL.iNet router
+## Set up OpenVPN server on GL.iNet router
 
 You can get a GL.iNet router to set as OpenVPN server, and get another GL.iNet router to set as OpenVPN client. For setup OpenVPN server, please check out [here](openvpn_server.md).
 
@@ -610,7 +610,7 @@ If you have any problem in the setup of OpenVPN, please contact [support@glinet.
 
 ## Video tutorial
 
-These video tutorial as ExpressVPN as example to setup OpenVPN Client.
+This video tutorial takes ExpressVPN as example to set up OpenVPN Client.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oSTA9-bBUIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
