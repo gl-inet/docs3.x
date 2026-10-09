@@ -82,6 +82,7 @@ extra_javascript:
   # - javascripts/photoswipe-ui-default.min.js
   - javascripts/extra.js
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
   - pymdownx.superfences
