@@ -1,8 +1,16 @@
 # Set a Captive Portal
 
+!!! warning "Discontinued Feature — Not Available in Firmware 4.x"
+
+    GL.iNet has discontinued its built-in Captive Portal feature. This feature was available in certain firmware 3.x versions but is **not included in firmware 4.x**, and there are currently no plans to reintroduce it.
+
+    The instructions below are retained for reference by users running older, compatible firmware versions. They do not apply to firmware 4.x.
+
+    Users who require captive portal functionality may explore third-party OpenWrt packages, such as those described in the [OpenWrt Captive Portal documentation](https://openwrt.org/docs/guide-user/services/captive-portal/start). However, compatibility with GL.iNet firmware and individual router models is not guaranteed, and these solutions are not equivalent to the discontinued built-in feature.
+
 A captive portal is a web page accessed with a web browser that is displayed to newly connected users of a Wi-Fi network before they are granted broader access to network resources.
 
-Captive portal feature need firmware version is equal or greater than v3.022, please visit [this](https://dl.gl-inet.com){target="_blank"} to download latest firmware and upgrade.
+The built-in Captive Portal feature was introduced in firmware v3.022 and is available only on supported devices running compatible firmware 3.x versions. It is not available in firmware 4.x.
 
 ## 1. Turn on Captive Portal
 
